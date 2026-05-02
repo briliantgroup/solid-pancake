@@ -3,13 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://43488128-319e-f480-64ea-0acdc712e2a8@51.159.99.137:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=3mzvB6oezGe8hhBCVkXs4HIH1nkiPc3QCMurERaB_Ro&sid=b87063a35aaa942e&sni=www.cdiscount.com#🇫🇷 France | ONLINE 2
-trojan://humanity@8.6.112.0:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#🇫🇷 France | ONLINE 5
-trojan://humanity@104.20.6.134:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#🇫🇷 France | ONLINE 1
-trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#🇫🇷 France | ONLINE 3
-trojan://humanity@104.17.150.76:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#🇫🇷 France | ONLINE 4
-trojan://humanity@sourceforge.net:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&allowInsecure=0#🇫🇷 France | ONLINE 6
-vless://c6a3379b-5301-45c1-9b3b-af63b21e3511@51.250.13.3:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=UEKLXjQmUAh_6hhHqB4fmCo68a15hC18hgRCWbzr3UE&sid=27e53bbcab7593d7&spx=%2F#🇫🇷 France | OVH 1
-vless://d9bc66bc-77ce-466a-ad6e-da63a21bffda@51.250.13.3:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=UEKLXjQmUAh_6hhHqB4fmCo68a15hC18hgRCWbzr3UE&sid=27e53bbcab7593d7&spx=%2F#🇫🇷 France | OVH 3
-vless://2acb68f3-79e0-413b-9aa7-a944a15929d6@51.250.13.3:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=UEKLXjQmUAh_6hhHqB4fmCo68a15hC18hgRCWbzr3UE&sid=27e53bbcab7593d7&spx=%2F#🇫🇷 France | OVH 2
+hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com#🇫🇷 France | ONLINE 1
+vless://15cbab96-197e-46a5-9042-073b3980c798@fsdns.ectunnelvpn.me:80?encryption=none&host=fsdns.ectunnelvpn.me&path=%2Fvless&security=none&type=ws#🇫🇷 France | Contabo 1
+vless://51da283b-dd33-42b6-a45a-31ebc4e50397@147.45.42.25:443?security=reality&encryption=none&pbk=Qio3_gPk3_4nWl11siHM7moWmgQru1f1xceXwcwzcDw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=7791e189a518d69e#🇫🇷 France | Aeza 1
+vless://1235d730-707c-4a11-8ce3-ebb17561564b@45.12.133.207:443?type=raw&security=reality&fp=chrome&pbk=0T96I8dvAUF7BxhbwTp0PfFfy9AHFDsXXpwDnP0i224&sid=4dd1&sni=yahoo.com#🇫🇷 France | WorkTitans B.V 1
 vless://2bfea3fd-6826-480c-917d-e3bc99b47a0f@193.233.133.55:443?type=tcp&security=reality&fp=chrome&pbk=13qS12jjsHCQpQfL3tEL2nHltgoTp1i-8kVcJ6odrEQ&sid=6635&sni=yahoo.com#🇫🇷 France | xorek.cloud International LT... 1
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇫🇷 France | OVH 1
