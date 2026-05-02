@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&sid=c906f73d3ba8211f&sni=www.leboncoin.fr#🇫🇷 France | OVH 1
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn#🇫🇷 France | ONLINE 4
+vless://43488128-319e-f480-64ea-0acdc712e2a8@51.159.99.137:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=3mzvB6oezGe8hhBCVkXs4HIH1nkiPc3QCMurERaB_Ro&sid=b87063a35aaa942e&sni=www.cdiscount.com#🇫🇷 France | ONLINE 3
+vless://b11c8d06-96bf-41b3-908d-8663f919e399@fr-qp.api.dznn.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fr-qp.api.dznn.net&fp=chrome&security=reality&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8&packetEncoding=xudp#🇫🇷 France | Ibcs 1
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@185.171.202.38:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=fr.denditop.site#🇫🇷 France | Dyjix 1
+trojan://humanity@8.6.112.0:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#🇫🇷 France | ONLINE 2
+vless://5570943f-6cc3-4a8a-bee3-d15a2b2f53a0@web.37-z.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.37-z.ru#🇫🇷 France | Aeza 1
+trojan://8r%3C%5B9%27l6hAO%238ZQi@161.97.183.222:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#🇫🇷 France | Contabo 1
 hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com#🇫🇷 France | ONLINE 1
-vless://b53b1850-d29e-48e5-996c-226f6741e69c@104.252.111.148:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=X7okY4_-lhIybXtijFD3gIqOptNtn9LWYo6gXrJlUEU&sid=7362a464388e46a4&spx=%2F#🇫🇷 France | EGIHosting 1
