@@ -56,13 +56,13 @@ CFG = {
     "timeout": 3,
     "tcp_timeout": 2.0,
     "tcp_workers": 300,
-    "workers": 10,
+    "workers": 50,
     "batch_size": 50,
     "max_internal": 50,
-    "warmup_ms": 600,
+    "warmup_ms": 500,
     "max_ping_ms": 0,
-    "startup_timeout": 5.0,
-    "kill_delay": 0.05,
+    "startup_timeout": 3.0,
+    "kill_delay": 0.02,
 }
 
 # ─── Allowed SS ciphers ───────────────────────────────────────────────────────
@@ -789,8 +789,8 @@ def check_one(uri: str, socks_port: int, test_url: str) -> dict | None:
         if not wait_for_port(socks_port, max_wait):
             return None
 
-        # Прогрев после открытия порта (MK: time.sleep(1.0))
-        time.sleep(1.0)
+        # Прогрев после открытия порта
+        time.sleep(CFG["warmup_ms"] / 1000)
 
         if proc.poll() is not None:
             return None
@@ -808,7 +808,7 @@ def check_one(uri: str, socks_port: int, test_url: str) -> dict | None:
         if CFG["max_ping_ms"] and ms > CFG["max_ping_ms"]:
             return None
 
-        exit_ip = get_exit_ip(socks_port, timeout=5)
+        exit_ip = get_exit_ip(socks_port, timeout=3)
         result = {"uri": uri, "latency": ms, "exit_ip": exit_ip}
 
     except Exception:
