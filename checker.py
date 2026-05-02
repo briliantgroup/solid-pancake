@@ -1086,16 +1086,23 @@ def self_test():
         ok = False
 
     # 2. requests SOCKS5 support
+    # Правильный тест: socks5:// передаём через proxies=, а НЕ как URL
     try:
         import requests as _req
 
-        _req.get("socks5://127.0.0.1:1", timeout=0.01)
-    except _req.exceptions.ConnectionError:
-        print("  [OK] requests SOCKS5 support works")
+        _req.get(
+            "http://1.1.1.1/",
+            proxies={"http": "socks5://127.0.0.1:1", "https": "socks5://127.0.0.1:1"},
+            timeout=0.5,
+        )
     except _req.exceptions.InvalidSchema:
-        print("  [FAIL] requests cannot handle socks5:// — install PySocks")
+        # socks5:// не распознан — PySocks не работает
+        print(
+            "  [FAIL] requests cannot handle socks5:// proxies \u2014 pip install PySocks"
+        )
         ok = False
     except Exception:
+        # ConnectionError, ProxyError и т.д. — значит SOCKS5 разобрался
         print("  [OK] requests SOCKS5 support works")
 
     # 3. Mihomo binary
