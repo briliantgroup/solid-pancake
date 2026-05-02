@@ -1,0 +1,7 @@
+#profile-update-interval: 3
+#profile-title: encode:BobiVPN 🇦🇹 Austria
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#support-url: https://github.com/
+#profile-web-page-url: https://github.com/
+vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&sni=chat.deepseek.com&path=&host=#🇦🇹 Austria | ANX 1
+vless://b11c8d06-96bf-c350-908d-8663f919e399@at.ws.dznn.net:443/?type=ws&encryption=none&flow=&host=at.ws.dznn.net&path=%2Fupload%2Fsession&security=tls&sni=at.ws.dznn.net&fp=chrome&packetEncoding=xudp#🇦🇹 Austria | Alpenhost e.U 1

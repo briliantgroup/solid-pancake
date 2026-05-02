@@ -1,0 +1,11 @@
+#profile-update-interval: 3
+#profile-title: encode:BobiVPN 🇨🇿 Czechia
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#support-url: https://github.com/
+#profile-web-page-url: https://github.com/
+vless://43488128-319e-f480-64ea-0acdc712e2a8@86.54.82.239:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=xzCEjrybgdtiyOYNKgEAEWzHjvsE2Pkj198_Ch1gZ2U&sid=41427aa565e28984&sni=store.steampowered.com#🇨🇿 Czechia | Oneprovider.com 1
+vless://5570943f-6cc3-4a8a-bee3-d15a2b2f53a0@web.mayluck.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.mayluck.ru#🇨🇿 Czechia | SoftBank Corp 1
+vless://5570943f-6cc3-4a8a-bee3-d15a2b2f53a0@web.sapochi.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.sapochi.ru#🇨🇿 Czechia | SoftBank Corp 2
+vless://5570943f-6cc3-4a8a-bee3-d15a2b2f53a0@web.mimamo.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.mimamo.ru#🇨🇿 Czechia | SoftBank Corp 3
+vless://1d1522f7-33c2-41ef-a5e2-4e6f77a8b56d@192.124.173.14:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=nDq00UeDI5TKKFipI6rgdVCqiTO98ncHKn90Qp3EsBE&security=reality&sid=f2b78452f9233f26&sni=ads.x5.ru&type=tcp#🇨🇿 Czechia | Reliable Communications s.r.... 1
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@czu.ksnodes.net:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=czu.ksnodes.net&alpn=http/1.1%2Ch2#🇨🇿 Czechia | Navox co., Ltd 1

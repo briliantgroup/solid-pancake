@@ -1,0 +1,8 @@
+#profile-update-interval: 3
+#profile-title: encode:BobiVPN 🇫🇷 France
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#support-url: https://github.com/
+#profile-web-page-url: https://github.com/
+vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&sid=c906f73d3ba8211f&sni=www.leboncoin.fr#🇫🇷 France | OVH 1
+hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com#🇫🇷 France | ONLINE 1
+vless://b53b1850-d29e-48e5-996c-226f6741e69c@104.252.111.148:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=X7okY4_-lhIybXtijFD3gIqOptNtn9LWYo6gXrJlUEU&sid=7362a464388e46a4&spx=%2F#🇫🇷 France | EGIHosting 1

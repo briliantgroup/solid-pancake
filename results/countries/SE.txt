@@ -1,0 +1,11 @@
+#profile-update-interval: 3
+#profile-title: encode:BobiVPN 🇸🇪 Sweden
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#support-url: https://github.com/
+#profile-web-page-url: https://github.com/
+vless://fa0f8702-6587-44fa-aa39-155d5efb7c83@185.189.46.78:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=sweden.nosok-top.com&pbk=qR4AuNiWRXOMdzZY-v3KJwpS27LU3T62UhDjxhVqfH0&sid=9c2378562188c3cb&spx=%2F#🇸🇪 Sweden | EliteWork LLC 1
+vless://b53b1850-d29e-48e5-996c-226f6741e69c@144.31.128.52:40443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=chrome&sni=google.com&pbk=UiX5egUMmHNIW0MXGSKlYIVUWRBysOmhdSiGy1G0I3o&sid=5bc301b40e544a2f&spx=%2F#🇸🇪 Sweden | H2nexus 1
+vless://b53b1850-d29e-48e5-996c-226f6741e69c@144.31.128.52:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=UiX5egUMmHNIW0MXGSKlYIVUWRBysOmhdSiGy1G0I3o&sid=5bc301b40e544a2f&spx=%2F#🇸🇪 Sweden | H2nexus 2
+vless://5570943f-6cc3-4a8a-bee3-d15a2b2f53a0@shop.starsuntoday.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=shop.starsuntoday.ru#🇸🇪 Sweden | Aeza 2
+vless://5570943f-6cc3-4a8a-bee3-d15a2b2f53a0@shop.catpatrol.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=shop.catpatrol.ru#🇸🇪 Sweden | Aeza 1
+vless://5570943f-6cc3-4a8a-bee3-d15a2b2f53a0@shop.vivavo.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=shop.vivavo.ru#🇸🇪 Sweden | Aeza 3
