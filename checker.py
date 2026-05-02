@@ -726,51 +726,55 @@ def get_exit_ip(port: int, timeout: int = 5) -> str:
     return ""
 
 
-def check_batch(
-    items: list[tuple[str, int]], test_url: str, base_port: int
-) -> list[dict]:
-    """items = list of (uri, socks_port). Возвращает list результатов."""
-    proxies_list, groups, listeners, valid = [], [], [], []
+# ═══════════════════════════════════════════════════════════════════════════════
+# ОДНА ПРОКСИ = ОДИН ПРОЦЕСС MIHOMO (порт create_mihomo_config_file + Checker_mihomo из MK)
+# Строго 1:батч с listeners не работает — mihomo игнорирует proxy фильд в listeners.
+# ═══════════════════════════════════════════════════════════════════════════════
 
-    for uri, port in items:
-        struct = parse_to_mihomo(uri)
-        if not struct:
-            continue
-        name = f"proxy_{port}"
-        group = f"group_{port}"
-        struct["name"] = name
-        struct["udp"] = False
-        proxies_list.append(struct)
-        groups.append({"name": group, "type": "select", "proxies": [name]})
-        listeners.append(
-            {
-                "name": f"in_{port}",
-                "type": "socks",
-                "port": port,
-                "proxy": group,
-                "udp": False,
-            }
-        )
-        valid.append((uri, port))
 
-    if not valid:
-        return []
-
-    config = {
+def make_mihomo_config(proxy_struct: dict, proxy_name: str, socks_port: int) -> dict:
+    """
+    Конфиг 1:батч как в MK_XRAYchecker create_mihomo_config_file:
+      - socks-port  (не listeners!)
+      - mode: rule
+      - rules: ["MATCH,MK_CHECK"]
+    """
+    return {
         "allow-lan": False,
         "bind-address": "127.0.0.1",
-        "mode": "global",
+        "mode": "rule",
         "log-level": "silent",
-        "ipv6": False,
-        "proxies": proxies_list,
-        "proxy-groups": groups,
-        "listeners": listeners,
-        "rules": [],
+        "ipv6": True,
+        "socks-port": socks_port,
+        "proxies": [proxy_struct],
+        "proxy-groups": [
+            {"name": "MK_CHECK", "type": "select", "proxies": [proxy_name]}
+        ],
+        "rules": ["MATCH,MK_CHECK"],
     }
 
-    cfg_path = TMP_DIR / f"mh_{base_port}.json"
-    with open(cfg_path, "w") as f:
-        json.dump(config, f)
+
+def check_one(uri: str, socks_port: int, test_url: str) -> dict | None:
+    """
+    Проверяет одну прокси через отдельный mihomo процесс.
+    Порт каквалогица MK Checker_mihomo — один процесс = одна прокси.
+    """
+    proxy_name = f"out_{socks_port}"
+    struct = parse_to_mihomo(uri)
+    if not struct:
+        return None
+
+    struct["name"] = proxy_name
+    struct["udp"] = False
+
+    config = make_mihomo_config(struct, proxy_name, socks_port)
+    cfg_path = TMP_DIR / f"mh_{socks_port}.json"
+
+    try:
+        with open(cfg_path, "w", encoding="utf-8") as f:
+            json.dump(config, f, indent=2, ensure_ascii=False)
+    except Exception:
+        return None
 
     proc = subprocess.Popen(
         [str(get_mihomo_path()), "-f", str(cfg_path)],
@@ -778,29 +782,37 @@ def check_batch(
         stderr=subprocess.DEVNULL,
     )
 
-    results = []
+    result = None
     try:
-        if not wait_for_port(valid[0][1], CFG["startup_timeout"]):
-            return []
-        time.sleep(CFG["warmup_ms"] / 1000)
+        # Поллинг порта (как wait_for_core_start в MK)
+        max_wait = max(CFG["startup_timeout"], 4.0)
+        if not wait_for_port(socks_port, max_wait):
+            return None
 
-        max_w = min(len(valid), CFG["max_internal"])
-        with ThreadPoolExecutor(max_workers=max_w) as ex:
-            fut_map = {
-                ex.submit(check_via_socks5, port, test_url, CFG["timeout"]): (uri, port)
-                for uri, port in valid
-            }
-            for fut in as_completed(fut_map):
-                uri, port = fut_map[fut]
-                ms = fut.result()
-                if ms is None:
-                    continue
-                if CFG["max_ping_ms"] and ms > CFG["max_ping_ms"]:
-                    continue
-                exit_ip = get_exit_ip(port, timeout=5)
-                results.append(
-                    {"uri": uri, "port": port, "latency": ms, "exit_ip": exit_ip}
-                )
+        # Прогрев после открытия порта (MK: time.sleep(1.0))
+        time.sleep(1.0)
+
+        if proc.poll() is not None:
+            return None
+
+        # Проверка соединения
+        ms = check_via_socks5(socks_port, test_url, CFG["timeout"])
+
+        # Retry при EOF/connection aborted (как в MK)
+        if ms is None:
+            time.sleep(0.35)
+            ms = check_via_socks5(socks_port, test_url, CFG["timeout"])
+
+        if ms is None:
+            return None
+        if CFG["max_ping_ms"] and ms > CFG["max_ping_ms"]:
+            return None
+
+        exit_ip = get_exit_ip(socks_port, timeout=5)
+        result = {"uri": uri, "latency": ms, "exit_ip": exit_ip}
+
+    except Exception:
+        pass
     finally:
         try:
             proc.kill()
@@ -813,44 +825,54 @@ def check_batch(
         except Exception:
             pass
 
-    return results
+    return result
 
 
 def mihomo_check_all(uris: list[str]) -> list[dict]:
+    """
+    Параллельная проверка: N потоков (воркеров), каждый запускает СВОЙ mihomo.
+    """
+    import threading
+
     total = len(uris)
-    print(
-        f"🛡️  Mihomo проверка {total} ключей (batch={CFG['batch_size']}, workers={CFG['workers']})..."
-    )
-
     base_port = 20000
-    batch_size = CFG["batch_size"]
+    all_results: list[dict] = []
+    lock = threading.Lock()
+    done_count = [0]
 
-    # Формируем батчи: (uri, assigned_port)
-    batches = []
-    for batch_idx in range(0, total, batch_size):
-        batch_uris = uris[batch_idx : batch_idx + batch_size]
-        port_start = base_port + batch_idx
-        batches.append([(u, port_start + i) for i, u in enumerate(batch_uris)])
+    print(f"🛡️  Mihomo проверка {total} ключей (workers={CFG['workers']})...")
 
-    all_results = []
-    done = 0
-    lock = __import__("threading").Lock()
+    # Каждый поток получает эксклюзивный диапазон портов чтобы не было конфликтов
+    workers = CFG["workers"]
+    chunk_size = (total + workers - 1) // workers  # разбиваем на N поровных частей
 
-    def run_batch(items):
-        nonlocal done
-        res = check_batch(items, CFG["test_url"], items[0][1])
-        with lock:
-            all_results.extend(res)
-            done += len(items)
-            print(
-                f"\r   {done}/{total} проверено | рабочих: {len(all_results)}",
-                end="",
-                flush=True,
-            )
-        return res
+    def worker_thread(chunk: list[str], port_offset: int):
+        """MK подход: последовательная проверка внутри потока, потоки параллельны между собой."""
+        for i, uri in enumerate(chunk):
+            port = base_port + port_offset + i
+            res = check_one(uri, port, CFG["test_url"])
+            with lock:
+                done_count[0] += 1
+                if res:
+                    all_results.append(res)
+                print(
+                    f"\r   {done_count[0]}/{total} проверено | рабочих: {len(all_results)}",
+                    end="",
+                    flush=True,
+                )
 
-    with ThreadPoolExecutor(max_workers=CFG["workers"]) as ex:
-        list(ex.map(run_batch, batches))
+    threads = []
+    for t_idx in range(workers):
+        start = t_idx * chunk_size
+        chunk = uris[start : start + chunk_size]
+        if not chunk:
+            break
+        t = threading.Thread(target=worker_thread, args=(chunk, start), daemon=True)
+        t.start()
+        threads.append(t)
+
+    for t in threads:
+        t.join()
 
     print(f"\n✅ Рабочих ключей: {len(all_results)}/{total}")
     return all_results
