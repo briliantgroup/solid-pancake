@@ -3,30 +3,20 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-ss://YWVzLTEyOC1nY206MGZhZTBjZWItNGI2ZC00YmFiLTlkM2MtNjEyYzc3YWU5YjJm@172.238.15.102:25584#🇯🇵 Japan | Akamai Technologies, Inc. 1
-vless://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:22802?type=tcp&security=tls&flow=xtls-rprx-vision&sni=jp2-8sb.6121999.dpdns.org#🇯🇵 Japan | Oracle Cloud Infrastructure ... 1
-vless://9228631b-bf71-4377-bd75-4b25605f68f6@96.62.214.87:29745?type=tcp&security=reality&fp=random&pbk=zSOPQOHAiacl2VMETsLXTE_Gln5ECllb6YKy1oyv1V0&sid=c3&sni=www.google.com&spx=/#🇯🇵 Japan | Private Customer 1
-vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&sni=www.yahoo.co.jp#🇯🇵 Japan | NTTPC Communications, Inc 2
-ss://YWVzLTEyOC1nY206MGZhZTBjZWItNGI2ZC00YmFiLTlkM2MtNjEyYzc3YWU5YjJm@172.238.15.102:37769#🇯🇵 Japan | Akamai Technologies, Inc. 2
-trojan://BxceQaOe@116.80.61.224:443?sni=t.me/ripaojiedian#🇯🇵 Japan | NTTPC Communications, Inc 1
-vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&path=/a12b0d31#🇯🇵 Japan | Alibaba.com LLC 1
-vless://43488128-319e-f480-64ea-0acdc712e2a8@64.176.57.250:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wLkaWLYNGirBj1ggKZsnmlZiWnwZd99cIShBHVm7BQo&sid=c906f73d3ba8211f&sni=www.muji.com#🇯🇵 Japan | The Constant Company, LLC 1
-trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@140.238.43.40:24534?security=tls&sni=jp2-8sb.6121999.dpdns.org&type=tcp&allow_insecure=0#🇯🇵 Japan | Oracle Cloud Infrastructure ... 2
-trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?security=tls&sni=jp2-8sb.6121999.dpdns.org&type=tcp&allow_insecure=0#🇯🇵 Japan | Oracle Cloud Infrastructure ... 3
-trojan://162534@207.65.189.9:443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇯🇵 Japan | M247 Europe SRL 2
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@64.176.52.230:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇯🇵 Japan | M247 Europe SRL 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@43.133.23.88:8388?&security=tls&fp=chrome&sni=babayaga-6i7.pages.dev&type=ws&headerType=none&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇯🇵 Japan | Aceville Pte.ltd 1
-vless://7a30b7fc-4868-4d1d-84b8-16a3d3df0139@45.89.109.25:18278?type=tcp&security=reality&fp=chrome&pbk=8Fglzc7t2LS4r1vQWlVMNe_EsFdhMawlxeDacbhmiAg&sid=f0&sni=yahoo.com#🇯🇵 Japan | DD CO LTD 6
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@154.36.179.170:51120?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev&allow_insecure=0#🇯🇵 Japan | NetLab Global 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@64.81.113.62:21040?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=/?Telegram @WangCai2=&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇯🇵 Japan | NetLab Global 2
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@219.103.68.164:20770?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇯🇵 Japan | ZTV 1
+trojan://strong-secret-pass-777@45.12.134.57:4443?allowInsecure=1#🇯🇵 Japan | DD CO LTD 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@149.28.17.67:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇯🇵 Japan | Vultr 3
+ss://YWVzLTEyOC1nY206MGZhZTBjZWItNGI2ZC00YmFiLTlkM2MtNjEyYzc3YWU5YjJm@172.238.15.102:25584#🇯🇵 Japan | Akamai Technologies, Inc. 2
+vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&sni=www.yahoo.co.jp#🇯🇵 Japan | NTTPC Communications, Inc 1
+vmess://eyJ2IjoiMiIsInBzIjoiODIzLiBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUgSmFwYW4iLCJhZGQiOiIxNDAuODMuNTEuMTYxIiwicG9ydCI6IjI1Njg2IiwiaWQiOiI2NzMzYzM1Ny1iYTExLTRlOWYtZjAwZi03ZDg3ZjI3NzZmZjkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoianAwMi5hMGEueHl6IiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6ImNocm9tZSJ9#🇯🇵 Japan | Oracle Cloud Infrastructure ... 3
+vmess://eyJ2IjoiMiIsInBzIjoiMTEyNC4gXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEphcGFuIiwiYWRkIjoianAwMi5hMGEueHl6IiwicG9ydCI6IjI1Njg2IiwiaWQiOiI2NzMzYzM1Ny1iYTExLTRlOWYtZjAwZi03ZDg3ZjI3NzZmZjkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoianAwMi5hMGEueHl6IiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6ImNocm9tZSJ9#🇯🇵 Japan | Oracle Cloud Infrastructure ... 2
+ss://YWVzLTEyOC1nY206MGZhZTBjZWItNGI2ZC00YmFiLTlkM2MtNjEyYzc3YWU5YjJm@172.238.15.102:37769#🇯🇵 Japan | Akamai Technologies, Inc. 1
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=/proxy#🇯🇵 Japan | Datacamp Limited 1
+vless://340ce710-8daf-4204-8d0d-74f2edc46386@47.79.144.214:443?type=ws&security=tls&sni=pwctqbvswnne.ap-northeast-1.clawcloudrun.com&host=pwctqbvswnne.ap-northeast-1.clawcloudrun.com#🇯🇵 Japan | Alibaba.com LLC 2
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@151.245.104.182:443?security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=%2Fproxy#🇯🇵 Japan | Datacamp Limited 2
+vless://340ce710-8daf-4204-8d0d-74f2edc46386@pwctqbvswnne.ap-northeast-1.clawcloudrun.com:443?type=ws&security=tls&path=/&sni=pwctqbvswnne.ap-northeast-1.clawcloudrun.com&fp=chrome#🇯🇵 Japan | Alibaba.com LLC 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@64.176.52.230:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇯🇵 Japan | Oracle Cloud Infrastructure ... 1
+trojan://162534@108.160.133.80:443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇯🇵 Japan | Vultr 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@172.233.78.172:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇯🇵 Japan | Akamai Technologies, Inc. 3
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@147.78.247.46:26956?&security=tls&fp=chrome&sni=babayaga-6i7.pages.dev&type=ws&headerType=none&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🇯🇵 Japan | Virtual Machine Solutions LL... 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@38.47.125.152:26048?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#🇯🇵 Japan | Oracle Cloud Infrastructure ... 4
 trojan://162534@64.176.42.143:443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇯🇵 Japan | Vultr 2
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@172.233.78.172:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇯🇵 Japan | Vultr 1
-vless://75807638-6f19-0190-ae08-38492ee85c88@87.228.92.138:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&path=%2F&host=cl-oth-1.edgeflux.ru&sni=cl-oth-1.edgeflux.ru&flow=xtls-rprx-vision#🇯🇵 Japan | DD CO LTD 9
-vless://75807638-6f19-0190-ae08-38492ee85c88@87.228.92.133:52006?type=tcp&security=tls&flow=xtls-rprx-vision&sni=cl-oth-1.edgeflux.ru&host=cl-oth-1.edgeflux.ru#🇯🇵 Japan | DD CO LTD 5
-vless://75807638-6f19-0190-ae08-38492ee85c88@178.72.182.4:52006?type=tcp&security=tls&flow=xtls-rprx-vision&sni=cl-oth-1.edgeflux.ru&host=cl-oth-1.edgeflux.ru#🇯🇵 Japan | DD CO LTD 1
-vless://75807638-6f19-0190-ae08-38492ee85c88@87.228.92.137:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cl-oth-1.edgeflux.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none&host=cl-oth-1.edgeflux.ru#🇯🇵 Japan | DD CO LTD 8
-vless://75807638-6f19-0190-ae08-38492ee85c88@178.72.182.25:52006?type=tcp&security=tls&flow=xtls-rprx-vision&sni=cl-oth-1.edgeflux.ru&host=cl-oth-1.edgeflux.ru#🇯🇵 Japan | DD CO LTD 7
-vless://75807638-6f19-0190-ae08-38492ee85c88@87.228.92.131:52006?allowInsecure=1&type=tcp&security=tls&flow=xtls-rprx-vision&sni=cl-oth-1.edgeflux.ru&host=cl-oth-1.edgeflux.ru#🇯🇵 Japan | DD CO LTD 4
-vless://75807638-6f19-0190-ae08-38492ee85c88@87.228.92.132:52006?allowInsecure=1&type=tcp&security=tls&flow=xtls-rprx-vision&sni=cl-oth-1.edgeflux.ru&host=cl-oth-1.edgeflux.ru#🇯🇵 Japan | DD CO LTD 2
-vless://75807638-6f19-0190-ae08-38492ee85c88@87.228.92.136:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cl-oth-1.edgeflux.ru&fp=chrome&flow=xtls-rprx-vision#🇯🇵 Japan | DD CO LTD 3
