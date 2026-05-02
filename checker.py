@@ -130,66 +130,116 @@ def is_mihomo_installed() -> bool:
 
 
 def install_mihomo():
-    print("⬇️  Устанавливаю Mihomo...")
+    import gzip
+
+    print("\u2b07\ufe0f  Mihomo...")
     system = platform.system().lower()
     machine = platform.machine().lower()
 
+    # \u041e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u043c \u0431\u0430\u0437\u043e\u0432\u043e\u0435 \u0438\u043c\u044f asset \u0438 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435
     if system == "windows":
-        asset = "mihomo-windows-amd64"
+        asset_prefix = "mihomo-windows-amd64"
+        ext = ".zip"
     elif system == "linux":
-        if "arm" in machine or "aarch64" in machine:
-            asset = "mihomo-linux-arm64"
+        if "aarch64" in machine or "arm64" in machine:
+            asset_prefix = "mihomo-linux-arm64"
         else:
-            asset = "mihomo-linux-amd64"
-    else:
-        asset = "mihomo-darwin-amd64"
+            asset_prefix = "mihomo-linux-amd64"
+        ext = ".gz"
+    else:  # macOS
+        asset_prefix = (
+            "mihomo-darwin-arm64" if "arm" in machine else "mihomo-darwin-amd64"
+        )
+        ext = ".gz"
 
+    # GitHub API
     api = "https://api.github.com/repos/MetaCubeX/mihomo/releases/latest"
     try:
         resp = requests.get(
             api, timeout=15, headers={"User-Agent": "VpnMihomoCheker/1.0"}
         )
+        resp.raise_for_status()
         data = resp.json()
         tag = data["tag_name"]
         assets = data["assets"]
     except Exception as e:
-        sys.exit(f"❌ Не могу получить релиз Mihomo: {e}")
+        sys.exit(f"GitHub API error: {e}")
 
-    # Ищем нужный .zip без cgo
+    print(f"   Version: {tag}, looking for: {asset_prefix}*{ext} (no cgo)")
+
+    # \u0418\u0449\u0435\u043c asset:
+    # \u041f\u0440\u0438\u043e\u0440\u0438\u0442\u0435\u0442: \u0442\u043e\u0447\u043d\u043e\u0435 \u0438\u043c\u044f (\u0431\u0435\u0437 go-suffix), \u0437\u0430\u0442\u0435\u043c \u043b\u044e\u0431\u043e\u0435 \u043f\u043e\u0434\u0445\u043e\u0434\u044f\u0449\u0435\u0435
     url = None
+    # \u0421\u043d\u0430\u0447\u0430\u043b\u0430 \u0438\u0449\u0435\u043c \u0442\u043e\u0447\u043d\u043e\u0435 \u0441\u043e\u0432\u043f\u0430\u0434\u0435\u043d\u0438\u0435: mihomo-linux-amd64-v1.19.24.gz (\u0431\u0435\u0437 cgo \u0438 go-suffix)
+    exact_name = f"{asset_prefix}-{tag.lstrip('v')}{ext}"
     for a in assets:
-        n = a["name"]
-        if asset in n and n.endswith(".zip") and "cgo" not in n:
+        if a["name"] == exact_name:
             url = a["browser_download_url"]
             break
-    if not url:
-        sys.exit(f"❌ Не найден asset {asset}*.zip в релизе {tag}")
 
-    print(f"   Версия: {tag}  |  {url}")
+    # \u0415\u0441\u043b\u0438 \u043d\u0435 \u043d\u0430\u0448\u043b\u0438 \u2014 \u0431\u0435\u0440\u0451\u043c \u043b\u044e\u0431\u043e\u0439 c asset_prefix, \u0431\u0435\u0437 cgo, \u0431\u0435\u0437 go-suffix
+    if not url:
+        for a in assets:
+            n = a["name"]
+            if (
+                n.startswith(asset_prefix)
+                and n.endswith(ext)
+                and "cgo" not in n
+                and not re.search(r"-go\d+", n)
+            ):
+                url = a["browser_download_url"]
+                break
+
+    # \u0422\u0440етьй вариант: любой с asset_prefix
+    if not url:
+        for a in assets:
+            n = a["name"]
+            if n.startswith(asset_prefix) and n.endswith(ext) and "cgo" not in n:
+                url = a["browser_download_url"]
+                break
+
+    if not url:
+        names = [a["name"] for a in assets if asset_prefix in a["name"]]
+        sys.exit(f"No asset found for {asset_prefix}*{ext}.\nAvailable: {names[:5]}")
+
+    print(f"   Downloading: {url}")
     r = requests.get(
-        url, timeout=120, stream=True, headers={"User-Agent": "VpnMihomoCheker/1.0"}
+        url, timeout=300, stream=True, headers={"User-Agent": "VpnMihomoCheker/1.0"}
     )
     r.raise_for_status()
 
-    zip_path = TMP_DIR / "mihomo.zip"
-    with open(zip_path, "wb") as f:
+    dl_path = TMP_DIR / f"mihomo_dl{ext}"
+    with open(dl_path, "wb") as f:
         for chunk in r.iter_content(65536):
             f.write(chunk)
 
-    with zipfile.ZipFile(zip_path) as z:
-        # Ищем exe/binary
-        for name in z.namelist():
-            n = name.lower()
-            if asset in n and not name.endswith("/"):
-                target = get_mihomo_path()
-                with z.open(name) as src, open(target, "wb") as dst:
-                    shutil.copyfileobj(src, dst)
-                if system != "windows":
-                    os.chmod(target, os.stat(target).st_mode | stat.S_IEXEC)
-                print(f"✅ Mihomo установлен: {target}")
-                return
+    target = get_mihomo_path()
 
-    sys.exit("❌ Бинарник Mihomo не найден в архиве")
+    if ext == ".gz":
+        # Linux/macOS: .gz = gzip-\u0441\u0436\u0430\u0442\u044b\u0439 \u0431\u0438\u043d\u0430\u0440\u043d\u0438\u043a
+        with gzip.open(dl_path, "rb") as gz_in, open(target, "wb") as out:
+            shutil.copyfileobj(gz_in, out)
+        os.chmod(
+            target, os.stat(target).st_mode | stat.S_IEXEC | stat.S_IXGRP | stat.S_IXOTH
+        )
+    else:
+        # Windows: .zip
+        with zipfile.ZipFile(dl_path) as z:
+            exe_entry = None
+            for name in z.namelist():
+                if "mihomo" in name.lower() and name.endswith(".exe"):
+                    exe_entry = name
+                    break
+            if exe_entry:
+                with z.open(exe_entry) as src, open(target, "wb") as dst:
+                    shutil.copyfileobj(src, dst)
+            else:
+                z.extractall(BIN_DIR)
+
+    if target.exists():
+        print(f"Mihomo installed: {target}")
+    else:
+        sys.exit(f"Mihomo binary not found after extraction: {target}")
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
