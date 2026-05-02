@@ -988,8 +988,36 @@ def save_results(working: list[dict]):
             }
         )
 
-    # Сортируем: по стране → по пингу
-    enriched.sort(key=lambda x: (x["country"], x["latency"]))
+    # Приоритет стран: RU → FI → DE → NL → дальше по алфавиту
+    COUNTRY_PRIORITY = {
+        "RU": 1,
+        "FI": 2,
+        "DE": 3,
+        "NL": 4,
+        "FR": 5,
+        "GB": 6,
+        "SE": 7,
+        "NO": 8,
+        "CH": 9,
+        "AT": 10,
+        "PL": 11,
+        "CZ": 12,
+        "US": 13,
+        "CA": 14,
+        "JP": 15,
+        "SG": 16,
+        "HK": 17,
+        "TR": 18,
+        "UA": 19,
+        "BY": 20,
+    }
+
+    def sort_key(r):
+        code = r.get("country_code", "XX")
+        prio = COUNTRY_PRIORITY.get(code, 999)
+        return (prio, code, r["latency"])
+
+    enriched.sort(key=sort_key)
 
     # ── all_working.txt ───────────────────────────────────────────────────────
     all_keys = [r["final_uri"] for r in enriched]
