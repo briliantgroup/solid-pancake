@@ -1072,6 +1072,108 @@ def parse_args():
     return ap.parse_args()
 
 
+def self_test():
+    """Быстрая диагностика перед запуском."""
+    ok = True
+
+    # 1. PySocks / SOCKS5
+    try:
+        import socks  # noqa
+
+        print("  [OK] PySocks installed")
+    except ImportError:
+        print("  [FAIL] PySocks NOT installed — pip install PySocks")
+        ok = False
+
+    # 2. requests SOCKS5 support
+    try:
+        import requests as _req
+
+        _req.get("socks5://127.0.0.1:1", timeout=0.01)
+    except _req.exceptions.ConnectionError:
+        print("  [OK] requests SOCKS5 support works")
+    except _req.exceptions.InvalidSchema:
+        print("  [FAIL] requests cannot handle socks5:// — install PySocks")
+        ok = False
+    except Exception:
+        print("  [OK] requests SOCKS5 support works")
+
+    # 3. Mihomo binary
+    mp = get_mihomo_path()
+    if mp.exists():
+        print(f"  [OK] Mihomo found: {mp}")
+        try:
+            r = subprocess.run([str(mp), "-v"], capture_output=True, timeout=3)
+            ver = (
+                (r.stdout or r.stderr or b"")
+                .decode(errors="ignore")
+                .strip()
+                .split("\n")[0]
+            )
+            print(f"       Version: {ver}")
+        except Exception as e:
+            print(f"  [WARN] Cannot run mihomo -v: {e}")
+    else:
+        print(f"  [FAIL] Mihomo NOT found: {mp}")
+        ok = False
+
+    # 4. Тест парсера
+    test_uri = "vless://12345678-1234-1234-1234-123456789abc@1.2.3.4:443?security=reality&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&type=tcp&flow=xtls-rprx-vision#test"
+    result = parse_to_mihomo(test_uri)
+    if result:
+        print(
+            f"  [OK] Parser works: {result.get('type')} server={result.get('server')}"
+        )
+    else:
+        print("  [FAIL] Parser returned None for test VLESS URI")
+        ok = False
+
+    # 5. Тест запуска mihomo (если есть)
+    if mp.exists():
+        test_port = 29999
+        test_struct = result or {
+            "type": "ss",
+            "server": "1.1.1.1",
+            "port": 443,
+            "cipher": "aes-256-gcm",
+            "password": "test",
+            "name": "test",
+            "udp": False,
+        }
+        test_struct["name"] = "test_probe"
+        cfg = make_mihomo_config(test_struct, "test_probe", test_port)
+        cfg_p = TMP_DIR / "selftest.json"
+        with open(cfg_p, "w") as f:
+            json.dump(cfg, f)
+        proc = subprocess.Popen(
+            [str(mp), "-f", str(cfg_p)],
+            stdout=subprocess.PIPE,
+            stderr=subprocess.STDOUT,
+        )
+        started = wait_for_port(test_port, max_wait=4.0)
+        try:
+            proc.kill()
+            proc.wait(timeout=2)
+        except Exception:
+            pass
+        out = b""
+        try:
+            out, _ = proc.communicate(timeout=1)
+        except Exception:
+            pass
+        cfg_p.unlink(missing_ok=True)
+        if started:
+            print(f"  [OK] Mihomo starts and binds port {test_port}")
+        else:
+            msg = out.decode(errors="ignore").strip()[-300:] if out else "no output"
+            print(f"  [FAIL] Mihomo did not start. Output: {msg}")
+            ok = False
+
+    if not ok:
+        sys.exit("\n[ABORT] Self-test failed. Fix the issues above and retry.")
+    print("  All checks passed!\n")
+
+
 def main():
     args = parse_args()
 
@@ -1099,6 +1201,10 @@ def main():
         install_mihomo()
     elif not is_mihomo_installed():
         sys.exit(f"❌ Mihomo не найден: {get_mihomo_path()}")
+
+    # Самодиагностика
+    print("\n[Self-test]")
+    self_test()
 
     # Шаг 1: Сбор
     urls = load_subscription_urls()

@@ -2,8 +2,8 @@ name: VPN Checker
 
 on:
   schedule:
-    - cron: '0 */3 * * *'   # каждые 3 часа
-  workflow_dispatch:          # ручной запуск из интерфейса GitHub
+    - cron: "0 */3 * * *" # каждые 3 часа
+  workflow_dispatch: # ручной запуск из интерфейса GitHub
 
 permissions:
   contents: write
@@ -20,11 +20,11 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-          cache: 'pip'
+          python-version: "3.11"
+          cache: "pip"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r requirements.txt PySocks
 
       - name: Run checker
         run: |
