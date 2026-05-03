@@ -3,14 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?type=raw#🇸🇬 Singapore | Alibaba.com Singapore E-Comm... 1
-vmess://eyJ2IjoiMiIsInBzIjoiMTEzNy4gXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFNpbmdhcG9yZSIsImFkZCI6IjQ3Ljc5LjIzNi45IiwicG9ydCI6IjQ3MDM0IiwiaWQiOiI2ZjI4NzllMi03NTk1LTRmYzItY2E3ZS0zYzE2M2RiZTBkNGIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJhbGxvd19pbnNlY3VyZSI6IjAiLCJhbGxvd0luc2VjdXJlIjoiMCIsImluc2VjdXJlIjoiMCIsInNlY3VyaXR5IjoiYXV0byJ9#🇸🇬 Singapore | Alibaba.com LLC 1
-vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIFx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyBTRy02NDkiLCJhZGQiOiIxNDkuODguMjMuMjA3IiwicG9ydCI6IjE4MDAwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=#🇸🇬 Singapore | Datacamp Limited 1
-vless://5d3edd3f-7e6a-4c3d-a00e-9723c42cb2b4@104.17.70.206:2096?type=ws&headerType=none&security=tls&encryption=none&sni=finite-node.rtxconfigz.com&alpn=h2&path=%2F&host=finite-node.rtxconfigz.com&insecure=0#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 3
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@149.104.4.243:40867?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev&allow_insecure=0#🇸🇬 Singapore | Starcloud Global Pte. LTD 2
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@68.183.227.22:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇸🇬 Singapore | DO 2
-vless://5d3edd3f-7e6a-4c3d-a00e-9723c42cb2b4@104.17.71.206:2096?security=tls&sni=finite-node.rtxconfigz.com&type=ws&host=finite-node.rtxconfigz.com&path=%2F&alpn=h2#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 2
-vless://5d3edd3f-7e6a-4c3d-a00e-9723c42cb2b4@104.17.73.206:2096?security=tls&sni=finite-node.rtxconfigz.com&type=ws&host=finite-node.rtxconfigz.com&path=%2F&alpn=h2#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.250.158.102:27015?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#🇸🇬 Singapore | DO 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.82.155.79:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇬 Singapore | Alibaba.com LLC 2
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@149.104.4.243:43290?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev&allow_insecure=0#🇸🇬 Singapore | Starcloud Global Pte. LTD 1
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?type=tcp&security=tls&fp=chrome&sni=node1.nanonet.host#🇸🇬 Singapore | DO 1
+trojan://162534@143.198.211.180:443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇸🇬 Singapore | DO 2
