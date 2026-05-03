@@ -3,10 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://b375b840-8ac0-4d37-98c0-44ab85fd7127@45.92.218.65:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&sni=chat.deepseek.com#🇫🇷 France | YottaSrc 1
-vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&sid=c906f73d3ba8211f&sni=www.leboncoin.fr#🇫🇷 France | OVH 1
-hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com&mport=41000#🇫🇷 France | ONLINE 1
-vless://5570943f-6cc3-4a8a-bee3-d15a2b2f53a0@web.37-z.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.37-z.ru#🇫🇷 France | Aeza 1
-vless://43488128-319e-f480-64ea-0acdc712e2a8@51.158.62.94:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nUl4-UbSlrf8sCY4QNCKF3dMmgWLWJbgeziVqwfklhU&security=reality&sid=ad3c6641d540b4e1&sni=www.laposte.fr&type=tcp#🇫🇷 France | ONLINE 2
-vless://2bfea3fd-6826-480c-917d-e3bc99b47a0f@193.233.133.55:443?type=tcp&security=reality&fp=chrome&pbk=13qS12jjsHCQpQfL3tEL2nHltgoTp1i-8kVcJ6odrEQ&sid=6635&sni=yahoo.com#🇫🇷 France | xorek.cloud International LT... 1
-vless://ec9e7b71-72b6-0021-8549-2efb1b21a502@fr.musicperec.ru:443?security=reality&sni=vkvideo.ru&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=a7b2c9d4&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#🇫🇷 France | Regxa Company for Informatio... 1
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn#🇫🇷 France | ONLINE 4
+vless://43488128-319e-f480-64ea-0acdc712e2a8@51.158.62.94:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nUl4-UbSlrf8sCY4QNCKF3dMmgWLWJbgeziVqwfklhU&security=reality&sid=ad3c6641d540b4e1&sni=www.laposte.fr&type=tcp#🇫🇷 France | ONLINE 5
+trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#🇫🇷 France | ONLINE 2
+vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&host=akamaized.net&path=/vless/&security=none&type=ws#🇫🇷 France | OVH 1
+trojan://humanity@104.17.150.76:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#🇫🇷 France | ONLINE 7
+trojan://humanity@sourceforge.net:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&allowInsecure=0#🇫🇷 France | ONLINE 1
+trojan://humanity@8.6.112.0:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#🇫🇷 France | ONLINE 3
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?type=ws&path=%2Fvless%2F#🇫🇷 France | OVH 2
+hysteria2://dongtaiwang.com@163.172.113.118:40022/?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&insecure=1&sni=www.microsoft.com#🇫🇷 France | ONLINE 6
+vless://7a4bea1e53074fdc98cc1fc8bcd4abc5@51.250.68.32:443?security=reality&encryption=none&alpn=h2&pbk=0NRN6rlZGinrfisXA8hFYH1_jsyOKwqkhacMV_LCLnM&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=i.oneme.ru&sid=aabbccdd#🇫🇷 France | Layer7 1
+vless://037e1e3c-5648-4190-b841-000db6d77432@84.201.152.16:51190/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=b3bd6f5b168c4d61&packetEncoding=xudp#🇫🇷 France | Global Connectivity Solution... 1
+vless://037e1e3c-5648-4190-b841-000db6d77432@84.201.152.16:51192/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=b3bd6f5b168c4d61&packetEncoding=xudp#🇫🇷 France | Global Connectivity Solution... 2
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇫🇷 France | OVH 3
