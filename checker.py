@@ -22,6 +22,7 @@ import re
 import shutil
 import socket
 import stat
+import statistics
 import subprocess
 import sys
 import time
@@ -50,6 +51,27 @@ COUNTRIES.mkdir(exist_ok=True)
 BIN_DIR.mkdir(exist_ok=True)
 TMP_DIR.mkdir(exist_ok=True)
 
+# ─── Реальный IP машины (определяется при старте) ────────────────────────────
+REAL_IP: str = ""
+
+
+def detect_real_ip() -> str:
+    """Узнаём реальный IP машины без прокси."""
+    for url in (
+        "https://api.ipify.org",
+        "https://icanhazip.com",
+        "https://checkip.amazonaws.com",
+    ):
+        try:
+            r = requests.get(url, timeout=8, verify=False)
+            ip = r.text.strip()
+            if ip and len(ip) < 50:
+                return ip
+        except Exception:
+            pass
+    return ""
+
+
 # ─── Конфигурация ─────────────────────────────────────────────────────────────
 CFG = {
     "test_url": "http://cp.cloudflare.com/generate_204",
@@ -63,6 +85,11 @@ CFG = {
     "max_ping_ms": 0,
     "startup_timeout": 3.0,
     "kill_delay": 0.02,
+    # Speed test
+    "check_speed": False,  # включить замер скорости
+    "min_speed_mbps": 0.0,  # минимальный порог (0 = без фильтра)
+    "speed_max_mb": 10.0,  # макс. объём скачивания на тест
+    "speed_timeout": 15.0,  # таймаут чтения при speed test
 }
 
 # ─── Allowed SS ciphers ───────────────────────────────────────────────────────
@@ -698,8 +725,8 @@ def wait_for_port(port: int, max_wait: float = 5.0) -> bool:
 
 def check_via_socks5(port: int, test_url: str, timeout: int) -> int | None:
     proxies = {
-        "http": f"socks5://127.0.0.1:{port}",
-        "https": f"socks5://127.0.0.1:{port}",
+        "http": f"socks5h://127.0.0.1:{port}",
+        "https": f"socks5h://127.0.0.1:{port}",
     }
     try:
         t = time.time()
@@ -710,20 +737,252 @@ def check_via_socks5(port: int, test_url: str, timeout: int) -> int | None:
         return None
 
 
-def get_exit_ip(port: int, timeout: int = 5) -> str:
+def get_exit_info(port: int, timeout: int = 5) -> tuple[str, int, bool]:
+    """
+    Возвращает (exit_ip, fraud_score, is_datacenter).
+    fraud_score: 0-100 (высокий = подозрительный/засвеченный IP).
+    is_datacenter: True если хостинг/датацентр.
+    Использует ip-api.com с полями proxy,hosting.
+    """
+    proxies = {
+        "http": f"socks5h://127.0.0.1:{port}",
+        "https": f"socks5h://127.0.0.1:{port}",
+    }
+    # Сначала получаем IP
+    exit_ip = ""
     for url in ("https://api.ipify.org", "https://icanhazip.com"):
         try:
-            proxies = {
-                "http": f"socks5://127.0.0.1:{port}",
-                "https": f"socks5://127.0.0.1:{port}",
-            }
             r = requests.get(url, proxies=proxies, timeout=timeout, verify=False)
             ip = r.text.strip()
             if ip and len(ip) < 50:
-                return ip
+                exit_ip = ip
+                break
         except Exception:
             pass
-    return ""
+
+    fraud_score = 0
+    is_datacenter = False
+
+    if exit_ip:
+        try:
+            r = requests.get(
+                f"http://ip-api.com/json/{exit_ip}?fields=status,proxy,hosting,as",
+                timeout=5,
+            )
+            data = r.json()
+            if data.get("status") == "success":
+                # proxy=true → IP засвечен как прокси в базах → +50 к fraud score
+                if data.get("proxy"):
+                    fraud_score += 50
+                # hosting=true → датацентр (не всегда плохо, но учитываем)
+                is_datacenter = bool(data.get("hosting"))
+        except Exception:
+            pass
+
+    return exit_ip, fraud_score, is_datacenter
+
+
+def check_dns_leak(port: int, timeout: int = 5) -> bool:
+    """
+    Проверяет нет ли DNS leak: DNS запросы должны идти через VPN.
+    Использует edns.ip-api.com — возвращает IP DNS резолвера.
+    Если DNS резолвер == REAL_IP → утечка.
+    Возвращает True если всё OK (нет утечки).
+    """
+    proxies = {
+        "http": f"socks5h://127.0.0.1:{port}",
+        "https": f"socks5h://127.0.0.1:{port}",
+    }
+    try:
+        r = requests.get(
+            "http://edns.ip-api.com/json",
+            proxies=proxies,
+            timeout=timeout,
+            verify=False,
+        )
+        data = r.json()
+        dns_ip = data.get("dns", {}).get("ip", "")
+        # Если DNS resolver IP совпадает с реальным IP машины — утечка
+        if dns_ip and REAL_IP and dns_ip == REAL_IP:
+            return False  # DNS leak!
+        return True  # OK
+    except Exception:
+        return True  # Если не можем проверить — не блокируем ключ
+
+
+def ttfb_check(port: int, url: str, timeout: int) -> int | None:
+    """
+    TTFB (Time To First Byte) — более точная метрика latency.
+    Измеряем время до получения первого байта данных.
+    """
+    proxies = {
+        "http": f"socks5h://127.0.0.1:{port}",
+        "https": f"socks5h://127.0.0.1:{port}",
+    }
+    try:
+        t = time.time()
+        with requests.get(
+            url, proxies=proxies, timeout=timeout, stream=True, verify=False
+        ) as r:
+            if r.status_code >= 400:
+                return None
+            # Ждём первый байт
+            for chunk in r.iter_content(1):
+                if chunk:
+                    return int((time.time() - t) * 1000)
+        return None
+    except Exception:
+        return None
+
+
+def calculate_score(
+    latency_ms: int,
+    jitter_ms: float,
+    uptime_ratio: float,
+    https_ok: bool,
+    dns_ok: bool,
+    fraud_score: int,
+    speed_mbps: float = 0.0,
+) -> int:
+    """
+    Считает итоговый score ключа (0-100).
+
+    Компоненты:
+      latency  (0-25): < 100ms → 25, < 300ms → 15, < 600ms → 5
+      jitter   (0-20): < 10ms  → 20, < 50ms  → 12, < 100ms → 5
+      uptime   (0-20): 100%    → 20, ≥67%    → 10
+      https    (0-15): работает → 15
+      dns_ok   (0-10): нет leak → 10
+      speed    (0-10): > 20Mbps → 10, > 5Mbps → 6, > 1Mbps → 3  (только если измерена)
+    Штрафы:
+      fraud_score > 0 → -10
+    """
+    score = 0
+
+    # Latency
+    if latency_ms < 100:
+        score += 25
+    elif latency_ms < 300:
+        score += 15
+    elif latency_ms < 600:
+        score += 5
+
+    # Jitter
+    if jitter_ms < 10:
+        score += 20
+    elif jitter_ms < 50:
+        score += 12
+    elif jitter_ms < 100:
+        score += 5
+
+    # Uptime
+    if uptime_ratio >= 1.0:
+        score += 20
+    elif uptime_ratio >= 0.67:
+        score += 10
+
+    # HTTPS
+    if https_ok:
+        score += 15
+
+    # DNS no-leak
+    if dns_ok:
+        score += 10
+
+    # Speed (только если измерена)
+    if speed_mbps > 20:
+        score += 10
+    elif speed_mbps > 5:
+        score += 6
+    elif speed_mbps > 1:
+        score += 3
+
+    # Штраф за засвеченный IP
+    if fraud_score > 0:
+        score -= 10
+
+    return max(0, min(100, score))
+
+
+def get_tier(score: int) -> str:
+    """S/A/B/C tier по score."""
+    if score >= 80:
+        return "S"
+    if score >= 60:
+        return "A"
+    if score >= 40:
+        return "B"
+    return "C"
+
+
+# ── Точный speed test ────────────────────────────────────────────────────────
+_SPEED_URLS = [
+    "https://speed.cloudflare.com/__down?bytes=10485760",  # 10MB Cloudflare
+    "https://proof.ovh.net/files/10Mb.dat",  # 10MB OVH
+    "http://speedtest.tele2.net/10MB.zip",  # 10MB Tele2
+    "https://speed.hetzner.de/10MB.bin",  # 10MB Hetzner
+]
+
+
+def measure_speed(port: int) -> float:
+    """
+    Точный замер скорости через SOCKS5 прокси (Мбит/с).
+
+    Ключевое: таймер стартует ПОСЛЕ получения заголовков (соединение установлено),
+    так что latency не входит в измерение — чистая пропускная способность.
+    """
+    limit_bytes = int(CFG["speed_max_mb"] * 1024 * 1024)
+    read_timeout = CFG["speed_timeout"]
+    proxies = {
+        "http": f"socks5h://127.0.0.1:{port}",
+        "https": f"socks5h://127.0.0.1:{port}",
+    }
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Accept": "*/*",
+        "Connection": "keep-alive",
+    }
+
+    for url in _SPEED_URLS:
+        try:
+            # timeout=(подключение, чтение) — разделяем время установки и передачи
+            with requests.get(
+                url,
+                proxies=proxies,
+                headers=headers,
+                stream=True,
+                timeout=(5, read_timeout),
+                verify=False,
+            ) as r:
+                if r.status_code >= 400:
+                    continue
+
+                # ❤ Таймер стартует ЗДЕСЬ — после установки соединения,
+                # поэтому latency НЕ входит в измерение
+                t_start = time.time()
+                total_bytes = 0
+
+                for chunk in r.iter_content(chunk_size=65536):
+                    if chunk:
+                        total_bytes += len(chunk)
+                    if total_bytes >= limit_bytes:
+                        break
+                    if (time.time() - t_start) >= read_timeout:
+                        break
+
+                elapsed = time.time() - t_start
+
+                # Требуем минимум 200KB за 0.5с для достоверного замера
+                if elapsed < 0.5 or total_bytes < 200_000:
+                    continue
+
+                mbps = (total_bytes * 8) / elapsed / 1_000_000
+                return round(mbps, 2)
+
+        except Exception:
+            continue
+
+    return 0.0
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -795,21 +1054,95 @@ def check_one(uri: str, socks_port: int, test_url: str) -> dict | None:
         if proc.poll() is not None:
             return None
 
-        # Проверка соединения
-        ms = check_via_socks5(socks_port, test_url, CFG["timeout"])
+        t = CFG["timeout"]
 
-        # Retry при EOF/connection aborted (как в MK)
-        if ms is None:
-            time.sleep(0.35)
-            ms = check_via_socks5(socks_port, test_url, CFG["timeout"])
+        # ── 1. TTFB + Uptime (3 попытки с паузой) ──────────────────────────
+        pings: list[int] = []
+        for attempt in range(3):
+            if attempt > 0:
+                time.sleep(1.0)
+            ms_i = ttfb_check(socks_port, test_url, t)
+            if ms_i is None:
+                # retry (MK pattern)
+                time.sleep(0.35)
+                ms_i = ttfb_check(socks_port, test_url, t)
+            if ms_i is not None:
+                pings.append(ms_i)
 
-        if ms is None:
+        uptime_ratio = len(pings) / 3
+
+        if uptime_ratio < 0.34:  # ни одного успеха из 3
             return None
+
+        ms = round(sum(pings) / len(pings))  # средний latency
+        jitter = (max(pings) - min(pings)) if len(pings) > 1 else 0.0
+
         if CFG["max_ping_ms"] and ms > CFG["max_ping_ms"]:
             return None
+        if ms < 5:  # подозрительно быстро
+            return None
 
-        exit_ip = get_exit_ip(socks_port, timeout=3)
-        result = {"uri": uri, "latency": ms, "exit_ip": exit_ip}
+        # ── 2. HTTPS тест ───────────────────────────────────────────────────
+        proxies = {
+            "http": f"socks5h://127.0.0.1:{socks_port}",
+            "https": f"socks5h://127.0.0.1:{socks_port}",
+        }
+        https_ok = False
+        for https_url in (
+            "https://www.google.com/generate_204",
+            "https://cp.cloudflare.com/generate_204",
+        ):
+            try:
+                r = requests.get(https_url, proxies=proxies, timeout=t, verify=False)
+                if r.status_code < 400:
+                    https_ok = True
+                    break
+            except Exception:
+                pass
+        if not https_ok:
+            return None
+
+        # ── 3. Exit IP + Fraud Score + Datacenter flag ──────────────────────
+        exit_ip, fraud_score, is_datacenter = get_exit_info(socks_port, timeout=4)
+
+        if exit_ip and REAL_IP and exit_ip == REAL_IP:
+            return None  # IP leak — трафик не идёт через VPN
+
+        # ── 4. DNS Leak test ────────────────────────────────────────────────
+        dns_ok = check_dns_leak(socks_port, timeout=4)
+
+        # ── 5. Speed test (если включён) ────────────────────────────────────
+        speed_mbps = measure_speed(socks_port) if CFG["check_speed"] else 0.0
+        if CFG["check_speed"] and CFG["min_speed_mbps"] > 0:
+            if speed_mbps < CFG["min_speed_mbps"]:
+                return None
+
+        # ── 6. Score + Tier ─────────────────────────────────────────────────
+        score = calculate_score(
+            latency_ms=ms,
+            jitter_ms=jitter,
+            uptime_ratio=uptime_ratio,
+            https_ok=https_ok,
+            dns_ok=dns_ok,
+            fraud_score=fraud_score,
+            speed_mbps=speed_mbps,
+        )
+        tier = get_tier(score)
+
+        result = {
+            "uri": uri,
+            "latency": ms,
+            "jitter": round(jitter, 1),
+            "uptime_ratio": round(uptime_ratio, 2),
+            "exit_ip": exit_ip,
+            "fraud_score": fraud_score,
+            "is_datacenter": is_datacenter,
+            "dns_ok": dns_ok,
+            "https_ok": https_ok,
+            "speed_mbps": speed_mbps,
+            "score": score,
+            "tier": tier,
+        }
 
     except Exception:
         pass
@@ -842,9 +1175,29 @@ def mihomo_check_all(uris: list[str]) -> list[dict]:
 
     print(f"🛡️  Mihomo проверка {total} ключей (workers={CFG['workers']})...")
 
-    # Каждый поток получает эксклюзивный диапазон портов чтобы не было конфликтов
     workers = CFG["workers"]
-    chunk_size = (total + workers - 1) // workers  # разбиваем на N поровных частей
+    chunk_size = max(1, (total + workers - 1) // workers)
+
+    # ╔═ Аудит портов ════════════════════════════════════════════════════════
+    # Каждый воркер t_idx использует порты:
+    #   base_port + t_idx*chunk_size, ..., base_port + t_idx*chunk_size + len(chunk)-1
+    # Диапазоны НЕ пересекаются — каждый воркер идёт секвенциально.
+    # Проверка:
+    all_ranges = [
+        set(
+            range(
+                base_port + i * chunk_size,
+                base_port + i * chunk_size + min(chunk_size, total - i * chunk_size),
+            )
+        )
+        for i in range(min(workers, total))
+    ]
+    for a in range(len(all_ranges)):
+        for b in range(a + 1, len(all_ranges)):
+            overlap = all_ranges[a] & all_ranges[b]
+            if overlap:
+                print(f"[BUG] Port conflict between workers {a} and {b}: {overlap}")
+    # ╚══════════════════════════════════════════════════════════════
 
     def worker_thread(chunk: list[str], port_offset: int):
         """MK подход: последовательная проверка внутри потока, потоки параллельны между собой."""
@@ -1019,6 +1372,15 @@ def save_results(working: list[dict]):
 
     enriched.sort(key=sort_key)
 
+    # Фильтруем C-tier если слишком много ключей (оставляем S/A/B)
+    # C-tier можно убрать чтобы не засорять подписки
+    # enriched = [r for r in enriched if r.get("tier", "C") != "C"]
+
+    # Группировка по tier
+    by_tier = {"S": [], "A": [], "B": [], "C": []}
+    for r in enriched:
+        by_tier[r.get("tier", "C")].append(r)
+
     # ── all_working.txt ───────────────────────────────────────────────────────
     all_keys = [r["final_uri"] for r in enriched]
     (RESULTS / "all_working.txt").write_text("\n".join(all_keys), encoding="utf-8")
@@ -1050,15 +1412,71 @@ def save_results(working: list[dict]):
         # Сохраняем raw
         (COUNTRIES / f"{code}.txt").write_text(content, encoding="utf-8")
 
-    # ── stats.json ────────────────────────────────────────────────────────────
+    # ── top_200.txt — 200 лучших по скорости (или score если speed off) ──────
+    has_speed = any(r.get("speed_mbps", 0) > 0 for r in enriched)
+    # top_200: берём S + A tier, сортируем по score
+    top_pool = by_tier["S"] + by_tier["A"]
+    if not top_pool:
+        top_pool = enriched
+    if has_speed:
+        top = sorted(top_pool, key=lambda x: -x.get("speed_mbps", 0))[:200]
+    else:
+        top = sorted(top_pool, key=lambda x: -x.get("score", 0))[:200]
+
+    top_header = SUB_HEADER.format(title="BobiVPN 🚀 Top 200 Fastest")
+    top_content = top_header + "\n".join(r["final_uri"] for r in top)
+    (RESULTS / "top_200.txt").write_text(top_content, encoding="utf-8")
+
+    top_b64 = base64.b64encode(top_content.encode("utf-8")).decode()
+    (RESULTS / "top_200_sub.txt").write_text(top_b64, encoding="utf-8")
+
+    # ── stats.json ──────────────────────────────────────────────────────────────────
+    latencies = [r["latency"] for r in enriched]
+    jitters = [r.get("jitter", 0) for r in enriched]
+    speeds = [r["speed_mbps"] for r in enriched if r.get("speed_mbps", 0) > 0]
+    scores = [r.get("score", 0) for r in enriched]
+
     stats = {
         "checked_at": time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime()),
         "total_working": len(enriched),
-        "countries": {k: len(v) for k, v in sorted(by_country.items())},
+        "tier_s": len(by_tier["S"]),
+        "tier_a": len(by_tier["A"]),
+        "tier_b": len(by_tier["B"]),
+        "tier_c": len(by_tier["C"]),
+        "avg_score": round(sum(scores) / len(scores), 1) if scores else 0,
+        "avg_latency_ms": round(sum(latencies) / len(latencies), 1) if latencies else 0,
+        "min_latency_ms": min(latencies) if latencies else 0,
+        "p95_latency_ms": sorted(latencies)[int(len(latencies) * 0.95)]
+        if latencies
+        else 0,
+        "avg_jitter_ms": round(sum(jitters) / len(jitters), 1) if jitters else 0,
+        "avg_speed_mbps": round(sum(speeds) / len(speeds), 2) if speeds else 0,
+        "max_speed_mbps": max(speeds) if speeds else 0,
+        "speed_checked": has_speed,
+        "countries": {
+            k: {
+                "count": len(v),
+                "avg_ping_ms": round(sum(r["latency"] for r in v) / len(v), 1),
+                "avg_score": round(sum(r.get("score", 0) for r in v) / len(v), 1),
+                "tier_s": sum(1 for r in v if r.get("tier") == "S"),
+                "tier_a": sum(1 for r in v if r.get("tier") == "A"),
+            }
+            for k, v in sorted(by_country.items())
+        },
     }
     (RESULTS / "stats.json").write_text(
         json.dumps(stats, indent=2, ensure_ascii=False), encoding="utf-8"
     )
+
+    # S-tier отдельный файл
+    s_keys = [r["final_uri"] for r in by_tier["S"]]
+    if s_keys:
+        s_header = SUB_HEADER.format(title="BobiVPN ⭐ S-Tier Elite")
+        (RESULTS / "tier_s.txt").write_text(
+            s_header + "\n".join(s_keys), encoding="utf-8"
+        )
+        s_b64 = base64.b64encode((s_header + "\n".join(s_keys)).encode()).decode()
+        (RESULTS / "tier_s_sub.txt").write_text(s_b64, encoding="utf-8")
 
     print(f"\n💾 Результаты сохранены:")
     print(f"   all_working.txt     — {len(all_keys)} ключей")
@@ -1095,9 +1513,141 @@ def parse_args():
     )
     ap.add_argument("--skip-tcp", action="store_true", help="Skip TCP pre-filter")
     ap.add_argument(
+        "--speed", action="store_true", help="Enable speed test in main pass"
+    )
+    ap.add_argument(
+        "--speed-only",
+        action="store_true",
+        help="Only run speed test on already-checked keys from all_working.txt",
+    )
+    ap.add_argument(
+        "--min-speed", type=float, default=0.0, help="Min speed Mbps (0=off)"
+    )
+    ap.add_argument(
+        "--speed-max-mb",
+        type=float,
+        default=10.0,
+        help="Max MB to download for speed test",
+    )
+    ap.add_argument(
         "--no-install", action="store_true", help="Don't auto-install mihomo"
     )
     return ap.parse_args()
+
+
+def speed_pass(working: list[dict]) -> list[dict]:
+    """
+    Второй проход: замер скорости только на рабочих ключах без повторной пинг-проверки.
+    Вход: list[{uri, latency, exit_ip, ...}]
+    Выход: тот же список с заполненным speed_mbps.
+    """
+    import threading
+
+    total = len(working)
+    base_port = (
+        25000  # Отдельный диапазон портов чтобы не пересекаться с основным проходом
+    )
+    workers = CFG["workers"]
+    chunk_size = max(1, (total + workers - 1) // workers)
+    results = [dict(r) for r in working]  # копия
+    lock = threading.Lock()
+    done_count = [0]
+
+    print(f"\n⚡ Speed pass на {total} ключах (workers={workers})...")
+
+    def worker_thread(chunk_indices: list[int], port_offset: int):
+        for i, idx in enumerate(chunk_indices):
+            port = base_port + port_offset + i
+            uri = results[idx]["uri"]
+
+            # Запускаем mihomo только для замера скорости
+            proxy_name = f"spd_{port}"
+            struct = parse_to_mihomo(uri)
+            if not struct:
+                with lock:
+                    done_count[0] += 1
+                    print(
+                        f"\r   {done_count[0]}/{total} speed tested", end="", flush=True
+                    )
+                continue
+
+            struct["name"] = proxy_name
+            struct["udp"] = False
+            config = make_mihomo_config(struct, proxy_name, port)
+            cfg_path = TMP_DIR / f"spd_{port}.json"
+
+            with open(cfg_path, "w", encoding="utf-8") as f:
+                json.dump(config, f)
+
+            proc = subprocess.Popen(
+                [str(get_mihomo_path()), "-f", str(cfg_path)],
+                stdout=subprocess.DEVNULL,
+                stderr=subprocess.DEVNULL,
+            )
+            speed = 0.0
+            try:
+                if wait_for_port(port, max(CFG["startup_timeout"], 3.0)):
+                    time.sleep(CFG["warmup_ms"] / 1000)
+                    if proc.poll() is None:
+                        speed = measure_speed(port)
+            except Exception:
+                pass
+            finally:
+                try:
+                    proc.kill()
+                    proc.wait(timeout=2)
+                except Exception:
+                    pass
+                time.sleep(CFG["kill_delay"])
+                try:
+                    cfg_path.unlink()
+                except Exception:
+                    pass
+
+            results[idx]["speed_mbps"] = speed
+
+            with lock:
+                done_count[0] += 1
+                print(
+                    f"\r   {done_count[0]}/{total} speed tested | "
+                    f"avg: {sum(r.get('speed_mbps', 0) for r in results) / max(1, done_count[0]):.1f} Mbps",
+                    end="",
+                    flush=True,
+                )
+
+    threads = []
+    for t_idx in range(workers):
+        start = t_idx * chunk_size
+        chunk = list(range(start, min(start + chunk_size, total)))
+        if not chunk:
+            break
+        t = threading.Thread(target=worker_thread, args=(chunk, start), daemon=True)
+        t.start()
+        threads.append(t)
+
+    for t in threads:
+        t.join()
+
+    measured = sum(1 for r in results if r.get("speed_mbps", 0) > 0)
+    avg = sum(r.get("speed_mbps", 0) for r in results) / max(1, measured)
+    print(f"\n✅ Speed: {measured}/{total} измерено | avg {avg:.1f} Mbps")
+    return results
+
+
+def load_working_from_file() -> list[dict]:
+    """Load already-checked keys from results/all_working.txt."""
+    path = RESULTS / "all_working.txt"
+    if not path.exists():
+        sys.exit(
+            f"❌ {path} не найден. Сначала запусти базовую проверку без --speed-only"
+        )
+    keys = [
+        line.strip()
+        for line in path.read_text(encoding="utf-8").splitlines()
+        if line.strip()
+    ]
+    print(f"📂 Загружено {len(keys)} ключей из {path}")
+    return [{"uri": k, "latency": 0, "exit_ip": "", "speed_mbps": 0.0} for k in keys]
 
 
 def self_test():
@@ -1224,6 +1774,9 @@ def main():
             "max_internal": args.max_internal,
             "warmup_ms": args.warmup,
             "max_ping_ms": args.max_ping,
+            "check_speed": args.speed,
+            "min_speed_mbps": args.min_speed,
+            "speed_max_mb": args.speed_max_mb,
         }
     )
 
@@ -1237,10 +1790,37 @@ def main():
     elif not is_mihomo_installed():
         sys.exit(f"❌ Mihomo не найден: {get_mihomo_path()}")
 
+    # Определяем реальный IP машины — для проверки IP leak
+    global REAL_IP
+    print("\n🔍 Определяю реальный IP...")
+    REAL_IP = detect_real_ip()
+    if REAL_IP:
+        print(f"   Реальный IP: {REAL_IP} (ключи с этим IP будут отбракованы)")
+    else:
+        print("   ⚠️  Не удалось определить реальный IP — IP leak проверка отключена")
+
     # Самодиагностика
     print("\n[Self-test]")
     self_test()
 
+    # ════════════════════════════════════════════════════════════
+    # РЕЖИМ 2: --speed-only
+    # Загружаем уже проверенные ключи, замеряем скорость, обновляем файлы.
+    # ════════════════════════════════════════════════════════════
+    if args.speed_only:
+        CFG["check_speed"] = True
+        working = load_working_from_file()
+        working = speed_pass(working)
+        if not working:
+            print("⚠️  Нет ключей для speed pass")
+            return
+        save_results(working)
+        print("\n✅ Speed pass завершён!")
+        return
+
+    # ════════════════════════════════════════════════════════════
+    # РЕЖИМ 1: БАЗОВАЯ ПРОВЕРКА (по умолчанию)
+    # ════════════════════════════════════════════════════════════
     # Шаг 1: Сбор
     urls = load_subscription_urls()
     raw_keys = fetch_all_keys(urls)

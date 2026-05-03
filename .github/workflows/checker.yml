@@ -26,16 +26,25 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt PySocks
 
-      - name: Run checker
+      - name: Run checker (basic pass)
         run: |
           python checker.py \
             --workers 50 \
-            --batch 50 \
             --timeout 3 \
             --tcp-timeout 2 \
             --tcp-workers 300 \
             --warmup 600 \
             --max-ping 1500
+        env:
+          PYTHONUNBUFFERED: "1"
+
+      - name: Run speed pass (on working keys only)
+        run: |
+          python checker.py \
+            --speed-only \
+            --workers 30 \
+            --warmup 600 \
+            --speed-max-mb 10
         env:
           PYTHONUNBUFFERED: "1"
 
