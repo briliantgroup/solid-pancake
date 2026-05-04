@@ -364,6 +364,7 @@ def extract_keys(text: str) -> list[str]:
                 "ss://",
                 "hy2://",
                 "hysteria2://",
+                "tuic://",
             )
         ):
             keys.append(line)
@@ -458,6 +459,9 @@ def get_uri_identity(uri: str):
 
         if proto in ("hysteria2", "hy2"):
             return ("hy2", host, port, p.username or "")
+
+        if proto == "tuic":
+            return ("tuic", host, port, p.username or "")
 
     except Exception:
         pass
@@ -634,6 +638,71 @@ def _net_opts(proto_conf: dict) -> dict:
     return {}
 
 
+# Известные Cloudflare IP диапазоны (неполный список — самые частые)
+_CF_PREFIXES = (
+    "172.64.",
+    "172.65.",
+    "172.66.",
+    "172.67.",
+    "104.16.",
+    "104.17.",
+    "104.18.",
+    "104.19.",
+    "104.20.",
+    "104.21.",
+    "173.245.",
+    "108.162.",
+    "190.93.",
+    "188.114.",
+    "197.234.",
+    "198.41.",
+    "162.158.",
+    "103.21.",
+    "103.22.",
+    "103.31.",
+    "141.101.",
+)
+
+
+def _is_cdn_ip(server: str) -> bool:
+    """True если IP принадлежит CDN (главным образом Cloudflare)."""
+    return any(server.startswith(p) for p in _CF_PREFIXES)
+
+
+def _fix_cdn_fronting(proxy: dict, sni: str) -> dict:
+    """
+    Фикс для CDN-fronting ключей (Cloudflare и др.).
+
+    Проблема: URI содержит SNI/servername, но не содержит host параметр.
+    Cloudflare маршрутизирует трафик по HTTP Host header (для WS) или TLS SNI.
+    Если Host заголовок пустой, соединение отклоняется.
+    """
+    server = proxy.get("server", "")
+    network = proxy.get("network", "tcp")
+
+    # Используем servername если sni не передан
+    effective_sni = sni or proxy.get("servername", "") or proxy.get("sni", "")
+
+    # Если SNI является IP адресом (= параметр не задан) — нечего делать
+    if not effective_sni or effective_sni == server:
+        return proxy
+
+    # Для WS: если Host header пустой — заполняем SNI
+    if network == "ws":
+        ws_opts = proxy.setdefault("ws-opts", {})
+        headers = ws_opts.setdefault("headers", {})
+        if not headers.get("Host"):
+            headers["Host"] = effective_sni
+
+    # Для HTTP Upgrade: то же самое
+    if network == "http-upgrade":
+        opts = proxy.setdefault("http-upgrade-opts", {})
+        if not opts.get("host"):
+            opts["host"] = effective_sni
+
+    return proxy
+
+
 def parse_to_mihomo(uri: str) -> dict | None:
     """Конвертирует URI в mihomo proxy dict."""
     try:
@@ -672,7 +741,8 @@ def parse_to_mihomo(uri: str) -> dict | None:
                 "skip-cert-verify": True,
             }
             proxy.update(_net_opts(conf))
-            return proxy
+            vmess_sni = data.get("sni", "") or data.get("host", "")
+            return _fix_cdn_fronting(proxy, vmess_sni)
 
         p = urllib.parse.urlparse(clean)
         qs = _qs(p.query)
@@ -721,9 +791,9 @@ def parse_to_mihomo(uri: str) -> dict | None:
                     reality["short-id"] = sid
                 proxy["reality-opts"] = reality
             proxy.update(_net_opts(conf_for_net))
-            return proxy
+            return _fix_cdn_fronting(proxy, sni)
 
-        # ── Trojan ───────────────────────────────────────────────────────
+        # ── Trojan ───────────────────────────────────────────────────────────────────────────────
         if proto == "trojan":
             pw = urllib.parse.unquote(p.username or "")
             if not pw:
@@ -738,7 +808,7 @@ def parse_to_mihomo(uri: str) -> dict | None:
                 "tls": True,
             }
             proxy.update(_net_opts(conf_for_net))
-            return proxy
+            return _fix_cdn_fronting(proxy, sni)
 
         # ── Shadowsocks ──────────────────────────────────────────────────
         if proto == "ss":
@@ -766,6 +836,7 @@ def parse_to_mihomo(uri: str) -> dict | None:
             }
 
         # ── Hysteria2 ────────────────────────────────────────────────────
+        # ── Hysteria2 ───────────────────────────────────────────────────────────────────────────────
         if proto in ("hysteria2", "hy2"):
             pw = p.username or ""
             if not pw:
@@ -782,6 +853,45 @@ def parse_to_mihomo(uri: str) -> dict | None:
             if obfs and obfs != "none":
                 proxy["obfs"] = obfs
                 proxy["obfs-password"] = qs.get("obfs-password", "")
+            return proxy
+
+        # ── TUIC v5 ───────────────────────────────────────────────────────────────────────────
+        # Формат: tuic://uuid:password@server:port?sni=...&alpn=...&congestion_control=...
+        if proto == "tuic":
+            # userinfo: uuid:password (base64 или plaintext)
+            userinfo = p.username or ""
+            raw_pass = urllib.parse.unquote(p.password or "")
+
+            # Некоторые клиенты кодируют uuid:password как base64 в username
+            if not raw_pass:
+                try:
+                    decoded = base64.b64decode(pad_b64(userinfo)).decode(
+                        "utf-8", errors="ignore"
+                    )
+                    if ":" in decoded:
+                        userinfo, raw_pass = decoded.split(":", 1)
+                except Exception:
+                    pass
+
+            if not userinfo:
+                return None
+
+            proxy = {
+                "type": "tuic",
+                "server": host,
+                "port": port,
+                "uuid": userinfo,
+                "password": raw_pass or "",
+                "sni": sni,
+                "skip-cert-verify": True,
+                "alpn": [
+                    a.strip() for a in qs.get("alpn", "h3").split(",") if a.strip()
+                ],
+                "congestion-controller": qs.get("congestion_control", "")
+                or qs.get("congestion-control", "bbr"),
+                "udp-relay-mode": qs.get("udp_relay_mode", "native"),
+                "disable-sni": False,
+            }
             return proxy
 
     except Exception as e:
@@ -1117,7 +1227,8 @@ def check_one(uri: str, socks_port: int, test_url: str) -> dict | None:
     proxy_name = f"out_{socks_port}"
     struct = parse_to_mihomo(uri)
     if not struct:
-        _fail("parse_fail", uri)
+        proto = uri.split("://")[0].lower() if "://" in uri else "unknown"
+        _fail(f"parse_fail({proto})", uri)
         return None
 
     struct["name"] = proxy_name
