@@ -63,13 +63,26 @@ DEBUG_LOG: list[str] = []  # первые 20 причин отказа с URI
 DEBUG_MAX = 20  # сколько деталей сохранять
 
 
+VERBOSE_LIMIT = 15  # первые N фейлов печатаем сразу
+_verbose_count = 0
+
+
 def _fail(reason: str, uri: str = "") -> None:
     """Атомарно инкрементирует счётчик и записывает первые N деталей."""
+    global _verbose_count
     with _stats_lock:
         FAIL_STATS[reason] += 1
         if len(DEBUG_LOG) < DEBUG_MAX and uri:
             short = uri[:80] + ("..." if len(uri) > 80 else "")
             DEBUG_LOG.append(f"[{reason}] {short}")
+        # Мгновенный вывод первых VERBOSE_LIMIT фейлов
+        if _verbose_count < VERBOSE_LIMIT:
+            _verbose_count += 1
+            short_uri = (uri[:70] + "...") if len(uri) > 70 else uri
+            print(
+                f"\n  ❌ FAIL[{_verbose_count}] {reason}\n       {short_uri}",
+                flush=True,
+            )
 
 
 def print_fail_stats() -> None:
@@ -1266,11 +1279,17 @@ def mihomo_check_all(uris: list[str]) -> list[dict]:
                 done_count[0] += 1
                 if res:
                     all_results.append(res)
+                d = done_count[0]
                 print(
-                    f"\r   {done_count[0]}/{total} проверено | рабочих: {len(all_results)}",
+                    f"\r   {d}/{total} проверено | рабочих: {len(all_results)}",
                     end="",
                     flush=True,
                 )
+                # Периодическая статистика каждые 100 ключей
+                if d % 100 == 0 and FAIL_STATS:
+                    top = sorted(FAIL_STATS.items(), key=lambda x: -x[1])[:4]
+                    top_str = " | ".join(f"{r}:{c}" for r, c in top)
+                    print(f"\n  [стат @{d}] {top_str}", flush=True)
 
     threads = []
     for t_idx in range(workers):
