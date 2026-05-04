@@ -1358,10 +1358,17 @@ def mihomo_check_all(uris: list[str]) -> list[dict]:
                     flush=True,
                 )
                 # Периодическая статистика каждые 100 ключей
-                if d % 100 == 0 and FAIL_STATS:
-                    top = sorted(FAIL_STATS.items(), key=lambda x: -x[1])[:4]
-                    top_str = " | ".join(f"{r}:{c}" for r, c in top)
-                    print(f"\n  [стат @{d}] {top_str}", flush=True)
+                if d % 100 == 0:
+                    all_f = sorted(FAIL_STATS.items(), key=lambda x: -x[1])
+                    fails_str = (
+                        " | ".join(f"{r}:{c}" for r, c in all_f) if all_f else "none"
+                    )
+                    total_fail = sum(c for _, c in all_f)
+                    print(
+                        f"\n  [стат @{d}] рабочих:{len(all_results)} фейлов:{total_fail}\n"
+                        f"  {fails_str}",
+                        flush=True,
+                    )
 
     threads = []
     for t_idx in range(workers):
