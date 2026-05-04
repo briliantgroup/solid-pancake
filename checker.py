@@ -54,6 +54,42 @@ TMP_DIR.mkdir(exist_ok=True)
 # ─── Реальный IP машины (определяется при старте) ────────────────────────────
 REAL_IP: str = ""
 
+# ─── Счётчики фейлов (для диагностики 0 результатов) ─────────────────────────
+import threading as _threading
+
+_stats_lock = _threading.Lock()
+FAIL_STATS: dict[str, int] = defaultdict(int)
+DEBUG_LOG: list[str] = []  # первые 20 причин отказа с URI
+DEBUG_MAX = 20  # сколько деталей сохранять
+
+
+def _fail(reason: str, uri: str = "") -> None:
+    """Атомарно инкрементирует счётчик и записывает первые N деталей."""
+    with _stats_lock:
+        FAIL_STATS[reason] += 1
+        if len(DEBUG_LOG) < DEBUG_MAX and uri:
+            short = uri[:80] + ("..." if len(uri) > 80 else "")
+            DEBUG_LOG.append(f"[{reason}] {short}")
+
+
+def print_fail_stats() -> None:
+    """Печатает итоговую статистику фейлов."""
+    print("\n" + "=" * 60)
+    print("  ДИАГНОСТИКА: почему ключи отбракованы")
+    print("=" * 60)
+    if not FAIL_STATS:
+        print("  (нет данных — все ключи прошли или не дошли до проверки)")
+    else:
+        total_fail = sum(FAIL_STATS.values())
+        for reason, cnt in sorted(FAIL_STATS.items(), key=lambda x: -x[1]):
+            bar = "#" * min(40, int(cnt / total_fail * 40))
+            print(f"  {reason:<35} {cnt:>6}  {bar}")
+    if DEBUG_LOG:
+        print("\n  Первые примеры:")
+        for line in DEBUG_LOG:
+            print(f"    {line}")
+    print("=" * 60)
+
 
 def detect_real_ip() -> str:
     """Узнаём реальный IP машины без прокси."""
@@ -702,8 +738,9 @@ def parse_to_mihomo(uri: str) -> dict | None:
                 proxy["obfs-password"] = qs.get("obfs-password", "")
             return proxy
 
-    except Exception:
-        pass
+    except Exception as e:
+        proto = uri.split("://")[0].lower() if "://" in uri else "unknown"
+        _fail(f"parse_exception({proto},{type(e).__name__})", uri)
     return None
 
 
@@ -1016,11 +1053,12 @@ def make_mihomo_config(proxy_struct: dict, proxy_name: str, socks_port: int) -> 
 def check_one(uri: str, socks_port: int, test_url: str) -> dict | None:
     """
     Проверяет одну прокси через отдельный mihomo процесс.
-    Порт каквалогица MK Checker_mihomo — один процесс = одна прокси.
+    Порт каквалогика MK Checker_mihomo — один процесс = одна прокси.
     """
     proxy_name = f"out_{socks_port}"
     struct = parse_to_mihomo(uri)
     if not struct:
+        _fail("parse_fail", uri)
         return None
 
     struct["name"] = proxy_name
@@ -1046,48 +1084,63 @@ def check_one(uri: str, socks_port: int, test_url: str) -> dict | None:
         # Поллинг порта (как wait_for_core_start в MK)
         max_wait = max(CFG["startup_timeout"], 4.0)
         if not wait_for_port(socks_port, max_wait):
+            # Проверяем почему не стартовал: вышел процесс или таймаут
+            reason = (
+                "port_timeout_proc_died" if proc.poll() is not None else "port_timeout"
+            )
+            _fail(reason, uri)
             return None
 
         # Прогрев после открытия порта
         time.sleep(CFG["warmup_ms"] / 1000)
 
         if proc.poll() is not None:
+            _fail("proc_died_after_warmup", uri)
             return None
 
         t = CFG["timeout"]
 
-        # ── 1. TTFB + Uptime (3 попытки с паузой) ──────────────────────────
+        # ── 1. TTFB + Uptime (3 попытки с паузой) ──────────────────────────────
         pings: list[int] = []
+        ttfb_errors: list[str] = []
         for attempt in range(3):
             if attempt > 0:
                 time.sleep(1.0)
             ms_i = ttfb_check(socks_port, test_url, t)
             if ms_i is None:
+                ttfb_errors.append(f"attempt{attempt + 1}=None")
                 # retry (MK pattern)
                 time.sleep(0.35)
                 ms_i = ttfb_check(socks_port, test_url, t)
+                if ms_i is None:
+                    ttfb_errors.append(f"retry{attempt + 1}=None")
             if ms_i is not None:
                 pings.append(ms_i)
 
         uptime_ratio = len(pings) / 3
 
         if uptime_ratio < 0.34:  # ни одного успеха из 3
+            errs = ",".join(ttfb_errors[:3]) or "all_none"
+            _fail(f"uptime_low({errs})", uri)
             return None
 
         ms = round(sum(pings) / len(pings))  # средний latency
         jitter = (max(pings) - min(pings)) if len(pings) > 1 else 0.0
 
         if CFG["max_ping_ms"] and ms > CFG["max_ping_ms"]:
+            _fail(f"max_ping_exceeded({ms}>{CFG['max_ping_ms']})", uri)
             return None
         if ms < 5:  # подозрительно быстро
+            _fail(f"ping_too_low({ms}ms)", uri)
             return None
 
-        # ── 2. HTTPS тест ───────────────────────────────────────────────────
+        # ── 2. HTTPS тест ──────────────────────────────────────────────────────
         proxies = {
             "http": f"socks5h://127.0.0.1:{socks_port}",
             "https": f"socks5h://127.0.0.1:{socks_port}",
         }
         https_ok = False
+        https_exc = ""
         for https_url in (
             "https://www.google.com/generate_204",
             "https://cp.cloudflare.com/generate_204",
@@ -1097,24 +1150,29 @@ def check_one(uri: str, socks_port: int, test_url: str) -> dict | None:
                 if r.status_code < 400:
                     https_ok = True
                     break
-            except Exception:
-                pass
+                else:
+                    https_exc = f"http_{r.status_code}"
+            except Exception as e:
+                https_exc = type(e).__name__
         if not https_ok:
+            _fail(f"https_fail({https_exc})", uri)
             return None
 
-        # ── 3. Exit IP + Fraud Score + Datacenter flag ──────────────────────
+        # ── 3. Exit IP + Fraud Score + Datacenter flag ──────────────────────────
         exit_ip, fraud_score, is_datacenter = get_exit_info(socks_port, timeout=4)
 
         if exit_ip and REAL_IP and exit_ip == REAL_IP:
+            _fail("ip_leak", uri)
             return None  # IP leak — трафик не идёт через VPN
 
-        # ── 4. DNS Leak test ────────────────────────────────────────────────
+        # ── 4. DNS Leak test ─────────────────────────────────────────────────────────
         dns_ok = check_dns_leak(socks_port, timeout=4)
 
-        # ── 5. Speed test (если включён) ────────────────────────────────────
+        # ── 5. Speed test (если включён) ───────────────────────────────────────
         speed_mbps = measure_speed(socks_port) if CFG["check_speed"] else 0.0
         if CFG["check_speed"] and CFG["min_speed_mbps"] > 0:
             if speed_mbps < CFG["min_speed_mbps"]:
+                _fail(f"speed_too_low({speed_mbps:.1f}<{CFG['min_speed_mbps']})", uri)
                 return None
 
         # ── 6. Score + Tier ─────────────────────────────────────────────────
@@ -1144,8 +1202,8 @@ def check_one(uri: str, socks_port: int, test_url: str) -> dict | None:
             "tier": tier,
         }
 
-    except Exception:
-        pass
+    except Exception as e:
+        _fail(f"exception({type(e).__name__})", uri)
     finally:
         try:
             proc.kill()
@@ -1228,6 +1286,7 @@ def mihomo_check_all(uris: list[str]) -> list[dict]:
         t.join()
 
     print(f"\n✅ Рабочих ключей: {len(all_results)}/{total}")
+    print_fail_stats()
     return all_results
 
 
