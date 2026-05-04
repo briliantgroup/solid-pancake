@@ -11,7 +11,7 @@ permissions:
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 120
 
     steps:
       - name: Checkout
@@ -19,6 +19,8 @@ jobs:
 
       - name: Setup Python
         uses: actions/setup-python@v5
+        # v5 требует Node.js 20+ — предупреждение можно игнорировать,
+        # или перейти на setup-python@v6 когда выйдет
         with:
           python-version: "3.11"
           cache: "pip"
@@ -29,11 +31,11 @@ jobs:
       - name: Run checker (basic pass)
         run: |
           python checker.py \
-            --workers 50 \
+            --workers 100 \
             --timeout 3 \
             --tcp-timeout 2 \
-            --tcp-workers 300 \
-            --warmup 600 \
+            --tcp-workers 500 \
+            --warmup 400 \
             --max-ping 1500
         env:
           PYTHONUNBUFFERED: "1"
@@ -42,9 +44,9 @@ jobs:
         run: |
           python checker.py \
             --speed-only \
-            --workers 30 \
-            --warmup 600 \
-            --speed-max-mb 10
+            --workers 50 \
+            --warmup 400 \
+            --speed-max-mb 5
         env:
           PYTHONUNBUFFERED: "1"
 

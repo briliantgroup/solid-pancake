@@ -142,16 +142,33 @@ CFG = {
 }
 
 # ─── Allowed SS ciphers ───────────────────────────────────────────────────────
+# Mihomo (в отличие от Xray) поддерживает stream ciphers — расширяем список
 SS_ALLOWED = {
+    # SS 2022 (новые)
     "2022-blake3-aes-128-gcm",
     "2022-blake3-aes-256-gcm",
     "2022-blake3-chacha20-poly1305",
+    # AEAD (рекомендуемые)
     "aes-128-gcm",
     "aes-256-gcm",
     "chacha20-poly1305",
     "chacha20-ietf-poly1305",
     "xchacha20-poly1305",
     "xchacha20-ietf-poly1305",
+    # Stream ciphers — Mihomo поддерживает, Xray нет
+    "aes-128-cfb",
+    "aes-256-cfb",
+    "aes-128-ctr",
+    "aes-192-ctr",
+    "aes-256-ctr",
+    "rc4-md5",
+    "chacha20",
+    "chacha20-ietf",
+    "bf-cfb",
+    "camellia-128-cfb",
+    "camellia-192-cfb",
+    "camellia-256-cfb",
+    "salsa20",
     "none",
     "plain",
 }
