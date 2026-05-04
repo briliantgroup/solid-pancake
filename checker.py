@@ -483,18 +483,21 @@ def deduplicate(keys: list[str]) -> list[str]:
     seen = set()
     result = []
     dupes = 0
+    invalid = 0  # FIX #15: считаем невалидные URI
     for k in keys:
         ident = get_uri_identity(k)
         if ident is None:
+            invalid += 1
             continue
         if ident in seen:
             dupes += 1
             continue
         seen.add(ident)
         result.append(k)
-    print(
-        f"🔄 Дедупликация: {len(keys)} → {len(result)} ключей (убрано {dupes} дублей)"
-    )
+    msg = f"🔄 Дедупликация: {len(keys)} → {len(result)} (дублей: {dupes}"
+    if invalid:
+        msg += f", невалидных: {invalid}"
+    print(msg + ")")
     return result
 
 
@@ -574,6 +577,11 @@ def _qs(query: str) -> dict:
 
 
 def _net_opts(proto_conf: dict) -> dict:
+    """
+    Маппинг типов сети в Mihomo формат.
+
+    БАГ был: h2 добавлялся в WS-группу — в Mihomo h2 это отдельный network тип.
+    """
     raw = re.sub(
         r"[^a-z0-9]",
         "",
@@ -584,22 +592,45 @@ def _net_opts(proto_conf: dict) -> dict:
 
     if raw in ("tcp", "", "none"):
         return {}
+
+    # WebSocket
     if raw in ("ws", "websocket"):
         ws = {"path": path}
         if host:
             ws["headers"] = {"Host": host}
         return {"network": "ws", "ws-opts": ws}
-    if raw in ("httpupgrade", "xhttp", "h2", "http"):
+
+    # HTTP Upgrade (отдельный тип в Mihomo 1.17+)
+    if raw == "httpupgrade":
+        opts: dict = {"path": path}
+        if host:
+            opts["host"] = host
+        return {"network": "http-upgrade", "http-upgrade-opts": opts}
+
+    # xhttp — Mihomo не поддерживает, падаем на WS как fallback
+    if raw == "xhttp":
         ws = {"path": path, "v2ray-http-upgrade": True}
         if host:
             ws["headers"] = {"Host": host}
         return {"network": "ws", "ws-opts": ws}
+
+    # HTTP/2 — отдельный network в Mihomo, НЕ WS!
+    if raw in ("h2", "http"):
+        h2: dict = {}
+        if host:
+            h2["host"] = [host]
+        if path and path != "/":
+            h2["path"] = path
+        return {"network": "h2", "h2-opts": h2} if h2 else {"network": "h2"}
+
+    # gRPC
     if raw in ("grpc", "gun"):
         sn = proto_conf.get("serviceName") or path.strip("/")
         g = {}
         if sn:
             g["grpc-service-name"] = sn
         return {"network": "grpc", "grpc-opts": g} if g else {"network": "grpc"}
+
     return {}
 
 
@@ -625,7 +656,9 @@ def parse_to_mihomo(uri: str) -> dict | None:
                 "raw_type": raw,
                 "path": data.get("path", "/"),
                 "host": data.get("host", ""),
-                "serviceName": data.get("path", ""),
+                # FIX #11: VMess gRPC serviceName — сначала проверяем специальное поле,
+                # если нет — берём из path (как в оригинальном VMess формате)
+                "serviceName": data.get("serviceName") or data.get("path", ""),
             }
             proxy = {
                 "type": "vmess",
@@ -863,7 +896,11 @@ def check_dns_leak(port: int, timeout: int = 5) -> bool:
 def ttfb_check(port: int, url: str, timeout: int) -> int | None:
     """
     TTFB (Time To First Byte) — более точная метрика latency.
-    Измеряем время до получения первого байта данных.
+
+    БАГ был: iter_content(1) на HTTP 204/304 (без тела) никогда не даёт байтов
+    → всегда None → uptime_low для всех ключей с generate_204.
+
+    ФИКС: для 204/304 измеряем время до заголовков ответа (это и есть настоящий TTFB).
     """
     proxies = {
         "http": f"socks5h://127.0.0.1:{port}",
@@ -876,11 +913,18 @@ def ttfb_check(port: int, url: str, timeout: int) -> int | None:
         ) as r:
             if r.status_code >= 400:
                 return None
-            # Ждём первый байт
+
+            # HTTP 204/304 — нет тела, но соединение успешное.
+            # Время до заголовков — и есть TTFB.
+            if r.status_code in (204, 304):
+                return max(1, int((time.time() - t) * 1000))
+
+            # Для других кодов — ждём первый байт тела
             for chunk in r.iter_content(1):
                 if chunk:
                     return int((time.time() - t) * 1000)
-        return None
+            # Если тело пустое но статус ок — всё равно успех
+            return max(1, int((time.time() - t) * 1000))
     except Exception:
         return None
 
@@ -917,8 +961,10 @@ def calculate_score(
     elif latency_ms < 600:
         score += 5
 
-    # Jitter
-    if jitter_ms < 10:
+    # Jitter (FIX #16: 0.0 при 1 измерении — нейтральный балл, не 25 очков)
+    if jitter_ms == 0.0:  # единственное измерение — даём средний балл
+        score += 10
+    elif jitter_ms < 10:
         score += 20
     elif jitter_ms < 50:
         score += 12
@@ -1086,22 +1132,41 @@ def check_one(uri: str, socks_port: int, test_url: str) -> dict | None:
     except Exception:
         return None
 
+    # FIX #10+#14: stderr=PIPE чтобы видеть ошибки при падении,
+    # дренируем в фоновом потоке чтобы не забивался pipe buffer
     proc = subprocess.Popen(
         [str(get_mihomo_path()), "-f", str(cfg_path)],
         stdout=subprocess.DEVNULL,
-        stderr=subprocess.DEVNULL,
+        stderr=subprocess.PIPE,
     )
+    _stderr_buf: list[bytes] = []
+
+    def _drain_stderr():
+        try:
+            data = proc.stderr.read() if proc.stderr else b""
+            if data:
+                _stderr_buf.append(data)
+        except Exception:
+            pass
+
+    _drain_t = __import__("threading").Thread(target=_drain_stderr, daemon=True)
+    _drain_t.start()
 
     result = None
     try:
         # Поллинг порта (как wait_for_core_start в MK)
         max_wait = max(CFG["startup_timeout"], 4.0)
         if not wait_for_port(socks_port, max_wait):
-            # Проверяем почему не стартовал: вышел процесс или таймаут
-            reason = (
-                "port_timeout_proc_died" if proc.poll() is not None else "port_timeout"
-            )
-            _fail(reason, uri)
+            if proc.poll() is not None:
+                # Читаем из буфера дренера stderr
+                _drain_t.join(timeout=1.0)
+                err_bytes = b"".join(_stderr_buf)
+                err_msg = (
+                    err_bytes.decode(errors="ignore").strip()[-200:] or "no stderr"
+                )
+                _fail(f"proc_died: {err_msg[:80]}", uri)
+            else:
+                _fail("port_timeout", uri)
             return None
 
         # Прогрев после открытия порта
@@ -1113,26 +1178,34 @@ def check_one(uri: str, socks_port: int, test_url: str) -> dict | None:
 
         t = CFG["timeout"]
 
-        # ── 1. TTFB + Uptime (3 попытки с паузой) ──────────────────────────────
+        # ── 1. TTFB + Uptime ─────────────────────────────────────────────────
+        # ФИКС #5: если первая попытка удалась — не спим лишние 2с
         pings: list[int] = []
         ttfb_errors: list[str] = []
         for attempt in range(3):
-            if attempt > 0:
-                time.sleep(1.0)
             ms_i = ttfb_check(socks_port, test_url, t)
             if ms_i is None:
                 ttfb_errors.append(f"attempt{attempt + 1}=None")
-                # retry (MK pattern)
                 time.sleep(0.35)
                 ms_i = ttfb_check(socks_port, test_url, t)
                 if ms_i is None:
                     ttfb_errors.append(f"retry{attempt + 1}=None")
             if ms_i is not None:
                 pings.append(ms_i)
+                if len(pings) >= 1:
+                    break  # достаточно одного успеха для основного результата
+            else:
+                if attempt < 2:
+                    time.sleep(
+                        0.5
+                    )  # короткая пауза перед следующей попыткой (вместо sleep 1.0)
 
-        uptime_ratio = len(pings) / 3
+        # FIX #8: если прервали после 1го успеха — считаем 100% uptime
+        # При полном проходе (3 попытки) сохраняем относительный uptime
+        attempts_made = attempt + 1  # noqa: F821  (defined in loop above)
+        uptime_ratio = len(pings) / attempts_made if pings else 0.0
 
-        if uptime_ratio < 0.34:  # ни одного успеха из 3
+        if not pings:  # ни одного успеха из всех попыток
             errs = ",".join(ttfb_errors[:3]) or "all_none"
             _fail(f"uptime_low({errs})", uri)
             return None
@@ -1148,28 +1221,27 @@ def check_one(uri: str, socks_port: int, test_url: str) -> dict | None:
             return None
 
         # ── 2. HTTPS тест ──────────────────────────────────────────────────────
+        # ФИКС #4: HTTPS не блокирует ключ — многие прокси блокируют Google/Cloudflare,
+        # но всё равно работают через HTTP. HTTPS теперь влияет только на score.
         proxies = {
             "http": f"socks5h://127.0.0.1:{socks_port}",
             "https": f"socks5h://127.0.0.1:{socks_port}",
         }
         https_ok = False
-        https_exc = ""
         for https_url in (
-            "https://www.google.com/generate_204",
             "https://cp.cloudflare.com/generate_204",
+            "https://www.google.com/generate_204",
         ):
             try:
                 r = requests.get(https_url, proxies=proxies, timeout=t, verify=False)
                 if r.status_code < 400:
                     https_ok = True
                     break
-                else:
-                    https_exc = f"http_{r.status_code}"
-            except Exception as e:
-                https_exc = type(e).__name__
+            except Exception:
+                pass
+        # Не return None! Прописываем фейл для статистики, но не блокируем
         if not https_ok:
-            _fail(f"https_fail({https_exc})", uri)
-            return None
+            _fail(f"https_fail_soft(score-only)", uri)
 
         # ── 3. Exit IP + Fraud Score + Datacenter flag ──────────────────────────
         exit_ip, fraud_score, is_datacenter = get_exit_info(socks_port, timeout=4)
@@ -1336,20 +1408,47 @@ def geoip(ip: str) -> dict:
     return {}
 
 
-def geoip_batch(ips: list[str], max_rps: int = 40) -> dict[str, dict]:
-    """Batch GeoIP с ограничением запросов в секунду (ip-api.com: 45 req/min free)."""
-    unique = list({ip for ip in ips if ip and ip not in _geo_cache})
+def geoip_batch(ips: list[str]) -> dict[str, dict]:
+    """
+    Batch GeoIP через ip-api.com /batch endpoint (100 IP за запрос).
+
+    БАГ был: max_rps=40 давал 40 запр/с вместо 45/мин → ip-api.com блокировал всё.
+    ФИКС: POST /batch принимает 100 IP за один запрос — намного эффективнее.
+    """
+    unique = [ip for ip in {ip for ip in ips if ip} if ip not in _geo_cache]
     if not unique:
         return _geo_cache
 
-    print(f"🌍 GeoIP для {len(unique)} IP...")
-    interval = 1.0 / max_rps
+    print(f"🌍 GeoIP для {len(unique)} IP (через batch)...")
+    fields = "status,country,countryCode,city,isp,org"
+    batch_size = 100
 
-    with ThreadPoolExecutor(max_workers=max_rps) as ex:
-        for i, ip in enumerate(unique):
-            if i > 0:
-                time.sleep(interval)
-            ex.submit(geoip, ip)
+    for i in range(0, len(unique), batch_size):
+        chunk = unique[i : i + batch_size]
+        try:
+            payload = [{"query": ip, "fields": fields} for ip in chunk]
+            r = requests.post(
+                "http://ip-api.com/batch",
+                json=payload,
+                timeout=10,
+            )
+            data = r.json()
+            if isinstance(data, list):
+                for j, item in enumerate(data):
+                    ip = chunk[j]
+                    if item.get("status") == "success":
+                        _geo_cache[ip] = item
+                    else:
+                        _geo_cache[ip] = {}
+        except Exception:
+            # fallback: записываем пустые чтобы не перезапрашивать
+            for ip in chunk:
+                if ip not in _geo_cache:
+                    _geo_cache[ip] = {}
+        # Между батчами: 1.5с — ip-api.com допускает 15 batch-запросов/мин
+        if i + batch_size < len(unique):
+            time.sleep(1.5)
+
     return _geo_cache
 
 
@@ -1373,13 +1472,25 @@ def rename_key(
 # ШАГ 6: Сохранение результатов
 # ═══════════════════════════════════════════════════════════════════════════════
 
-SUB_HEADER = """\
-#profile-update-interval: 3
-#profile-title: encode:{title}
-#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-#support-url: https://github.com/
-#profile-web-page-url: https://github.com/
-"""
+
+def _sub_header(title: str) -> str:
+    """
+    Генерирует заголовок подписки.
+    FIX #13: encode: в Clash/Mihomo требует base64, а не plain text.
+    """
+    encoded_title = base64.b64encode(title.encode("utf-8")).decode()
+    return (
+        "#profile-update-interval: 3\n"
+        f"#profile-title: encode:{encoded_title}\n"
+        "#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000\n"
+        "#support-url: https://github.com/\n"
+        "#profile-web-page-url: https://github.com/\n"
+    )
+
+
+# Оставляем для обратной совместимости (speed_pass может использовать)
+def SUB_HEADER_COMPAT(title: str) -> str:
+    return _sub_header(title)
 
 
 def save_results(working: list[dict]):
@@ -1464,7 +1575,7 @@ def save_results(working: list[dict]):
     (RESULTS / "all_working.txt").write_text("\n".join(all_keys), encoding="utf-8")
 
     # ── all_working_sub.txt (base64) ──────────────────────────────────────────
-    header = SUB_HEADER.format(title="BobiVPN ✅ All Countries")
+    header = _sub_header("BobiVPN ✅ All Countries")
     content = header + "\n".join(all_keys)
     b64 = base64.b64encode(content.encode("utf-8")).decode()
     (RESULTS / "all_working_sub.txt").write_text(b64, encoding="utf-8")
@@ -1484,7 +1595,7 @@ def save_results(working: list[dict]):
         country_name = items[0]["country"]
         flag = country_flag(code)
         title = f"BobiVPN {flag} {country_name}"
-        header = SUB_HEADER.format(title=title)
+        header = _sub_header(title)
         keys = [r["final_uri"] for r in sorted(items, key=lambda x: x["latency"])]
         content = header + "\n".join(keys)
         # Сохраняем raw
@@ -1501,7 +1612,7 @@ def save_results(working: list[dict]):
     else:
         top = sorted(top_pool, key=lambda x: -x.get("score", 0))[:200]
 
-    top_header = SUB_HEADER.format(title="BobiVPN 🚀 Top 200 Fastest")
+    top_header = _sub_header("BobiVPN 🚀 Top 200 Fastest")
     top_content = top_header + "\n".join(r["final_uri"] for r in top)
     (RESULTS / "top_200.txt").write_text(top_content, encoding="utf-8")
 
@@ -1549,7 +1660,7 @@ def save_results(working: list[dict]):
     # S-tier отдельный файл
     s_keys = [r["final_uri"] for r in by_tier["S"]]
     if s_keys:
-        s_header = SUB_HEADER.format(title="BobiVPN ⭐ S-Tier Elite")
+        s_header = _sub_header("BobiVPN ⭐ S-Tier Elite")
         (RESULTS / "tier_s.txt").write_text(
             s_header + "\n".join(s_keys), encoding="utf-8"
         )
@@ -1686,9 +1797,19 @@ def speed_pass(working: list[dict]) -> list[dict]:
 
             with lock:
                 done_count[0] += 1
+                # FIX #12: avg только по уже измеренным (не всем results сразу)
+                measured_speeds = [
+                    r["speed_mbps"]
+                    for r in results[: done_count[0]]
+                    if r.get("speed_mbps", 0) > 0
+                ]
+                avg_now = (
+                    sum(measured_speeds) / len(measured_speeds)
+                    if measured_speeds
+                    else 0.0
+                )
                 print(
-                    f"\r   {done_count[0]}/{total} speed tested | "
-                    f"avg: {sum(r.get('speed_mbps', 0) for r in results) / max(1, done_count[0]):.1f} Mbps",
+                    f"\r   {done_count[0]}/{total} speed tested | avg: {avg_now:.1f} Mbps",
                     end="",
                     flush=True,
                 )
@@ -1808,20 +1929,23 @@ def self_test():
         cfg_p = TMP_DIR / "selftest.json"
         with open(cfg_p, "w") as f:
             json.dump(cfg, f)
+        # FIX #9: читаем stdout ДО kill, иначе communicate() после wait() всегда b""
         proc = subprocess.Popen(
             [str(mp), "-f", str(cfg_p)],
             stdout=subprocess.PIPE,
             stderr=subprocess.STDOUT,
         )
         started = wait_for_port(test_port, max_wait=4.0)
+        # Читаем вывод сразу если процесс уже умер
+        out = b""
+        if proc.poll() is not None:
+            try:
+                out = proc.stdout.read() if proc.stdout else b""
+            except Exception:
+                pass
         try:
             proc.kill()
             proc.wait(timeout=2)
-        except Exception:
-            pass
-        out = b""
-        try:
-            out, _ = proc.communicate(timeout=1)
         except Exception:
             pass
         cfg_p.unlink(missing_ok=True)
