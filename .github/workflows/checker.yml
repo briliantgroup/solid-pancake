@@ -8,13 +8,12 @@ on:
 permissions:
   contents: write
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 jobs:
   check:
     runs-on: ubuntu-latest
     timeout-minutes: 120
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
     steps:
       - name: Checkout
@@ -22,8 +21,6 @@ jobs:
 
       - name: Setup Python
         uses: actions/setup-python@v5
-        # v5 требует Node.js 20+ — предупреждение можно игнорировать,
-        # или перейти на setup-python@v6 когда выйдет
         with:
           python-version: "3.11"
           cache: "pip"
