@@ -5,14 +5,7 @@
 #profile-web-page-url: https://github.com/
 vless://49c9e424-c47f-482f-982a-e5503f354700@104.18.140.67:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cld1.hesam.online&fp=chrome&type=ws&allowInsecure=0&sni=cld1.hesam.online#🇨🇦 Canada | CF 1
 vless://13ebfdbb-8548-4468-905a-2d2265ae7cae@104.20.6.134:443?path=%2Fwss%3Fed%3D2048&security=tls&encryption=none&alpn=http%2F1.1&host=thisisverytemp.bananalegends.com&fp=chrome&type=ws&sni=thisisverytemp.bananalegends.com#🇨🇦 Canada | CF 2
-vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIER5bmFtaWMtMTcyMDgiLCJhZGQiOiJoZXU4M3VqaWVpd29ldTgzajJld2plaHV3ZWh1OC5kZW50aXNjYW4uY2EiLCJwb3J0IjoiODAiLCJpZCI6ImUyOTIzYmM2LTgyMDQtNDc2OC05OGVhLTM3OWQ0OGVhOGE3YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJoZXU4M3VqaWVpd29ldTgzajJld2plaHV3ZWh1OC5kZW50aXNjYW4uY2EiLCJwYXRoIjoiLzFhd056eFJTd0tzZGtQVktQMFpRcWxIanQxMHNwIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0=#🇨🇦 Canada | CF 3
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@y6-3cj.pages.dev:443?&security=tls&sni=y6-3cj.PAgES.DEV&type=ws&headerType=none&host=y6-3cj.PAgES.DEV&path=%2F#🇨🇦 Canada | CF 4
-trojan://mSzFVhUczD@104.20.5.134:443?security=tls&sni=abest.api-tel.xyz&alpn=http%2F1.1&type=ws&host=abest.api-tel.xyz&path=%2F#🇨🇦 Canada | CF 5
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?encryption=none&type=ws&security=tls&path=%2F&host=y6-3cj.PAgES.DEV&sni=y6-3cj.PAgES.DEV#🇨🇦 Canada | CF 6
-trojan://mSzFVhUczD@104.20.6.134:443?security=tls&sni=abest.api-tel.xyz&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#🇨🇦 Canada | CF 7
-trojan://humanity@104.20.6.134:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#🇨🇦 Canada | CF 8
-trojan://humanity@188.114.98.0:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#🇨🇦 Canada | CF 9
-trojan://8b45d379-702f-41b3-a6b2-9c87a01dcd5c@23.227.38.178:443?security=tls&sni=q6clkp794liy3y90.hktimecsgo.xyz&type=ws&host=q6clkp794liy3y90.hktimecsgo.xyz&path=/images#🇨🇦 Canada | Shopify, Inc. 1
-vless://3264ccbe-dbc5-4d14-8dbe-1c62041cc43f@104.18.46.50:443?&security=tls&fp=ios&sni=sk-hk1.feimavip.sbs&type=ws&headerType=none&host=sk-hk1.feimavip.sbs&path=%2Fhk%2F1#🇨🇦 Canada | CF 10
-vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.1.221:443?encryption=none&security=tls&sni=dabaius2.sylu.net&fp=chrome&insecure=1&type=ws&host=dabaius2.sylu.net&path=%2Fdb10240eb751d6ab#🇨🇦 Canada | CF 11
-vless://3f9c8463-8610-3ed8-86c8-a26713067825@188.114.98.0:443?encryption=none&type=ws&host=dabaius2.sylu.net&path=%2Fdb10240eb751d6abfp%3Dchrome&security=tls&fp=chrome&sni=dabaius2.sylu.net#🇨🇦 Canada | CF 12
+trojan://mSzFVhUczD@104.20.5.134:443?security=tls&sni=abest.api-tel.xyz&alpn=http%2F1.1&type=ws&host=abest.api-tel.xyz&path=%2F#🇨🇦 Canada | CF 3
+vless://b24484be-a335-472c-8dff-060ccd2b8f3b@104.20.6.134:2083?allow_insecure=0&host=xn-de.shakhle.ir.&path=/&security=tls&sni=xn-de.shakhle.ir.&type=ws#🇨🇦 Canada | CF 4
+trojan://mSzFVhUczD@104.20.6.134:443?security=tls&sni=abest.api-tel.xyz&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#🇨🇦 Canada | CF 5
+trojan://humanity@104.20.6.134:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🇨🇦 Canada | CF 6
