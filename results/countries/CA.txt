@@ -3,11 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://ba49d874-fe02-465d-82d3-ed981dc7694f@188.114.98.134:443?&security=tls&fp=chrome&sni=o94yv7LiF0-AnxIsd9EFehVvs7mXn6bh.z-UlE-ikA-d-e-nE-k-E.WorkeRs.dEv&type=ws&headerType=none&host=o94yv7LiF0-AnxIsd9EFehVvs7mXn6bh.z-UlE-ikA-d-e-nE-k-E.WorkeRs.dEv&path=%2F#🇨🇦 Canada | CF 1
-vless://13ebfdbb-8548-4468-905a-2d2265ae7cae@104.20.6.134:443?encryption=none&type=ws&host=thisisverytemp.bananalegends.com&path=%2Fwss%3Fed%3D2048&security=tls&alpn=http%2F1.1&fp=chrome&sni=thisisverytemp.bananalegends.com#🇨🇦 Canada | CF 2
-vless://f899dc32-9238-41e3-a94d-3bcf96622ae7@store.ubi.com:443/?type=ws&encryption=none&flow=&host=dedns1.6807251.xyz&path=%2F&security=tls&sni=dedns1.6807251.xyz&fp=firefox&packetEncoding=xudp#🇨🇦 Canada | CF 3
-trojan://mSzFVhUczD@104.20.6.134:443?security=tls&sni=abest.api-tel.xyz&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#🇨🇦 Canada | CF 4
-trojan://mSzFVhUczD@104.20.5.134:443?security=tls&sni=abest.api-tel.xyz&alpn=http%2F1.1&type=ws&host=abest.api-tel.xyz&path=%2F#🇨🇦 Canada | CF 5
-vless://b24484be-a335-472c-8dff-060ccd2b8f3b@104.20.6.134:2083?allow_insecure=0&host=xn-de.shakhle.ir.&path=/&security=tls&sni=xn-de.shakhle.ir.&type=ws#🇨🇦 Canada | CF 6
-trojan://humanity@104.20.6.134:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🇨🇦 Canada | CF 7
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?encryption=none&type=ws&security=tls&path=%2F&host=y6-3cj.PAgES.DEV&sni=y6-3cj.PAgES.DEV#🇨🇦 Canada | CF 8
+vless://13ebfdbb-8548-4468-905a-2d2265ae7cae@104.20.6.134:443?encryption=none&type=ws&host=thisisverytemp.bananalegends.com&path=%2Fwss%3Fed%3D2048&security=tls&alpn=http%2F1.1&fp=chrome&sni=thisisverytemp.bananalegends.com#🇨🇦 Canada | CF 1
+vless://ba49d874-fe02-465d-82d3-ed981dc7694f@www.speedtest.net:443?path=/CmtD3y72juVnvSxU?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&fp=chrome&type=ws&sni=O94yv7LIF0-AnXisD9EFEhVVS7mxN6Bh.Z-UlE-iKA-D-E-ne-k-e.wORkers.dEv#🇨🇦 Canada | CF 2
+trojan://mSzFVhUczD@104.20.6.134:443?security=tls&sni=abest.api-tel.xyz&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#🇨🇦 Canada | CF 3
+vless://b24484be-a335-472c-8dff-060ccd2b8f3b@104.20.6.134:2083?allow_insecure=0&host=xn-de.shakhle.ir.&path=/&security=tls&sni=xn-de.shakhle.ir.&type=ws#🇨🇦 Canada | CF 4
+trojan://humanity@104.20.6.134:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#🇨🇦 Canada | CF 5
