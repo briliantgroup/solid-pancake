@@ -4,5 +4,7 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 vless://13ebfdbb-8548-4468-905a-2d2265ae7cae@104.20.6.134:443?encryption=none&type=ws&host=thisisverytemp.bananalegends.com&path=%2Fwss%3Fed%3D2048&security=tls&alpn=http%2F1.1&fp=chrome&sni=thisisverytemp.bananalegends.com#🇨🇦 Canada | CF 1
-trojan://mSzFVhUczD@104.20.6.134:443?security=tls&sni=abest.api-tel.xyz&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#🇨🇦 Canada | CF 2
-trojan://humanity@104.20.6.134:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada | CF 3
+vless://0f4d41cf-0be1-4fcc-ac41-53b843ba0752@172.66.44.118:443?encryption=none&type=ws&security=tls&host=H7-83W.pAgeS.deV&sni=H7-83W.pAgeS.deV#🇨🇦 Canada | CF 2
+trojan://mSzFVhUczD@104.20.6.134:443?security=tls&sni=abest.api-tel.xyz&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#🇨🇦 Canada | CF 3
+vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.1.221:443?encryption=none&security=tls&sni=dabaius2.sylu.net&fp=chrome&insecure=1&type=ws&host=dabaius2.sylu.net&path=%2Fdb10240eb751d6ab#🇨🇦 Canada | CF 4
+vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.0.221:443?path=%2Fdb10240eb751d6ab&security=tls&encryption=none&host=dabaius2.sylu.net&type=ws&sni=dabaius2.sylu.net#🇨🇦 Canada | CF 5
