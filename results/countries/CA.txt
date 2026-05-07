@@ -4,26 +4,27 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 vless://13ebfdbb-8548-4468-905a-2d2265ae7cae@104.20.6.134:443?encryption=none&type=ws&host=thisisverytemp.bananalegends.com&path=%2Fwss%3Fed%3D2048&security=tls&alpn=http%2F1.1&fp=chrome&sni=thisisverytemp.bananalegends.com#🇨🇦 Canada | CF 1
-vless://f899dc32-9238-41e3-a94d-3bcf96622ae7@store.ubi.com:443/?type=ws&encryption=none&flow=&host=dedns1.6807251.xyz&path=%2F&security=tls&sni=dedns1.6807251.xyz&fp=firefox&packetEncoding=xudp#🇨🇦 Canada | CF 2
-trojan://mSzFVhUczD@104.20.5.134:443?security=tls&sni=abest.api-tel.xyz&alpn=http/1.1&type=ws&host=abest.api-tel.xyz&path=/#🇨🇦 Canada | CF 3
-trojan://mSzFVhUczD@104.20.6.134:443?security=tls&sni=abest.api-tel.xyz&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#🇨🇦 Canada | CF 4
+vless://bd26c0c3-5eb9-425e-a4b6-2660df94e613@104.20.6.134:443?encryption=none&type=ws&host=nEO1-3zC.pAGes.DeV&path=%2F&security=tls&sni=nEO1-3zC.pAGes.DeV#🇨🇦 Canada | CF 2
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.18.12.149:443?encryption=none&type=ws&security=tls&path=%2F&host=y6-3cj.PAgES.DEV&sni=y6-3cj.PAgES.DEV#🇨🇦 Canada | CF 3
+vless://2088ef0d-4d2c-43b3-874b-b6a03531c81b@104.20.6.134:443?encryption=none&type=ws&security=tls&path=%2FeyJqdW5rIjoiVVpPeXNodUFQMHNVcU12aCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=r.mediashoppp.sbs&sni=r.meDiASHOPPp.sbS#🇨🇦 Canada | CF 4
 vless://b24484be-a335-472c-8dff-060ccd2b8f3b@104.20.6.134:2083?allow_insecure=0&host=xn-de.shakhle.ir.&path=/&security=tls&sni=xn-de.shakhle.ir.&type=ws#🇨🇦 Canada | CF 5
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?encryption=none&type=ws&security=tls&path=%2F&host=y6-3cj.PAgES.DEV&sni=y6-3cj.PAgES.DEV#🇨🇦 Canada | CF 6
-trojan://humanity@104.20.6.134:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🇨🇦 Canada | CF 7
-trojan://humanity@104.17.150.76:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#🇨🇦 Canada | CF 8
-trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#🇨🇦 Canada | CF 9
-trojan://humanity@104.18.9.83:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🇨🇦 Canada | CF 10
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&type=ws#🇨🇦 Canada | CF 11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990?#🇨🇦 Canada | HostPapa 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990?#🇨🇦 Canada | Oneprovider.com 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@23.173.104.209:2053?type=ws&security=tls&fp=chrome&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#🇨🇦 Canada | Unify Media Ltd 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@172.66.42.200:2083?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇨🇦 Canada | CF 12
-vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xNbnNaVU40XC8iLCJwb3J0IjoiODQ0MyIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1VUyIsInNjeSI6Im5vbmUiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇨🇦 Canada | CF 13
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@172.64.145.144:8443?allow_insecure=0&fp=chrome&host=gogo.kmj.qzz.io&path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&security=tls&sni=gogo.kmj.qzz.io&type=ws#🇨🇦 Canada | CF 14
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@104.19.59.39:8443?allow_insecure=0&fp=chrome&host=gogo.kmj.qzz.io&path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&security=tls&sni=gogo.kmj.qzz.io&type=ws#🇨🇦 Canada | CF 15
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@104.19.43.14:2096?sni=gogo.kmj.qzz.io&type=ws&host=gogo.kmj.qzz.io&path=/socks5=gogo:gogo@185.184.70.120:50088fp=chrome&security=tls#🇨🇦 Canada | CF 16
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@172.64.229.220:2096?allow_insecure=0&fp=chrome&host=gogo.kmj.qzz.io&path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&security=tls&sni=gogo.kmj.qzz.io&type=ws#🇨🇦 Canada | CF 17
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@104.19.150.163:8443?allow_insecure=0&host=gogo.kmj.qzz.io&path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&security=tls&sni=gogo.kmj.qzz.io&type=ws#🇨🇦 Canada | CF 18
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@104.17.102.95:8443?allow_insecure=0&host=gogo.kmj.qzz.io&path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&security=tls&sni=gogo.kmj.qzz.io&type=ws#🇨🇦 Canada | CF 19
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@79.127.233.170:989#🇨🇦 Canada | Cdn77 VAN 1
-vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.0.221:443?path=%2Fdb10240eb751d6ab&security=tls&encryption=none&host=dabaius2.sylu.net&type=ws&sni=dabaius2.sylu.net#🇨🇦 Canada | CF 20
+trojan://mSzFVhUczD@104.20.6.134:443?security=tls&sni=abest.api-tel.xyz&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#🇨🇦 Canada | CF 6
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇨🇦 Canada | CF 7
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇨🇦 Canada | CF 8
+trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🇨🇦 Canada | CF 9
+trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#🇨🇦 Canada | CF 10
+trojan://humanity@188.114.96.3:443?host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#🇨🇦 Canada | CF 11
+trojan://humanity@104.18.32.37:443/?type=ws&security=tls&sni=www.gossipglove.com&host=www.gossipglove.com&path=%2Fassignment#🇨🇦 Canada | CF 12
+trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🇨🇦 Canada | CF 13
+trojan://humanity@104.18.11.110:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🇨🇦 Canada | CF 14
+trojan://humanity@162.159.17.189:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🇨🇦 Canada | CF 15
+vless://b2c47b38-23bf-4469-b477-e52206bbb8c1@104.18.13.149:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=aged-sun-9128.danicng13.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=aged-sun-9128.danicng13.workers.dev#🇨🇦 Canada | CF 16
+vless://8b5acf77-2c2e-4eed-9ad1-be81851b99ea@172.66.44.161:443?encryption=none&type=ws&security=tls&host=e1-f55.pages.dev&sni=e1-f55.pages.dev#🇨🇦 Canada | CF 17
+trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#🇨🇦 Canada | CF 18
+trojan://humanity@104.20.6.134:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada | CF 19
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@172.66.42.200:2083?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇨🇦 Canada | CF 20
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@104.19.150.163:8443?allow_insecure=0&host=gogo.kmj.qzz.io&path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&security=tls&sni=gogo.kmj.qzz.io&type=ws#🇨🇦 Canada | CF 21
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@104.17.102.95:8443?allow_insecure=0&host=gogo.kmj.qzz.io&path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&security=tls&sni=gogo.kmj.qzz.io&type=ws#🇨🇦 Canada | CF 22
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@104.19.43.14:2096?sni=gogo.kmj.qzz.io&type=ws&host=gogo.kmj.qzz.io&path=/socks5=gogo:gogo@185.184.70.120:50088fp=chrome&security=tls#🇨🇦 Canada | CF 23
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@172.64.145.144:8443?allow_insecure=0&fp=chrome&host=gogo.kmj.qzz.io&path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&security=tls&sni=gogo.kmj.qzz.io&type=ws#🇨🇦 Canada | CF 24
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@172.64.229.220:2096?allow_insecure=0&fp=chrome&host=gogo.kmj.qzz.io&path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&security=tls&sni=gogo.kmj.qzz.io&type=ws#🇨🇦 Canada | CF 25
