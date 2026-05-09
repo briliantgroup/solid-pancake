@@ -5,8 +5,11 @@
 #profile-web-page-url: https://github.com/
 vless://cfd21c9d-d2f1-46b0-93bb-7d25b4a84bd6@104.20.6.134:443?type=ws&security=tls&encryption=none&fp=chrome&sni=cdn-game.honeyweb.net&alpn=h2%2Chttp/1.1#🇨🇦 Canada | CF 1
 vless://13ebfdbb-8548-4468-905a-2d2265ae7cae@104.20.6.134:443?path=%2Fwss%3Fed%3D2048&security=tls&encryption=none&alpn=http%2F1.1&host=thisisverytemp.bananalegends.com&fp=chrome&type=ws&sni=thisisverytemp.bananalegends.com#🇨🇦 Canada | CF 2
-vless://8b5acf77-2c2e-4eed-9ad1-be81851b99ea@172.66.44.161:443?allowInsecure=1&encryption=none&host=e1-f55.pages.dev&security=tls&sni=e1-f55.pages.dev&type=ws#🇨🇦 Canada | CF 3
+vless://2088ef0d-4d2c-43b3-874b-b6a03531c81b@104.20.6.134:443?encryption=none&type=ws&host=r.mediashoppp.sbs&path=%2FeyJqdW5rIjoiVVpPeXNodUFQMHNVcU12aCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=r.meDiASHOPPp.sbS#🇨🇦 Canada | CF 3
 trojan://mSzFVhUczD@104.20.5.134:443?security=tls&sni=abest.api-tel.xyz&alpn=http%2F1.1&type=ws&host=abest.api-tel.xyz&path=%2F#🇨🇦 Canada | CF 4
 trojan://mSzFVhUczD@104.20.6.134:443?security=tls&sni=abest.api-tel.xyz&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#🇨🇦 Canada | CF 5
-vless://ba49d874-fe02-465d-82d3-ed981dc7694f@www.speedtest.net:443?path=/CmtD3y72juVnvSxU?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&fp=chrome&type=ws&sni=O94yv7LIF0-AnXisD9EFEhVVS7mxN6Bh.Z-UlE-iKA-D-E-ne-k-e.wORkers.dEv#🇨🇦 Canada | CF 6
-trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#🇨🇦 Canada | CF 7
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=%2F&security=tls&encryption=none&echfq=none&host=y6-3cj.PAgES.DEV&allowinsecure=0&type=ws&sni=y6-3cj.PAgES.DEV#🇨🇦 Canada | CF 6
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?allowInsecure=0&type=ws&security=tls&sni=y6-3cj.PAgES.DEV&host=y6-3cj.PAgES.DEV#🇨🇦 Canada | CF 7
+vless://0f4d41cf-0be1-4fcc-ac41-53b843ba0752@172.66.44.118:443?allowInsecure=1&encryption=none&host=H7-83W.pAgeS.deV&security=tls&sni=H7-83W.pAgeS.deV&type=ws#🇨🇦 Canada | CF 8
+trojan://humanity@104.20.6.134:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada | CF 9
+trojan://humanity@188.114.98.0:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#🇨🇦 Canada | CF 10
