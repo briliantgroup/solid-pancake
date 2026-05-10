@@ -1,0 +1,15 @@
+#profile-update-interval: 3
+#profile-title: encode:Qm9iaVZQTiDwn4ev8J+HtSBKYXBhbg==
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#support-url: https://github.com/
+#profile-web-page-url: https://github.com/
+vless://45aa07ae-46b1-4441-8961-7b50a35e4dcc@57.183.23.103:443?security=reality&type=tcp&sni=cdnjs.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=4fea2a5d2c2b5d&pbk=RgcSd4YSoAp8ijvye6Rbvzo9AxYUgRPxi3siqWHuJCU#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 1
+vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&sni=www.yahoo.co.jp#🇯🇵 Japan | NTTPC Communications, Inc 1
+vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242?type=ws&path=/a12b0d31#🇯🇵 Japan | Alibaba.com LLC 1
+vless://99e50b7b-e551-46b3-b74f-d39806835b10@212.135.211.105:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=6bKr3dHLP8VjrlVFBNTAM3Bj0j0iGubvzTDPTmK08FI&sid=ecf07d87f0521a0e&sni=www.cloudflare.com#🇯🇵 Japan | CYBERVERSE JP 1
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?type=tcp#🇯🇵 Japan | Alibaba.com Singapore E-Comm... 1
+trojan://162534@158.101.132.216:8443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇯🇵 Japan | Oracle Cloud Infrastructure ... 1
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@116.206.92.109:443?headerType=none&encryption=none&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&insecure=1#🇯🇵 Japan | SoftBank Corp 1
+trojan://162534@207.65.189.9:443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇯🇵 Japan | Sony Network Communications ... 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@43.165.190.11:42841?type=ws&security=tls&fp=chrome&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#🇯🇵 Japan | Tencent Cloud Computing (Bei... 1
+vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzXC8iLCJwb3J0IjoiODAiLCJwcyI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNVt3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLUpQLTEwMzA2OTM3IiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇯🇵 Japan | Ipxo LLC 1
