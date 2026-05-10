@@ -3,7 +3,18 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@95.173.218.203:990#🇸🇬 Singapore | CDN77 Singapore 1
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@13.229.61.103:80#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 1
 vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjowLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBvcnQiOjE4MDAwLCJwcyI6Ilx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlY1t3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLVNHLTcyOTcyMjUiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#🇸🇬 Singapore | Datacamp Limited 1
+vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjowLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBvcnQiOjE4MDAwLCJwcyI6Ilx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlY1t3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLVNHLTczMTQwOTAiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#🇸🇬 Singapore | Datacamp Limited 2
+vless://39039c78-41a2-45f1-a64d-f6818efcae03@172.104.161.138:27420?path=/FREE By Tharuwa (0767597317)&security=none&encryption=none&host=m.zoom.us&type=ws#🇸🇬 Singapore | Linode 1
+vless://d10b0612-2b05-47c2-99c1-53f0b109d07d@158.178.234.153:18757?encryption=none&security=none&type=ws&path=%2F#🇸🇬 Singapore | Oracle Corporation 1
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?type=raw&security=tls&fp=chrome&sni=node1.nanonet.host#🇸🇬 Singapore | DO 1
 ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80?#🇸🇬 Singapore | Contabo 1
-vless://45aa07ae-46b1-4441-8961-7b50a35e4dcc@18.136.174.78:443?security=reality&type=tcp&sni=cdnjs.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=deff57e224&pbk=E2SpXSuyOHVHJ6pdpw5smFA4qmlDuuQvcaocvLpPikQ#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@43.160.207.175:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇸🇬 Singapore | Aceville Pte.ltd 1
+vless://45aa07ae-46b1-4441-8961-7b50a35e4dcc@18.136.174.78:443?security=reality&type=tcp&sni=cdnjs.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=deff57e224&pbk=E2SpXSuyOHVHJ6pdpw5smFA4qmlDuuQvcaocvLpPikQ#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 2
+hysteria2://0431fb27-cb95-4bc1-9638-33ef0c02dc3f@51.79.176.33:8262?insecure=1&sni=www.bing.com#🇸🇬 Singapore | OVH 1
+ss://YWVzLTI1Ni1nY206cUt2Zlg3eVFuVDk5T011Mw@194.233.75.190:80?#🇸🇬 Singapore | Contabo 2
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@178.128.62.86:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇸🇬 Singapore | DO 2
+vless://0da53d40-3e61-4459-8014-bd0f22bef196@13.229.38.188:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=sg.ap221.com&host=sg1.ap221.com#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 3
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@149.28.129.157:2053?allowInsecure=0&type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#🇸🇬 Singapore | Vultr 1
+trojan://162534@46.250.230.93:8443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇸🇬 Singapore | Yorkshire Tech Limited 1
