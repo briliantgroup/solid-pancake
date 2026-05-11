@@ -3,16 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://5cca5cb6-5e24-4037-ab5c-2ce8da724307@132.243.230.125:7771?encryption=none&type=grpc&security=reality&mode=gun&serviceName=splitter.wb.ru&fp=chrome&sni=splitter.wb.ru&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&spx=%2Fo7Aaf6fjwgbitolAe#🇩🇪 Germany | Netaxis Group LTD 1
-vless://5cca5cb6-5e24-4037-ab5c-2ce8da724307@132.243.230.125:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=splitter.wb.ru&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&spx=/o7Aaf6fjwgbitolAe#🇩🇪 Germany | Netaxis Group LTD 2
+vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.59:2053?type=grpc&security=reality&fp=qq&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23&sni=www.apple.com&mode=gun&serviceName=grpc#🇩🇪 Germany | GHOSTnet GmbH 1
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001?#🇩🇪 Germany | myLoc managed IT AG 1
-vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.95.203:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23&sni=www.apple.com#🇩🇪 Germany | GHOSTnet GmbH 1
-vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.95.193:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23&sni=www.apple.com#🇩🇪 Germany | GHOSTnet GmbH 2
-trojan://telegram-id-privatevpns@3.126.44.218:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Germany | AWS EC2 (eu-central-1) 1
-vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.101:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=deu549.worldbypass.org#🇩🇪 Germany | Global Connectivity Solution... 1
+ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ==@2.58.81.221:80?#🇩🇪 Germany | RapidDedi Investments LTD 1
+ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ==@2.58.81.221:443#🇩🇪 Germany | RapidDedi Investments LTD 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#🇩🇪 Germany | Alibaba.com Singapore E-Comm... 1
 vless://cc976b15-418b-4f0b-89ce-cd685ffbaf20@62.141.42.201:443?type=raw&security=reality&flow=xtls-rprx-vision&pbk=odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc&sid=81&sni=google.com#🇩🇪 Germany | myLoc managed IT AG 2
-vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.45:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23&sni=www.apple.com#🇩🇪 Germany | GHOSTnet GmbH 3
-vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.210:443?allowInsecure=1&type=tcp&security=tls&flow=xtls-rprx-vision&sni=deu549.worldbypass.org#🇩🇪 Germany | Global Connectivity Solution... 2
+vless://43488128-319e-f480-64ea-0acdc712e2a8@136.244.93.228:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Ic2uiGhkBgJUsY0CZUBqa1y22V_BO7F4S93Zgk_ir2c&sid=a1b2c3d4e5f67890&sni=www.booking.com#🇩🇪 Germany | Vultr 1
+vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.95.193:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23&sni=www.apple.com#🇩🇪 Germany | GHOSTnet GmbH 2
+vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.95.203:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23&sni=www.apple.com#🇩🇪 Germany | GHOSTnet GmbH 3
+trojan://03mpolj39zyewzufal2r@51.75.86.196:55646?security=tls&type=tcp#🇩🇪 Germany | OVH 1
+vless://a0b067ac-162d-4237-956d-10b8b471d3f5@54.37.75.187:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=DHsthrDRMCGcOyJd4xTce_4CCSAJZGwxCdfNrkB_Pgs&sid=479826bdfc3eb86e&sni=www.speedtest.net#🇩🇪 Germany | OVH 2
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&flow=&host=google.com&path=%2Fhttp%23telegram%40v2ray_alpha%2F%3Fed%3D2560&type=ws#🇩🇪 Germany | OVH 3
+vless://3462877f-e054-43ee-b03b-d91d448ac5f0@193.58.121.238:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=vPIZ0IepAniEqo1RIMOc_8RuRpE6bshUm5kPE4baiFk&sni=cdn.vkvideo.ru#🇩🇪 Germany | Play2go International Limite... 1
 vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.59:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23&sni=www.apple.com#🇩🇪 Germany | GHOSTnet GmbH 4
-vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.59:2053?type=grpc&security=reality&fp=qq&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23&sni=www.apple.com&mode=gun&serviceName=grpc#🇩🇪 Germany | GHOSTnet GmbH 5
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.126.44.218:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪 Germany | AWS EC2 (eu-central-1) 2
