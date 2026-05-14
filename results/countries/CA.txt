@@ -3,49 +3,50 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://13ebfdbb-8548-4468-905a-2d2265ae7cae@104.20.6.134:443?path=%2Fwss%3Fed%3D2048&security=tls&encryption=none&alpn=http%2F1.1&host=thisisverytemp.bananalegends.com&fp=chrome&type=ws&sni=thisisverytemp.bananalegends.com#🇨🇦 Canada | CF 1
-vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=elenaaaaaaaaaa.cloudns.pro.&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY&security=none&type=ws#🇨🇦 Canada | CF 2
-vless://2088ef0d-4d2c-43b3-874b-b6a03531c81b@104.20.6.134:443?encryption=none&type=ws&host=r.mediashoppp.sbs&path=%2FeyJqdW5rIjoiVVpPeXNodUFQMHNVcU12aCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=r.meDiASHOPPp.sbS#🇨🇦 Canada | CF 3
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.37:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 4
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇨🇦 Canada | CF 5
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.15:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇨🇦 Canada | CF 6
+vless://13ebfdbb-8548-4468-905a-2d2265ae7cae@104.20.6.134:443?encryption=none&type=ws&host=thisisverytemp.bananalegends.com&path=%2Fwss%3Fed%3D2048&security=tls&alpn=http%2F1.1&fp=chrome&sni=thisisverytemp.bananalegends.com#🇨🇦 Canada | CF 1
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?allowInsecure=0&type=ws&security=tls&sni=y6-3cj.PAgES.DEV&host=y6-3cj.PAgES.DEV#🇨🇦 Canada | CF 2
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.37:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇨🇦 Canada | CF 3
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.211:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇨🇦 Canada | CF 4
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.102:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 5
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.79:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇨🇦 Canada | CF 6
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 7
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.153:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇨🇦 Canada | CF 8
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.27:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 9
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.79:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇨🇦 Canada | CF 10
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.211:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇨🇦 Canada | CF 11
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.227:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇨🇦 Canada | CF 12
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 13
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.102:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 14
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.2:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇨🇦 Canada | CF 15
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.165:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 16
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@162.159.36.5:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇨🇦 Canada | CF 17
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.43:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 18
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=%2F&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#🇨🇦 Canada | CF 19
-trojan://humanity@104.18.11.110:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#🇨🇦 Canada | CF 20
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇨🇦 Canada | CF 21
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇨🇦 Canada | CF 22
-trojan://humanity@104.18.10.110:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment#🇨🇦 Canada | CF 23
-trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🇨🇦 Canada | CF 24
-trojan://humanity@162.159.17.189:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🇨🇦 Canada | CF 25
-trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&type=ws&path=%2Fassignment#🇨🇦 Canada | CF 26
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.18.12.149:443?path=%2F&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#🇨🇦 Canada | CF 27
-vless://b2c47b38-23bf-4469-b477-e52206bbb8c1@104.18.13.149:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=aged-sun-9128.danicng13.workers.dev&fp=chrome&type=ws&sni=aged-sun-9128.danicng13.workers.dev#🇨🇦 Canada | CF 28
-vless://787b3724-16c8-4e58-a038-2b8013cdc6d9@172.64.155.209:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=c3linogp4x20x5acoguup217nstesdu1.nobodyface4b13.workers.dev&path=/eyJqdW5rIjoiTG1jRlUwNjNwVUxvYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&security=none&type=ws#🇨🇦 Canada | CF 29
-vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@172.64.147.85:80?type=ws&host=elenaaaaaaaaaa.cloudns.pro&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&fp=chrome#🇨🇦 Canada | CF 30
-trojan://bpb-trojan@104.21.26.36:443?security=tls&sni=vless.herogoing.top&type=ws&host=vless.herogoing.top&path=/tr?ed=2560#🇨🇦 Canada | CF 31
-trojan://humanity@172.64.155.209:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#🇨🇦 Canada | CF 32
-trojan://humanity@104.20.6.134:443?type=ws&security=tls&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&alpn=h2,http/1.1#🇨🇦 Canada | CF 33
-trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#🇨🇦 Canada | CF 34
-trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada | CF 35
-trojan://humanity@188.114.98.0:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🇨🇦 Canada | CF 36
-trojan://humanity@104.17.150.76:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇨🇦 Canada | CF 37
-trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#🇨🇦 Canada | CF 38
-trojan://humanity@104.16.147.104:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org&fragment=10-20%2C1-3%2Ctlshello#🇨🇦 Canada | CF 39
-trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#🇨🇦 Canada | CF 40
-trojan://humanity@104.18.16.56:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇨🇦 Canada | CF 41
-vless://37f33475-b528-4e28-b379-0282f0677a4d@104.19.58.118:443?&security=tls&sni=us1-us1.aiopen.sbs&type=ws&headerType=none&host=us1-us1.aiopen.sbs&path=%2Fkbjc%2Fus1#🇨🇦 Canada | CF 42
-vless://f9a07fed-364e-42f2-ac3f-18708ccd0024@104.18.12.229:8443?encryption=none&security=tls&sni=surena-persian-gulf.user6909f13ce4d14.workers.dev&fp=random&insecure=0&allowInsecure=0&type=ws&path=%2F%3Fed%3D2560#🇨🇦 Canada | CF 43
-vless://78c5b6bd-1cb6-463c-bcba-9f17ef70c85b@104.18.12.229:8880?encryption=none&host=square-frost-8d11.9660004.workers.dev&security=none&type=ws#🇨🇦 Canada | CF 44
-vless://78c5b6bd-1cb6-463c-bcba-9f17ef70c85b@104.18.13.229:8880?encryption=none&host=square-frost-8d11.9660004.workers.dev&security=none&type=ws#🇨🇦 Canada | CF 45
-vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.0.221:443?path=%2Fdb10240eb751d6ab&security=tls&encryption=none&host=dabaius2.sylu.net&type=ws&sni=dabaius2.sylu.net#🇨🇦 Canada | CF 46
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@162.159.36.5:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 8
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.2:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇨🇦 Canada | CF 9
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.43:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 10
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.1:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇨🇦 Canada | CF 11
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 12
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.15:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇨🇦 Canada | CF 13
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.210:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 14
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.27:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇨🇦 Canada | CF 15
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.227:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇨🇦 Canada | CF 16
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 17
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.153:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇨🇦 Canada | CF 18
+vless://bd26c0c3-5eb9-425e-a4b6-2660df94e613@104.20.6.134:443?&security=tls&fp=chrome&sni=nEO1-3zC.pAGes.DeV&type=ws&headerType=none&host=nEO1-3zC.pAGes.DeV&path=%2F#🇨🇦 Canada | CF 19
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇨🇦 Canada | CF 20
+trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🇨🇦 Canada | CF 21
+trojan://humanity@162.159.17.189:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🇨🇦 Canada | CF 22
+trojan://humanity@104.18.11.110:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#🇨🇦 Canada | CF 23
+vless://ba49d874-fe02-465d-82d3-ed981dc7694f@188.114.97.7:443?encryption=none&type=ws&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&path=%2F&security=tls&alpn=http%2F1.1&sni=o94Yv7LIF0-aNXISd9eFehvvS7mxn6bH.Z-ULe-iKa-d-e-ne-K-e.wORkeRs.Dev#🇨🇦 Canada | CF 24
+trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#🇨🇦 Canada | CF 25
+trojan://humanity@104.21.40.34:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#🇨🇦 Canada | CF 26
+trojan://humanity@188.114.96.3:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#🇨🇦 Canada | CF 27
+vless://8b5acf77-2c2e-4eed-9ad1-be81851b99ea@172.66.44.161:443?allowInsecure=1&encryption=none&host=e1-f55.pages.dev&security=tls&sni=e1-f55.pages.dev&type=ws#🇨🇦 Canada | CF 28
+trojan://bpb-trojan@104.21.26.36:443?security=tls&sni=vless.herogoing.top&type=ws&host=vless.herogoing.top&path=/tr?ed=2560#🇨🇦 Canada | CF 29
+trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🇨🇦 Canada | CF 30
+trojan://humanity@sourceforge.net:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🇨🇦 Canada | CF 31
+trojan://humanity@188.114.98.0:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🇨🇦 Canada | CF 32
+trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#🇨🇦 Canada | CF 33
+trojan://humanity@chat.openai.com:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 Canada | CF 34
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990?#🇨🇦 Canada | HostPapa 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@92.53.190.231:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇨🇦 Canada | Private Customer 1
+vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IvCfj4FSRUxBWS0xMDQuMTcuNzcuNzctMDg4NCIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9#🇨🇦 Canada | CF 35
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@172.66.42.200:2083?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇨🇦 Canada | CF 36
+vless://37f33475-b528-4e28-b379-0282f0677a4d@104.19.58.118:443?&security=tls&sni=us1-us1.aiopen.sbs&type=ws&headerType=none&host=us1-us1.aiopen.sbs&path=%2Fkbjc%2Fus1#🇨🇦 Canada | CF 37
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990?#🇨🇦 Canada | Cdn77 TOR 1
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#🇨🇦 Canada | DO 1
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443?#🇨🇦 Canada | DataCamp Limited 1
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@79.127.233.170:989#🇨🇦 Canada | Cdn77 VAN 1
+vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOjE4MDAwLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNltvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtQ0EiLCJzY3kiOm51bGwsInNuaSI6bnVsbCwidGxzIjoiIiwidHlwZSI6bnVsbCwidiI6bnVsbCwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇨🇦 Canada | GLOBALTELEHOST Corp 1
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6IjAiLCJhbHBuIjpudWxsLCJmcCI6bnVsbCwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6MTgwMDAsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1DQSIsInNjeSI6bnVsbCwic25pIjpudWxsLCJ0bHMiOiIiLCJ0eXBlIjpudWxsLCJ2IjpudWxsLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#🇨🇦 Canada | Palmira Hosting LLC 1
+vmess://ewogICAgImFkZCI6ICIyMy4xNjIuMjAwLjIyNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0yMy4xNjIuMjAwLjIyNy02Nzc2IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=#🇨🇦 Canada | Palmira Hosting LLC 2
+vmess://ewogICAgImFkZCI6ICIxMzQuMTk1LjE5OC4xNDciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJpbm5hLmNmZCIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0xMzQuMTk1LjE5OC4xNDctNjc3OCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9#🇨🇦 Canada | GLOBALTELEHOST Corp 2
