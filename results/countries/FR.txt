@@ -1,0 +1,8 @@
+#profile-update-interval: 3
+#profile-title: encode:Qm9iaVZQTiDwn4er8J+HtyBGcmFuY2U=
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#support-url: https://github.com/
+#profile-web-page-url: https://github.com/
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?type=ws&path=%2Fvless%2F#🇫🇷 France | OVH 1
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@185.171.202.38:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=fr.denditop.site#🇫🇷 France | Dyjix 1
+vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=%2Fvless%2F&security=none&encryption=none&host=akamaized.net&type=ws#🇫🇷 France | OVH 2
