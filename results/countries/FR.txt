@@ -3,4 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://6a73a031-4d23-53df-b527-a0c8eebace9e@dustyvless-gru-ba15b6.fly.dev:443?encryption=none&type=ws&security=tls&path=%2FI3YmJ9YPZo1D&host=dustyvless-gru-ba15b6.fly.dev&sni=dustyvless-gru-ba15b6.fly.dev&fp=chrome#🇫🇷 France | Fly.io, Inc 1
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@185.171.202.38:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=fr.denditop.site#🇫🇷 France | Dyjix 1
+vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&sid=c906f73d3ba8211f&sni=www.leboncoin.fr#🇫🇷 France | OVH 1
