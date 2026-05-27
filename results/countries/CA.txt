@@ -3,9 +3,14 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://b60e5c32-3d4e-425c-a785-a36cd0621a72@104.18.12.149:443?path=/&security=tls&encryption=none&insecure=0&host=S4-f45.pAGeS.DeV&type=ws&allowInsecure=0&sni=S4-f45.pAGeS.DeV#🇨🇦 Canada | CF 1
-vless://5e775c44-2fbb-40df-a556-1cab524ecf55@104.25.249.217:443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=nimhubnet05.napsternetx.ir&fp=chrome&type=ws&allowInsecure=0&sni=nimhubnet05.napsternetx.ir#🇨🇦 Canada | CF 2
-vless://af47392c-2a72-44da-bab4-545a3bce4958@104.17.231.69:2096?path=%2Fe12JtBu9rVXrhCqy&security=tls&encryption=none&host=filemanager.thestayler.ir&type=ws&sni=FiLEMAnageR.thESTaYleR.iR#🇨🇦 Canada | CF 3
-vless://@deamnet-@deamnet-@deamnet@104.18.139.67:443?encryption=none&security=tls&sni=actually-road.bn-chanll.cf&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=actually-road.bn-chanll.cf&path=/deamnet#🇨🇦 Canada | CF 4
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.154.211:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 5
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.43:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 6
+vless://45bb44c8-f92d-47e3-9f9a-a8136c6fbb1d@172.66.47.69:443?path=/665ULa4ZjV24NKtQPSyk8OE6&security=tls&alpn=h2&encryption=none&insecure=0&host=berahma.sarmil.top&fp=chrome&type=ws&allowInsecure=0&sni=berahma.sarmil.top#🇨🇦 Canada | CF 1
+vless://af47392c-2a72-44da-bab4-545a3bce4958@104.17.231.69:2096?path=%2Fe12JtBu9rVXrhCqy&security=tls&encryption=none&host=filemanager.thestayler.ir&type=ws&sni=FiLEMAnageR.thESTaYleR.iR#🇨🇦 Canada | CF 2
+vless://40b66927-2f62-4a7b-8b75-1be2b45bd9ad@104.18.32.47:8443?path=/UI7fh2CARuUJjLEj?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=mina2-1hf.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=mInA2-1Hf.PaGeS.dev#🇨🇦 Canada | CF 3
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.2:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇨🇦 Canada | CF 4
+vless://8bf735b7-0bed-4cc2-8c19-be901572df15@104.26.8.155:443?hiddify=1&sni=cloud2.shayan.cyou&type=ws&alpn=http/1.1&muxtype=smux&muxmaxc=4&mux=4&muxsmax=0&muxpad=False&path=/YAIb93ZcNf9TH3l8ioeuFbwmvjL2y&host=cloud2.shayan.cyou&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&ech=AEX+DQBBnQAgACAYpxQ3puFUr7dCpSEJKR/eY4Q+KC4nijhLsrPaa7/eZQAEAAEAAQASY2xvdWRmbGFyZS1lY2guY29tAAA=#🇨🇦 Canada | CF 5
+vless://a739128d-49f4-4072-9054-3d4519f0a915@104.19.229.21:443?type=ws&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&host=crm.lotussec.com&security=tls&sni=crm.lotussec.com&alpn=http/1.1&fp=chrome&packetEncoding=xudp#🇨🇦 Canada | CF 6
+vless://58fbbc47-237d-4bc2-a8c3-6db623585a1b@104.19.229.21:2095?security=none&type=ws&path=%2Fed%3D2560&host=Kingdom.turbooo-server.com&encryption=none#🇨🇦 Canada | CF 7
+vless://58fbbc47-237d-4bc2-a8c3-6db623585a1b@104.16.7.70:8443?encryption=none&security=tls&sni=Kingdom.turbooo-server.com&insecure=0&allowInsecure=0&type=ws&host=Kingdom.turbooo-server.com&path=%2F#🇨🇦 Canada | CF 8
+trojan://humanity@104.16.90.120:443?security=tls&sni=www.creationlong.org&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#🇨🇦 Canada | CF 9
+trojan://humanity@172.66.47.69:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇨🇦 Canada | CF 10
+vless://a0ae4e44-480c-4282-b526-f1bdf749e0d1@104.16.7.70:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=c.downloadphysics.ir&fp=chrome&type=ws&allowInsecure=0&sni=c.downloadphysics.ir#🇨🇦 Canada | CF 11
