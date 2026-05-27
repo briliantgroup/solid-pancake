@@ -3,23 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?allowInsecure=0&type=ws&security=tls&sni=y6-3cj.PAgES.DEV&host=y6-3cj.PAgES.DEV#🇨🇦 Canada | CF 1
-vless://da90b568-b204-47b9-934b-fb83f03d51d4@104.16.7.70:443?path=/fjordway&security=tls&encryption=none&insecure=0&host=de.fjordstream.dpdns.org&type=ws&allowInsecure=0&sni=de.fjordstream.dpdns.org#🇨🇦 Canada | CF 2
-vless://b2fc30bc-4c1e-487f-94da-bf0776295c98@104.18.139.67:2083?encryption=none&security=tls&sni=gift.marzshekan.com.tr&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gift.marzshekan.com.tr&path=%2F%40MarzShekan%3Fed%3D2560#🇨🇦 Canada | CF 3
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?encryption=none&host=y6-3cj.PAgES.DEV&security=tls&sni=y6-3cj.PAgES.DEV&type=ws#🇨🇦 Canada | CF 4
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.68:80?type=ws&encryption=none&flow=&host=tt.andishehparenting.com&path=%2F#🇨🇦 Canada | CF 5
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.165:80?encryption=none&security=none&type=ws&host=tt.andishehparenting.com&path=%2F#🇨🇦 Canada | CF 6
-vless://272f2362-a326-41ad-8899-c0e795eb2494@104.16.58.115:443?path=%2F&security=tls&encryption=none&insecure=0&host=ghost2.kingantimeli.shop&type=ws&allowInsecure=0&sni=ghost2.kingantimeli.shop#🇨🇦 Canada | CF 7
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.224:80?type=ws&security=none&host=tt.andishehparenting.com&path=%2F#🇨🇦 Canada | CF 8
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.2:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇨🇦 Canada | CF 9
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.153:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇨🇦 Canada | CF 10
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇨🇦 Canada | CF 11
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.43:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 12
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.163:80?type=ws&encryption=none&flow=&host=tt.andishehparenting.com&path=%2F#🇨🇦 Canada | CF 13
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 14
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.236:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 15
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.27:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 16
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@162.159.36.5:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇨🇦 Canada | CF 17
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?path=%2F&security=&encryption=none&host=tt.andishehparenting.com&type=ws#🇨🇦 Canada | CF 18
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.19.229.21:443?encryption=none&security=tls&sni=y6-3cj.PAgES.DEV&insecure=0&allowInsecure=0&type=ws&host=y6-3cj.PAgES.DEV&path=/#🇨🇦 Canada | CF 19
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.18.12.149:443?path=%2F&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#🇨🇦 Canada | CF 20
+vless://b60e5c32-3d4e-425c-a785-a36cd0621a72@104.18.12.149:443?path=/&security=tls&encryption=none&insecure=0&host=S4-f45.pAGeS.DeV&type=ws&allowInsecure=0&sni=S4-f45.pAGeS.DeV#🇨🇦 Canada | CF 1
+vless://5e775c44-2fbb-40df-a556-1cab524ecf55@104.25.249.217:443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=nimhubnet05.napsternetx.ir&fp=chrome&type=ws&allowInsecure=0&sni=nimhubnet05.napsternetx.ir#🇨🇦 Canada | CF 2
+vless://af47392c-2a72-44da-bab4-545a3bce4958@104.17.231.69:2096?path=%2Fe12JtBu9rVXrhCqy&security=tls&encryption=none&host=filemanager.thestayler.ir&type=ws&sni=FiLEMAnageR.thESTaYleR.iR#🇨🇦 Canada | CF 3
+vless://@deamnet-@deamnet-@deamnet@104.18.139.67:443?encryption=none&security=tls&sni=actually-road.bn-chanll.cf&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=actually-road.bn-chanll.cf&path=/deamnet#🇨🇦 Canada | CF 4
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.154.211:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 5
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.43:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 6
