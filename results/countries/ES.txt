@@ -3,5 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?encryption=none&type=ws&security=tls&path=/graphql&host=69565ce3109804e7813f98ee.mmdbay.blog&sni=69565ce3109804e7813f98ee.mmdbay.blog&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#🇪🇸 Spain | SR DC Mad1 1
-trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🇪🇸 Spain | SR DC Mad1 2
+vless://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?encryption=none&type=ws&host=69565ce3109804e7813f98ee.mmdbay.blog&path=%2Fgraphql&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=69565ce3109804e7813f98ee.mmdbay.blog#🇪🇸 Spain | SR DC Mad1 1

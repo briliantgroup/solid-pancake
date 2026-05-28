@@ -3,10 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-trojan://humanity@188.114.99.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇺🇸 United States | CF 1
-trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&host=www.ignitelimit.com&fp=chrome&type=ws&sni=www.ignitelimit.com#🇺🇸 United States | Proquest LLC 1
-trojan://humanity@141.193.213.11:443?security=tls&sni=www.calmloud.com&fp=chrome&alpn=http%2F1.1&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#🇺🇸 United States | WPEngine, Inc. 1
-trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🇺🇸 United States | Level 3 1
-trojan://humanity@8.6.112.0:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#🇺🇸 United States | Level 3 2
-trojan://humanity@208.103.161.101:443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#🇺🇸 United States | Notion Labs, Inc. 1
-trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#🇺🇸 United States | Notion Labs, Inc. 2
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@63.141.128.5:2083?path=%2F%3Fed&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mzaxmc.lizardshop.org#🇺🇸 United States | Bigcommerce Inc 1
