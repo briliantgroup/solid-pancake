@@ -3,9 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@104.17.121.71:2083?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=fl0.lizardshop.org&fp=chrome&type=ws&sni=fl0.lizardshop.org#🇨🇦 Canada | CF 1
-trojan://rQZjCMGZEN@188.114.97.6:443?path=/&security=tls&alpn=h2,http/1.1&insecure=0&host=cloud.magicservice.top&fp=chrome&type=ws&allowInsecure=0&sni=cloud.magicservice.top#🇨🇦 Canada | CF 2
-vless://d78cf1b7-14b9-404f-b136-a77505b60dc8@104.24.0.123:80?encryption=&flow=&host=fsbe22ekepdrlovc-79fyu4gbcinax4x.ganggamer6789.workers.dev&path=%2FeyJqdW5rIjoiSktxQm9NdVdIWVYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&type=ws#🇨🇦 Canada | CF 3
-trojan://988sR-269PKCKlb%263pMrFTEr@104.18.155.119:443?security=tls&sni=LetiRanbrEaTh-7RrkEvFu2HJBIs5UHCXWztz24T5Vp6trF1oka8Dkrw0n.HE3fmQ6z0mfSZSK3Xy2E.wOrkers.deV&type=ws&host=letiranbreath-7rrkevfu2hjbis5uhcxwztz24t5vp6trf1oka8dkrw0n.he3fmq6z0mfszsk3xy2e.workers.dev&path=%2FeyJqdW5rIjoicGpncHl4eVZoSnZQcFRTIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&fp=chrome&alpn=http%2F1.1#🇨🇦 Canada | CF 4
-trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇨🇦 Canada | CF 5
-trojan://humanity@188.114.98.0:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🇨🇦 Canada | CF 6
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#🇨🇦 Canada | CF 1
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@188.114.97.6:443?path=/udfyfws&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=octopusss5.info&fp=chrome&type=ws&sni=octopusss5.info#🇨🇦 Canada | CF 2
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.147.236:443?encryption=none&security=tls&sni=octopusss5.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=octopusss5.info&path=%2Fudfyfws#🇨🇦 Canada | CF 3
+vless://8de0c7e4-8d4f-486f-a74c-e7a9fbdfa5a1@172.64.152.23:443?encryption=none&security=tls&type=ws&host=storage.infoinfoinfoinfoinfoinfoinfoinfoinfo.info&path=/ws&sni=storage.infoinfoinfoinfoinfoinfoinfoinfoinfo.info&fp=chrome&alpn=h2,http/1.1#🇨🇦 Canada | CF 4
