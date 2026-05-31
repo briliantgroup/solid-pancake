@@ -3,4 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-trojan://433e785b-2077-47f7-a43d-985f63dd18d1@104.143.0.117:8443?allow_insecure=1&allowInsecure=1&insecure=1&path=%2Ftrojan&security=tls&sni=vpn.rnmcnm.com&type=ws#🇦🇹 Austria | Hohl IT e.U. 1
+trojan://humanity@212.183.88.136:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=0#🇦🇹 Austria | Porsche Konstruktionen GmbH ... 1
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.180.197.41:8080#🇦🇹 Austria | 3NT SOLUTIONS LLP 1
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.29:10443?security=reality&flow=xtls-rprx-vision&sni=www.cloudflare.com&type=tcp&host=www.cloudflare.com&path=%2F&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo#🇦🇹 Austria | Pipe Networks LTD 1
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.42:10443?security=reality&encryption=none&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#🇦🇹 Austria | Pipe Networks LTD 2

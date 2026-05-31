@@ -3,4 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@194.76.155.12:8443?security=reality&flow=xtls-rprx-vision&sni=www.vk.com&type=tcp&pbk=mgIiNnujl3pahea0WW3bCFqmdwofldk85e9XD3rQcQc&sid=d8d900#🇱🇻 Latvia | Fast GEO Hosting S.R.L 1
+vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g9.steptofsvo.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=g9.steptofsvo.com&type=tcp#🇱🇻 Latvia | Veesp 1
+vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g6.steptofsvo.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=g6.steptofsvo.com&fp=randomized&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&flow=xtls-rprx-vision#🇱🇻 Latvia | Veesp 2
+vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g7.steptofsvo.com:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&headerType=none&fp=randomized&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=g7.steptofsvo.com&sid=6d6f13013d3e1d0c#🇱🇻 Latvia | VEESP datacenter 1
