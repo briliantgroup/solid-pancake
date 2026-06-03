@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=1&encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#🇯🇵 Japan | Cdn77 TYO 1
-vless://f6f44df3-d229-4dd8-a944-e7bc3a4c6b94@96.62.214.87:29745?security=reality&type=tcp&sni=www.google.com&fp=random&sid=c3&pbk=zSOPQOHAiacl2VMETsLXTE_Gln5ECllb6YKy1oyv1V0&encryption=none#🇯🇵 Japan | Private Customer 1
-vless://11d29ec6-be66-4f59-97c6-7cff836ea318@138.2.50.155:44073?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&sni=www.icloud.com#🇯🇵 Japan | Oracle Cloud Infrastructure ... 1
+vless://5931ace4-69b2-4730-8bd0-bdff3e867f71@151.101.110.219:443?path=/&security=tls&encryption=none&insecure=1&host=oijji.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=speedtest.net#🇯🇵 Japan | Fastly, Inc. 1
+vless://0670ca9c-502b-4d29-86fc-0b5d24d4d10d@151.101.110.219:443?encryption=none&type=ws&security=tls&path=%2F&host=Asaaabi.global.ssl.fastly.neT.&sni=speedtest.net&allowInsecure=1#🇯🇵 Japan | Fastly, Inc. 2
+vless://39def2c7-56e5-452a-87aa-fad7cb10bef6@151.101.110.219:443?path=/&security=tls&encryption=none&insecure=1&host=nleiyajji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#🇯🇵 Japan | Fastly, Inc. 3
+vless://36ce6e29-0d1a-4076-b92a-30726fab386d@151.101.110.219:443?encryption=none&type=ws&security=tls&path=/&host=neszjzfeshab.global.ssl.fastly.net&sni=speedtest.net&allowInsecure=1#🇯🇵 Japan | Fastly, Inc. 4
+vless://4da72a60-61b9-4571-a054-1bba24bf6728@151.101.110.219:443?path=/&security=tls&encryption=none&insecure=1&host=nesfeshzksab.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=speedtest.net#🇯🇵 Japan | Fastly, Inc. 5
+vless://d87234a4-2a6c-4f0c-87f0-300942338207@151.101.110.219:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=speedtest.net&allowInsecure=1&type=ws&host=jookeji.global.ssl.fastly.neT&path=/#🇯🇵 Japan | Fastly, Inc. 6
+vless://6f9de7a7-e303-4056-b9ff-96a610ebdee9@151.101.110.219:443?path=%2F&security=tls&encryption=none&insecure=1&host=fancii.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=speedtest.net#🇯🇵 Japan | Fastly, Inc. 7
+vless://4c7baf58-8ecb-44b0-9656-2b9247dd8290@151.101.110.219:443?encryption=none&type=ws&security=tls&path=/&host=Fijji.global.ssl.fastly.neT.&sni=speedtest.net&allowInsecure=1#🇯🇵 Japan | Fastly, Inc. 8
