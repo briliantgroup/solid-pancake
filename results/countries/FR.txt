@@ -3,16 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=/vless/&security=none&encryption=none&host=akamaized.net&type=ws#🇫🇷 France | OVH 1
-vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&sid=c906f73d3ba8211f&sni=www.leboncoin.fr#🇫🇷 France | OVH 2
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇫🇷 France | ONLINE 1
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.69:8443?security=tls&type=tcp&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&encryption=none#🇫🇷 France | ZetServers Frankfurt 1
+ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#🇫🇷 France | OVH 1
+vless://6048cd5b-621f-40c6-bf81-3855e4c069b1@66.201.4.248:443?type=tcp&headerType=none&security=reality&encryption=none&sni=usw.org&fp=chrome&pbk=L6EU_GCGptVyjp1Q60ZMmRAZVCCx6EVbW-gyv1Zk3zc&sid=fad0a8e7&spx=/&flow=xtls-rprx-vision#🇫🇷 France | Nebius B.V. 1
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@82.25.63.164:443?encryption=none&security=reality&sni=down.spectrum.vu&fp=chrome&pbk=ckd_LwbbFo8BYf9vT84B20P6EL1n6vl2yMxoXc6X4SA&sid=f2a6d1c1e4b8&type=grpc&authority=&serviceName=vless&mode=gun#🇫🇷 France | Dedik Services Limited 1
-hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#🇫🇷 France | ONLINE 2
-vless://87e60810-bb71-41ea-a2a6-f05c8ab903ef@5.196.51.152:54809?flow=xtls-rprx-vision-udp443&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=dash.cloudflare.com&sid=b4b3&fp=chrome&pbk=06rvKjC9dE_Ndd-dw6B-0zAyEpn-jUs7mcNFAPQ_1G8&spx=/&headerType=none#🇫🇷 France | Fuad Bin a Rahman Muhammad 1
-vless://c9f0224c-c509-427e-b314-cef6cab20646@52.47.86.31:12453?type=tcp&encryption=none&security=reality&pbk=7Bp5RgrAqaiXOsiKaWnu6uliLDG8Eey2gA0coU9oay0&fp=firefox&sni=yahoo.com&sid=52f510cea0a0a5ef&spx=/&flow=xtls-rprx-vision#🇫🇷 France | AWS EC2 (eu-west-3) 1
-vless://acd726d3-0128-44d8-a575-21013ff7740a@51.44.25.250:44520?type=tcp&encryption=none&security=reality&pbk=MrLRcU_2S2CpUc7VT3ajIavX5NYUiQdP6J5QTDFNGFU&fp=firefox&sni=yahoo.com&sid=8897c56a495b26cc&spx=/&flow=xtls-rprx-vision#🇫🇷 France | AWS EC2 (eu-west-3) 2
-vless://deb96819-bdaa-4f52-a536-d4751290ce47@13.38.52.64:15469?type=tcp&encryption=none&security=reality&pbk=Mr1b8zNNR1uPtf8dgfze_kBJbaVimS0NhJL0ff_2qm4&fp=firefox&sni=yahoo.com&sid=0f8d9583dd332274&spx=/&flow=xtls-rprx-vision#🇫🇷 France | AWS EC2 (eu-west-3) 3
-vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6vwn4e3IEZSLTI0MjQiLCJhZGQiOiIxMzcuNzQuMTE5LjE4IiwicG9ydCI6MjA1MywiaWQiOiIyZjQyMzRmOS04ZjMzLTRjN2YtOTUyZi01NjVmZmE1ZjVmYjciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJub2RlLWZyLmNvbm5lY3RzdWl0ZS5vcmciLCJuYW1lIjoi8J+Hq/Cfh7cgfCBAV2hpdGVETlMgfCBGUjUwfDEuN01CL3N8R1BU4oG6fEdNLUZSfENMLUZSfFNQLUZSIn0=#🇫🇷 France | OVH 3
-vless://3e5da4f6-93c4-4701-911b-1a5091d2430f@213.199.39.156:30001?type=ws&security=none&sni=&fp=chrome&host=&path=/ws#🇫🇷 France | Contabo 1
-vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d&sni=yahoo.com&spx=/#🇫🇷 France | AWS EC2 (eu-west-3) 4
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?encryption=none&security=none&type=ws&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&path=%2Fvless%2F#🇫🇷 France | OVH 4
+trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click#🇫🇷 France | Vultr 1
