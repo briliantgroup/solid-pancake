@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://e60f8ade-411b-4ceb-b3bd-2439676b4695@91.225.217.27:443?encryption=none&fp=&pbk=66I_EZijZ-HoERv8Xzmv5KydHjz4dp81Grb8CJpIy38&security=reality&sid=cb89&sni=yahoo.com&type=tcp#🇷🇸 Serbia | WorkTitans B.V 1
-vless://0dc22208-cea4-4423-b3c3-a36957e23233@91.225.217.26:443?encryption=none&fp=&pbk=Zd5BqaW-kyJqZANUH2cIARr466QZw09pNngYjsEK1w8&security=reality&sid=30fa&sni=yahoo.com&type=tcp#🇷🇸 Serbia | WorkTitans B.V 2
-vless://296bbba2-b100-4d91-b8df-3fe03cc863c4@91.225.217.28:443?type=tcp&security=reality&fp=chrome&pbk=CnFVrSvJ1Mhl_6QqKCCvXtEdlaJjN4MXWBkSswJ_gX0&sid=106c&sni=yahoo.com&spx=/#🇷🇸 Serbia | WorkTitans B.V 3
+trojan://strong-secret-pass-777@2.56.172.83:4443?allowInsecure=1&fp=chrome#🇷🇸 Serbia | WorkTitans B.V 1
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#🇷🇸 Serbia | WorkTitans B.V 2
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@91.225.217.94:443?type=tcp&security=reality&pbk=vYAxsSvDFRv3AFxbenjrq3jRG_p8o_wER-I8x-7aSwU&fp=chrome&sni=api-maps.yandex.ru&sid=062f&flow=xtls-rprx-vision#🇷🇸 Serbia | WorkTitans B.V 3
+vless://296bbba2-b100-4d91-b8df-3fe03cc863c4@91.225.217.28:443?type=tcp&security=reality&fp=chrome&pbk=CnFVrSvJ1Mhl_6QqKCCvXtEdlaJjN4MXWBkSswJ_gX0&sid=106c&sni=yahoo.com&spx=/#🇷🇸 Serbia | WorkTitans B.V 4
