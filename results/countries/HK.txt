@@ -3,4 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@27.50.48.49:443?security=tls&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&encryption=none#🇭🇰 Hong Kong | BGP Network Limited Co., Ltd 1
+vless://d5a17f2f-aa94-4b61-8574-ce0b301f9062@156.238.254.5:23100?security=reality&encryption=none&pbk=H0HQU-snRgdfuIYOe9VkVHVn3mFqrHUD8lle55dilxU&headerType=none&fp=chrome&type=tcp&sni=aws.amazon.com&sid=303a58f57b0d#🇭🇰 Hong Kong | cognetcloud INC 1
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@216.250.97.82:38388#🇭🇰 Hong Kong | HostHatch, LLC 1
+vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&sni=www.amd.com&headerType=none#🇭🇰 Hong Kong | Alibaba Cloud LLC 1
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@89.223.95.63:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=89.223.95.63&fp=chrome#🇭🇰 Hong Kong | G-Core Labs S.A 1
+vmess://eyJhZGQiOiI0Ny4yMzguODIuNyIsImFpZCI6IjAiLCJhbHBuIjpudWxsLCJmcCI6bnVsbCwiaG9zdCI6Im4xNzUzMzU2Mzc4LjR1OW1hLmljdSIsImlkIjoiMzdiMjA2MzktMGQ2ZS00NmYyLTlkYjUtNDcyMjAxYjEwY2RkIiwibmFtZSI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCBISyAxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtSEstMTMwOTU1MTYiLCJzY3kiOm51bGwsInNuaSI6Im4xNzUzMzU2Mzc4LjR1OW1hLmljdSIsInRscyI6InRscyIsInR5cGUiOm51bGwsInYiOm51bGwsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇭🇰 Hong Kong | Alibaba Cloud - HK 1
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@112.213.102.188:41632#🇭🇰 Hong Kong | Mega-ii IDC 1
