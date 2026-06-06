@@ -3,5 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://09ea0947-06f4-42df-9ea6-d1727a79a240@185.143.235.253:2095?path=/TV&security=&encryption=none&host=eLaHiToKoMaKkOn.aRvHaMrAh.iR&type=ws#🇮🇷 Iran | Noyan Abr Arvan Co. ( Privat... 1
-vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@77.237.85.198:2026?encryption=none&type=raw&headerType=none&security=none#🇮🇷 Iran | Respina 1
+vless://cb52ceae-fcc5-4fe1-8654-51201ba05518@185.143.235.253:2095?path=/TV&security=none&encryption=none&host=eLaHiToKoMaKkOn.aRvHaMrAh.iR&type=ws#🇮🇷 Iran | Noyan Abr Arvan Co. ( Privat... 1
+vless://70a719c5-663e-4186-a32d-29a3f6361a72@snapp.ir:2082?security=none&type=ws&headerType=&path=%2FTV&host=eLaHiToKoMaKkOn1.aRvHaMrAh.iR#🇮🇷 Iran | ANYCAST 1
+vless://70a719c5-663e-4186-a32d-29a3f6361a72@185.143.235.253:2052?security=none&type=ws&headerType=&path=%2FTV&host=eLaHiToKoMaKkOn3.aRvHaMrAh.iR#🇮🇷 Iran | Noyan Abr Arvan Co. ( Privat... 2
+vless://045f59e4-ccc2-4024-90ba-f611e0073efa@snapp.ir:80?type=ws&path=%2F&host=kabotar.garfar.ir&security=none#🇮🇷 Iran | ANYCAST 2
+vless://4f2d249f-f676-4909-bd53-73985738ae28@185.143.235.253:2095?security=none&type=ws&headerType=&path=%2FTV&host=eLaHiToKoMaKkOn.aRvHaMrAh.iR#🇮🇷 Iran | Noyan Abr Arvan Co. ( Privat... 3
