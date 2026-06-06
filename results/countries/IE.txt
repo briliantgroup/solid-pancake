@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
+vless://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?security=&encryption=none&headerType=none&type=tcp#🇮🇪 Ireland | AWS EC2 (eu-west-1) 1
 vless://9f9f18f8-2557-4f18-928d-e7c334a0b068@85.159.229.189:443?security=reality&encryption=none&pbk=jRh71f3CZSR8xkOMBX9wpaMe_3EYhjrxFELmls-AW0A&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=e6#🇮🇪 Ireland | Global Internet Solutions LL... 1
-vless://e886fa93-8260-4f8e-ba3a-4879a4d69946@85.159.229.84:443?security=reality&encryption=none&pbk=ogPhlqdcw50ySFPbrYeLT0_L2vFHDfwAuu1pIKboODY&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=93#🇮🇪 Ireland | Global Internet Solutions LL... 2
-vless://b042a503-3cb9-461f-994d-28a642133b5e@193.57.138.53:40921?security=reality&encryption=none&pbk=heCmtLzcbUCR7Y1ZSomzRZpc45p9Qie9p_2W6Xw333A&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=yahoo.com&sid=c42db93ba6c62c#🇮🇪 Ireland | WorkTitans B.V 1
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🇮🇪 Ireland | 3NT SOLUTIONS LLP 1
+vless://b042a503-3cb9-461f-994d-28a642133b5e@193.57.138.53:40921?security=reality&encryption=none&pbk=heCmtLzcbUCR7Y1ZSomzRZpc45p9Qie9p_2W6Xw333A&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=yahoo.com&sid=c42db93ba6c62c#🇮🇪 Ireland | WorkTitans B.V 1
+vless://e886fa93-8260-4f8e-ba3a-4879a4d69946@85.159.229.84:443?security=reality&encryption=none&pbk=ogPhlqdcw50ySFPbrYeLT0_L2vFHDfwAuu1pIKboODY&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=93#🇮🇪 Ireland | Global Internet Solutions LL... 2
