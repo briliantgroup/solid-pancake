@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:80?path=%2F16838%2Fc89d26b724fe%2F&security=none&encryption=none&host=smtp.mmadcoffee.info&fp=random&type=ws&sni=sni.mmadcoffee.info#🇸🇬 Singapore | ACE 1
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@cncdn.cc:80?path=%2F16838%2Fc89d26b724fe%2F&security=&encryption=none&host=smtp.mmadcoffee.info&fp=random&type=ws&sni=sni.mmadcoffee.info#🇸🇬 Singapore | ACE 1
 vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@cncdn.cc:443?path=%2F16838%2Fc89d26b724fe%2F&security=tls&encryption=none&insecure=0&host=smtp.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#🇸🇬 Singapore | ACE 2
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@cncdn.cc:80?path=%2F16838%2Fc89d26b724fe%2F&security=&encryption=none&host=smtp.mmadcoffee.info&fp=random&type=ws&sni=sni.mmadcoffee.info#🇸🇬 Singapore | ACE 3
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443?path=%2F16838%2Fc89d26b724fe%2F&security=tls&encryption=none&insecure=0&host=smtp.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#🇸🇬 Singapore | ACE 4
+vless://4b79c2ed-528b-45e4-8997-e5d9de81e8e2@18.143.177.226:22472?type=tcp&encryption=none&security=reality&pbk=DEvHMT3zhxUxnuqJxq88Z_8413kiseb7YtzU719D4kg&fp=firefox&sni=www.sony.com&sid=45cb8dfc393d9191&spx=/&flow=xtls-rprx-vision#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 1
+vless://779d227c-f7be-4b9d-a4a9-1197c734b4e7@18.141.49.252:35308?type=tcp&encryption=none&security=reality&pbk=4g1kpdmdbN6aNxeBYMj9WherunH9JSXsI_nKZTDiewE&fp=firefox&sni=www.tesla.com&sid=fef8dcb8cafe30&spx=/&flow=xtls-rprx-vision#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 2
+vless://af6904c1-4349-4448-8e99-0024824a0c33@140.245.50.174:10000?security=reality&type=raw&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=3b0b73e5&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&encryption=none#🇸🇬 Singapore | Oracle Corporation 1
