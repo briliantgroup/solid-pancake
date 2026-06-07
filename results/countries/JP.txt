@@ -4,9 +4,6 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 vless://a73ab8fb-5838-410f-ad52-c98a69f1b3ca@151.101.108.223:443?encryption=none&type=ws&security=tls&path=/&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&allowInsecure=1#🇯🇵 Japan | Fastly, Inc. 1
-vless://a204c376-2883-4231-9b50-5b11a36f8752@151.101.108.223:443?path=%2F&security=tls&encryption=none&insecure=1&host=Fijji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇯🇵 Japan | Fastly, Inc. 2
-vless://af1427b3-6257-4e99-97d5-3ddd6288784a@151.101.108.223:443?path=%2F&security=tls&encryption=none&insecure=1&host=nesfeshzksab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇯🇵 Japan | Fastly, Inc. 3
-vless://4f311305-1173-4708-8364-c6d6d93b3775@151.101.108.223:443?path=%2F&security=tls&encryption=none&insecure=1&host=fancii.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇯🇵 Japan | Fastly, Inc. 4
-vless://98c9f668-1f2f-4a6d-bd7a-606fab0ac035@151.101.108.223:443?path=%2F&security=tls&alpn=h3&encryption=none&insecure=1&host=jookeji.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇯🇵 Japan | Fastly, Inc. 5
-trojan://dbyec1mkz198dzk9@151.101.108.223:443?path=%2FTELEGRAM_NUFiLTER&security=tls&insecure=1&host=nleiyajji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇯🇵 Japan | Fastly, Inc. 6
-vless://90cf25cc-4180-49bf-96f4-a423d6282b72@151.101.108.223:443?encryption=none&type=ws&security=tls&path=%2F&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&allowInsecure=1#🇯🇵 Japan | Fastly, Inc. 7
+vless://98c9f668-1f2f-4a6d-bd7a-606fab0ac035@151.101.108.223:443?path=%2F&security=tls&alpn=h3&encryption=none&insecure=1&host=jookeji.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇯🇵 Japan | Fastly, Inc. 2
+vless://a204c376-2883-4231-9b50-5b11a36f8752@151.101.108.223:443?path=/&security=tls&encryption=none&insecure=1&host=Fijji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇯🇵 Japan | Fastly, Inc. 3
+trojan://dbyec1mkz198dzk9@151.101.108.223:443?path=/TELEGRAM_NUFiLTER&security=tls&insecure=1&host=nleiyajji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇯🇵 Japan | Fastly, Inc. 4
