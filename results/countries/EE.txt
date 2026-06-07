@@ -3,6 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://f5a3bf49-07ca-0021-a96b-9606781e3600@138.124.100.237:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.amd.com&fp=chrome&flow=xtls-rprx-vision&sid=4c8d1e0f&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4#🇪🇪 Estonia | Intezio Networks Estonia 1
-vless://834184d0-b7f6-4e2c-9e12-a53a1d2af807@185.215.184.109.blanesik.space:443?type=grpc&headerType=none&security=tls&encryption=none&sni=185.215.184.109.blanesik.space&fp=edge&alpn=h2&serviceName=%2Fsequre%2Fgrpc&insecure=0#🇪🇪 Estonia | RJ Network OU 1
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#🇪🇪 Estonia | 3NT SOLUTIONS LLP 1
+vless://834184d0-b7f6-4e2c-9e12-a53a1d2af807@185.215.184.109.blanesik.space:443?type=grpc&headerType=none&security=tls&encryption=none&sni=185.215.184.109.blanesik.space&fp=edge&alpn=h2&serviceName=%2Fsequre%2Fgrpc&insecure=0#🇪🇪 Estonia | RJ Network OU 1
