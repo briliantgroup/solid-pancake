@@ -3,21 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.69:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 1
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.72:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 2
-ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#🇫🇷 France | OVH 1
-trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click#🇫🇷 France | Vultr 1
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#🇫🇷 France | Cdn77 Paris 1
-trojan://telegram-id-privatevpns@15.237.161.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | AWS EC2 (eu-west-3) 1
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#🇫🇷 France | ONLINE 1
-vmess://eyJhZGQiOiAiMTM3Ljc0LjExOS4xOCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMmY0MjM0ZjktOGYzMy00YzdmLTk1MmYtNTY1ZmZhNWY1ZmI3IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwNTMiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJub2RlLWZyLmNvbm5lY3RzdWl0ZS5vcmciLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=#🇫🇷 France | OVH 2
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇫🇷 France | ONLINE 2
-vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#🇫🇷 France | OVH 3
-vless://3e5da4f6-93c4-4701-911b-1a5091d2430f@213.199.39.156:30001?type=ws&security=none&sni=&fp=chrome&host=&path=/ws#🇫🇷 France | Contabo 1
-vless://7b241232-208d-4d36-857e-913f91b044f4@fr.noooo.win:443?type=tcp&headerType=none&security=tls&encryption=none&sni=api-6a20f558.noooo.win&fp=edge&alpn=h2&flow=xtls-rprx-vision&insecure=0#🇫🇷 France | Fiber Grid 1
-vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6vwn4e3IEZSLTI1NjgiLCJhZGQiOiI1MS43Ny4yMDAuNTUiLCJwb3J0IjoiMTAwMDAiLCJpZCI6ImI3YWE4ZWNlLTYxMWUtMTFmMS05NTZhLTlmMWFmZjMwNWY4YiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL3ZwbmphbnRpdCIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9#🇫🇷 France | OVH 4
-vless://87e60810-bb71-41ea-a2a6-f05c8ab903ef@5.196.51.152:54809?flow=xtls-rprx-vision-udp443&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=dash.cloudflare.com&sid=b4b3&fp=chrome&pbk=06rvKjC9dE_Ndd-dw6B-0zAyEpn-jUs7mcNFAPQ_1G8&spx=/&headerType=none#🇫🇷 France | Fuad Bin a Rahman Muhammad 1
-trojan://humanity@81.255.155.10:443?path=%2Fassignment&security=tls&host=www.creationlong.org&allowinsecure=0&type=ws&sni=www.creationlong.org#🇫🇷 France | L Oreal CO 1
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.67:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇫🇷 France | ZetServers Frankfurt 3
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.76:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇫🇷 France | ZetServers Frankfurt 4
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.73:8443?allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com&fp=chrome&security=tls#🇫🇷 France | ZetServers Frankfurt 5
+vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@152.228.134.58:8443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@wxgqlfx&fp=chrome&alpn=http/1.1#🇫🇷 France | OVH 1
+vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@146.59.159.111:2053?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@wxgqlfx&fp=chrome&alpn=http/1.1#🇫🇷 France | OVH 2
