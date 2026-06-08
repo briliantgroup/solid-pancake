@@ -3,8 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://0a963275-4865-452b-8d65-ac67344f913a@2.26.135.131:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=_M0MBe7f2r36dqtjltSRSOOBlclR2q7uY3Rje5r_mgY&security=reality&sid=73&sni=lada.mycdn-me.ru&type=tcp#🇵🇱 Poland | Ace Data Centers II, LLC 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#🇵🇱 Poland | OVH 1
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?type=tcp&headerType=none&security=tls&encryption=none&insecure=0#🇵🇱 Poland | Vultr 1
-vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.55.241:8443?type=tcp&security=tls&encryption=none&sni=pl1.fromblancwithlove.com#🇵🇱 Poland | Cdn77 Warsaw 1
-vless://30143e07-b734-4bd6-867c-7daf4782cccb@45.140.204.119:443?type=tcp&security=reality&fp=chrome&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&sid=67fb&sni=yahoo.com#🇵🇱 Poland | Global Connectivity Solution... 1
+vless://0a963275-4865-452b-8d65-ac67344f913a@2.26.135.131:443?security=reality&encryption=none&pbk=_M0MBe7f2r36dqtjltSRSOOBlclR2q7uY3Rje5r_mgY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lada.mycdn-me.ru&sid=73#🇵🇱 Poland | Ace Data Centers II, LLC 1
