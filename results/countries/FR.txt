@@ -3,12 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d&sni=yahoo.com&spx=/#🇫🇷 France | AWS EC2 (eu-west-3) 1
-vless://35762c02-ff2b-4526-b41b-e96e5d99528b@transparency.cloud-fr.appcore.org:34754?type=tcp&security=reality&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&pbk=eMijZKuJlNEciXbhyzdbewk-ot_JLMZVaA42bxKFcBM&sid=c9eb0359fac0c345#🇫🇷 France | Hostkey B.V 1
-vless://c9f0224c-c509-427e-b314-cef6cab20646@52.47.86.31:12453?type=tcp&encryption=none&security=reality&pbk=7Bp5RgrAqaiXOsiKaWnu6uliLDG8Eey2gA0coU9oay0&fp=firefox&sni=yahoo.com&sid=52f510cea0a0a5ef&spx=/&flow=xtls-rprx-vision#🇫🇷 France | AWS EC2 (eu-west-3) 2
-vless://acd726d3-0128-44d8-a575-21013ff7740a@51.44.25.250:44520?security=reality&type=tcp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=8897c56a495b26cc&pbk=MrLRcU_2S2CpUc7VT3ajIavX5NYUiQdP6J5QTDFNGFU&encryption=none#🇫🇷 France | AWS EC2 (eu-west-3) 3
-vless://deb96819-bdaa-4f52-a536-d4751290ce47@13.38.52.64:15469?security=reality&encryption=none&pbk=Mr1b8zNNR1uPtf8dgfze_kBJbaVimS0NhJL0ff_2qm4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=0f8d9583dd332274#🇫🇷 France | AWS EC2 (eu-west-3) 4
-vless://391ff971-a901-415e-b0f1-e0c0047e7a24@194.33.34.167:443?security=reality&encryption=none&pbk=enBIOTqlP6CHTvic3CLgpUd_AcJAAbAQIa-oFIk4dVU&headerType=none&fp=chrome&spx=/&allowinsecure=0&type=tcp&sni=yahoo.com&sid=302e#🇫🇷 France | Aeza 1
-vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&security=reality&sid=c906f73d3ba8211f&sni=www.leboncoin.fr&type=tcp#🇫🇷 France | OVH 1
-vless://35762c02-ff2b-4526-b41b-e96e5d99528b@151.241.228.254:34754?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=eMijZKuJlNEciXbhyzdbewk-ot_JLMZVaA42bxKFcBM&security=reality&sid=c9eb0359fac0c345&sni=yahoo.com&type=tcp#🇫🇷 France | Hostkey B.V 2
-vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#🇫🇷 France | OVH 2
+vless://deb96819-bdaa-4f52-a536-d4751290ce47@13.38.52.64:15469?security=reality&encryption=none&pbk=Mr1b8zNNR1uPtf8dgfze_kBJbaVimS0NhJL0ff_2qm4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=0f8d9583dd332274#🇫🇷 France | AWS EC2 (eu-west-3) 1
+vless://701bab46-9453-41e6-ad47-009aa3df47e9@194.226.169.189:443?flow=xtls-rprx-vision&fp=chrome&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&security=reality&sid=3c6fc84d&sni=stats.vk-portal.net#🇫🇷 France | xorek.cloud International LT... 1
+vless://3e5da4f6-93c4-4701-911b-1a5091d2430f@213.199.39.156:30001?encryption=none&path=%2Fws&security=none&type=ws#🇫🇷 France | Contabo 1
+vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&sid=c906f73d3ba8211f&sni=www.leboncoin.fr#🇫🇷 France | OVH 1
