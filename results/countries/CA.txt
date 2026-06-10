@@ -3,51 +3,40 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://b7977b65-cfd8-4db9-a029-6ef014a4ae4a@104.16.122.177:80?type=ws&security=none&encryption=none&path=%2F&host=xU.aSaCO.sTorE&headerType=none&allowInsecure=1#🇨🇦 Canada | CF 1
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@173.245.58.75:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#🇨🇦 Canada | CF 2
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.66.47.45:443?encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#🇨🇦 Canada | CF 3
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@108.162.192.75:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#🇨🇦 Canada | CF 4
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.32.75:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#🇨🇦 Canada | CF 5
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@162.159.36.20:443?encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#🇨🇦 Canada | CF 6
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.98.0:443?encryption=none&security=tls&sni=octopusss4.com&type=ws&host=octopusss4.com&path=%2Ftsghdws#🇨🇦 Canada | CF 7
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@188.114.97.3:80?type=ws&sni=main.boobie.eu.cc#🇨🇦 Canada | CF 1
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.68:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#🇨🇦 Canada | CF 2
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@104.21.23.131:80?type=ws&host=main.boobie.eu.cc&path=%2F#🇨🇦 Canada | CF 3
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.98.0:443?encryption=none&security=tls&sni=octopusss4.com&type=ws&host=octopusss4.com&path=%2Ftsghdws#🇨🇦 Canada | CF 4
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@173.245.58.75:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#🇨🇦 Canada | CF 5
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@162.159.36.5:443?encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#🇨🇦 Canada | CF 6
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@188.114.96.3:80?type=ws&sni=main.boobie.eu.cc#🇨🇦 Canada | CF 7
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.67.70.149:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#🇨🇦 Canada | CF 8
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.138:443?encryption=none&type=ws&security=tls&path=%2Ftsghdws&host=octopusss4.com&sni=octopusss4.com&allowInsecure=1#🇨🇦 Canada | CF 9
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@104.17.121.71:443?encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#🇨🇦 Canada | CF 10
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.68:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#🇨🇦 Canada | CF 11
-vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@188.114.97.3:80?host=main.boobie.eu.cc&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 12
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.147.137:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#🇨🇦 Canada | CF 13
-vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@104.21.23.131:80?type=ws&host=main.boobie.eu.cc&path=%2F#🇨🇦 Canada | CF 14
-vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@172.67.211.74:80?encryption=none&host=main.boobie.eu.cc&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 15
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@162.159.36.5:443?encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#🇨🇦 Canada | CF 16
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@162.159.36.20:443?encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#🇨🇦 Canada | CF 9
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.32.75:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#🇨🇦 Canada | CF 10
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@104.17.121.71:443?encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#🇨🇦 Canada | CF 11
+vless://b7977b65-cfd8-4db9-a029-6ef014a4ae4a@104.16.122.177:80?type=ws&security=none&encryption=none&path=%2F&host=xU.aSaCO.sTorE&headerType=none&allowInsecure=1#🇨🇦 Canada | CF 12
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@162.159.193.138:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#🇨🇦 Canada | CF 13
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@108.162.192.75:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#🇨🇦 Canada | CF 14
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.66.47.45:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#🇨🇦 Canada | CF 15
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@172.67.211.74:80?encryption=none&host=main.boobie.eu.cc&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 16
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@104.17.108.189:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#🇨🇦 Canada | CF 17
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/tsghdws&security=tls&encryption=none&insecure=1&host=octopusss4.com&type=ws&allowInsecure=1&sni=octopusss4.com#🇨🇦 Canada | CF 18
-vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@188.114.96.3:80?host=main.boobie.eu.cc&path=%2F&security=none&type=ws#🇨🇦 Canada | CF 19
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?type=ws&sni=max-gb1.global.ssl.fastly.net&domain=max-gb1.global.ssl.fastly.net#🇨🇦 Canada | Fastly, Inc. 1
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#🇨🇦 Canada | Fastly, Inc. 2
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80?type=ws&fp=chrome&sni=max-gb1.global.ssl.fastly.net#🇨🇦 Canada | Fastly, Inc. 3
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@199.232.197.131:80?type=ws&fp=chrome&sni=max-gb1.global.ssl.fastly.net#🇨🇦 Canada | Fastly, Inc. 4
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇨🇦 Canada | Fastly, Inc. 5
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.130.219:80?encryption=none&host=max-gb1.global.ssl.fastly.net&path=/&security=none&type=ws#🇨🇦 Canada | Fastly, Inc. 6
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇨🇦 Canada | Fastly, Inc. 7
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.130.219:80?type=ws&fp=chrome&sni=max-gb1.global.ssl.fastly.net#🇨🇦 Canada | Fastly, Inc. 8
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?type=ws&sni=tr-cd.sublink-vip2.com#🇨🇦 Canada | CF 20
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.16.0.0:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#🇨🇦 Canada | CF 21
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.26.15.16:8080?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=tr-cd.sublink-vip2.com&security=none&type=ws#🇨🇦 Canada | CF 22
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@www.parsvds.com:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#🇨🇦 Canada | CF 23
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.parsvds.com:8080?encryption=none&type=ws&path=%2F&host=tr-cd.sublink-vip2.com#🇨🇦 Canada | CF 24
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.26.15.16:8080?path=%2F&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#🇨🇦 Canada | CF 25
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.16.0.0:443?path=/&security=tls&encryption=none&insecure=0&host=tr-cd.sublink-vip2.com&fp=chrome&type=ws&allowInsecure=0&sni=tr-cd.sublink-vip2.com#🇨🇦 Canada | CF 26
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:443?path=/&security=tls&encryption=none&insecure=0&host=tr-cd.sublink-vip2.com&fp=chrome&type=ws&allowInsecure=0&sni=tr-cd.sublink-vip2.com#🇨🇦 Canada | CF 27
-trojan://humanity@104.18.32.47:443?host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🇨🇦 Canada | CF 28
-trojan://humanity@162.159.17.189:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🇨🇦 Canada | CF 29
-trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🇨🇦 Canada | CF 30
-trojan://humanity@172.66.47.69:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇨🇦 Canada | CF 31
-trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&type=ws#🇨🇦 Canada | CF 32
-vless://e42eb18a-6620-49b2-a578-820da4adcee8@104.24.7.239:2096?sni=cD.rXtEaMoNbToP.qZz.iO&alpn=http/1.1&type=ws&host=cd.rxteamonbtop.qzz.io&path=/eyJqdW5rIjoia09KQkRyT1VnUDVHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560fp=chrome&security=tls#🇨🇦 Canada | CF 33
-trojan://humanity@104.16.122.175:443?type=ws&security=tls&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&alpn=h2,http/1.1#🇨🇦 Canada | CF 34
-trojan://humanity@104.18.152.229:443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=1#🇨🇦 Canada | CF 35
-vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@104.18.139.67:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=alphacdn.alphashops.shop&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=alphacdn.alphashops.shop&path=/ws#🇨🇦 Canada | CF 36
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:41943/?type=tcp&security=tls&sni=az.01.naiun.bilibili.com&allowInsecure=1#🇨🇦 Canada | Tgs4 CA 1
-vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?encryption=none&host=picassooo.info&path=/aymdlws&security=tls&sni=picassooo.info&type=ws#🇨🇦 Canada | CF 37
-vless://7270612b-49f6-4b04-999c-34d8263da767@172.64.35.45:443?encryption=none&security=tls&sni=picassooo.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=picassooo.info&path=%2Faymdlws#🇨🇦 Canada | CF 38
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:47909/?type=tcp&security=tls&sni=is.01.naiun.bilibili.com&allowInsecure=1#🇨🇦 Canada | Tgs4 CA 2
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.138:443?encryption=none&type=ws&security=tls&path=%2Ftsghdws&host=octopusss4.com&sni=octopusss4.com&allowInsecure=1#🇨🇦 Canada | CF 18
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇨🇦 Canada | Fastly, Inc. 1
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.194.219:80?type=ws&fp=chrome&sni=max-gb1.global.ssl.fastly.net#🇨🇦 Canada | Fastly, Inc. 2
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&brand=@Arvand_soul#🇨🇦 Canada | Fastly, Inc. 3
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇨🇦 Canada | CF 19
+trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🇨🇦 Canada | CF 20
+trojan://humanity@172.66.47.69:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇨🇦 Canada | CF 21
+trojan://humanity@104.16.250.22:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇨🇦 Canada | CF 22
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇨🇦 Canada | CF 23
+vless://e42eb18a-6620-49b2-a578-820da4adcee8@198.41.216.128:2096?encryption=none&security=tls&sni=cD.rXtEaMoNbToP.qZz.iO&alpn=http/1.1&fp=chrome&type=ws&host=cd.rxteamonbtop.qzz.io&path=/eyJqdW5rIjoia09KQkRyT1VnUDVHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560#🇨🇦 Canada | CF 24
+vless://e42eb18a-6620-49b2-a578-820da4adcee8@104.24.7.239:2096?sni=cD.rXtEaMoNbToP.qZz.iO&alpn=http/1.1&type=ws&host=cd.rxteamonbtop.qzz.io&path=/eyJqdW5rIjoia09KQkRyT1VnUDVHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560fp=chrome&security=tls#🇨🇦 Canada | CF 25
+trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🇨🇦 Canada | CF 26
+trojan://humanity@188.114.96.3:443?host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#🇨🇦 Canada | CF 27
+vless://a9d3f77943aeee7d4dc3fa073c1797d8@188.114.96.115:443?type=ws&security=tls&host=crm.lotussec.com&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&sni=crm.lotussec.com#🇨🇦 Canada | CF 28
+vless://a9d3f77943aeee7d4dc3fa073c1797d8@104.26.13.138:443?type=ws&security=tls&host=crm.lotussec.com&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&sni=crm.lotussec.com#🇨🇦 Canada | CF 29
+vless://a9d3f77943aeee7d4dc3fa073c1797d8@188.114.96.165:443?type=ws&security=tls&host=crm.lotussec.com&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&sni=crm.lotussec.com#🇨🇦 Canada | CF 30
+vless://a9d3f77943aeee7d4dc3fa073c1797d8@188.114.96.143:443?type=ws&security=tls&host=crm.lotussec.com&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&sni=crm.lotussec.com#🇨🇦 Canada | CF 31
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:45553?security=tls&sni=ch.01.naiun.bilibili.com#🇨🇦 Canada | Tgs4 CA 1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:48697?security=tls&sni=gh.01.naiun.bilibili.com#🇨🇦 Canada | Tgs4 CA 2
+vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@104.18.139.67:443?encryption=none&security=tls&sni=alphacdn.alphashops.shop&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=alphacdn.alphashops.shop&path=/ws#🇨🇦 Canada | CF 32

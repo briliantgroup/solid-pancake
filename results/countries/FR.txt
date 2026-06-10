@@ -3,29 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.70:8443?encryption=none&fp=chrome&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 1
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.69:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 2
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.68:8443?encryption=none&security=tls&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇫🇷 France | ZetServers Frankfurt 3
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.75:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#🇫🇷 France | ZetServers Frankfurt 4
-ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#🇫🇷 France | OVH 1
-trojan://telegram-id-directvpn@13.37.43.57:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | AWS EC2 (eu-west-3) 1
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?encryption=none&security=none&type=ws&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&path=%2Fvless%2F#🇫🇷 France | OVH 2
-trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click#🇫🇷 France | Vultr 1
-trojan://telegram-id-privatevpns@52.47.70.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | AWS EC2 (eu-west-3) 2
-vless://43488128-319e-f480-64ea-0acdc712e2a8@51.255.71.16:443?security=reality&encryption=none&pbk=ZnlCl_Jc2dV5-KK_ymmMcEDoe5lPyZ-5z_LGMRoiNTU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=b87063a35aaa942e#🇫🇷 France | OVH 3
-trojan://telegram-id-privatevpns@13.37.43.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | AWS EC2 (eu-west-3) 3
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#🇫🇷 France | Cdn77 Paris 1
-trojan://telegram-id-directvpn@52.47.70.99:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | AWS EC2 (eu-west-3) 4
-vless://7b241232-208d-4d36-857e-913f91b044f4@196.196.35.35:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-6a20f558.noooo.win&type=tcp#🇫🇷 France | Fiber Grid 1
-vless://7b241232-208d-4d36-857e-913f91b044f4@5.157.51.173:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=api-6a20f558.noooo.win&type=tcp#🇫🇷 France | InterConnects 1
-vless://87e60810-bb71-41ea-a2a6-f05c8ab903ef@5.196.51.152:54809?flow=xtls-rprx-vision-udp443&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=dash.cloudflare.com&sid=b4b3&fp=chrome&pbk=06rvKjC9dE_Ndd-dw6B-0zAyEpn-jUs7mcNFAPQ_1G8&spx=/&headerType=none#🇫🇷 France | Fuad Bin a Rahman Muhammad 1
-hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#🇫🇷 France | ONLINE 1
-vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?security=reality&encryption=none&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=9a4c7d2f8e1b6a3c#🇫🇷 France | OVH 4
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.70.99:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 France | AWS EC2 (eu-west-3) 5
-vless://c9f0224c-c509-427e-b314-cef6cab20646@52.47.86.31:12453?type=tcp&encryption=none&security=reality&pbk=7Bp5RgrAqaiXOsiKaWnu6uliLDG8Eey2gA0coU9oay0&fp=firefox&sni=yahoo.com&sid=52f510cea0a0a5ef&spx=/&flow=xtls-rprx-vision#🇫🇷 France | AWS EC2 (eu-west-3) 6
-vless://deb96819-bdaa-4f52-a536-d4751290ce47@13.38.52.64:15469?type=tcp&encryption=none&security=reality&pbk=Mr1b8zNNR1uPtf8dgfze_kBJbaVimS0NhJL0ff_2qm4&fp=firefox&sni=yahoo.com&sid=0f8d9583dd332274&spx=/&flow=xtls-rprx-vision#🇫🇷 France | AWS EC2 (eu-west-3) 7
-vless://391ff971-a901-415e-b0f1-e0c0047e7a24@194.33.34.167:443?security=reality&encryption=none&pbk=enBIOTqlP6CHTvic3CLgpUd_AcJAAbAQIa-oFIk4dVU&headerType=none&fp=chrome&spx=/&allowinsecure=0&type=tcp&sni=yahoo.com&sid=302e#🇫🇷 France | Aeza 1
-vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&host=akamaized.net&path=%2Fvless%2F&security=none&type=ws#🇫🇷 France | OVH 5
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.76:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 5
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.73:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 6
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.72:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 7
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.68:8443?encryption=none&security=tls&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇫🇷 France | ZetServers Frankfurt 1
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.75:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#🇫🇷 France | ZetServers Frankfurt 2
