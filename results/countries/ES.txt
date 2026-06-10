@@ -3,5 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://9f5ce1f6-d223-4f80-b848-72b7d662f189@155.212.242.190:443?flow=xtls-rprx-vision&fp=firefox&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=spain1.helper-internet.com&type=tcp#🇪🇸 Spain | BV Na29 1
-vless://0e074e87-fc9c-4431-8b36-0d3151d34937@212.46.38.14:443?flow=xtls-rprx-vision&fp=firefox&pbk=97Crozt42QmVeBWA-HT2th6U33_x-gwo6qXQV-EjfxM&security=reality&sid=bc4da5d1b3e128e6&sni=technology.proektblog.space&type=tcp#🇪🇸 Spain | BlueVPS 1
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@185.18.250.252:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#🇪🇸 Spain | SR DC Mad1 1
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@185.18.250.245:443?encryption=none&fp=chrome&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#🇪🇸 Spain | SR DC Mad1 2

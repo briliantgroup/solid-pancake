@@ -4,4 +4,4 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.70:8443?encryption=none&fp=chrome&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 1
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.72:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 2
+trojan://humanity@81.255.155.10:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=1#🇫🇷 France | L Oreal CO 1
