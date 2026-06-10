@@ -3,5 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@185.18.250.252:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#🇪🇸 Spain | SR DC Mad1 1
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@185.18.250.245:443?encryption=none&fp=chrome&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#🇪🇸 Spain | SR DC Mad1 2
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@185.18.250.252:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&type=ws&sni=octopusss4.com#🇪🇸 Spain | SR DC Mad1 1
+trojan://humanity@185.18.250.245:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇪🇸 Spain | SR DC Mad1 2
+vmess://eyJhZGQiOiI4NS45MC4yMTcuNDIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjIyMzI0IiwicHMiOiJcdWQ4M2NcdWRmZjNbd3d3LnYybm9kZXMuY29tXSB2bWVzcy0iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#🇪🇸 Spain | GCL 1
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@85.90.217.42:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=85.90.217.42#🇪🇸 Spain | GCL 2
+vless://394f6981-a782-4779-9a85-e6cf22935d93@212.102.48.217:8443?encryption=none&security=tls&sni=mad-es.fromblancwithlove.com&type=tcp#🇪🇸 Spain | Datacamp Limited 1
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@195.96.132.125:443?security=reality&type=tcp&packetEncoding=none&sni=www.vk.ru&fp=chrome&flow=xtls-rprx-vision&sid=8237eb&pbk=WM-LMz6slGkGPD3zEM8Ntat27n6p6EfbxRsjYmTykV4#🇪🇸 Spain | Soltia Consulting SL 1
