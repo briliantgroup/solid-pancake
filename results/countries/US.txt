@@ -3,46 +3,25 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.11:443?encryption=none&type=ws&security=tls&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&allowInsecure=0#🇺🇸 United States | WPEngine, Inc. 1
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.21:443?encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#🇺🇸 United States | WPEngine, Inc. 2
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#🇺🇸 United States | WPEngine, Inc. 3
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@66.81.247.155:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#🇺🇸 United States | RingCentral Inc 1
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?path=/tsghdws&security=tls&encryption=none&insecure=1&host=octopusss4.com&type=ws&allowInsecure=1&sni=octopusss4.com#🇺🇸 United States | WPEngine, Inc. 4
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@66.81.247.155:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#🇺🇸 United States | RingCentral Inc 1
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.21:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#🇺🇸 United States | WPEngine, Inc. 1
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@216.24.57.7:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#🇺🇸 United States | Render 1
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇺🇸 United States | Fastly, Inc. 1
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?type=ws&host=max-gb1.global.ssl.fastly.net&path=/#🇺🇸 United States | Fastly, Inc. 2
-trojan://humanity@141.193.213.21:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#🇺🇸 United States | WPEngine, Inc. 5
-trojan://humanity@141.193.213.11:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🇺🇸 United States | WPEngine, Inc. 6
-trojan://humanity@141.193.213.30:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🇺🇸 United States | WPEngine, Inc. 7
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@208.103.161.170:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#🇺🇸 United States | Notion Labs, Inc. 1
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#🇺🇸 United States | WPEngine, Inc. 2
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.11:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#🇺🇸 United States | WPEngine, Inc. 3
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.223:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇺🇸 United States | Fastly, Inc. 1
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇺🇸 United States | Fastly, Inc. 2
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇺🇸 United States | Fastly, Inc. 3
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.109.223:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇺🇸 United States | Fastly, Inc. 4
+vless://52c0dab9-2187-49a4-8e31-f1db94bd7a9e@199.232.78.160:443?path=%2F&security=tls&encryption=none&host=alesis724.global.ssl.fastly.net&type=ws&sni=speedtest.net#🇺🇸 United States | Fastly, Inc. 5
+vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.205:443?encryption=none&type=ws&host=sync.amordad.xyz&path=%2Fapi%2Fv1%2Fstream&security=tls&sni=sync.amordad.xyz#🇺🇸 United States | Bigcommerce Inc 1
 trojan://humanity@216.24.57.7:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#🇺🇸 United States | Render 2
+trojan://humanity@208.103.161.170:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🇺🇸 United States | Notion Labs, Inc. 2
 trojan://humanity@66.81.247.155:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&allowInsecure=0#🇺🇸 United States | RingCentral Inc 2
-vless://a9d3f77943aeee7d4dc3fa073c1797d8@8.6.112.17:443?type=ws&security=tls&host=crm.lotussec.com&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&sni=crm.lotussec.com#🇺🇸 United States | Level 3 1
-trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#🇺🇸 United States | Notion Labs, Inc. 1
-trojan://humanity@216.24.57.6:443?path=%2Fassignment&security=tls&alpn=http/1.1&host=www.creationlong.org&fp=chrome&type=ws&sni=www.creationlong.org#🇺🇸 United States | Render 3
-trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?security=tls&sni=172.237.145.189#🇺🇸 United States | Akamai Technologies, Inc. 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTdIXy1lU01XYldGdHVrdFZ1VDh3V2pBTlNOOXRtaA@198.71.54.21:1080#🇺🇸 United States | IONOS Inc 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI@108.181.57.93:8388#🇺🇸 United States | TELUS Communications Inc. 1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#🇺🇸 United States | Cdnext NYC 1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#🇺🇸 United States | Cdnext NYC 2
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168:443#🇺🇸 United States | Datacamp Limited 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeVo1WG8waHQ0MXZZbVczSDQ=@149.28.255.6:816#🇺🇸 United States | Vultr 1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#🇺🇸 United States | Datacamp Limited 2
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#🇺🇸 United States | Datacamp Limited 3
-vmess://eyJhZGQiOiI2Ny4yMjAuOTUuMyIsImFpZCI6MCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoxODAwMCwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1VUy0xMzgxNjQ5OSIsInNjeSI6ImFlcy0xMjgtZ2NtIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#🇺🇸 United States | objx.net 1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#🇺🇸 United States | Datacamp Limited 4
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#🇺🇸 United States | Cdnext NYC 3
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#🇺🇸 United States | Cdnext NYC 4
-vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&path=%2f#🇺🇸 United States | Alibaba Cloud - US 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplbFR1bzczRnNRd085MEViTG85NlZl@45.55.40.127:49726#🇺🇸 United States | DO 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#🇺🇸 United States | Fourplex Telecom LLC 1
-vmess://eyJhZGQiOiI2Ny4yMjAuODUuNDYiLCJhaWQiOiIwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMTgwMDAiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFt3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLVVTLTE0MDU4ODQ5Iiwic2N5IjoiYWVzLTEyOC1nY20iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==#🇺🇸 United States | objx.net 2
-hysteria2://80deaf6e-6747-35f1-848e-b8e8aeb8b2fa@s544.ccgfw.online:443?sni=u727887us544.ccgfw.online&alpn=h3&mport=30000-32000&hopinterval=30s#🇺🇸 United States | DA International Group Ltd 1
-vless://360045e9-30d9-4f13-b9d6-9c57f6baab1d@45.90.12.239:443?encryption=none&type=grpc&serviceName=xyz&security=reality&fp=chrome&pbk=fviTlCtkzpbYhTpHObiVtlgCaAT8LytP9eWUoa6Jfy4&sni=apple.com&sid=66f80bb224a5065a#🇺🇸 United States | RoyaleHosting BV 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRVG1MVmlVNFZFbXV3Yk94VXc0SVhk@107.172.250.161:59556#🇺🇸 United States | ColoCrossing 1
-vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?path=%2Fpourya&security=none&encryption=none&type=ws#🇺🇸 United States | NetCrafters OU 1
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&security=reality&sid=&sni=aws.amazon.com&type=#🇺🇸 United States | DO 2
-vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjkiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwibmV0IjoidGNwIiwicGF0aCI6IlwvQFByb3h5VlBOMTEiLCJwb3J0IjoiMTgwIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1VUy0xMzc2NDM5NyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI2IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇺🇸 United States | Datacamp Limited 5
-vless://734d7287-27d5-4ed4-ad86-8639669e0607@172.86.109.206:17121?encryption=none&security=none&type=ws&host=www.google.com&path=/#🇺🇸 United States | FranTech Solutions 1
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZmYzW3d3dy52Mm5vZGVzLmNvbV0gdm1lc3MtIiwiYWRkIjoiODIuMTk4LjI0Ni4yMTQiLCJwb3J0IjoiMTgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJob3N0IjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇺🇸 United States | Datacamp Limited 6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#🇺🇸 United States | Fourplex Telecom LLC 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388#🇺🇸 United States | TELUS Communications Inc. 2
+trojan://humanity@141.193.213.11:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🇺🇸 United States | WPEngine, Inc. 4
+trojan://humanity@141.193.213.30:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🇺🇸 United States | WPEngine, Inc. 5
+trojan://humanity@141.193.213.21:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=0#🇺🇸 United States | WPEngine, Inc. 6
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:47909?security=tls&sni=is.01.naiun.bilibili.com#🇺🇸 United States | Akari Networks LLC 1
+vmess://eyJhZGQiOiIxNTUuMjU0LjEyNi4yNDkiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOiJjaHJvbWUiLCJob3N0IjpudWxsLCJpZCI6ImEwMzA4NDJhLWQyOWEtNGVhOS1hNzc2LTE0ZmM0YjllMTAyZCIsIm5hbWUiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMgNjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0Ijo2MDA0LCJwcyI6Ilx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlY1t3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLVNHLTEzNDAzMTY4Iiwic2N5IjoiYXV0byIsInNuaSI6bnVsbCwidGxzIjoiIiwidHlwZSI6bnVsbCwidiI6bnVsbCwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇺🇸 United States | Akari Networks Limited 1
+vmess://eyJhZGQiOiIxNTUuMjU0LjEyNi4yNDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTAzMDg0MmEtZDI5YS00ZWE5LWE3NzYtMTRmYzRiOWUxMDJkIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI2MDAxIiwicHMiOiJcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjBbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1ISy0xNDE2NDgwMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇺🇸 United States | Akari Networks Limited 2
+vless://7270612b-49f6-4b04-999c-34d8263da767@162.159.44.45:443?encryption=none&security=tls&sni=picassooo.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=picassooo.info&path=%2Faymdlws#🇺🇸 United States | CF 1
