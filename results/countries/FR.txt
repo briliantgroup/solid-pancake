@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.70:8443?encryption=none&fp=chrome&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 1
-vless://27c321f9-bee4-49d9-ada5-aaf1a5b3b1da@162.19.181.48:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tEVdXRIm8PEge42nXXzHAsd1-_AoUflc_MzMZHWWa10&security=reality&sid=e193ba67&sni=www.cloudflare.com&spx=%2F5P3xvRQswJrFpAp&type=tcp#🇫🇷 France | OVH 1
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#🇫🇷 France | Interkvm Host SRL 1
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.166:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn7-09.vk-cdnvideo.com#🇫🇷 France | Interkvm Host SRL 2
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.67:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 2
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.73:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 3
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.76:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 4
+vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6vwn4e3IEZSLTI0MjQiLCJhZGQiOiIxMzcuNzQuMTE5LjE4IiwicG9ydCI6MjA1MywiaWQiOiIyZjQyMzRmOS04ZjMzLTRjN2YtOTUyZi01NjVmZmE1ZjVmYjciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJub2RlLWZyLmNvbm5lY3RzdWl0ZS5vcmciLCJuYW1lIjoi8J+Hq/Cfh7cgfCBAV2hpdGVETlMgfCBGUjUwfDEuN01CL3N8R1BU4oG6fEdNLUZSfENMLUZSfFNQLUZSIn0=#🇫🇷 France | OVH 1
+vless://35762c02-ff2b-4526-b41b-e96e5d99528b@151.241.228.254:34754?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&fp=firefox&pbk=eMijZKuJlNEciXbhyzdbewk-ot_JLMZVaA42bxKFcBM&sid=c9eb0359fac0c345#🇫🇷 France | Hostkey B.V 1
+vless://3d6518df-cab2-4840-83fa-a0d0759d1309@31.77.196.103:443?flow=xtls-rprx-vision&fp=firefox&pbk=X4K_WVHhgotJ6pybZEtdTniLFiXvrZaBUfsVuVMzeiM&security=reality&sid=b04a253efa7baa21&sni=www.telekom.de&type=tcp#🇫🇷 France | Ace Data Centers II, LLC 1
