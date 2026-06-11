@@ -1,0 +1,10 @@
+#profile-update-interval: 3
+#profile-title: encode:Qm9iaVZQTiDwn4ev8J+HtSBKYXBhbg==
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#support-url: https://github.com/
+#profile-web-page-url: https://github.com/
+vless://a5ac4482-917b-4739-b199-2602b0d685c1@3.112.4.195:26658?security=reality&encryption=none&pbk=gkC4bB22x9sMejCl1W4CtDLgC9I-4OsSnFRLIgG1Vy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=195a9d288a47ce46#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 1
+vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=1&encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#🇯🇵 Japan | Cdn77 TYO 1
+vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjpudWxsLCJob3N0IjpudWxsLCJpZCI6IjExYzM2MjdmLTMxZTgtNDY5NS1kZmJkLTM0MDc2ZTJmMWY1ZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInBvcnQiOjgwLCJwcyI6IltPcGVuUmF5XSDwn4ev8J+HtSBKUC0yNjE0Iiwic2N5IjoiYXV0byIsInNuaSI6bnVsbCwidGxzIjpudWxsLCJ0eXBlIjpudWxsLCJ2IjpudWxsfQ==#🇯🇵 Japan | Oracle Cloud Infrastructure ... 1
+vless://99e50b7b-e551-46b3-b74f-d39806835b10@212.135.211.105:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=6bKr3dHLP8VjrlVFBNTAM3Bj0j0iGubvzTDPTmK08FI&sid=ecf07d87f0521a0e&sni=www.cloudflare.com#🇯🇵 Japan | CYBERVERSE JP 1
+vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?path=%2Fvless%2F&security=&encryption=none&type=ws#🇯🇵 Japan | Ipxo LLC 1
