@@ -3,4 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://4b8d8d7f-a8b4-4e44-80a9-6f13c3149b52@45.130.214.192:53231?encryption=none&fp=chrome&pbk=3mRweaWR6pK4HsbEtu874rNG9qBgdOMmSsKE4RkWSmk&security=reality&sid=4ffbd0f3117c6f&sni=yahoo.com&type=tcp#🇱🇻 Latvia | RETN Limited 1
+vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@62.192.174.111:443?type=tcp&security=reality&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4&sni=www.samsung.com#🇱🇻 Latvia | Serva ONE LTD 1
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#🇱🇻 Latvia | SERV.HOST GROUP LTD 1
+vless://f2e9df1b-e0ba-4b37-a301-6aab8662c926@77.73.238.191:16622?security=reality&encryption=none&pbk=E5N_ckakvqgTOjiQ6Rmuwz1fchiT1-J3tH4cbzcH_GQ&headerType=&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=1c01d60ea915#🇱🇻 Latvia | Beget LLC 1
+vless://4b8d8d7f-a8b4-4e44-80a9-6f13c3149b52@45.130.214.192:53231?security=reality&encryption=none&pbk=3mRweaWR6pK4HsbEtu874rNG9qBgdOMmSsKE4RkWSmk&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=4ffbd0f3117c6f#🇱🇻 Latvia | RETN Limited 1
