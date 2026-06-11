@@ -4,5 +4,9 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.70:8443?encryption=none&fp=chrome&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 1
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.73:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 2
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.67:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 3
+vless://27c321f9-bee4-49d9-ada5-aaf1a5b3b1da@162.19.181.48:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tEVdXRIm8PEge42nXXzHAsd1-_AoUflc_MzMZHWWa10&security=reality&sid=e193ba67&sni=www.cloudflare.com&spx=%2F5P3xvRQswJrFpAp&type=tcp#🇫🇷 France | OVH 1
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#🇫🇷 France | Interkvm Host SRL 1
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.166:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn7-09.vk-cdnvideo.com#🇫🇷 France | Interkvm Host SRL 2
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.67:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 2
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.73:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 3
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.76:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 4
