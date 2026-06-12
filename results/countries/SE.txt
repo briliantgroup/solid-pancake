@@ -3,7 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://d78c12c4-6927-40b8-8550-ed9be00334da@150.241.72.169:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=cxcczechia1.chickenkiller.com&fp=chrome&flow=xtls-rprx-vision&sid=fcfb56dcc1d63834&pbk=K7no4vVZPV-eW6uFsq2xP3m5bwuau4bSvRU1bnFs80k#🇸🇪 Sweden | xorek.cloud International LT... 1
-vless://980231fb-4372-5c81-b696-20aa34d33af0@148.253.211.47:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=978-Yxgtd3AWTVfiXEQqCstdwrT1qgsgleGPIRGQDl8&sid=bdac121c7debdaba&sni=www.microsoft.com#🇸🇪 Sweden | GuardNetwork 1
-vless://ebe186c0-1006-4b07-8a84-45deaf0bda23@150.241.74.150:443?security=reality&encryption=none&pbk=vB4lhwE3aZhB3vzphogmjJv1VYNedlCTgd5c1Bka_F0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=4a43ca#🇸🇪 Sweden | xorek.cloud International LT... 2
-vless://2703cda8-5cf4-019d-c4bd-6cf0c2261946@122.8.44.3:993?security=reality&encryption=none&pbk=UvQ2HZFkQXrBiaprbcmks-aFo1dvnfPlHXcUKcl-i04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#🇸🇪 Sweden | Beijing CNISP Technology Co.... 1
+vless://f3fc72ac-da16-43f9-b4f5-d860f2497d53@62.60.230.211:10883?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=-teC-ZXJjQ4v9nyjUKvzOd3FWj-A1QQrKd5FXgjul3s&type=tcp&headerType=none#🇸🇪 Sweden | NetCrafters OU 1
