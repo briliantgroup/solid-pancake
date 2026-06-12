@@ -3,5 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://10360c23-9847-4508-b50e-7ada85fbb0a7@217.60.35.173:443?type=tcp&headerType=none&security=reality&encryption=none&sni=nl-cdn.ru&fp=firefox&pbk=7hCw9x8kRkAnLKO3FBwPLSM_6Qs5TOir31_TT050OxU&sid=c9b0c990b745646d&flow=xtls-rprx-vision#🇦🇪 United Arab Emirates | GoldIPv4 1
-vless://10360c23-9847-4508-b50e-7ada85fbb0a7@217.60.35.52:443?flow=xtls-rprx-vision&fp=firefox&pbk=7hCw9x8kRkAnLKO3FBwPLSM_6Qs5TOir31_TT050OxU&security=reality&sid=c9b0c990b745646d&sni=nl-cdn.ru&type=tcp#🇦🇪 United Arab Emirates | GoldIPv4 2
+vless://18f9eca9-67f8-438e-a387-36a48d42867c@178.248.238.91:2002?security=reality&encryption=none&pbk=8vv7cXbTCJ3lzSDuwyt3THqTe2Hmq9SjqyHmSeVe62Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=148cb4094a#🇦🇪 United Arab Emirates | Qrator Uae 1
+vless://394433c2-b5e9-4c9e-b976-24d29114f830@178.248.238.91:2001?security=reality&encryption=none&pbk=8vv7cXbTCJ3lzSDuwyt3THqTe2Hmq9SjqyHmSeVe62Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=148cb4094a#🇦🇪 United Arab Emirates | Qrator Uae 2
