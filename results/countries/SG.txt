@@ -3,5 +3,28 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5hdGlvbiI6IiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6Ilx1ZDgzY1x1ZGZmM1t3d3cudjJub2Rlcy5jb21dIHZtZXNzLSIsInNjeSI6ImF1dG8iLCJzZXJ2ZXJQb3J0IjowLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇸🇬 Singapore | Datacamp Limited 1
-vless://982ea8d2-d430-4e19-a12c-f69f2e3047a2@47.129.152.131:23123?type=tcp&headerType=none&security=reality&encryption=none&sni=www.nvidia.com&fp=firefox&pbk=RMDp_xrYjgNV5VATfzCgADH32U4k_jISDCBw7G97x04&sid=f9f213fbc392&spx=%2F&flow=xtls-rprx-vision#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:45619?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=fr.01.naiun.bilibili.com#🇸🇬 Singapore | Akari Networks Limited 1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:45619?sni=fr.01.naiun.bilibili.com#🇸🇬 Singapore | Akari Networks Limited 2
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.98:45619?sni=fr.01.naiun.bilibili.com#🇸🇬 Singapore | Akari Networks Limited 3
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.91:45619?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=fr.01.naiun.bilibili.com#🇸🇬 Singapore | Akari Networks Limited 4
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:45619?allowInsecure=1&sni=fr.01.naiun.bilibili.com#🇸🇬 Singapore | Akari Networks Limited 5
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:45553?sni=ch.01.naiun.bilibili.com#🇸🇬 Singapore | Akari Networks Limited 6
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#🇸🇬 Singapore | Akari Networks Limited 7
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#🇸🇬 Singapore | Akari Networks Limited 8
+vless://d1754ab7-0c54-4f2a-a3d6-584b38e61061@5.223.67.129:8443?flow=xtls-rprx-vision&fp=firefox&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&security=reality&sni=apple.com&type=tcp#🇸🇬 Singapore | HETZNER-DC 1
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=tDUWn7ehHYLVJBBsGoMH5X7CPlW2o2cZUwQoLFPKexQ&sid=617d#🇸🇬 Singapore | Alibaba.com Singapore E-Comm... 1
+ss://YWVzLTEyOC1nY206SlZTdXVpYjR5ZHZZOG03dTZqRWxUWWJlUk84eWdKNEhpOElxNzMzQnFBa0Y=@168.138.175.92:9888#🇸🇬 Singapore | Oracle Public Cloud 1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:47909?sni=is.01.naiun.bilibili.com#🇸🇬 Singapore | Akari Networks Limited 9
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:46424?security=tls&sni=de.01.naiun.bilibili.com#🇸🇬 Singapore | Akari Networks Limited 10
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:48697?allowInsecure=1&sni=gh.01.naiun.bilibili.com#🇸🇬 Singapore | Akari Networks Limited 11
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:48697?allowInsecure=1&sni=gh.01.naiun.bilibili.com#🇸🇬 Singapore | Akari Networks Limited 12
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:41943?security=tls&sni=az.01.naiun.bilibili.com#🇸🇬 Singapore | Akari Networks Limited 13
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.95:41943/?type=tcp&security=tls&sni=az.01.naiun.bilibili.com&allowInsecure=1#🇸🇬 Singapore | Akari Networks Limited 14
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:47909?sni=is.01.naiun.bilibili.com#🇸🇬 Singapore | Akari Networks Limited 15
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:47909?allowInsecure=1&sni=is.01.naiun.bilibili.com#🇸🇬 Singapore | Akari Networks Limited 16
+vless://0ff7989d-59b3-4cbd-a2e4-960ac02fb2f1@46.137.225.209:32946?security=reality&encryption=none&pbk=zdEghV1Mt50wCSUBZSd601DSMoX4KBTfcKWZ2_mYTBk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=984d9ea72b9e81#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.98:47909?sni=is.01.naiun.bilibili.com#🇸🇬 Singapore | Akari Networks Limited 17
+trojan://5JKj82yC2BNxy8LAZha8Gsj2BAexJJU7ttTfeFcuHzmLjAiZ@46.137.202.140:443?security=tls&sni=node1.bw8848.org&type=ws&host=node1.bw8848.org&path=/node1-node1-5sczzi#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 2
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.98:41943?sni=az.01.naiun.bilibili.com#🇸🇬 Singapore | Akari Networks Limited 18
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:41943?security=tls&sni=az.01.naiun.bilibili.com#🇸🇬 Singapore | Akari Networks Limited 19
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:41943?security=tls&sni=az.01.naiun.bilibili.com#🇸🇬 Singapore | Akari Networks Limited 20
