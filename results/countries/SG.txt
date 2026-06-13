@@ -3,4 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.96:41943?security=tls&sni=az.01.naiun.bilibili.com#🇸🇬 Singapore | Akari Networks Limited 1
+vless://47ab09c5-b2cc-441f-b5e5-6782b722d3ee@sgp.locklance.lol:443?type=tcp&headerType=none&security=reality&encryption=none&sni=sgp.locklance.lol&fp=chrome&pbk=r1Kfa7J4LtBrAluydukevUSBeOo-1DvZJdvZGrWkOQg&sid=ff14285fbed00db9&spx=%2F&flow=xtls-rprx-vision#🇸🇬 Singapore | Leaseweb Singapore Pte. LTD 1
+trojan://5JKj82yC2BNxy8LAZha8Gsj2BAexJJU7ttTfeFcuHzmLjAiZ@46.137.202.140:443?security=tls&sni=node1.bw8848.org&type=ws&host=node1.bw8848.org&path=/node1-node1-5sczzi#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 1
+vless://af6904c1-4349-4448-8e99-0024824a0c33@140.245.50.174:10000?security=reality&type=raw&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=3b0b73e5&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&encryption=none#🇸🇬 Singapore | Oracle Corporation 1
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=tDUWn7ehHYLVJBBsGoMH5X7CPlW2o2cZUwQoLFPKexQ&sid=617d#🇸🇬 Singapore | Alibaba.com Singapore E-Comm... 1
