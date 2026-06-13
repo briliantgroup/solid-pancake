@@ -3,13 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.195:8443?encryption=none&fp=chrome&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 1
 vless://fdd15635-6992-41dc-8d10-84b59cb998de@155.117.137.150:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn9-33.yahoo.com&sid=42e51b053eec3700#🇫🇷 France 1
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=%2Fvws%2F&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#🇫🇷 France | OVH 1
-vless://3e5da4f6-93c4-4701-911b-1a5091d2430f@213.199.39.156:30001?type=ws&security=none&sni=&fp=chrome&host=&path=/ws#🇫🇷 France | Contabo 1
-vless://e96ffcc1-5acf-4e24-9b67-1b736a2f1c24@89.208.97.95:443?encryption=none&type=tcp&security=reality&headerType=none&sni=amazon.fr&fp=chrome&pbk=OhHt4eEk9pZVzDpt37apm_7DRM0qP6_D4yJBCK0n02A&sid=5701e710c025b4b8&spx=/&flow=xtls-rprx-vision#🇫🇷 France | Aeza 1
-vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&sid=c906f73d3ba8211f&sni=www.leboncoin.fr#🇫🇷 France | OVH 2
-vless://acd726d3-0128-44d8-a575-21013ff7740a@51.44.25.250:44520?security=reality&type=tcp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=8897c56a495b26cc&pbk=MrLRcU_2S2CpUc7VT3ajIavX5NYUiQdP6J5QTDFNGFU&encryption=none#🇫🇷 France | AWS EC2 (eu-west-3) 1
-vless://deb96819-bdaa-4f52-a536-d4751290ce47@13.38.52.64:15469?type=tcp&encryption=none&security=reality&pbk=Mr1b8zNNR1uPtf8dgfze_kBJbaVimS0NhJL0ff_2qm4&fp=firefox&sni=yahoo.com&sid=0f8d9583dd332274&spx=/&flow=xtls-rprx-vision#🇫🇷 France | AWS EC2 (eu-west-3) 2
-vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6vwn4e3IEZSLTI0MjQiLCJhZGQiOiIxMzcuNzQuMTE5LjE4IiwicG9ydCI6MjA1MywiaWQiOiIyZjQyMzRmOS04ZjMzLTRjN2YtOTUyZi01NjVmZmE1ZjVmYjciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJub2RlLWZyLmNvbm5lY3RzdWl0ZS5vcmciLCJuYW1lIjoi8J+Hq/Cfh7cgfCBAV2hpdGVETlMgfCBGUjUwfDEuN01CL3N8R1BU4oG6fEdNLUZSfENMLUZSfFNQLUZSIn0=#🇫🇷 France | OVH 3
-vless://391ff971-a901-415e-b0f1-e0c0047e7a24@194.33.34.167:443?security=reality&encryption=none&pbk=enBIOTqlP6CHTvic3CLgpUd_AcJAAbAQIa-oFIk4dVU&headerType=none&fp=chrome&spx=/&allowinsecure=0&type=tcp&sni=yahoo.com&sid=302e#🇫🇷 France | Aeza 2
-vless://a6349c3f-5234-4821-80b4-d99b33f0924d@45.196.224.93:8443?type=tcp&security=reality&sni=storage.yandex.net&flow=xtls-rprx-vision&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c#🇫🇷 France | Individual Entrepreneur ARTE... 1
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.70:8443?encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇫🇷 France | ZetServers Frankfurt 2
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.182:8443?encryption=none&fp=chrome&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#🇫🇷 France | Interkvm Host SRL 1
