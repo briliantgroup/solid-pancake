@@ -3,4 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://9124da39-484f-416a-b8fe-2406d9ce9600@185.143.232.122:80?path=/news&security=none&encryption=none&host=out10.pasargardnet.ir&type=ws#🇮🇷 Iran | Noyan Abr Arvan Co. ( Privat... 1
+trojan://humanity@185.231.112.217:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇮🇷 Iran | Pars Parva System LTD 1
+vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@sv2.azparadox.ir:8880?path=%2F&security=&encryption=none&host=azsv2.ir5ive.ir&type=ws#🇮🇷 Iran | AbrArvan IaaS 1
