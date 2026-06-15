@@ -3,9 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&flow=xtls-rprx-vision#🇬🇧 United Kingdom | Individual Entrepreneur ARTE... 1
-vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.68:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sni=storage.yandex.net&sid=ea10cd5686751ec5#🇬🇧 United Kingdom | Individual Entrepreneur ARTE... 2
-vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.29:8443?security=reality&flow=xtls-rprx-vision&sni=storage.yandex.net&type=tcp&fp=firefox&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5#🇬🇧 United Kingdom | Individual Entrepreneur ARTE... 3
-vless://4d606920-62d7-4d28-a5c4-f8a70fe56aaa@45.206.0.31:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=37772edff71b4167#🇬🇧 United Kingdom | Individual Entrepreneur ARTE... 4
-vless://ac25a33c-a88d-514f-b37b-7e57d4f268c0@195.54.161.222:2052?encryption=none&path=%2Fvless&security=none&type=ws#🇬🇧 United Kingdom | BV Na22 1
-vless://4d606920-62d7-4d28-a5c4-f8a70fe56aaa@uk-gthost-01.com:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=37772edff71b4167#🇬🇧 United Kingdom | Individual Entrepreneur ARTE... 5
+trojan://humanity@chat.openai.com:443?security=tls&sni=www.calmlunch.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=www.calmlunch.com&path=%2Fassignment#🇬🇧 United Kingdom | CF 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTA1NWU5ZTkwMzEyOGEx@57.129.129.247:19308#🇬🇧 United Kingdom | OVH 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGI2ZTkzZTU0MjI1ODAz@51.75.168.50:26179#🇬🇧 United Kingdom | OVH 2
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#🇬🇧 United Kingdom | M247 LTD 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YTVhZjUwMGNiMjk1OTM1@149.102.144.110:18337#🇬🇧 United Kingdom | Contabo 1
