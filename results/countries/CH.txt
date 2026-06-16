@@ -1,0 +1,11 @@
+#profile-update-interval: 3
+#profile-title: encode:Qm9iaVZQTiDwn4eo8J+HrSBTd2l0emVybGFuZA==
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#support-url: https://github.com/
+#profile-web-page-url: https://github.com/
+vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l10.l-itx.info:7443?type=grpc&headerType=none&security=reality&encryption=none&sni=colorlib.com&fp=chrome&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&serviceName=xyz#🇨🇭 Switzerland | Infomaniak Cloud 1
+vless://ca428a2e-7f82-4030-851b-cab731a5645a@179.237.69.218:7443?type=grpc&security=reality&fp=firefox&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sid=6ba85179e30d4fc3&sni=colorlib.com&serviceName=xyz#🇨🇭 Switzerland | Infomaniak Network SA 1
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@103.227.84.1:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&sid=a1ab5a56bc42&sni=sw1tzerl4nd.gxcore.net#🇨🇭 Switzerland | MHost LLC 1
+vless://ca428a2e-7f82-4030-851b-cab731a5645a@l10-1.l-itx.info:7443?security=reality&type=grpc&mode=gun&serviceName=xyz&sni=colorlib.com&fp=firefox&sid=6ba85179e30d4fc3&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA#🇨🇭 Switzerland | Infomaniak Network SA 2
+vless://1b5a4488-d2c1-495b-af79-99534e5b1bd3@seti.wizardp.org:2045?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=play.google.com#🇨🇭 Switzerland | Infomaniak Cloud 2
+vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.89:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#🇨🇭 Switzerland | Individual Entrepreneur ARTE... 1
