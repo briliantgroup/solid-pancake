@@ -3,20 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://7125269d-a740-4da3-b12c-869b1a5a5d43@45.196.224.130:8443?flow=xtls-rprx-vision&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=f34818a561dfd1fe&sni=storage.yandex.net&type=tcp#🇫🇷 France | Individual Entrepreneur ARTE... 1
-vless://a6349c3f-5234-4821-80b4-d99b33f0924d@45.196.224.130:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#🇫🇷 France | Individual Entrepreneur ARTE... 2
-vless://356ccb34-22cc-4446-a137-072bc60d65ca@45.196.224.103:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sni=storage.yandex.net&sid=f34818a561dfd1fe#🇫🇷 France | Individual Entrepreneur ARTE... 3
-vless://ac2d70ef-eceb-4f98-9477-f0f27a18aad0@fr-gt-01.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c&type=tcp&headerType=none#🇫🇷 France | Individual Entrepreneur ARTE... 4
-vless://3e5da4f6-93c4-4701-911b-1a5091d2430f@213.199.39.156:30001?type=ws&security=none&sni=&fp=chrome&host=&path=/ws#🇫🇷 France | Contabo 1
-vless://a6349c3f-5234-4821-80b4-d99b33f0924d@fr-gt-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=f34818a561dfd1fe&flow=xtls-rprx-vision#🇫🇷 France | Individual Entrepreneur ARTE... 5
-vless://d036cc79-7142-5376-82b3-14acb32a4d8a@193.243.147.244:8880?encryption=none&type=ws&path=%2Fvless&host=openai.com#🇫🇷 France | BlueVPS 1
-vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&host=akamaized.net&path=%2Fvless%2F&security=none&type=ws#🇫🇷 France | OVH 1
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment#🇫🇷 France | L Oreal CO 1
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.166:8443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#🇫🇷 France | Interkvm Host SRL 1
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.67:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 1
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.171:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#🇫🇷 France | Interkvm Host SRL 2
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.180:8443?allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com&fp=chrome&security=tls#🇫🇷 France | Interkvm Host SRL 3
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.167:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#🇫🇷 France | Interkvm Host SRL 4
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.69:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#🇫🇷 France | ZetServers Frankfurt 2
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.162:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn7-39.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0#🇫🇷 France | Interkvm Host SRL 5
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.74:8443?security=tls&encryption=none&headerType=none&fp=edge&type=tcp&sni=cdn7-39.vk-cdnvideo.com#🇫🇷 France | ZetServers Frankfurt 3
+vless://fdd15635-6992-41dc-8d10-84b59cb998de@155.117.137.150:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=42e51b053eec3700&sni=cdn9-33.yahoo.com#🇫🇷 France 1
