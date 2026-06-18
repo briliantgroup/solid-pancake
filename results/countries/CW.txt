@@ -3,4 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://35f16ad1-7eeb-45ef-a493-276cdd76c227@92.60.74.227:2087?type=ws&headerType=none&security=tls&encryption=none&sni=cdn.jorlima.ir&path=%2F&host=cdn.jorlima.ir&insecure=0#🇨🇼 Curacao | Techcore Holding B.V 1
+vless://35f16ad1-7eeb-45ef-a493-276cdd76c227@92.60.74.227:2087?path=/&security=tls&encryption=none&insecure=0&host=cdn.jorlima.ir&type=ws&allowInsecure=0&sni=cdn.jorlima.ir#🇨🇼 Curacao | Techcore Holding B.V 1
