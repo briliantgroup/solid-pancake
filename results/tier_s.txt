@@ -3,4 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://86ea29d8-600d-44f4-a18b-3e533870ebab@87.99.142.86:443?flow=xtls-rprx-vision&fp=firefox&pbk=qiFaN6Xt0LvpD0CxcEqBa7I8JFspyWsR5rJNWIMPhH8&security=reality&sid=a13ae4c4&sni=www.microsoft.com&type=tcp#🇺🇸 United States | HETZNER-DC 1
+trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#🇨🇦 Canada | NTT America 1
