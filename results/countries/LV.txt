@@ -3,14 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.130:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#🇱🇻 Latvia | Interhive OU 1
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.129:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#🇱🇻 Latvia | Interhive OU 2
-vless://e13efb4a-6739-4018-9789-0597a1451bd0@62.192.174.168:443?fp=firefox&mode=gun&pbk=TleO2NpQAVohMUsmgQrR-QZuUbwYw-57kn3Lhcqt43c&security=reality&serviceName=grpc&sid=9c96420532ebe46c&sni=www.samsung.com&type=grpc#🇱🇻 Latvia | Serva ONE LTD 1
-vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752#🇱🇻 Latvia | Optron SIA 1
-vless://e13efb4a-6739-4018-9789-0597a1451bd0@62.192.174.168:5635?flow=xtls-rprx-vision&fp=firefox&pbk=74GNMrWP02eGR9FP2hBA8nyjHoAKKAqBnz3qNFah2w4&security=reality&sni=bunny.net&type=tcp#🇱🇻 Latvia | Serva ONE LTD 2
 vless://98f268b5-77a7-4185-a002-a6c835d36109@185.145.245.113:443?flow=xtls-rprx-vision&fp=firefox&pbk=_LSQY5yM9a2DwjKNGwly5oknCu051Edr1vSVLM9MbFs&security=reality&sid=8e0691f8de17&sni=dev.max.ru&type=tcp#🇱🇻 Latvia | VEESP datacenter 1
-vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?security=reality&encryption=none&pbk=oYCopzg1jDV54b-i8nR9_ULi7uivm_qfCM95LwRBfXU&headerType=none&fp=chrome&spx=/sGULnrxkHirfMkb&type=tcp&sni=yahoo.com&sid=61#🇱🇻 Latvia | Cloud Software - FZCO 1
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.131:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#🇱🇻 Latvia | Interhive OU 3
-vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e&spx=%2F&type=tcp&headerType=none#🇱🇻 Latvia | RETN Limited 1
 vless://b69a71ef-51dc-48c6-b3df-4c3533062606@193.124.22.58:443?allowInsecure=0&sni=assets.trorays.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇱🇻 Latvia | Baxet Group Inc 1
-vless://b69a71ef-51dc-48c6-b3df-4c3533062606@assets.trorays.com:443?allowInsecure=0&sni=assets.trorays.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇱🇻 Latvia | Baxet Group Inc 2
+vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752#🇱🇻 Latvia | Optron SIA 1
+vless://OwLimbow@31.56.117.234:80?path=/ws&security=none&encryption=none&host=31.56.117.234&type=ws#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
+vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?encryption=none&fp=firefox&pbk=oYCopzg1jDV54b-i8nR9_ULi7uivm_qfCM95LwRBfXU&security=reality&sid=61&sni=yahoo.com&spx=%2FsGULnrxkHirfMkb&type=tcp#🇱🇻 Latvia | Cloud Software - FZCO 1
+vless://4b8d8d7f-a8b4-4e44-80a9-6f13c3149b52@45.130.214.192:53231?type=tcp&security=reality&fp=chrome&pbk=3mRweaWR6pK4HsbEtu874rNG9qBgdOMmSsKE4RkWSmk&sid=4ffbd0f3117c6f&sni=yahoo.com#🇱🇻 Latvia | RETN Limited 1
+vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.19.blanesik.space:443?type=grpc&headerType=none&security=tls&encryption=none&sni=213.21.222.19.blanesik.space&fp=ios&alpn=h2&serviceName=%2Fsequre%2Fgrpc&insecure=0#🇱🇻 Latvia | Versija SIA 1
+vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.27.tyr-agentstvo.tech:443?type=grpc&headerType=none&security=tls&encryption=none&sni=213.21.222.27.tyr-agentstvo.tech&fp=ios&alpn=h2&serviceName=%2Fsequre%2Fgrpc&insecure=0#🇱🇻 Latvia | Versija SIA 2
+vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.33.vhubtest.ru:443?type=grpc&headerType=none&security=tls&encryption=none&sni=213.21.222.33.vhubtest.ru&fp=ios&alpn=h2&serviceName=%2Fsequre%2Fgrpc&insecure=0#🇱🇻 Latvia | Versija SIA 3
+vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33f2#🇱🇻 Latvia | Beget LLC 1

@@ -3,22 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.122:8443?encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 1
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.119:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 2
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.39:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 3
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.204:8443?encryption=none&security=tls&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&type=tcp&headerType=none#🇫🇷 France | ZetServers Frankfurt 4
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.37:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 5
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.176:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&insecure=1&allowInsecure=1#🇫🇷 France | Interkvm Host SRL 1
-ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#🇫🇷 France | OVH 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiam5ySW5zbnlObGJZb3RTdjl5a2d5@51.254.142.162:8388#🇫🇷 France | OVH 2
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICI1MS4yNTQuMTQyLjE2MiIsICJwb3J0IjogIjIwOTYiLCAiaWQiOiAiMzg4YWRkMjAtOTBlMC00MGI3LWI4OTEtNzRlZDNiODE3ZDcxIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJncnBjIiwgInR5cGUiOiAiZ3VuIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiYXBpIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiMjIifQ==#🇫🇷 France | OVH 3
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?encryption=none&security=tls&sni=cdg-1.fromblancwithlove.com&alpn=h2&fp=chrome&type=tcp&headerType=none#🇫🇷 France | Cdn77 Paris 1
-vless://039a1658-e86e-475f-a3a4-67cc249acada@185.242.87.36:443?flow=xtls-rprx-vision&fp=firefox&pbk=U-pXTk6CWSWf1EParYP_drrus_87u-XwOiCmB-MnAGE&security=reality&sid=2eaa0970f2fb0c4b&sni=fr1.panel11.ru&type=tcp#🇫🇷 France | WorkTitans B.V 1
-trojan://telegram-id-privatevpns@15.224.37.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | AWS EC2 (eu-west-3) 1
-vless://f00297b0-a501-4982-9a8e-2cf2df5b4f84@82.22.2.187:443?security=reality&encryption=none&pbk=Icm1TWywIJz1OVINqBXHYeQr1yxDoT-t3R9DDi-CD2U&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fr-01.slnode.cc&sid=71b1677c130233d7#🇫🇷 France | VeryCloud 1
-hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#🇫🇷 France | ONLINE 1
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇫🇷 France | ONLINE 2
-vless://52b71b75-4b77-4cec-990b-046ec1938e1f@45.90.97.132:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=65T6l7e51lwKu1rzQ4FgqVPe-JyG43IqPLw6r9U2v10&security=reality&sid=0befa76540b5db79&sni=fr.bvps.cloud&type=tcp#🇫🇷 France | FBW-NETWORKS 1
-trojan://hCunaKqdEJDBO%2B3jCrJUSMevXOw9Q_r4Ey@38.60.136.156:443?type=tcp&security=tls&headerType=none&sni=38.60.136.156&fp=chrome&insecure=1&allowInsecure=1#🇫🇷 France | LightNode-FR 1
-vless://7c6ddba8-c08e-433c-b1ac-697378b48406@13.38.79.180:30981?type=tcp&headerType=none&security=reality&encryption=none&sni=www.intel.com&fp=firefox&pbk=uBRg0H4ZzEiyyAm1BEsZsnTlzWTm8UUaFrD9aXzUCyE&sid=e871f1c5cc5309&spx=%2F&flow=xtls-rprx-vision#🇫🇷 France | AWS EC2 (eu-west-3) 2
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.74:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn7-39.vk-cdnvideo.com#🇫🇷 France | ZetServers Frankfurt 6
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.106:8443?encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 1
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.52:8443?encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 2
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.91:8443?encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 3
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.42:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn9-33.vk-cdnvideo.com#🇫🇷 France | ZetServers Frankfurt 4
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.96:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 5
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.44:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#🇫🇷 France | ZetServers Frankfurt 6
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@185.234.64.112:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.intel.com&fp=firefox&pbk=aVUakfkgsn1t6_Qi4EKwJNmSdkvKP4U542QghhAh-C4&sid=40f455#🇫🇷 France | WorkTitans B.V 1
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.162:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn7-39.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0#🇫🇷 France | Interkvm Host SRL 1
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.74:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#🇫🇷 France | ZetServers Frankfurt 7
