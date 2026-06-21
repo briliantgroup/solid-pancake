@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.180:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&flow=xtls-rprx-vision#🇱🇹 Lithuania | Individual Entrepreneur ARTE... 1
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.68:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&flow=xtls-rprx-vision#🇱🇹 Lithuania | Individual Entrepreneur ARTE... 2
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.68:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#🇱🇹 Lithuania | Individual Entrepreneur ARTE... 1
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.180:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#🇱🇹 Lithuania | Individual Entrepreneur ARTE... 2
 vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?flow=xtls-rprx-vision&fp=firefox&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&security=reality&sid=6ba85179e30d4fc2&sni=amd.com&type=tcp#🇱🇹 Lithuania | UAB Cherry Servers 1
 vless://967064b5-3272-431e-8dce-9519acfb94be@2.59.162.223:443?type=tcp&headerType=none&security=reality&encryption=none&sni=lt.zestful.bond&fp=firefox&pbk=KS0F6q2PTY1s6y2sH5PdrznYqprIkUBtS1masvcrJjo&sid=823257b7b9ab9d02&flow=xtls-rprx-vision#🇱🇹 Lithuania | Global Connectivity Solution... 1
