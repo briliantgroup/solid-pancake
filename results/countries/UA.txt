@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.54:8443?type=tcp&headerType=none&security=tls&encryption=none&sni=ams1.fromblancwithlove.com&insecure=0#🇺🇦 Ukraine | Cdn77 KYI 1
-vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.53:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#🇺🇦 Ukraine | Cdn77 KYI 2
-vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.1:8443?type=tcp&headerType=none&security=tls&encryption=none&sni=ams1.fromblancwithlove.com&insecure=0#🇺🇦 Ukraine | Cdn77 KYI 3
-vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.50:8443?type=tcp&headerType=none&security=tls&encryption=none&sni=ams1.fromblancwithlove.com&insecure=0#🇺🇦 Ukraine | Cdn77 KYI 4
+vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.50:8443?type=tcp&headerType=none&security=tls&encryption=none&sni=ams1.fromblancwithlove.com&insecure=0#🇺🇦 Ukraine | Cdn77 KYI 1
+vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.54:8443?type=tcp&headerType=none&security=tls&encryption=none&sni=ams1.fromblancwithlove.com&insecure=0#🇺🇦 Ukraine | Cdn77 KYI 2
+vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.53:8443?security=tls&type=tcp&sni=ams1.fromblancwithlove.com&fp=chrome&encryption=none#🇺🇦 Ukraine | Cdn77 KYI 3
