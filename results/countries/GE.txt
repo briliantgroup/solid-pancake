@@ -1,0 +1,9 @@
+#profile-update-interval: 3
+#profile-title: encode:Qm9iaVZQTiDwn4es8J+HqiBHZW9yZ2lh
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#support-url: https://github.com/
+#profile-web-page-url: https://github.com/
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#🇬🇪 Georgia | AkhaliNet LLC 1
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.254:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#🇬🇪 Georgia | AkhaliNet LLC 2
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.223:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&type=tcp&headerType=none#🇬🇪 Georgia | AkhaliNet LLC 3
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?encryption=none&type=tcp&security=tls&headerType=none&sni=r1.mizulina.top&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&flow=xtls-rprx-vision-udp443#🇬🇪 Georgia | AkhaliNet LLC 4
