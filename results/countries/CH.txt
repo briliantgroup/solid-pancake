@@ -3,10 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#🇨🇭 Switzerland | 3NT SOLUTIONS LLP 1
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@194.87.178.131:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.intel.com&fp=firefox&pbk=gOEyW5XYfKV6t_3vCR0iCOcItof1desNG7CSiFnVpF4&sid=804f5d&flow=xtls-rprx-vision#🇨🇭 Switzerland | Baxet Group Inc 1
-vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.89:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sni=storage.yandex.net&sid=d515d6cfdfe60b02#🇨🇭 Switzerland | Individual Entrepreneur ARTE... 1
 vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#🇨🇭 Switzerland | Ontario Inc. 1
-trojan://SoftNetConnect@37.156.44.6:42549?security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#🇨🇭 Switzerland | Infomaniak Network SA 1
-vless://f465fe94-87f4-448b-abc3-4855d2351a3a@194.147.214.197:443?flow=xtls-rprx-vision&fp=firefox&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&security=reality&sid=cd8971da5a669139&sni=yahoo.com&type=tcp#🇨🇭 Switzerland | Hostkey B.V 1
-vless://7691de10-83e2-44fd-a2fa-0f31aad8efef@194.147.214.197:443?flow=xtls-rprx-vision&fp=firefox&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&security=reality&sid=cd8971da5a669139&sni=yahoo.com&type=tcp#🇨🇭 Switzerland | Hostkey B.V 2
