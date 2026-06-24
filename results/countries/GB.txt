@@ -3,7 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-trojan://humanity@91.193.58.77:443?host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#🇬🇧 United Kingdom | Dream Cloud Innovation Limit... 1
 trojan://humanity@5.10.214.56:443?allowInsecure=1&insecure=1&type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&fp=chrome&alpn=http/1.1#🇬🇧 United Kingdom | Local NCC Ltd 1
-trojan://humanity@5.10.214.53:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🇬🇧 United Kingdom | Local NCC Ltd 2
-trojan://humanity@chat.openai.com:443?encryption=none&security=tls&sni=www.calmlunch.com&alpn=h2&fp=chrome&type=ws&host=www.calmlunch.com&path=%2Fassignment#🇬🇧 United Kingdom | CF 1
+trojan://humanity@91.193.58.77:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#🇬🇧 United Kingdom | Dream Cloud Innovation Limit... 1
