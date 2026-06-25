@@ -3,21 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.111:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#🇮🇹 Italy | Vladislav Nitsenko 1
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.27:443/?type=tcp&sni=it.s3-cloud.xyz&flow=xtls-rprx-vision&security=reality&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a&fp=edge&encryption=none&descriptions=СвободуИнтернету149#🇮🇹 Italy | Vladislav Nitsenko 2
-vless://7691de10-83e2-44fd-a2fa-0f31aad8efef@151.243.198.45:443?flow=xtls-rprx-vision&sid=cd8971da5a669139&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&sni=yahoo.com&security=reality&fp=firefox&type=tcp&descriptions=люби_себяcd29fc#🇮🇹 Italy | Hostkey B.V 1
-vless://3461131f-6db9-4c8c-b663-fdcf2e6f4619@57.131.18.123:13355?encryption=none&security=none&type=tcp#🇮🇹 Italy | OVH 1
-vless://7dc8bd4d-5c5d-4391-82d9-2424b16ec2a3@151.243.198.45:443?fp=firefox&encryption=none&security=reality&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&sid=cd8971da5a669139&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&freeinternet=kizyak_vpn1782409562847#🇮🇹 Italy | Hostkey B.V 2
-vless://d7d95e1b-0c38-4553-82e4-6002f472fcd5@57.131.18.123:13355?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | OVH 2
-vless://05aeebd2-6031-4729-81e0-ebdf20c75f56@57.131.18.123:13355?encryption=none&security=none&type=tcp#🇮🇹 Italy | OVH 3
-vless://d59a05b5-2cc9-47c4-98dd-f1bf239ca5fd@57.131.18.123:13355?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | OVH 4
-vless://a347ce3f-0052-434f-bd42-31355ff1e700@57.131.18.123:13355?security=none&encryption=none&headerType=none&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🇮🇹 Italy | OVH 5
-vless://86777611-2cab-4b14-b248-ac9d6fe3c480@57.131.18.123:13355?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | OVH 6
-vless://1aa19429-f784-4b41-b3ff-a8d32ad8b751@57.131.18.123:13355?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | OVH 7
-vless://5c170cc4-070e-4a1f-bcba-7ddb41ec12ab@57.131.18.123:13355?encryption=none&security=none&type=tcp#🇮🇹 Italy | OVH 8
-vless://1524d56d-4cb5-41e3-8490-15a2611a816e@57.131.18.123:13355?encryption=none&security=none&type=tcp#🇮🇹 Italy | OVH 9
-vless://47ae11a7-6324-45c1-9d53-b8d8cebdaeb5@57.131.18.123:13355?encryption=none&security=none&type=tcp#🇮🇹 Italy | OVH 10
-vless://51eb7ab1-30d3-4d22-89fa-4c0966c20fd2@57.131.18.123:13355?encryption=none&security=none&type=tcp#🇮🇹 Italy | OVH 11
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.29:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#🇮🇹 Italy | Vladislav Nitsenko 3
-vless://fc6ad77f-eef3-486c-8ddc-f9316a3862d5@57.131.18.123:13355?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | OVH 12
-vless://5bb8d502-bcc7-4320-8c42-1a6429978f80@57.131.18.123:13355?encryption=none&security=none&type=tcp#🇮🇹 Italy | OVH 13
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle Corporation 1
+vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#🇮🇹 Italy | Oracle Corporation 2
