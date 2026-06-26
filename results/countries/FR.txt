@@ -4,9 +4,14 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 vless://ccdce320-7eef-4815-8edb-c599987c2279@155.117.137.160:443?encryption=none&type=tcp&security=reality&headerType=none&sni=cdn8-03.yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=c7e42004e5f024be&flow=xtls-rprx-vision#🇫🇷 France 1
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp&headerType=none#🇫🇷 France | Dyjix 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaU9NQlU1SUR2SmNGcXlOUGJSallS@137.74.119.18:10443#🇫🇷 France | OVH 1
-trojan://telegram-id-directvpn@35.181.180.255:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | AWS EC2 (eu-west-3) 1
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@45.80.215.68:443?security=tls&encryption=none&host=45.80.215.68&headerType=none&type=tcp&sni=45.80.215.68#🇫🇷 France | G-Core Labs S.A 1
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.180.255:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 France | AWS EC2 (eu-west-3) 2
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment#🇫🇷 France | L Oreal CO 1
+vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&sid=c906f73d3ba8211f&sni=www.leboncoin.fr#🇫🇷 France | OVH 1
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.208.113.157:443?type=tcp&headerType=none&security=reality&encryption=none&sni=parisjetaime.com&fp=firefox&pbk=2dgS9vJTywAfGZmlkuzDIIXLUR-E1A-0na8_W--ruUc&sid=5be8210215&spx=%2F&flow=xtls-rprx-vision#🇫🇷 France | Aeza 1
+vless://87e60810-bb71-41ea-a2a6-f05c8ab903ef@5.196.51.152:54809?flow=xtls-rprx-vision-udp443&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=dash.cloudflare.com&sid=b4b3&fp=chrome&pbk=06rvKjC9dE_Ndd-dw6B-0zAyEpn-jUs7mcNFAPQ_1G8&spx=/&headerType=none#🇫🇷 France | Fuad Bin a Rahman Muhammad 1
+vless://1dda9d26-7c04-48a6-93b4-e30fe7a5da80@94.183.187.39:444?encryption=none&security=reality&type=grpc&sni=web.max.ru&fp=firefox&pbk=wgxjTlVuBIi8T-QRQ2tmmH57seIfKCdE2pBGNWXcOCo&sid=8614956789abcdef&spx=%2F&serviceName=web.max.ru&mode=gun#🇫🇷 France | CGI GLOBAL LIMITED 1
+vless://e96ffcc1-5acf-4e24-9b67-1b736a2f1c24@89.208.97.95:443?encryption=none&type=tcp&security=reality&headerType=none&sni=amazon.fr&fp=chrome&pbk=OhHt4eEk9pZVzDpt37apm_7DRM0qP6_D4yJBCK0n02A&sid=5701e710c025b4b8&spx=/&flow=xtls-rprx-vision#🇫🇷 France | Aeza 2
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@62.60.155.0:443?security=reality&encryption=none&pbk=YD3G553bQP0uWuyYDY9ZvhLCmfF9tmKUo8MRuALEFUw&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=telegraph.co.uk&sid=deee73#🇫🇷 France | NetCrafters OU 1
+vless://acd726d3-0128-44d8-a575-21013ff7740a@51.44.25.250:44520?security=reality&type=tcp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=8897c56a495b26cc&pbk=MrLRcU_2S2CpUc7VT3ajIavX5NYUiQdP6J5QTDFNGFU&encryption=none#🇫🇷 France | AWS EC2 (eu-west-3) 1
+vless://7bd180e8-1142-4387-93f5-03e8d750a896@62.210.172.147:443?encryption=none&type=ws&host=python-graysongon.wasmer.app&path=%2F7bd180e8&security=tls&sni=python-graysongon.wasmer.app#🇫🇷 France | ONLINE 1
+vless://deb96819-bdaa-4f52-a536-d4751290ce47@13.38.52.64:15469/?flow=xtls-rprx-vision&type=raw&pbk=Mr1b8zNNR1uPtf8dgfze_kBJbaVimS0NhJL0ff_2qm4&encryption=none&sni=yahoo.com&sid=0f8d9583dd332274&security=reality&nonce=HYyd3laY#🇫🇷 France | AWS EC2 (eu-west-3) 2
+vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d&sni=yahoo.com&spx=/#🇫🇷 France | AWS EC2 (eu-west-3) 3
+vless://2065a8c9-8b3d-4dba-b0ce-90d649aa3da7@62.133.62.206:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=greb.loralden.com&fp=firefox&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&sid=3620820fe66d6731&type=tcp&headerType=none#🇫🇷 France | Global Connectivity Solution... 1
