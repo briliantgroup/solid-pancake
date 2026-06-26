@@ -1,0 +1,13 @@
+#profile-update-interval: 3
+#profile-title: encode:Qm9iaVZQTiDwn4eo8J+HrSBTd2l0emVybGFuZA==
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#support-url: https://github.com/
+#profile-web-page-url: https://github.com/
+vless://295d4d20-c332-4b9a-9f3c-741f44c91f89@176.65.144.47:443?flow=xtls-rprx-vision&fp=chrome&pbk=3wa3ZmMniymkL-58bPtY7baWPxdJ6n2UaJMG7YiLiGo&security=reality&sni=dl.google.com#🇨🇭 Switzerland | Dedik Services Limited 1
+vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@swiss.janusgate.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=d38eea587f1a4f68&sni=swiss.janusgate.org&spx=%2F#🇨🇭 Switzerland | Julian Achter 1
+vless://e6a037ff-3908-4bf9-b3e7-b1138da601f9@83.228.231.188:22000?security=reality&encryption=none&pbk=NbZ4uhJZ6zpvRLXODNcVDk9UgcKNahpN1h74CsV04Fs&headerType=&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=14#🇨🇭 Switzerland | Infomaniak Cloud 1
+trojan://SoftNetConnect@83.228.226.164:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#🇨🇭 Switzerland | Infomaniak Cloud 2
+vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?encryption=none&security=reality&type=tcp&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇨🇭 Switzerland | Ontario Inc. 1
+vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.89:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02&type=tcp&headerType=none#🇨🇭 Switzerland | Individual Entrepreneur ARTE... 1
+vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.226.164:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#🇨🇭 Switzerland | Infomaniak Cloud 3
+vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@45.141.119.57:443?flow=xtls-rprx-vision&fp=firefox&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&security=reality&sid=d38eea587f1a4f68&sni=swiss.janusgate.org&type=tcp#🇨🇭 Switzerland | Julian Achter 2

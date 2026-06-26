@@ -1,9 +1,0 @@
-#profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4en8J+HtyBCcmF6aWw=
-#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-#support-url: https://github.com/
-#profile-web-page-url: https://github.com/
-vless://00078220-ce04-451d-b64c-74429d14b1e3@189.74.117.3:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api.yandex-api.org&fp=firefox&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#🇧🇷 Brazil | Wireless Ltd 1
-vless://00078220-ce04-451d-b64c-74429d14b1e3@189.74.115.34:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api.yandex-dev.online&fp=firefox&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#🇧🇷 Brazil | Wireless Ltd 2
-vless://00078220-ce04-451d-b64c-74429d14b1e3@api.yandex-api.org:443?encryption=none&security=reality&sni=api.yandex-api.org&fp=edge&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#🇧🇷 Brazil | Wireless Ltd 3
-vless://00078220-ce04-451d-b64c-74429d14b1e3@api.yandex-dev.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api.yandex-dev.online&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#🇧🇷 Brazil | Wireless Ltd 4
