@@ -3,4 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&sid=#🇨🇿 Czechia | Mastersoft S.R.L 1
+vless://e57c2a3a-e8df-4254-bb2d-8af45fea7ef4@67.159.18.212:443?fp=firefox&mode=gun&pbk=XFvRXwTkXOhF0KS54Dt_pwUCC_lyRllMdZEoi-ylqWE&security=reality&serviceName=api.v1.telemetry.EventStream&sid=e1b479cb7d44519f&sni=addons.mozilla.org&type=grpc#🇨🇿 Czechia | FDCservers.net 1
+vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?type=tcp&security=reality&sni=max.ru&fp=chrome&flow=xtls-rprx-vision&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ#🇨🇿 Czechia | Mastersoft S.R.L 1
