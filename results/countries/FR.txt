@@ -1,0 +1,10 @@
+#profile-update-interval: 3
+#profile-title: encode:Qm9iaVZQTiDwn4er8J+HtyBGcmFuY2U=
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#support-url: https://github.com/
+#profile-web-page-url: https://github.com/
+vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp#🇫🇷 France | Dyjix 1
+trojan://telegram-id-directvpn@51.45.54.27:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | AWS EC2 (eu-west-3) 1
+trojan://telegram-id-privatevpns@51.45.54.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | AWS EC2 (eu-west-3) 2
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.54.27:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 France | AWS EC2 (eu-west-3) 3
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment#🇫🇷 France | L Oreal CO 1
