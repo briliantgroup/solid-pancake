@@ -3,6 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&sni=ads.x5.ru&type=tcp&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#🇵🇱 Poland | Korbank S. A. 1
-vless://3ef170be-05d0-479c-9753-aa2f860964ea@153.76.122.225:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudflare.com&fp=firefox&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&sid=a1b2c3d4e5f6&packetEncoding=xudp#🇵🇱 Poland | Intezio Worldwide Limited 1
-vless://94a547fc-c789-40fa-82d8-53d9760cc053@45.144.48.114:443?fp=firefox&pbk=VWnyUuQJLQiWPYEvk43ndIPjy_WNVZbO1ItxX0NRnz8&security=reality&sid=db04ce8bdb8900f1&sni=nvidia.com&type=tcp#🇵🇱 Poland | Limited liability company 1
+vless://ea057aa8-6c6f-44f4-d347-7a87e835c0dc@57.128.215.214:8443?encryption=none&security=tls&sni=us2.wxgqlfx.icu&type=ws&host=us2.wxgqlfx.icu&path=%2FTG%40wxgqlfx&fp=chrome&alpn=http%2F1.1#🇵🇱 Poland | OVH 1
