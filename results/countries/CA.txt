@@ -3,19 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.72.2:443?encryption=none&type=ws&security=tls&path=/&sni=server-ir-7.ariyuz.org&insecure=0&allowInsecure=0#🇨🇦 Canada | CF 1
-vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.72.50:443?path=%2F&security=tls&encryption=none&type=ws&sni=server-ir-7.ariyuz.org#🇨🇦 Canada | CF 2
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🇨🇦 Canada | CF 3
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.50:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🇨🇦 Canada | CF 4
-vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@hikvision-plus.com:443?path=%2Fapi-api&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=api.mozestan.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=api.mozestan.dpdns.org#🇨🇦 Canada | CF 5
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@104.17.121.110:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#🇨🇦 Canada | CF 6
-trojan://humanity@104.16.72.50:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 Canada | CF 7
-trojan://humanity@104.18.152.187:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#🇨🇦 Canada | CF 8
-trojan://humanity@104.16.174.117:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada | CF 9
-trojan://humanity@104.16.174.12:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#🇨🇦 Canada | CF 10
-trojan://humanity@104.18.152.113:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada | CF 11
-vmess://ewogICAgImFkZCI6ICIxMDQuMTcuMTI0LjE3OSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLnp1bGEudXBsYW9kLW11c2ljLmlyLiIsCiAgICAiaWQiOiAiZjg5NzU4NzEtYTdhMC00OTA2LTg4MzUtYTIzYzEyNThjYTFlIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMTcuMTI0LjE3OS0wMTcwIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=#🇨🇦 Canada | CF 12
-trojan://humanity@104.18.16.56:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment#🇨🇦 Canada | CF 13
-vmess://eyJhZGQiOiJqcDAxLnNjcG5iLnRvcCIsImFpZCI6MCwiaG9zdCI6ImpwMDEuc2NwbmIudG9wIiwiaWQiOiI1MzdhMDM2Zi1hNGFkLTQwNTEtODBjNC0wMTFhNDZjNjJiYjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvNTM3YTAzNmYtYTRhZC00MDUxLTgwYzQtMDExYTQ2YzYyYmIwLXZtIiwicG9ydCI6NDQzLCJwcyI6IvCfj7PvuI9f5pyq55+lXzMzMyIsInNlY3VyaXR5IjoiYXV0byIsInNuaSI6ImpwMDEuc2NwbmIudG9wIiwidGxzIjoidGxzIn0=#🇨🇦 Canada | CF 14
-vless://0d43ad56-1f5c-412d-a490-6e266efe4cdf@172.66.40.229:8443?encryption=none&type=ws&host=free-server.techsonic.me&path=%2Ffree-server.techsonic.me&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=free-server.techsonic.me#🇨🇦 Canada | CF 15
-trojan://rYuChHcwQZskq9E0zdoR@ip4.vpean2.qzz.io:443?security=tls&sni=vpn5.rnmcnm.com&insecure=0&allowInsecure=0&type=ws&host=vpn5.rnmcnm.com&path=%2Fws-79dffb8106db#🇨🇦 Canada | CF 16
+vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.72.50:443?path=%2F&security=tls&encryption=none&type=ws&sni=server-ir-7.ariyuz.org#🇨🇦 Canada | CF 1
+vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.223:443?encryption=none&security=tls&sni=server-ir-7.ariyuz.org&type=ws&path=%2F#🇨🇦 Canada | CF 2
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.50:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🇨🇦 Canada | CF 3
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.14.137:443?security=tls&type=ws&path=%2Frsedgws&host=shegeftihaaa.net&sni=shegeftihaaa.net&fp=chrome&encryption=none#🇨🇦 Canada | CF 4
+vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@cctvhikvision.center:443?path=%2Fapi-api&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=api.mozestan.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=api.mozestan.dpdns.org#🇨🇦 Canada | CF 5
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.27.7.125:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#🇨🇦 Canada | CF 6
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@104.17.121.110:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#🇨🇦 Canada | CF 7
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.21.74.63:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#🇨🇦 Canada | CF 8
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.18.206.22:443?path=%2Fjdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&fp=chrome&type=ws&allowInsecure=0&sni=amooaliii.net#🇨🇦 Canada | CF 9
+trojan://humanity@104.16.72.50:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 Canada | CF 10
+trojan://humanity@104.17.150.76:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇨🇦 Canada | CF 11
+trojan://humanity@172.64.147.2:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇨🇦 Canada | CF 12
