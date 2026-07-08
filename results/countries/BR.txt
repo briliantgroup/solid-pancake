@@ -3,10 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://ac56a0e8-79e3-11f1-b665-b6c158fa8593@201.51.1.243:2053?mode=gun&security=reality&encryption=none&pbk=j8OW1foMwfeiy3VMbNPHLgTXgy_ZPdFFxv-H3HrbNF0&fp=chrome&type=grpc&serviceName=grpc-direct&sni=dzen.ru&sid=0904e25166453a7e#🇧🇷 Brazil | TimeWeb 1
-vless://0d735822-3785-11f1-b1ef-3e73c4f3b53d@201.51.1.243:2053?mode=gun&security=reality&encryption=none&pbk=j8OW1foMwfeiy3VMbNPHLgTXgy_ZPdFFxv-H3HrbNF0&fp=qq&type=grpc&serviceName=grpc-direct&sni=dzen.ru&sid=7cb9baf7b4a81603#🇧🇷 Brazil | TimeWeb 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.145:17283#🇧🇷 Brazil | 3NT SOLUTIONS LLP 1
+vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yandex.net&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c&flow=xtls-rprx-vision#🇧🇷 Brazil | Cloud Innovation Ltd 1
+vless://0d735822-3785-11f1-b1ef-3e73c4f3b53d@201.51.1.243:2053?mode=gun&security=reality&encryption=none&pbk=j8OW1foMwfeiy3VMbNPHLgTXgy_ZPdFFxv-H3HrbNF0&fp=qq&type=grpc&serviceName=grpc-direct&sni=dzen.ru&sid=7cb9baf7b4a81603#🇧🇷 Brazil | TimeWeb 1
+vless://ac56a0e8-79e3-11f1-b665-b6c158fa8593@201.51.1.243:2053?mode=gun&security=reality&encryption=none&pbk=j8OW1foMwfeiy3VMbNPHLgTXgy_ZPdFFxv-H3HrbNF0&fp=chrome&type=grpc&serviceName=grpc-direct&sni=dzen.ru&sid=0904e25166453a7e#🇧🇷 Brazil | TimeWeb 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.147:17283#🇧🇷 Brazil | 3NT SOLUTIONS LLP 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.143:17283#🇧🇷 Brazil | 3NT SOLUTIONS LLP 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.147:17283#🇧🇷 Brazil | 3NT SOLUTIONS LLP 3
-vless://1144c488-b3e9-470b-977c-a12fb75b1113@154.91.157.65:443?flow=xtls-rprx-vision&fp=firefox&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&security=reality&sid=b4f3a05896b60039&sni=storage.yandex.net&type=tcp#🇧🇷 Brazil | Individual Entrepreneur ARTE... 1
-vless://1144c488-b3e9-470b-977c-a12fb75b1113@m247-br-01.live:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=b4f3a05896b60039&type=tcp&headerType=none#🇧🇷 Brazil | Individual Entrepreneur ARTE... 2
