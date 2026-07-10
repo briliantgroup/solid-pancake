@@ -3,5 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://e6a037ff-3908-4bf9-b3e7-b1138da601f9@83.228.231.188:22000?type=tcp&security=reality&encryption=none&pbk=NbZ4uhJZ6zpvRLXODNcVDk9UgcKNahpN1h74CsV04Fs&sid=14&sni=www.yahoo.com#🇨🇭 Switzerland | Infomaniak Cloud 1
 vless://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@sw-5.hysteria.ltd:9443?encryption=none&security=tls&sni=sw-5.hysteria.ltd&fp=qq&allowinsecure=0&type=ws&path=%2Fws#🇨🇭 Switzerland | Julian Achter 1
+vless://e6a037ff-3908-4bf9-b3e7-b1138da601f9@83.228.231.188:22000?type=tcp&security=reality&encryption=none&pbk=NbZ4uhJZ6zpvRLXODNcVDk9UgcKNahpN1h74CsV04Fs&sid=14&sni=www.yahoo.com#🇨🇭 Switzerland | Infomaniak Cloud 1
