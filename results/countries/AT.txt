@@ -3,5 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&headerType=none&security=reality&encryption=none&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&spx=%2F&flow=xtls-rprx-vision#🇦🇹 Austria | Aeza 1
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.16.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🇦🇹 Austria | Fastly, Inc. 1
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&headerType=none&security=reality&encryption=none&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&flow=xtls-rprx-vision#🇦🇹 Austria | Aeza 1
