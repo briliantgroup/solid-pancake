@@ -1,35 +1,42 @@
 {
-  "checked_at": "2026-07-13 12:21:04 UTC",
-  "total_working": 681,
+  "checked_at": "2026-07-13 14:28:40 UTC",
+  "total_working": 684,
   "tier_s": 0,
   "tier_a": 0,
   "tier_b": 0,
-  "tier_c": 681,
+  "tier_c": 684,
   "avg_score": 0.0,
   "avg_latency_ms": 0.0,
   "min_latency_ms": 0,
   "p95_latency_ms": 0,
   "avg_jitter_ms": 0.0,
-  "avg_speed_mbps": 10.51,
-  "max_speed_mbps": 44.46,
+  "avg_speed_mbps": 21.38,
+  "max_speed_mbps": 74.54,
   "speed_checked": true,
   "countries": {
     "CA": {
-      "count": 49,
+      "count": 74,
+      "avg_ping_ms": 0.0,
+      "avg_score": 0.0,
+      "tier_s": 0,
+      "tier_a": 0
+    },
+    "CZ": {
+      "count": 1,
       "avg_ping_ms": 0.0,
       "avg_score": 0.0,
       "tier_s": 0,
       "tier_a": 0
     },
     "DE": {
-      "count": 44,
+      "count": 39,
       "avg_ping_ms": 0.0,
       "avg_score": 0.0,
       "tier_s": 0,
       "tier_a": 0
     },
     "FI": {
-      "count": 14,
+      "count": 19,
       "avg_ping_ms": 0.0,
       "avg_score": 0.0,
       "tier_s": 0,
@@ -42,15 +49,29 @@
       "tier_s": 0,
       "tier_a": 0
     },
+    "GB": {
+      "count": 1,
+      "avg_ping_ms": 0.0,
+      "avg_score": 0.0,
+      "tier_s": 0,
+      "tier_a": 0
+    },
+    "HK": {
+      "count": 1,
+      "avg_ping_ms": 0.0,
+      "avg_score": 0.0,
+      "tier_s": 0,
+      "tier_a": 0
+    },
     "JP": {
-      "count": 14,
+      "count": 11,
       "avg_ping_ms": 0.0,
       "avg_score": 0.0,
       "tier_s": 0,
       "tier_a": 0
     },
     "NL": {
-      "count": 25,
+      "count": 16,
       "avg_ping_ms": 0.0,
       "avg_score": 0.0,
       "tier_s": 0,
@@ -58,6 +79,13 @@
     },
     "NZ": {
       "count": 1,
+      "avg_ping_ms": 0.0,
+      "avg_score": 0.0,
+      "tier_s": 0,
+      "tier_a": 0
+    },
+    "PL": {
+      "count": 2,
       "avg_ping_ms": 0.0,
       "avg_score": 0.0,
       "tier_s": 0,
@@ -71,28 +99,28 @@
       "tier_a": 0
     },
     "SC": {
-      "count": 4,
+      "count": 7,
       "avg_ping_ms": 0.0,
       "avg_score": 0.0,
       "tier_s": 0,
       "tier_a": 0
     },
     "SG": {
-      "count": 6,
+      "count": 7,
       "avg_ping_ms": 0.0,
       "avg_score": 0.0,
       "tier_s": 0,
       "tier_a": 0
     },
     "US": {
-      "count": 103,
+      "count": 98,
       "avg_ping_ms": 0.0,
       "avg_score": 0.0,
       "tier_s": 0,
       "tier_a": 0
     },
     "XX": {
-      "count": 377,
+      "count": 363,
       "avg_ping_ms": 0.0,
       "avg_score": 0.0,
       "tier_s": 0,
