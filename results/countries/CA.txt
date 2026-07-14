@@ -4,5 +4,14 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.207:443?type=ws&headerType=none&security=tls&encryption=none&sni=main-2.ariyuz.org&fp=firefox&alpn=h2&path=%2F&insecure=0#🇨🇦 Canada | CF 1
-trojan://rYuChHcwQZskq9E0zdoR@ip4.vpean2.qzz.io:443?type=ws&headerType=none&security=tls&encryption=none&sni=vpn5.rnmcnm.com&path=%2Fws-79dffb8106db&host=vpn5.rnmcnm.com&insecure=0#🇨🇦 Canada | CF 2
-vless://f49bfb03-4efe-446a-9098-1bf0b4a33132@kr-cdn.aong.xyz:8443?security=tls&type=ws&path=%2Fcdn-vless&host=kr-cdn.aong.xyz&sni=kr-cdn.aong.xyz&fp=chrome#🇨🇦 Canada | CF 3
+vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.216:443?encryption=none&type=ws&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=server-ir-2.ariyuz.org#🇨🇦 Canada | CF 2
+vless://c416332e-2bde-4806-ac02-8f021c6e8f68@104.18.12.51:2087?encryption=none&fp=firefox&host=bbc.zjxc.de5.net&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&security=tls&sni=bbc.zjxc.de5.net&type=ws#🇨🇦 Canada | CF 3
+trojan://humanity@172.64.152.23:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#🇨🇦 Canada | CF 4
+trojan://humanity@104.16.117.43:443?security=tls&sni=www.creationlong.org&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#🇨🇦 Canada | CF 5
+trojan://humanity@104.18.139.67:443?security=tls&sni=www.creationlong.org&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#🇨🇦 Canada | CF 6
+trojan://humanity@104.16.147.104:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org&fragment=10-20%2C1-3%2Ctlshello#🇨🇦 Canada | CF 7
+trojan://humanity@104.16.79.73:443?security=tls&sni=www.creationlong.org&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#🇨🇦 Canada | CF 8
+trojan://humanity@188.114.98.0:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#🇨🇦 Canada | CF 9
+trojan://humanity@104.16.63.25:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#🇨🇦 Canada | CF 10
+trojan://humanity@104.20.26.246:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🇨🇦 Canada | CF 11
+trojan://humanity@104.26.6.159:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇨🇦 Canada | CF 12
