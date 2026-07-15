@@ -4,4 +4,5 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 vless://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@45.59.117.169:443?type=grpc&headerType=none&security=reality&encryption=none&sni=www.blick.ch&fp=firefox&pbk=Uwj82vGl-jAhU3VflWnTy7rISYi03slggjS32Zx8pkk&sid=6ba85179e30d4fc2&serviceName=wlgrpc#🇨🇭 Switzerland | anyNode 1
-vless://8bba3194-4856-46d1-8319-075817d87eb1@45.140.205.186:2443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=sw2.cyphervpn.pro&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&fp=firefox#🇨🇭 Switzerland | Global Connectivity Solution... 1
+vless://8516c47e-a7a1-42f7-9c14-ae9b14873cc8@ch-5.lemonbow.ru:443?security=reality&encryption=none&pbk=W8hnq0oVIPpRGyM8UUQuaAF2KKxl6C10yBgO911iFwM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#🇨🇭 Switzerland | Hostkey B.V 1
+vless://8bba3194-4856-46d1-8319-075817d87eb1@45.140.205.186:2443?type=tcp&headerType=none&security=reality&encryption=none&sni=sw2.cyphervpn.pro&fp=firefox&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&flow=xtls-rprx-vision#🇨🇭 Switzerland | Global Connectivity Solution... 1

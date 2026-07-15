@@ -3,27 +3,21 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.143.26:22222?encryption=none&security=none&type=tcp#🇫🇷 France | AWS EC2 (eu-west-3) 1
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.46.17:22223?type=tcp&security=none&encryption=none#🇫🇷 France | AWS EC2 (eu-west-3) 2
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.46.17:22224?type=tcp&security=none&encryption=none#🇫🇷 France | AWS EC2 (eu-west-3) 3
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.143.26:22224?encryption=none&security=none&type=tcp#🇫🇷 France | AWS EC2 (eu-west-3) 4
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.143.26:22223?encryption=none&security=none&type=tcp#🇫🇷 France | AWS EC2 (eu-west-3) 5
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.46.17:22222?encryption=none&security=none&type=tcp#🇫🇷 France | AWS EC2 (eu-west-3) 6
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp&headerType=none#🇫🇷 France | Dyjix 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaU9NQlU1SUR2SmNGcXlOUGJSallS@137.74.119.18:10443#🇫🇷 France | OVH 1
-vless://7dc3461c-630f-4547-82a9-08042b0daba5@31.58.76.95:8443?type=tcp&security=reality&sni=tradingview.com&fp=firefox&pbk=HN1XHrqmB_-gDnVeXgmyPZFWAZEo4aTqlU-cIWh6hm0&flow=xtls-rprx-vision#🇫🇷 France | Cloud Backbone 1
-vless://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?type=tcp&headerType=none&security=reality&encryption=none&sni=www.tesla.com&fp=firefox&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&sid=59625eb3275249ca&spx=%2F&flow=xtls-rprx-vision#🇫🇷 France | AWS EC2 (eu-west-3) 7
 vless://d890b403-d536-4c32-945c-b46e250492a6@20.199.24.140:443?security=reality&encryption=none&pbk=Lk_uZjr6a6DyLsgh1VasuUCN9G2YdO32u9nFZPgHxSw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0f5af4a2#🇫🇷 France | Azure 1
-vless://ff3e10a8-2a5c-4792-a14e-20fd11b1bed9@31.56.146.93:8443?type=tcp&security=reality&sni=tradingview.com&fp=firefox&pbk=8i-67NPZNxTU8dgnF5yKYpijyu4GbQsDOdZSHQjsLGQ&flow=xtls-rprx-vision#🇫🇷 France | CGI GLOBAL LIMITED 1
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@45.80.215.68:443?security=tls&amp;encryption=none&amp;host=45.80.215.68&amp;headerType=none&amp;type=tcp&amp;sni=45.80.215.68#🇫🇷 France | G-Core Labs S.A 1
-hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#🇫🇷 France | ONLINE 1
-vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&security=none&type=ws&host=akamaized.net&path=%2Fvless%2F#🇫🇷 France | OVH 2
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇫🇷 France | ONLINE 2
+vless://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?type=tcp&headerType=none&security=reality&encryption=none&sni=www.tesla.com&fp=firefox&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&sid=59625eb3275249ca&spx=%2F&flow=xtls-rprx-vision#🇫🇷 France | AWS EC2 (eu-west-3) 1
+vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&sid=9a4c7d2f8e1b6a3c&packetEncoding=xudp#🇫🇷 France | OVH 1
 vless://aa28b265-baff-42e4-927e-7a8dee0ef623@217.154.3.67:8443?security=tls&sni=eventloophub.org&type=grpc&serviceName=grpc&fp=chrome#🇫🇷 France | ADSL: Icosys Computers and C... 1
-vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?security=reality&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&encryption=none&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=05fdaa8a05be46a9#🇫🇷 France | Hostkey B.V 1
-vless://3f96d95c-0b89-4be5-99df-55d10bfb3b6b@2.27.153.45:443?security=reality&encryption=none&sni=wikipedia.org&fp=firefox&pbk=14mbxpFBwnpp817ZLgT-6dVqsOmNPIaH7ygYcYScjGg&sid=2b4790ccbac1edb2&flow=xtls-rprx-vision#🇫🇷 France | Ipxo 1
-vless://720642d3-035e-469a-b0a1-6dcd3601a82c@135.125.185.133:8443?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=b7b70c104ad267b8#🇫🇷 France | OVH 3
-vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@152.228.162.19:80?security=none&type=ws&host=OV-France1.09vpn.com&path=/vless/#🇫🇷 France | OVH 4
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#🇫🇷 France | OVH 5
-vless://d7b8d855-352f-44fd-a20f-7e8ff06d0f66@31.56.146.93:8443?type=tcp&security=reality&sni=tradingview.com&fp=firefox&pbk=8i-67NPZNxTU8dgnF5yKYpijyu4GbQsDOdZSHQjsLGQ&flow=xtls-rprx-vision#🇫🇷 France | CGI GLOBAL LIMITED 2
-trojan://humanity@81.255.155.10:443?type=ws&headerType=none&security=tls&encryption=none&sni=www.creationlong.org&path=%2Fassignment&insecure=0#🇫🇷 France | L Oreal CO 1
+vless://3f96d95c-0b89-4be5-99df-55d10bfb3b6b@2.27.153.46:443?security=reality&encryption=none&sni=wikipedia.org&fp=firefox&pbk=14mbxpFBwnpp817ZLgT-6dVqsOmNPIaH7ygYcYScjGg&sid=2b4790ccbac1edb2&flow=xtls-rprx-vision#🇫🇷 France | Ipxo 1
+vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@37.49.230.101:443?security=reality&encryption=none&sni=fastsync.xyz&fp=random&pbk=ppvT23Dpmf4G9dZLVQJq3Ev9ckq4REa1jJ9gkXqp1zQ&flow=xtls-rprx-vision#🇫🇷 France | ESTOXY OU 1
+vless://720642d3-035e-469a-b0a1-6dcd3601a82c@135.125.185.133:8443?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=b7b70c104ad267b8#🇫🇷 France | OVH 2
+vless://a9a96ecb-0d66-5809-a833-7a7431c1ca60@62.60.248.105:2053?type=grpc&security=reality&pbk=kwKk436AjoyIrYSQzm3VoGLoFDLIIYRGLQ-RRVFUH20&sid=b9b08cbb&sni=www.amazon.com&serviceName=grpc-bf898949e88a9c94#🇫🇷 France | RTM GmbH 1
+vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@37.49.230.102:443?security=reality&encryption=none&sni=fastsync.xyz&fp=random&pbk=ppvT23Dpmf4G9dZLVQJq3Ev9ckq4REa1jJ9gkXqp1zQ&flow=xtls-rprx-vision#🇫🇷 France | ESTOXY OU 2
+vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?encryption=none&sni=www.samsung.com&security=reality&type=tcp&fp=firefox&sid=05fdaa8a05be46a9&headerType=none&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo#🇫🇷 France | Hostkey B.V 1
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#🇫🇷 France | OVH 3
+vless://1f6531a1-a6eb-4274-9f51-4a0899456fcf@195.254.165.243:443?security=reality&encryption=none&pbk=zSjG6wndmLAzE8ykCBXpAm2eh0viWVSy3gt2juXF4EE&headerType=none&fp=chrome&spx=%2FgiyWVcXDg48T294&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=eaa8#🇫🇷 France | Nahor Hadish Design and Arch... 1
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.208.113.157:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=parisjetaime.com&fp=firefox&pbk=2dgS9vJTywAfGZmlkuzDIIXLUR-E1A-0na8_W--ruUc&sid=5be8210215&type=tcp&headerType=none#🇫🇷 France | Aeza 1
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#🇫🇷 France | OVH 4
+trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls#🇫🇷 France | KaopuCloud-MY 1
+vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?encryption=none&type=tcp&security=reality&headerType=none&sni=speedtest.net&fp=chrome&insecure=1&allowInsecure=1&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&sid=42b395462da31c0e&flow=xtls-rprx-vision#🇫🇷 France | OVH 5
+vless://7dc3461c-630f-4547-82a9-08042b0daba5@31.58.76.95:8443?type=tcp&security=reality&sni=tradingview.com&fp=firefox&pbk=HN1XHrqmB_-gDnVeXgmyPZFWAZEo4aTqlU-cIWh6hm0&flow=xtls-rprx-vision#🇫🇷 France | Cloud Backbone 1
+trojan://humanity@81.255.155.10:443?path=%2Fassignment&security=tls&fp=qq&type=ws&sni=www.creationlong.org#🇫🇷 France | L Oreal CO 1
