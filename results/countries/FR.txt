@@ -4,8 +4,9 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@95.182.97.249:2090?encryption=none&path=/#🇫🇷 France | CGI GLOBAL LIMITED 1
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.249.140:22223?encryption=none&security=none&type=tcp#🇫🇷 France | AWS EC2 (eu-west-3) 1
-vless://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?encryption=none&flow=xtls-rprx-vision&fp=&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&security=reality&sid=59625eb3275249ca&sni=www.tesla.com&type=tcp#🇫🇷 France | AWS EC2 (eu-west-3) 2
-vless://7dc3461c-630f-4547-82a9-08042b0daba5@31.58.76.95:8443?type=tcp&security=reality&sni=tradingview.com&fp=firefox&pbk=HN1XHrqmB_-gDnVeXgmyPZFWAZEo4aTqlU-cIWh6hm0&flow=xtls-rprx-vision#🇫🇷 France | Cloud Backbone 1
-vless://d7b8d855-352f-44fd-a20f-7e8ff06d0f66@31.56.146.93:8443?type=tcp&security=reality&sni=tradingview.com&fp=firefox&pbk=8i-67NPZNxTU8dgnF5yKYpijyu4GbQsDOdZSHQjsLGQ&flow=xtls-rprx-vision#🇫🇷 France | CGI GLOBAL LIMITED 2
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#🇫🇷 France | CGI GLOBAL LIMITED 2
+trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls#🇫🇷 France | KaopuCloud-MY 1
+vless://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?encryption=none&flow=xtls-rprx-vision&fp=&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&security=reality&sid=59625eb3275249ca&sni=www.tesla.com&type=tcp#🇫🇷 France | AWS EC2 (eu-west-3) 1
+vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speedtest.net&fp=chrome&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&sid=42b395462da31c0e&type=tcp&headerType=none#🇫🇷 France | OVH 1
 vless://ec99e107-8d2f-4767-a9ac-689424a55d3a@140.233.177.31:51963?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=96R745HIUgKX33-bqiqB5F9uQFTacNEwP2W4ZYD7kVE&sid=e2&type=tcp&headerType=none#🇫🇷 France | Interkvm Host SRL 1
+trojan://humanity@81.255.155.10:443?path=%2Fassignment&security=tls&type=ws&sni=www.creationlong.org&fp=firefox#🇫🇷 France | L Oreal CO 1
