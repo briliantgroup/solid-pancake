@@ -1,0 +1,10 @@
+#profile-update-interval: 3
+#profile-title: encode:Qm9iaVZQTiDwn4eo8J+HrSBTd2l0emVybGFuZA==
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#support-url: https://github.com/
+#profile-web-page-url: https://github.com/
+vless://fef61355-77d1-4523-9550-1e7b7cbcc47c@37.156.44.241:19551?security=none&encryption=none&headerType=none&type=tcp#🇨🇭 Switzerland | Infomaniak Network SA 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@146.70.26.156:1080#🇨🇭 Switzerland | M247 Ltd Zurich 1
+vless://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@45.59.117.169:443?type=grpc&headerType=none&security=reality&encryption=none&sni=www.blick.ch&fp=firefox&pbk=Uwj82vGl-jAhU3VflWnTy7rISYi03slggjS32Zx8pkk&sid=6ba85179e30d4fc2&serviceName=wlgrpc#🇨🇭 Switzerland | anyNode 1
+vless://8e7d2cc4-798d-4eb4-9b6b-d7cda7a7d2ff@152.233.31.72:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=api-maps.yandex.ru&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&fp=chrome#🇨🇭 Switzerland | Cdn77 ZUR 1
+vless://8bba3194-4856-46d1-8319-075817d87eb1@45.140.205.186:2443?type=tcp&headerType=none&security=reality&encryption=none&sni=sw2.cyphervpn.pro&fp=firefox&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&flow=xtls-rprx-vision#🇨🇭 Switzerland | Global Connectivity Solution... 1
