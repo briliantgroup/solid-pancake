@@ -4,9 +4,17 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#🇮🇹 Italy | Oneprovider.com 1
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle Corporation 1
 ss://YWVzLTI1Ni1nY206NjUxMjAzMDk2MTQ3M2YyMQ@185.198.235.208:20129#🇮🇹 Italy | Baxet Group Inc 1
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?type=tcp&security=none&encryption=none#🇮🇹 Italy | Oracle Corporation 1
-vless://fe56cb08-6d4c-4954-808d-216fa945d3e8@31.76.113.161:2087?encryption=none&fp=firefox&pbk=IrgMA7g_C4JRT3gXWQvNXtHRd7dgC6fkSkKvxIxbfF0&security=reality&serviceName=grpc&sid=c226283c4de5b1ad&sni=ads.x5.ru&type=grpc#🇮🇹 Italy | Vladislav Nitsenko 1
-vless://fe56cb08-6d4c-4954-808d-216fa945d3e8@31.76.113.161:445?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=IrgMA7g_C4JRT3gXWQvNXtHRd7dgC6fkSkKvxIxbfF0&sid=c226283c4de5b1ad&fp=firefox#🇮🇹 Italy | Vladislav Nitsenko 2
+vless://9e23aaba-5bf2-4810-8369-c9bf2a9979f9@72.146.184.66:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=safari&pbk=CVbYSDZe2130NfbcGVM7P15Xy1LifR1cf0hsJKV_4V0&sid=eb4c4c6a#🇮🇹 Italy | Azure 1
+vless://04c75bdf-461f-417e-8bcd-b3bf89a8524a@31.76.113.178:2087?type=grpc&security=reality&encryption=none&sni=ads.x5.ru&pbk=4qI0xhPUwTmO7yMwDlgf2eI-fFP9C9i0iu2d8WHoDTw&sid=c226283c4de5b1ad&fp=firefox&serviceName=grpc#🇮🇹 Italy | Vladislav Nitsenko 1
+vless://04c75bdf-461f-417e-8bcd-b3bf89a8524a@31.76.113.178:445?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=4qI0xhPUwTmO7yMwDlgf2eI-fFP9C9i0iu2d8WHoDTw&sid=c226283c4de5b1ad&fp=firefox#🇮🇹 Italy | Vladislav Nitsenko 2
+vless://b90064cf-3f61-4f37-b549-a72100a8c9db@31.76.113.160:445?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=YPbKkg4p8zdxymjtC0qBiDkiMIlu0Iutu5zEbgR46So&sid=c226283c4de5b1ad&fp=firefox#🇮🇹 Italy | Vladislav Nitsenko 3
+vless://8d90a1bf-7d6a-4cb7-812a-afd355e73489@31.76.113.136:445?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=wXOV7-oBLNnuIy8smYrLLdK-NkN1j-NEf9MxePbAT2Y&security=reality&sid=c226283c4de5b1ad&sni=ads.x5.ru&type=tcp#🇮🇹 Italy | Vladislav Nitsenko 4
+vless://b90064cf-3f61-4f37-b549-a72100a8c9db@31.76.113.160:2087?type=grpc&security=reality&encryption=none&sni=ads.x5.ru&pbk=YPbKkg4p8zdxymjtC0qBiDkiMIlu0Iutu5zEbgR46So&sid=c226283c4de5b1ad&fp=firefox&serviceName=grpc#🇮🇹 Italy | Vladislav Nitsenko 5
+vless://fe56cb08-6d4c-4954-808d-216fa945d3e8@31.76.113.161:2087?type=grpc&security=reality&encryption=none&sni=ads.x5.ru&pbk=IrgMA7g_C4JRT3gXWQvNXtHRd7dgC6fkSkKvxIxbfF0&sid=c226283c4de5b1ad&fp=firefox&serviceName=grpc#🇮🇹 Italy | Vladislav Nitsenko 6
+vless://fe56cb08-6d4c-4954-808d-216fa945d3e8@31.76.113.161:445?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=IrgMA7g_C4JRT3gXWQvNXtHRd7dgC6fkSkKvxIxbfF0&sid=c226283c4de5b1ad&fp=firefox#🇮🇹 Italy | Vladislav Nitsenko 7
+vless://8d90a1bf-7d6a-4cb7-812a-afd355e73489@31.76.113.136:2087?type=grpc&security=reality&encryption=none&sni=ads.x5.ru&pbk=wXOV7-oBLNnuIy8smYrLLdK-NkN1j-NEf9MxePbAT2Y&sid=c226283c4de5b1ad&fp=firefox&serviceName=grpc#🇮🇹 Italy | Vladislav Nitsenko 8
 vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#🇮🇹 Italy | Oracle Corporation 2
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=/vless/&security=none&encryption=none&type=ws#🇮🇹 Italy | OVH 1
+vmess://eyJhZGQiOiI1Ny4xMzEuMzIuMTkxIiwiYWlkIjowLCJob3N0IjoiT1YtSXRhbHkxLjA5dnBuLmNvbSIsImlkIjoiODQ4YWYzM2MtODFmMi00MGM5LTkzYjItNDY4MWQwNTY5MzZiIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzc1wvIiwicG9ydCI6ODQ0MywicHMiOiJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjlbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1JVC0xMjc4MDQyOCIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=#🇮🇹 Italy | OVH 1
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=/vless/&security=none&encryption=none&type=ws#🇮🇹 Italy | OVH 2

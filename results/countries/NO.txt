@@ -3,4 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.128.199:443?type=grpc&security=reality&pbk=qmQgs_yOloyjj9xqDjbaUqGlhWwp6ReBpBB99Qfi2CU&sid=0bc73dd1f045&sni=stashfuro-eweqee.ru&serviceName=nexusGrpc#🇳🇴 Norway | H2nexus 1
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.128.199:443?serviceName=nexusGrpc&security=reality&sni=stashfuro-eweqee.ru&encryption=none&fp=&sid=0bc73dd1f045&type=grpc&pbk=qmQgs_yOloyjj9xqDjbaUqGlhWwp6ReBpBB99Qfi2CU&_t=684808e4#🇳🇴 Norway | H2nexus 1
