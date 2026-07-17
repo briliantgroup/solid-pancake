@@ -3,4 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.230.142:2090?encryption=none&type=tcp&headerType=http&path=/#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.27.177:2090?encryption=none&security=none&type=tcp&headerType=none#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.238.180:2090?encryption=none&security=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 2
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.105.225:2090?encryption=none&security=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 3
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.61.9:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 4
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.230.142:2090?encryption=none&type=tcp&headerType=http&path=/#🇱🇻 Latvia | CGI GLOBAL LIMITED 5
