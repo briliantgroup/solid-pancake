@@ -3,38 +3,46 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-trojan://humanity@172.64.146.198:443?security=tls&sni=www.gossipglove.com&insecure=1&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#🇨🇦 Canada | CF 1
-trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#🇨🇦 Canada | CF 2
-trojan://humanity@104.18.152.208:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#🇨🇦 Canada | CF 3
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&type=ws#🇨🇦 Canada | CF 4
-trojan://humanity@104.18.152.219:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada | CF 5
-trojan://humanity@104.16.174.6:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#🇨🇦 Canada | CF 6
-trojan://humanity@104.18.115.61:443?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇨🇦 Canada | CF 7
-trojan://humanity@172.64.146.161:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=%2Fassignment#🇨🇦 Canada | CF 8
-trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=%2Fassignment#🇨🇦 Canada | CF 9
-trojan://humanity@104.18.152.77:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada | CF 10
-trojan://humanity@104.16.174.71:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#🇨🇦 Canada | CF 11
-trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🇨🇦 Canada | CF 12
-trojan://humanity@104.16.174.12:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#🇨🇦 Canada | CF 13
-vmess://eyJhZGQiOiJ0Zy5ocm1wLmtkbnMuZnIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiaW9zIiwiaG9zdCI6InRnLmhybXAua2Rucy5mciIsImlkIjoiYWYxY2NkODktYjY2Yi00NGU4LTk5YjgtMGQ5NDUwNzhjMDRiIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RpcmV4dm1lc3MiLCJwY3MiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjciLCJzY3kiOiJhdXRvIiwic25pIjoidGcuaHJtcC5rZG5zLmZyIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇨🇦 Canada | CF 14
-trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada | CF 15
-trojan://humanity@104.18.152.225:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#🇨🇦 Canada | CF 16
-trojan://humanity@104.18.8.83:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 Canada | CF 17
-trojan://humanity@172.64.155.209:443?host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#🇨🇦 Canada | CF 18
-trojan://humanity@chat.openai.com:443?encryption=none&security=tls&sni=www.calmlunch.com&alpn=h2&fp=chrome&type=ws&host=www.calmlunch.com&path=%2Fassignment#🇨🇦 Canada | CF 19
-trojan://humanity@104.18.7.147:443?allowInsecure=1&fp=chrome&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#🇨🇦 Canada | CF 20
-trojan://humanity@ip.myip2.qzz.io:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#🇨🇦 Canada | CF 21
-trojan://humanity@104.18.152.187:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#🇨🇦 Canada | CF 22
-trojan://humanity@188.114.96.3:443?host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#🇨🇦 Canada | CF 23
-trojan://humanity@104.16.174.109:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada | CF 24
-trojan://humanity@104.17.111.4:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada | CF 25
-trojan://humanity@104.16.174.37:443?allowInsecure=1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#🇨🇦 Canada | CF 26
-trojan://humanity@162.159.136.234:443?type=ws&security=tls&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&alpn=h2,http/1.1#🇨🇦 Canada | CF 27
-trojan://humanity@104.16.174.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada | CF 28
-trojan://humanity@104.18.152.113:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada | CF 29
-vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@172.67.188.128:8443?encryption=none&security=tls&sni=ad-020.limaklhc6.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ad-020.limaklhc6.info&path=%2F#🇨🇦 Canada | CF 30
-trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#🇨🇦 Canada | CF 31
-vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@104.21.40.223:8443?encryption=none&security=tls&sni=ad-020.limaklhc6.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ad-020.limaklhc6.info&path=%2F#🇨🇦 Canada | CF 32
-trojan://humanity@172.64.147.224:443?security=tls&sni=www.gossipglove.com&insecure=1&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#🇨🇦 Canada | CF 33
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@108.162.194.119:443?encryption=none&fp=chrome&host=deicl.redstone-vex.sbs&path=%2Fsea&security=tls&sni=deicl.redstone-vex.sbs&type=ws#🇨🇦 Canada | CF 34
-vmess://eyJhZGQiOiJqcDAxLnNjcG5iLnRvcCIsImFpZCI6MCwiaG9zdCI6ImpwMDEuc2NwbmIudG9wIiwiaWQiOiI1MzdhMDM2Zi1hNGFkLTQwNTEtODBjNC0wMTFhNDZjNjJiYjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvNTM3YTAzNmYtYTRhZC00MDUxLTgwYzQtMDExYTQ2YzYyYmIwLXZtIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==#🇨🇦 Canada | CF 35
+vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.207:443?type=ws&headerType=none&security=tls&encryption=none&sni=main-2.ariyuz.org&fp=firefox&alpn=h2&path=%2F&insecure=0#🇨🇦 Canada | CF 1
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=fn-2.ariyuz.org&type=ws&headerType=none&host=fn-2.ariyuz.org&path=%2F#🇨🇦 Canada | CF 2
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.95:443?type=ws&security=tls&encryption=none&path=%2F&host=het2.ariyuz.org&sni=het2.ariyuz.org&fp=firefox&alpn=http%2F1.1&headerType=none#🇨🇦 Canada | CF 3
+vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.216:443?type=ws&security=tls&fp=firefox&sni=server-ir-2.ariyuz.org#🇨🇦 Canada | CF 4
+trojan://humanity@172.64.146.198:443?security=tls&sni=www.gossipglove.com&insecure=1&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#🇨🇦 Canada | CF 5
+trojan://humanity@188.114.96.3:443?host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#🇨🇦 Canada | CF 6
+trojan://humanity@172.64.146.199:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=%2Fassignment#🇨🇦 Canada | CF 7
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?encryption=none&type=ws&security=tls&path=/rsedgws&host=shegeftihaaa.net&sni=shegeftihaaa.net&insecure=0&allowInsecure=0#🇨🇦 Canada | CF 8
+trojan://humanity@104.17.131.88:443?fp=chrome&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#🇨🇦 Canada | CF 9
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇨🇦 Canada | CF 10
+trojan://humanity@172.64.147.224:443?security=tls&sni=www.gossipglove.com&insecure=1&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#🇨🇦 Canada | CF 11
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.15.137:443?encryption=none&security=tls&sni=shegeftihaaa.net&type=ws&host=shegeftihaaa.net&path=%2Frsedgws#🇨🇦 Canada | CF 12
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.2:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=vangoghhh.info#🇨🇦 Canada | CF 13
+trojan://humanity@104.17.111.8:443?path=/assignment&security=tls&host=www.ignitelimit.com&fp=chrome&type=ws&sni=www.ignitelimit.com#🇨🇦 Canada | CF 14
+trojan://humanity@104.16.174.37:443?allowInsecure=1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#🇨🇦 Canada | CF 15
+vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@104.21.40.223:8443?encryption=none&security=tls&sni=ad-020.limaklhc6.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ad-020.limaklhc6.info&path=%2F#🇨🇦 Canada | CF 16
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@172.64.34.119:443?path=/sea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#🇨🇦 Canada | CF 17
+trojan://humanity@162.159.136.234:443?type=ws&security=tls&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&alpn=h2,http/1.1#🇨🇦 Canada | CF 18
+trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada | CF 19
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@104.17.121.110:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#🇨🇦 Canada | CF 20
+vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@104.17.108.69:443?path=%2Fws-vlees&security=tls&encryption=none&insecure=0&host=LIvE-uK-k643Wcl7-Ue2tiZ45.NeTRiNOvpN.Com&fp=chrome&type=ws&allowInsecure=0&sni=LIvE-uK-k643Wcl7-Ue2tiZ45.NeTRiNOvpN.Com#🇨🇦 Canada | CF 21
+trojan://humanity@104.16.79.73:443?security=tls&sni=www.creationlong.org&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#🇨🇦 Canada | CF 22
+trojan://humanity@188.114.98.0:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment#🇨🇦 Canada | CF 23
+trojan://humanity@104.17.150.76:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇨🇦 Canada | CF 24
+trojan://humanity@104.16.7.70:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#🇨🇦 Canada | CF 25
+trojan://humanity@104.16.63.25:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#🇨🇦 Canada | CF 26
+trojan://humanity@104.26.6.159:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment#🇨🇦 Canada | CF 27
+vless://e4dfa054-4b6e-405f-c439-6e4f0b6b700b@173.245.59.94:443?encryption=none&security=tls&sni=40t1.wxgqlfx.vip&insecure=0&allowInsecure=0&type=ws&host=40t1.wxgqlfx.vip&path=%2FTG%40wxgqlfx#🇨🇦 Canada | CF 28
+vless://e4dfa054-4b6e-405f-c439-6e4f0b6b700b@172.64.153.90:443?host=40t1.wxgqlfx.vip&path=%2FTG%40wxgqlfx&security=tls&sni=40t1.wxgqlfx.vip&type=ws#🇨🇦 Canada | CF 29
+vless://e4dfa054-4b6e-405f-c439-6e4f0b6b700b@104.25.252.207:443?encryption=none&security=tls&sni=40t1.wxgqlfx.vip&insecure=0&allowInsecure=0&type=ws&host=40t1.wxgqlfx.vip&path=%2FTG%40wxgqlfx#🇨🇦 Canada | CF 30
+vless://e4dfa054-4b6e-405f-c439-6e4f0b6b700b@172.64.229.110:443?encryption=none&security=tls&sni=40t1.wxgqlfx.vip&insecure=0&allowInsecure=0&type=ws&host=40t1.wxgqlfx.vip&path=%2FTG%40wxgqlfx#🇨🇦 Canada | CF 31
+vless://e4dfa054-4b6e-405f-c439-6e4f0b6b700b@104.16.247.6:443?host=40t1.wxgqlfx.vip&path=%2FTG%40wxgqlfx&security=tls&sni=40t1.wxgqlfx.vip&type=ws#🇨🇦 Canada | CF 32
+vless://3ccba794-1c6d-48a8-acf2-f5caf0e69d86@104.18.0.1:443?encryption=none&type=ws&host=all.speedtest03.ccwu.cc&path=%2F&security=tls&sni=all.speedtest03.ccwu.cc#🇨🇦 Canada | CF 33
+vmess://eyJhZGQiOiIxMDQuMjEuODguMjIiLCJhaWQiOjAsImhvc3QiOiJ2cG4uY3llZHUueHl6IiwiaWQiOiI3OWUwZGYzMS04ZWQ1LTQyMTMtOWZmZi0yOTJhOWZiZWFlN2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0Ijo0NDMsInBzIjoi8J+Ps++4j1/mnKrnn6VfMTIwIiwic2VjdXJpdHkiOiJhdXRvIiwic25pIjoidnBuLmN5ZWR1Lnh5eiIsInRscyI6InRscyJ9#🇨🇦 Canada | CF 34
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080?#🇨🇦 Canada | Oneprovider.com 1
+vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇨🇦 Canada | GLOBALTELEHOST Corp 1
+vmess://eyJ2IjoiMiIsImFkZCI6IjIzLjE2Mi4yMDAuMTk4IiwicG9ydCI6IjE4MDAwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNlt3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLUNBLTE0MDMxMDU4Iiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇨🇦 Canada | Palmira Hosting LLC 1
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNlt3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLUNBLTIzNDM1IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==#🇨🇦 Canada | Palmira Hosting LLC 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@184.75.221.134:1080#🇨🇦 Canada | Amanah Tech Inc 1
+vmess://eyJhZGQiOiIxNTguNTEuMTIxLjYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJpYnVzLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNlt3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLUNBLTExMzAzNDE4Iiwic2N5IjoiYXV0byIsInNuaSI6InNlcmlidXMub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇨🇦 Canada | GTHost 1
+vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇨🇦 Canada | CF 35
+vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC4xNDciLCJhaWQiOjAsImhvc3QiOiJpbm5hLmNmZCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNlt3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLUNBLTgzODI0NCIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=#🇨🇦 Canada | GLOBALTELEHOST Corp 2
+vless://963c91fc-1ce7-4fc7-806f-0a2e7b03bfee@104.26.14.85:443?encryption=none&type=ws&host=sinavm3.soft10.ir&path=%2Fassignment----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&sni=sinavm3.soft10.ir#🇨🇦 Canada | CF 36

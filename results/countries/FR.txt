@@ -3,20 +3,14 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.225.133:2090?encryption=none&security=none&type=tcp#🇫🇷 France | CGI GLOBAL LIMITED 1
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.146.147:2090?encryption=none&security=none&type=tcp&headerType=none#🇫🇷 France | CGI GLOBAL LIMITED 2
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.146.82:2090?&type=tcp&headerType=none&path=/#🇫🇷 France | CGI GLOBAL LIMITED 3
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@95.182.81.193:2090?encryption=none&security=none&type=tcp&headerType=none#🇫🇷 France | Cloud Software - FZCO 1
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.146.165:2090?encryption=none&security=none&type=tcp#🇫🇷 France | CGI GLOBAL LIMITED 4
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.109.139:2090?encryption=none&security=none&type=tcp#🇫🇷 France | CGI GLOBAL LIMITED 5
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@95.182.83.68:2090?encryption=none&security=none&type=tcp#🇫🇷 France | Cloud Software - FZCO 2
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@95.182.97.249:2090?encryption=none&path=/#🇫🇷 France | CGI GLOBAL LIMITED 6
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@104.252.111.148:2090?encryption=none&security=none&type=tcp&headerType=none#🇫🇷 France | Digital LLC 1
-vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&sid=05fdaa8a05be46a9&type=tcp&headerType=none#🇫🇷 France | Hostkey B.V 1
-vless://809bce92-45a0-4fe3-af1d-79d1c8422606@195.74.93.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.max.ru&fp=chrome&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48&type=tcp&headerType=none#🇫🇷 France | Interkvm Host SRL 1
-vless://eedcee2e-7517-4162-852d-b21b864b8e3f@195.74.93.254:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48&sni=web.max.ru#🇫🇷 France | Interkvm Host SRL 2
-vless://db2b7549-a616-4d83-a4bf-51eda70ff82c@195.74.93.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.max.ru&fp=chrome&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48&packetEncoding=xudp#🇫🇷 France | Interkvm Host SRL 3
-vless://451ccfb4-4d9f-4d16-a748-48862ff46b86@195.74.93.254:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48&sni=web.max.ru#🇫🇷 France | Interkvm Host SRL 4
-vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&host=%2F%3FBIA_TELEGRAM%40vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#🇫🇷 France | Interkvm Host SRL 5
-vless://fae3277c-0541-4ae9-bbbb-8247453ea652@194.226.169.36:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&sid=b8aa&type=tcp&headerType=none#🇫🇷 France | xorek.cloud International LT... 1
-vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speedtest.net&fp=chrome&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&sid=42b395462da31c0e&type=tcp&headerType=none#🇫🇷 France | OVH 1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@95.182.83.68:2090?encryption=none&security=none&type=tcp#🇫🇷 France | Cloud Software - FZCO 1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@95.182.116.76:2090?type=tcp&headerType=http#🇫🇷 France | CGI GLOBAL LIMITED 1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@95.182.97.78:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇫🇷 France | CGI GLOBAL LIMITED 2
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.225.133:2090?encryption=none&security=none&type=tcp#🇫🇷 France | CGI GLOBAL LIMITED 3
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.109.139:2090?encryption=none&security=none&type=tcp#🇫🇷 France | CGI GLOBAL LIMITED 4
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@95.182.81.94:2090?type=tcp&headerType=http#🇫🇷 France | Cloud Software - FZCO 2
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.225.88:2090?type=tcp&headerType=none&security=none&encryption=none#🇫🇷 France | CGI GLOBAL LIMITED 5
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.146.82:2090?encryption=none&security=none&type=tcp#🇫🇷 France | CGI GLOBAL LIMITED 6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@163.172.244.41:1080?#🇫🇷 France | ONLINE 1
+vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?type=tcp&headerType=none&security=reality&encryption=none&sni=www.samsung.com&fp=firefox&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&sid=05fdaa8a05be46a9#🇫🇷 France | Hostkey B.V 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.187.249.218:1080?#🇫🇷 France | M247 Europe SRL 1
