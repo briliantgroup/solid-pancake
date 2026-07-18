@@ -3,16 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.230.142:2090?encryption=none&type=tcp&headerType=http&path=/#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.105.225:2090?encryption=none&security=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 2
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.61.180:2090?encryption=none&security=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 3
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.238.180:2090?encryption=none&host=fn.fifapes.monster&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 4
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.27.177:2090?encryption=none&security=none&type=tcp&headerType=none#🇱🇻 Latvia | CGI GLOBAL LIMITED 5
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.105.90:2090?encryption=none&security=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 6
-vless://7e5964d036b843ff885b86c4d3bfd466@85.159.228.250:25703?&type=tcp&headerType=none&path=%2F#🇱🇻 Latvia | Global Connectivity Solution... 1
-vless://3d466ccc-1585-439d-aa28-5a82d626576a@95.182.90.97:21855?path=/&security=none&encryption=none&host=genshin.hoyoverse.com&type=ws#🇱🇻 Latvia | Cloud Software - FZCO 1
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@193.28.186.215:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#🇱🇻 Latvia | Beget LLC 1
-vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33f2#🇱🇻 Latvia | Beget LLC 2
-vless://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?security=reality&encryption=none&pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=8c09fb78b12f#🇱🇻 Latvia | Beget 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@195.123.209.159:1080?#🇱🇻 Latvia | ITLDC Latvia network 1
-vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?security=reality&encryption=none&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f71c22#🇱🇻 Latvia | RETN Limited 1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.61.9:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.105.90:2090?encryption=none&security=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 2
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.105.225:2090?encryption=none&security=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 3
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.27.177:2090?encryption=none&security=none&type=tcp&headerType=none#🇱🇻 Latvia | CGI GLOBAL LIMITED 4
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.61.180:2090?encryption=none&security=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 5
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.230.142:2090?encryption=none&type=tcp&headerType=http&path=/#🇱🇻 Latvia | CGI GLOBAL LIMITED 6
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.238.180:2090?encryption=none&host=fn.fifapes.monster&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 7
