@@ -1,0 +1,23 @@
+#profile-update-interval: 3
+#profile-title: encode:Qm9iaVZQTiDwn4ev8J+HtSBKYXBhbg==
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#support-url: https://github.com/
+#profile-web-page-url: https://github.com/
+vless://70f2bc37-c62a-4ea4-8e91-12dfe19c7ddc@45.32.40.174:2052?type=tcp&security=none&encryption=none#🇯🇵 Japan | Vultr 1
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#🇯🇵 Japan | DataCamp Limited 1
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443?#🇯🇵 Japan | DataCamp Limited 2
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443?#🇯🇵 Japan | DataCamp Limited 3
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?security=none&type=tcp&packetEncoding=xudp&sni=152.69.195.67#🇯🇵 Japan | Oracle Cloud Infrastructure ... 1
+vmess://ewogICAgImFkZCI6ICI0NS43Ni4yMDIuNDUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjA3MWE4YTcxLWM2NTYtNGZiNi1hOTA4LTRlNDJlYjcyMjQzZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saWtzdXpjcCIsCiAgICAicG9ydCI6IDQwMTAsCiAgICAicHMiOiAi8J+Hr/Cfh7VKUC00NS43Ni4yMDIuNDUtNjExOSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9#🇯🇵 Japan | Vultr 2
+vmess://eyJhZGQiOiIxNjEuMzMuMTM5LjEzOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMTYxLjMzLjEzOS4xMzgiLCJpZCI6IjE2MTBmOGRjLTA2NjEtNDAzMi1hYzZhLWE3MjUwNjAzZjYwOCIsIm5ldCI6IndzIiwicGF0aCI6IlwvMTYxMGY4ZGMtMDY2MS00MDMyLWFjNmEtYTcyNTA2MDNmNjA4LXZtIiwicG9ydCI6IjU4OTA1IiwicHMiOiJcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjVbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1KUC0xNDg3MTA4MSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇯🇵 Japan | Oracle Cloud Infrastructure ... 2
+vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com#🇯🇵 Japan | Oneprovider.com 1
+vless://39d1c043-7bc5-4876-9d07-58574c023850@172.207.210.238:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=safari&pbk=Oua7ls5NZ2sxxFSyccAHZCMrCjW34WPEsHbaIpWmxX8&sid=ac78f53d#🇯🇵 Japan | Azure 1
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 1
+vless://3dc3b4ef-c3f6-4ef3-9e03-e0a8fd82b7be@43.165.186.226:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=aW52dpxW-umVvMOHPRCDsnHnJjuM8_S1FScLJQrVrG8&sid=a32e8c4a&sni=www.sony.com#🇯🇵 Japan | Tencent Cloud Computing (Bei... 1
+trojan://u2sVknrSIFjDojeqAUjgYk89m9szHcMQ@103.106.228.187:54603?allowInsecure=1&type=tcp&security=tls&fp=chrome#🇯🇵 Japan | Oneprovider.com 2
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtSlAtMTQwNTkxNzEiLCJhZGQiOiIxNDAuODMuNTEuMTYxIiwicG9ydCI6IjI1Njg2IiwiaWQiOiI2NzMzYzM1Ny1iYTExLTRlOWYtZjAwZi03ZDg3ZjI3NzZmZjkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoianAwMi5hMGEueHl6IiwicGF0aCI6IlwvY2N0djEzLm0zdTgiLCJ0bHMiOiIiLCJzbmkiOiJqcDAyLmEwYS54eXoiLCJ0ZXN0X25hbWUiOiIyMCIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇯🇵 Japan | Oracle Cloud Infrastructure ... 3
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtSlAtMTM4MDU0NzkiLCJhZGQiOiIxNjguMTM4LjQzLjc1IiwicG9ydCI6IjgwIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJqcDAxLmEwYS54eXoiLCJwYXRoIjoiXC9jY3R2MTMubTN1OCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjcxIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇯🇵 Japan | Oracle Cloud Infrastructure ... 4
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:18007?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 2
+vless://8bba3194-4856-46d1-8319-075817d87eb1@31.76.91.71:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&security=reality&sid=8f9d033ad6d2cebf&sni=jp1.cyphervpn.pro&type=tcp#🇯🇵 Japan | Vladislav Nitsenko 1
+vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:12683?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇯🇵 Japan | Oneprovider.com 3
+vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?path=%2Fvless%2F&security=&encryption=none&type=ws#🇯🇵 Japan | Ipxo LLC 1
