@@ -3,5 +3,28 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-trojan://BxceQaOe@43.198.13.164:41421?allowInsecure=1&sni=t.me%252Fripaojiedian#🇭🇰 Hong Kong | AWS EC2 (ap-east-1) 1
-trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net&insecure=0&allowInsecure=0&type=tcp&headerType=none&fp=android#🇭🇰 Hong Kong | Hong Kong Telecommunications... 1
+vmess://eyJhZGQiOiI0Ny44My4yMjEuMTg1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijc3MWE1OTBjLTVlYWMtNTczMi1iNzk2LTE3MjUxMTMyZjhkMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODAiLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMFt3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLUhLLTE0ODAyMzQ3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#🇭🇰 Hong Kong | IPXO LLC, Zenlayer Inc, Delt... 1
+vless://71a7db14-1b6f-5aec-9e5d-9bd5f8beabab@202.155.123.34:10443?type=tcp&security=none&encryption=none#🇭🇰 Hong Kong | Yuwan Networks Limited 1
+vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh63wn4ewIEhLLTIwNjMiLCJhZGQiOiIxMDMuMTcyLjEzNC4xNjIiLCJwb3J0IjoiMjU1MzIiLCJ0eXBlIjoibm9uZSIsImlkIjoiNWIyNmY2OGItOWY3Zi00MWU1LWIzNWYtZWQxYWRlZDgzMWQ1IiwiYWlkIjoiMCIsIm5ldCI6Im5vbmUiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==#🇭🇰 Hong Kong | PKI LTD 1
+trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me/ripaojiedian#🇭🇰 Hong Kong | Hong Kong Broadband Network ... 1
+vless://8bba3194-4856-46d1-8319-075817d87eb1@141.98.234.114:443?security=reality&flow=xtls-rprx-vision&sni=hk1.cyphervpn.pro&type=tcp&fp=chrome&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf#🇭🇰 Hong Kong | Global Internet Solutions LL... 1
+vless://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=47de54e71fee3451&pbk=maES4RMEtsm5emBCixDRa6Y5GvmVwmwZNBL2G4Q03D4&encryption=none#🇭🇰 Hong Kong | VMISS Inc 1
+trojan://NQ26071394@91.199.84.34:443?sni=wealthy-loon.rooster465.autos&fp=chrome&type=tcp&path=/#🇭🇰 Hong Kong | G-Core Labs S.A 1
+trojan://KV63147582@194.99.79.13:443?sni=amused-peacock.rooster465.autos&fp=chrome&type=tcp&path=/#🇭🇰 Hong Kong | GCORELABS 1
+trojan://PD07395842@185.14.47.121:443?sni=novel-mouse.rooster465.autos&fp=chrome&type=tcp&path=/#🇭🇰 Hong Kong | G-Core Labs S.A 2
+trojan://NQ26071394@194.99.79.188:443?sni=full-ox.rooster465.autos&fp=chrome&type=tcp&path=/#🇭🇰 Hong Kong | GCORELABS 2
+trojan://PD07395842@185.244.208.81:443?sni=free-tahr.rooster465.autos&fp=chrome&type=tcp&path=/#🇭🇰 Hong Kong | GCL 1
+trojan://NQ26071394@91.199.84.165:443?sni=striking-cheetah.rooster465.autos&fp=chrome&type=tcp&path=/#🇭🇰 Hong Kong | G-Core Labs S.A 3
+trojan://OD90375861@185.14.47.230:443?sni=modest-foal.rooster465.autos&fp=chrome&type=tcp&path=/#🇭🇰 Hong Kong | G-Core Labs S.A 4
+trojan://PD07395842@91.199.84.247:443?sni=ace-starling.rooster465.autos&fp=chrome&type=tcp&path=/#🇭🇰 Hong Kong | G-Core Labs S.A 5
+trojan://NQ26071394@185.244.208.126:443?sni=electric-gibbon.rooster465.autos&fp=chrome&type=tcp&path=/#🇭🇰 Hong Kong | GCL 2
+trojan://PD07395842@91.199.84.185:443?sni=choice-worm.rooster465.autos&fp=chrome&type=tcp&path=/#🇭🇰 Hong Kong | G-Core Labs S.A 6
+trojan://PD07395842@185.244.208.52:443?sni=just-alpaca.rooster465.autos&fp=chrome&type=tcp&path=/#🇭🇰 Hong Kong | GCL 3
+trojan://CF68213490@91.199.84.138:443?allowInsecure=0&sni=well-marmot.rooster465.autos#🇭🇰 Hong Kong | G-Core Labs S.A 7
+trojan://PD07395842@185.244.208.163:443?sni=liberal-salmon.rooster465.autos&fp=chrome&type=tcp&path=/#🇭🇰 Hong Kong | GCL 4
+trojan://KV63147582@185.14.47.86:443?allowInsecure=0&sni=electric-sturgeon.rooster465.autos#🇭🇰 Hong Kong | G-Core Labs S.A 8
+trojan://KV63147582@185.244.208.64:443?sni=desired-tahr.rooster465.autos&fp=chrome&type=tcp&path=/#🇭🇰 Hong Kong | GCL 5
+trojan://NQ26071394@185.14.47.36:443?sni=pretty-mollusk.rooster465.autos&fp=chrome&type=tcp&path=/#🇭🇰 Hong Kong | G-Core Labs S.A 9
+vmess://ewogICAgImFkZCI6ICI0Ny4yNDQuMTIwLjE5NyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDViODM1MTktOWM0Zi00MDUyLWExMWItMDJlMDE3YjYzNmQ0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDM2NzAzLAogICAgInBzIjogIvCfh63wn4ewSEstNDcuMjQ0LjEyMC4xOTctMDQ1MyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9#🇭🇰 Hong Kong | Alibaba Cloud - HK 1
+vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#🇭🇰 Hong Kong | Alibaba Cloud LLC 1
+trojan://KV63147582@electric-sturgeon.rooster465.autos:443?security=tls&sni=electric-sturgeon.rooster465.autos#🇭🇰 Hong Kong | G-Core Labs S.A 10
