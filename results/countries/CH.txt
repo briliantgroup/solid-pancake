@@ -3,8 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@179.237.86.7:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ch.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&fp=qq#🇨🇭 Switzerland | Infomaniak Network SA 1
 trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?allowInsecure=1#🇨🇭 Switzerland | M247 Ltd Zurich 1
-vless://31649657-6c78-4c2c-b25b-5cd574b082b5@ch10.tunnely.ru:443?security=reality&encryption=none&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ch10.tunnely.ru&sid=2e40144ddc07e8e1#🇨🇭 Switzerland | Infomaniak Network SA 2
+vless://31649657-6c78-4c2c-b25b-5cd574b082b5@ch10.tunnely.ru:443?security=reality&encryption=none&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ch10.tunnely.ru&sid=2e40144ddc07e8e1#🇨🇭 Switzerland | Infomaniak Network SA 1
 vless://31649657-6c78-4c2c-b25b-5cd574b082b5@ch03.tunnely.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ch03.tunnely.ru&security=reality&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sid=2e40144ddc07e8e1#🇨🇭 Switzerland | Infomaniak Cloud 1
 vless://8bba3194-4856-46d1-8319-075817d87eb1@45.140.205.186:2443?flow=xtls-rprx-vision&fp=random&headertype=none&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&security=reality&sid=8f9d033ad6d2cebf&sni=sw2.cyphervpn.pro&type=tcp#🇨🇭 Switzerland | Global Connectivity Solution... 1
