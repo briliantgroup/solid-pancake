@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=false&encryption=none&fp=chrome&sni=fn.fifapes.monster#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.113.77:2090?encryption=none&security=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@45.158.169.229:2090?type=tcp&headerType=http#🇱🇻 Latvia | Private Customer 1
-vless://9d564717-cee2-482f-a841-f7a3af7a08d3@fn.fifapes.monster:2090?type=tcp&security=none&encryption=none&sni=play.google.com#🇱🇻 Latvia | CGI GLOBAL LIMITED 2
-vless://7e5964d036b843ff885b86c4d3bfd466@85.159.228.250:25703?encryption=none&security=none&type=tcp&headerType=none#🇱🇻 Latvia | Global Connectivity Solution... 1
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@193.28.186.215:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&sni=www.wikihow.com&spx=/#🇱🇻 Latvia | Beget LLC 1
-vless://eeb6c1bf-5fb4-49b1-bf74-049eb9b06300@31.57.29.46:8443?type=ws&path=%2Fchunkycorp#🇱🇻 Latvia | CGI GLOBAL LIMITED 3
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&encryption=none&sni=fn.fifapes.monster&headerType=http#🇱🇻 Latvia | CGI GLOBAL LIMITED 2
