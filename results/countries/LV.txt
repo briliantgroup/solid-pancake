@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.106.242:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
-vless://be2bcd98-0ecc-000a-aa1a-b453a1878393@45.145.6.247:443?type=tcp&security=reality&sni=s3-fi-1.rucdn777.com&fp=firefox&flow=xtls-rprx-vision&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM#🇱🇻 Latvia | Beget 1
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&encryption=none&sni=/&headerType=http#🇱🇻 Latvia | CGI GLOBAL LIMITED 2
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.228.239:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 3
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@217.19.4.92:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 4
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.26.169:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 5
-vless://1dd6dab8-4a86-4996-9c3f-84cb9e173993@195.123.208.48.tyr-agentstvo.tech:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=195.123.208.48.tyr-agentstvo.tech&type=ws&headerType=none&host=195.123.208.48.tyr-agentstvo.tech&path=%2Fwebsocket%3Fed%3D2560#🇱🇻 Latvia | ITLDC Latvia network 1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.204.102:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@5.144.179.216:2090?security=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 2
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.204.38:2090?security=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 3
