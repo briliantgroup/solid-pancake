@@ -3,12 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@193.164.155.53:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | As56971 1
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@193.164.155.182:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | As56971 2
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.228.239:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.230.63:2090?encryption=none&security=none&type=tcp&headerType=none#🇱🇻 Latvia | CGI GLOBAL LIMITED 2
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@217.145.79.83:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | Private Customer 1
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.205.115:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 3
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?&security=none&fp=chrome&alpn=http%2F1.1&type=tcp&headerType=none&host=fn.fifapes.monster&path=%2F#🇱🇻 Latvia | CGI GLOBAL LIMITED 4
-vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?type=tcp&security=reality&encryption=none&fp=chrome&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&sid=f71c22&sni=yahoo.com&spx=/#🇱🇻 Latvia | RETN Limited 1
-vless://f2e9df1b-e0ba-4b37-a301-6aab8662c926@77.73.238.191:16622?encryption=none&security=reality&sni=yahoo.com&pbk=E5N_ckakvqgTOjiQ6Rmuwz1fchiT1-J3tH4cbzcH_GQ&sid=1c01d60ea915&type=tcp&headerType=none#🇱🇻 Latvia | Beget LLC 1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.205.115:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.228.239:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 2
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@193.164.155.182:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | As56971 1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@193.164.155.53:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | As56971 2
