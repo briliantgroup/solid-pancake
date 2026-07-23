@@ -3,4 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@88.218.76.170:443?fp=safari&host=furrycdn.net&path=%2Fapi%2Fv1%2Fvideo-stream&security=tls&sni=furrycdn.net&type=ws#🇫🇷 France | RackNerd LLC 1
+vless://d8f894b6-abc4-44b6-8d8a-980e9dd2f8fc@fn.fifapes.monster:2090?security=none&encryption=none&host=play.google.com&headerType=none&type=tcp#🇫🇷 France | Cloud Software - FZCO 1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&encryption=none&sni=/&headerType=http#🇫🇷 France | Cloud Software - FZCO 2
+vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?security=reality&encryption=none&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=42b395462da31c0e#🇫🇷 France | OVH 1
