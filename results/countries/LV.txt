@@ -3,8 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.106.87:2090?encryption=none&security=none&type=tcp&headerType=none#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.106.242:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 2
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@5.144.179.216:2090?security=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 3
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.204.102:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 4
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@217.19.4.92:2090?security=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 5
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.106.242:2090?security=none&type=tcp&encryption=none&headerType=none&burmalda=195d64d1#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.204.102:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 2
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.106.87:2090?#🇱🇻 Latvia | CGI GLOBAL LIMITED 3
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.227.144:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 4
+vless://7e5964d036b843ff885b86c4d3bfd466@85.159.228.250:25703?encryption=none&security=none&type=tcp&headerType=none#🇱🇻 Latvia | Global Connectivity Solution... 1
+vless://2d60d126-b3d3-4a1f-9f43-88289ec42e94@185.236.22.229:12303?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=dl.google.com&pbk=djNTwe-D7XWCrj4sG3b0Kz2tSuJ7epWKoQYHIv1AtzQ&sid=4646ff0a2c0bafbb&fp=chrome#🇱🇻 Latvia | Baykov Ilya Sergeevich 1
+vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?type=tcp&security=reality&encryption=none&fp=chrome&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&sid=f71c22&sni=yahoo.com&spx=/#🇱🇻 Latvia | RETN Limited 1
+vless://4b8d8d7f-a8b4-4e44-80a9-6f13c3149b52@45.130.214.192:53231?encryption=none&fp=chrome&pbk=3mRweaWR6pK4HsbEtu874rNG9qBgdOMmSsKE4RkWSmk&security=reality&sid=4ffbd0f3117c6f&sni=yahoo.com&type=tcp#🇱🇻 Latvia | RETN Limited 2
+vless://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?type=tcp&security=reality&encryption=none&fp=chrome&pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&sid=8c09fb78b12f&sni=yahoo.com#🇱🇻 Latvia | Beget 1
+vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100?security=none&type=tcp&packetEncoding=xudp&encryption=none#🇱🇻 Latvia | RETN Limited 3
