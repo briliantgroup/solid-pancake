@@ -3,4 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#🇦🇹 Austria | Porsche Konstruktionen GmbH ... 1
+vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:8443?type=grpc&security=tls&fp=chrome&sni=jsengineer.org&serviceName=grpc#🇦🇹 Austria | ANX 1
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&sni=vindobona.org#🇦🇹 Austria | Aeza 1
+vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FW0Co-dGXLOCXJU7prlPavpooVfXc9VajRm41UnBDnk&sid=affc28b1a8c32c&sni=shuviu.de#🇦🇹 Austria | ANX 2
+vless://df16d19f-4f64-4655-9906-10922ae8fdb2@152.53.47.153:16923?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&authority=&serviceName=neurex&mode=gun#🇦🇹 Austria | ANX Holding GmbH 1
