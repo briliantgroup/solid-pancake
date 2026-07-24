@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443?#🇯🇵 Japan | DataCamp Limited 1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443?#🇯🇵 Japan | DataCamp Limited 2
-vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=tcp&security=none&encryption=none&sni=152.69.195.67#🇯🇵 Japan | Oracle Cloud Infrastructure ... 1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443?#🇯🇵 Japan | DataCamp Limited 3
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCJhZGQiOiI0NS43Ni4yMDIuNDUiLCJwb3J0IjoiNDAxMCIsImlkIjoiMDcxYThhNzEtYzY1Ni00ZmI2LWE5MDgtNGU0MmViNzIyNDNkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJmcCI6ImNocm9tZSIsInBhdGgiOiIvbGlrc3V6Y3AiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#🇯🇵 Japan | Vultr 1
-trojan://IQ68037294@31.223.184.178:443?sni=tough-shark.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan | G-Core Labs S.A 1
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtSlAtMTQ4NzEwODEiLCJhZGQiOiIxNjEuMzMuMTM5LjEzOCIsInBvcnQiOiI1ODkwNSIsImlkIjoiMTYxMGY4ZGMtMDY2MS00MDMyLWFjNmEtYTcyNTA2MDNmNjA4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjE2MS4zMy4xMzkuMTM4IiwicGF0aCI6IlwvMTYxMGY4ZGMtMDY2MS00MDMyLWFjNmEtYTcyNTA2MDNmNjA4LXZtIiwidGxzIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇯🇵 Japan | Oracle Cloud Infrastructure ... 2
-trojan://IQ68037294@31.223.184.125:443?sni=moral-buzzard.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan | G-Core Labs S.A 2
-trojan://IQ68037294@moral-buzzard.rooster465.autos:443?security=tls&sni=moral-buzzard.rooster465.autos#🇯🇵 Japan | G-Core Labs S.A 3
-trojan://FC60532879@wise-longhorn.rooster465.autos:443?security=tls&sni=wise-longhorn.rooster465.autos#🇯🇵 Japan | G-Core Labs S.A 4
-trojan://IQ68037294@95.85.94.148:443?sni=next-ringtail.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan | GCL 1
-trojan://IQ68037294@95.85.94.165:443?sni=moved-osprey.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan | GCL 2
-trojan://IQ68037294@31.223.184.164:443?allowInsecure=0&sni=flexible-pony.rooster465.autos#🇯🇵 Japan | G-Core Labs S.A 5
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lODAgMzEyLjVLQi9zIiwiYWRkIjoiMTQwLjgzLjUxLjE2MSIsInBvcnQiOiIyNTY4NiIsImlkIjoiNjczM2MzNTctYmExMS00ZTlmLWYwMGYtN2Q4N2YyNzc2ZmY5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImpwMDIuYTBhLnh5eiIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJ0bHMiOiIiLCJzbmkiOiJqcDAyLmEwYS54eXoiLCJ0ZXN0X25hbWUiOiI4MCJ9#🇯🇵 Japan | Oracle Cloud Infrastructure ... 3
+trojan://IQ68037294@moral-buzzard.rooster465.autos:443?security=tls&sni=moral-buzzard.rooster465.autos#🇯🇵 Japan | G-Core Labs S.A 1
+trojan://IQ68037294@sweeping-parakeet.rooster465.autos:443?security=tls&sni=sweeping-parakeet.rooster465.autos#🇯🇵 Japan | GCL 1
+trojan://IQ68037294@moved-osprey.rooster465.autos:443?security=tls&sni=moved-osprey.rooster465.autos#🇯🇵 Japan | GCL 2
