@@ -3,25 +3,21 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.95:443?alpn=http/1.1&encryption=none&fp=firefox&host=fn.ariyuz.org&path=/api&security=tls&sni=fn.ariyuz.org&type=ws#🇨🇦 Canada | CF 1
-vless://d8c14c5c-a80a-4f6f-a5fb-52071849c443@cgxgqcheiamna-jks01fidlsnqojwf-s.aliama.workers.dev:443?path=%2FeyJqdW5rIjoiZTFWRGJFS0NUd2F2NkRmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cgxgqcheiamna-jks01fidlsnqojwf-s.aliama.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=CgxGqchEiAMnA-jkS01FiDlsnqOjwF-S.ALIAmA.WOrKErS.DeV#🇨🇦 Canada | CF 2
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&security=&encryption=none&host=de.vpnbase.net&type=ws#🇨🇦 Canada | CF 3
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?encryption=none&security=none&type=ws&host=de.vpnbase.net&path=%2Fhttp#🇨🇦 Canada | CF 4
-trojan://bpb-trojan@vless.herogoing.top:443?security=tls&sni=vless.herogoing.top&type=ws&host=vless.herogoing.top&path=%2Ftr%3Fed%3D2560#🇨🇦 Canada | CF 5
-vless://96e341a7-3077-4613-b482-41bd9c90cc4d@ezaccess-project-4c7950.ez-dc9bbb.workers.dev:443?encryption=none&type=ws&host=ezaccess-project-4c7950.ez-dc9bbb.workers.dev&path=%2FeyJqdW5rIjoiN2w4dDlRNVV5NkZ5NU1aeSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=chrome&sni=eZaCCesS-proJEcT-4C7950.Ez-dC9bBB.WorKErs.dEV#🇨🇦 Canada | CF 6
-vless://36a857e4-f3d4-43aa-8b90-d7da849da989@104.21.82.226:443?path=%2FeyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=002.inc-electrocell-001-002.workers.dev&fp=chrome&type=ws&sni=002.Inc-ElectROcElL-001-002.WoRKERS.DEV#🇨🇦 Canada | CF 7
 vless://11fba8e2-4b10-41c7-bc60-f12901f41d34@151.101.193.54:80?security=none&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#🇨🇦 Canada | Fastly, Inc. 1
-vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@104.21.41.131:8443?fp=chrome&host=ad-005.vector9nmb3.info&path=%2F&security=tls&sni=ad-005.vector9nmb3.info&type=ws#🇨🇦 Canada | CF 8
-vless://0836463b-214f-4af6-aa85-85a56a62388e@104.21.96.1:443?encryption=none&type=ws&host=D2127A49-Flat-WOoD-c4b5.Milia-AKbaRpOor.workers.Dev&path=%2FPl67KhTLWmJqQ2lY%3Fed%3D2560&security=tls&sni=D2127A49-Flat-WOoD-c4b5.Milia-AKbaRpOor.workers.Dev#🇨🇦 Canada | CF 9
-vless://80c0bc96-c14b-4292-ba3e-2414f0ba930e@104.16.75.56:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=llaasd12.roozaraa.ir&fp=chrome&type=ws&allowInsecure=0&sni=llaasd12.roozaraa.ir#🇨🇦 Canada | CF 10
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@104.21.41.140:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&fp=chrome&type=ws&host=po.fastbrokencompony.com&path=%2F#🇨🇦 Canada | CF 11
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.251:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=germany-2.ariyuz.org&type=ws&headerType=none&host=germany-2.ariyuz.org&path=%2F#🇨🇦 Canada | CF 12
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?type=ws&headerType=none&security=tls&encryption=none&sni=germany-2.ariyuz.org&path=%2F&insecure=0#🇨🇦 Canada | CF 13
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.68:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=germany-2.ariyuz.org&type=ws&allowInsecure=0&sni=germany-2.ariyuz.org#🇨🇦 Canada | CF 14
-vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@172.67.147.94:8443?encryption=none&fp=chrome&host=ad-005.vector9nmb3.info&path=%2F&security=tls&sni=ad-005.vector9nmb3.info&type=ws#🇨🇦 Canada | CF 15
-trojan://humanity@104.18.152.54:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#🇨🇦 Canada | CF 16
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&security=tls&encryption=none&host=shegeftihaaa.net&type=ws&sni=shegeftihaaa.net#🇨🇦 Canada | CF 17
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=1&host=vangoghhh.info&type=ws&allowInsecure=1&sni=vangoghhh.info#🇨🇦 Canada | CF 18
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#🇨🇦 Canada | CF 19
-vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@104.21.41.131:8443?encryption=none&fp=chrome&host=ad-010.vector9nmb3.info&path=%2F&security=tls&sni=ad-010.vector9nmb3.info&type=ws#🇨🇦 Canada | CF 20
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.72.41:2095?encryption=none&host=fuckfangbinxing.pusytroller.gq&path=/&security=none&type=ws&nonce=U66IY3XG#🇨🇦 Canada | CF 21
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.95:443?alpn=http/1.1&encryption=none&fp=firefox&host=fn.ariyuz.org&path=/api&security=tls&sni=fn.ariyuz.org&type=ws#🇨🇦 Canada | CF 1
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&security=&encryption=none&host=de.vpnbase.net&type=ws#🇨🇦 Canada | CF 2
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.110:80?security=none&type=ws&path=/http&host=de.vpnbase.net&packetEncoding=xudp&encryption=none#🇨🇦 Canada | CF 3
+vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@104.21.41.131:8443?fp=chrome&host=ad-005.vector9nmb3.info&path=%2F&security=tls&sni=ad-005.vector9nmb3.info&type=ws#🇨🇦 Canada | CF 4
+vless://c416332e-2bde-4806-ac02-8f021c6e8f68@104.18.13.51:2087?encryption=none&security=tls&sni=bbc.zjxc.de5.net&fp=random&type=ws&host=bbc.zjxc.de5.net&path=%2F%3Fproxyip%3Dproxyip.oracle.fxxk.dedyn.io#🇨🇦 Canada | CF 5
+vless://80c0bc96-c14b-4292-ba3e-2414f0ba930e@104.16.75.56:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=llaasd12.roozaraa.ir&fp=chrome&type=ws&allowInsecure=0&sni=llaasd12.roozaraa.ir#🇨🇦 Canada | CF 6
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@104.18.1.1:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=ios&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#🇨🇦 Canada | CF 7
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@172.67.191.52:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&fp=chrome&type=ws&host=po.fastbrokencompony.com&path=%2F#🇨🇦 Canada | CF 8
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@104.21.41.140:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&fp=chrome&type=ws&host=po.fastbrokencompony.com&path=%2F#🇨🇦 Canada | CF 9
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?type=ws&headerType=none&security=tls&encryption=none&sni=germany-2.ariyuz.org&path=%2F&insecure=0#🇨🇦 Canada | CF 10
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.251:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=germany-2.ariyuz.org&type=ws&headerType=none&host=germany-2.ariyuz.org&path=%2F#🇨🇦 Canada | CF 11
+trojan://bpb-trojan@vless.herogoing.top:443?security=tls&sni=vless.herogoing.top&type=ws&host=vless.herogoing.top&path=%2Ftr%3Fed%3D2560#🇨🇦 Canada | CF 12
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🇨🇦 Canada | CF 13
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.110:443?path=%2Frsedgws&security=tls&encryption=none&host=shegeftihaaa.net&fp=chrome&type=ws&sni=shegeftihaaa.net#🇨🇦 Canada | CF 14
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@104.21.41.131:8443?encryption=none&security=tls&sni=ad-010.vector9nmb3.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ad-010.vector9nmb3.info&path=%2F#🇨🇦 Canada | CF 15
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.72.41:2095?encryption=none&host=fuckfangbinxing.pusytroller.gq&path=/&security=none&type=ws&nonce=U66IY3XG#🇨🇦 Canada | CF 16
+trojan://humanity@104.16.72.41:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#🇨🇦 Canada | CF 17
