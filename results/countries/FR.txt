@@ -1,7 +1,0 @@
-#profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4er8J+HtyBGcmFuY2U=
-#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-#support-url: https://github.com/
-#profile-web-page-url: https://github.com/
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@45.140.147.241:443?type=tcp&security=none&encryption=none#🇫🇷 France | Ibcs 1
-trojan://PD07395842@tough-pigeon.rooster465.autos:443?type=tcp&headerType=none&security=tls&encryption=none&fp=chrome&insecure=0#🇫🇷 France | AWS EC2 (eu-west-3) 1
