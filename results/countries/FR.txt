@@ -1,0 +1,21 @@
+#profile-update-interval: 3
+#profile-title: encode:Qm9iaVZQTiDwn4er8J+HtyBGcmFuY2U=
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#support-url: https://github.com/
+#profile-web-page-url: https://github.com/
+vless://d7fc372d-c057-43ce-8070-9b96abbc60f3@fl4.raketa-balance.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&security=reality&sid=6c6082a2223c1d03&sni=fl4.raketa-balance.com&type=tcp#🇫🇷 France | Ibcs 1
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.79.88:22224?encryption=none&security=none&type=tcp#🇫🇷 France | AWS EC2 (eu-west-3) 1
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.79.88:22223?security=&encryption=none&headerType=&type=tcp#🇫🇷 France | AWS EC2 (eu-west-3) 2
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@45.140.147.241:443?type=tcp&security=none&encryption=none#🇫🇷 France | Ibcs 2
+trojan://IQ68037294@13.39.89.72:443?allowInsecure=1&sni=definite-giraffe.rooster465.autos#🇫🇷 France | AWS EC2 (eu-west-3) 3
+vless://8bba3194-4856-46d1-8319-075817d87eb1@205.237.105.38:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=8_v9Eq0VarPDLDLElqECI0ZrqFpL3lMVuluuPXB-DAo&sid=662fdf1f4412b654&sni=fr4.cyphervpn.pro#🇫🇷 France | ESTOXY OU 1
+trojan://ON38567014@13.39.249.40:443?type=tcp&headerType=none&security=tls&encryption=none&sni=one-quail.rooster465.autos&fp=chrome&insecure=0#🇫🇷 France | AWS EC2 (eu-west-3) 4
+trojan://IQ68037294@35.180.10.212:443?type=tcp&headerType=none&security=tls&encryption=none&sni=firm-warthog.rooster465.autos&insecure=0#🇫🇷 France | AWS EC2 (eu-west-3) 5
+trojan://FC60532879@13.37.127.48:443?sni=pretty-quail.rooster465.autos&fp=chrome&type=tcp&path=/#🇫🇷 France | AWS EC2 (eu-west-3) 6
+vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&sid=a8ae&sni=deepl.com#🇫🇷 France | Beafort Limited 1
+hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#🇫🇷 France | ONLINE 1
+vless://c90fdc71-d7ac-4b66-8c0c-2be2a7b4ae0c@45.95.233.185:19168?mode=multi&security=reality&encryption=none&pbk=j9-PqbvTxOh3VZ_Sz696WKpEEFvft1CzUzzIvGCJn0w&fp=chrome&spx=%2F&type=grpc&serviceName=api&sni=apple.com&sid=baeaf515feed2c64#🇫🇷 France | Global Internet Solutions LL... 1
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@45.80.215.68:443?security=tls&amp;encryption=none&amp;host=45.80.215.68&amp;headerType=none&amp;type=tcp&amp;sni=45.80.215.68#🇫🇷 France | G-Core Labs S.A 1
+trojan://NQ26071394@35.181.65.111:443?type=tcp&headerType=none&security=tls&encryption=none&sni=ready-kangaroo.rooster465.autos&fp=chrome&insecure=0#🇫🇷 France | AWS EC2 (eu-west-3) 7
+vless://0c5853e1-a606-4aa2-bbfa-86a7b58d43b1@fr2-azad.0xoddity.ir:5666?security=reality&encryption=none&pbk=0qp2ibLJZMNQfIQYAbYmZzhyeeKRgVjm2AGxgbNDWhg&headerType=none&fp=chrome&spx=%2Fc35feea118504ea&type=tcp&sni=s.yimg.com&sid=2539f132f20e7271#🇫🇷 France | Aeza 1
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&fp=android&type=ws&host=www.creationlong.org&path=%2Fassignment#🇫🇷 France | L Oreal CO 1
