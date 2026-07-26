@@ -4,67 +4,30 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjowLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsIm5ldCI6InRjcCIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjcgSm9pbitUZWxlZ3JhbTpAU29sVlBOIFx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ2IjoiMiJ9#🇰🇷 South Korea | Oracle Cloud Infrastructure ... 1
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697?#🇰🇷 South Korea | Vultr 1
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#🇰🇷 South Korea | broadNnet 1
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#🇰🇷 South Korea | SK Broadband Co Ltd 1
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:8888?#🇰🇷 South Korea | Vultr 2
 vmess://eyJhZGQiOiIxNDYuNTYuMTEyLjExMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg4ODgiLCJwcyI6Ilx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇰🇷 South Korea | Oracle Cloud Infrastructure ... 2
-vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@132.145.89.30:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=ako.pagate.top#🇰🇷 South Korea | Oracle Cloud Infrastructure ... 3
-vless://cdb7d825-9892-4d6f-80b8-7add83159dac@43.108.48.169:40701?type=tcp&security=reality&encryption=none&pbk=TWuVILeiSXfCSMZPsqNHtRquNALPRaW5Z51I63zdLEA&sid=7ef3a8ab2886&sni=amazon.com#🇰🇷 South Korea | Alibaba.com LLC 1
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 1
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 2
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#🇰🇷 South Korea | broadNnet 1
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@141.164.45.187:5498#🇰🇷 South Korea | Vultr 1
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697?#🇰🇷 South Korea | Vultr 2
+vmess://eyJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsImFpZCI6IjAiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJuYXRpb24iOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiODAiLCJwcyI6Ilx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNlcnZlclBvcnQiOjAsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#🇰🇷 South Korea | Oracle Cloud Infrastructure ... 3
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 1
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com&spx=/#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 2
+vmess://ewogICAgImFkZCI6ICIxNTIuNjcuMjE4LjM4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7Dwn4e3S1ItMTUyLjY3LjIxOC4zOC0wMjE1IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=#🇰🇷 South Korea | Oracle Cloud Infrastructure ... 4
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@61.111.247.233:34045?security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#🇰🇷 South Korea | Sejong Networks 1
-trojan://IQ68037294@82.117.226.225:443?allowInsecure=1&sni=adjusted-labrador.rooster465.autos#🇰🇷 South Korea | GCL 1
+trojan://FC60532879@82.117.226.45:443?sni=right-seahorse.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 1
 trojan://FC60532879@109.61.127.100:443?sni=definite-filly.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 2
-trojan://IQ68037294@109.61.127.34:443?sni=harmless-imp.rooster465.autos&path=/#🇰🇷 South Korea | GCL 3
-trojan://FC60532879@109.61.127.38:443?sni=premium-lab.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 4
-trojan://FC60532879@82.117.226.249:443?sni=stirred-sunbeam.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 5
-trojan://IQ68037294@82.117.226.41:443?sni=darling-emu.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 6
-trojan://FC60532879@82.117.226.162:443?sni=equipped-panther.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 7
-trojan://IQ68037294@82.117.226.237:443?security=tls&sni=premium-weevil.rooster465.autos&path=/#🇰🇷 South Korea | GCL 8
-trojan://FC60532879@109.61.127.124:443?sni=free-tuna.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 9
-trojan://FC60532879@82.117.226.129:443?sni=absolute-boxer.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 10
-trojan://WG39087154@82.117.226.237:443?type=tcp&path=/&sni=premium-weevil.rooster465.autos&fp=chrome#🇰🇷 South Korea | GCL 11
-trojan://WG39087154@82.117.226.92:443?sni=superb-dory.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 12
-trojan://IQ68037294@109.61.127.166:443?sni=game-flamingo.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 13
-trojan://IQ68037294@109.61.127.135:443?sni=main-dragon.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 14
-trojan://IQ68037294@82.117.226.88:443?sni=immortal-woodcock.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 15
-trojan://IQ68037294@109.61.127.72:443?sni=outgoing-cockatoo.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 16
-trojan://FC60532879@109.61.127.88:443?sni=healthy-ewe.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 17
-trojan://FC60532879@109.61.127.34:443?sni=harmless-imp.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 18
-trojan://WG39087154@82.117.226.41:443?type=tcp&path=/&sni=darling-emu.rooster465.autos&fp=chrome#🇰🇷 South Korea | GCL 19
-trojan://IQ68037294@109.61.127.24:443?security=tls&sni=artistic-pigeon.rooster465.autos&path=/#🇰🇷 South Korea | GCL 20
-trojan://IQ68037294@109.61.127.88:443?security=tls&sni=healthy-ewe.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇰🇷 South Korea | GCL 21
-trojan://IQ68037294@109.61.127.124:443?sni=free-tuna.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 22
-trojan://WG39087154@109.61.127.106:443?sni=closing-crow.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 23
-trojan://IQ68037294@109.61.127.68:443?sni=quick-tiger.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 24
-trojan://IQ68037294@82.117.226.47:443?allowInsecure=1&sni=growing-tuna.rooster465.autos#🇰🇷 South Korea | GCL 25
-trojan://IQ68037294@82.117.226.104:443?security=tls&sni=robust-toucan.rooster465.autos&path=/#🇰🇷 South Korea | GCL 26
-trojan://FC60532879@82.117.226.72:443?sni=flowing-gobbler.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 27
-trojan://FC60532879@82.117.226.60:443?sni=arriving-hyena.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 28
-trojan://FC60532879@109.61.127.68:443?sni=quick-tiger.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 29
-trojan://IQ68037294@82.117.226.159:443?type=tcp&headerType=none&security=tls&encryption=none&sni=wealthy-bengal.rooster465.autos&fp=chrome&path=%2F&insecure=0#🇰🇷 South Korea | GCL 30
-trojan://IQ68037294@109.61.127.205:443?sni=select-marmoset.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 31
-trojan://FC60532879@109.61.127.181:443?sni=maximum-gorilla.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 32
-trojan://FC60532879@109.61.127.115:443?sni=positive-bear.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 33
-trojan://FC60532879@109.61.127.43:443?sni=shining-haddock.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 34
-trojan://IQ68037294@82.117.226.221:443?allowInsecure=1&sni=accurate-drake.rooster465.autos#🇰🇷 South Korea | GCL 35
-trojan://WG39087154@109.61.127.127:443?sni=direct-goose.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 36
-trojan://FC60532879@82.117.226.45:443?sni=right-seahorse.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 37
-trojan://FC60532879@109.61.127.55:443?security=tls&sni=humorous-starling.rooster465.autos&path=/#🇰🇷 South Korea | GCL 38
-trojan://IQ68037294@109.61.127.151:443?sni=picked-hippo.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 39
-trojan://WG39087154@82.117.226.195:443?sni=proud-pheasant.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 40
-trojan://IQ68037294@109.61.127.121:443?sni=closing-sailfish.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 41
-trojan://IQ68037294@82.117.226.218:443?allowInsecure=1&sni=whole-perch.rooster465.autos#🇰🇷 South Korea | GCL 42
-trojan://IQ68037294@109.61.127.143:443?allowInsecure=1&sni=steady-lemming.rooster465.autos#🇰🇷 South Korea | GCL 43
-trojan://FC60532879@109.61.127.151:443?sni=picked-hippo.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 44
-trojan://FC60532879@82.117.226.126:443?sni=great-wasp.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 45
-trojan://FC60532879@82.117.226.159:443?sni=wealthy-bengal.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 46
-trojan://FC60532879@109.61.127.79:443?sni=fun-seagull.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 47
-trojan://IQ68037294@artistic-pigeon.rooster465.autos:443?security=tls&sni=artistic-pigeon.rooster465.autos&type=tcp&headerType=none#🇰🇷 South Korea | GCL 48
-trojan://IQ68037294@stirred-sunbeam.rooster465.autos:443#🇰🇷 South Korea | GCL 49
-trojan://IQ68037294@109.61.127.43:443?sni=shining-haddock.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 50
-vless://a5a82872-616b-49f6-a40a-6a54feeb5dd0@151.245.106.49:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=9HIcma6Y5a0yddTqa3_zNUyItI3J-g99GdT0u0Moqzw&sid=87478274a30fcaea&sni=www.cloudflare.com#🇰🇷 South Korea | HostHatch 1
-vmess://eyJhZGQiOiIxNTAuMTA5LjI0MC4xNzkiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImY5ZGNiMzAzLTNlNzMtNDBlYi05MzI3LTFhYzg4ZjlhMmI3MiIsIm5ldCI6IndzIiwicGF0aCI6Ilwvd3Nwcm94eSIsInBvcnQiOjg0NDMsInBzIjoiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtS1ItMTQ5NDA3NDEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6Ind3dy5iaW5nLmNvbSJ9#🇰🇷 South Korea | Aceville Pte.ltd 1
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001?#🇰🇷 South Korea | Vultr 3
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#🇰🇷 South Korea | SK Broadband Co Ltd 2
+trojan://FC60532879@109.61.127.43:443?sni=shining-haddock.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 3
+trojan://FC60532879@109.61.127.88:443?sni=healthy-ewe.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 4
+trojan://FC60532879@109.61.127.38:443?sni=premium-lab.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 5
+trojan://FC60532879@109.61.127.181:443?sni=maximum-gorilla.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 6
+trojan://IQ68037294@109.61.127.72:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=outgoing-cockatoo.rooster465.autos#🇰🇷 South Korea | GCL 7
+trojan://FC60532879@82.117.226.162:443?sni=equipped-panther.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 8
+trojan://IQ68037294@82.117.226.218:443?allowInsecure=1&sni=whole-perch.rooster465.autos#🇰🇷 South Korea | GCL 9
+trojan://IQ68037294@109.61.127.166:443?sni=game-flamingo.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 10
+trojan://IQ68037294@82.117.226.225:443?allowInsecure=1&sni=adjusted-labrador.rooster465.autos#🇰🇷 South Korea | GCL 11
+trojan://IQ68037294@82.117.226.237:443?security=tls&sni=premium-weevil.rooster465.autos&path=/#🇰🇷 South Korea | GCL 12
+trojan://IQ68037294@82.117.226.221:443?security=tls&sni=accurate-drake.rooster465.autos&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇰🇷 South Korea | GCL 13
+trojan://FC60532879@109.61.127.79:443?sni=fun-seagull.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 14
+trojan://JT80563429@82.117.226.157:443?allowInsecure=0&sni=fair-ram.rooster465.autos#🇰🇷 South Korea | GCL 15
+trojan://FC60532879@109.61.127.124:443?sni=free-tuna.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | GCL 16
+trojan://IQ68037294@109.61.127.88:443?security=tls&sni=healthy-ewe.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇰🇷 South Korea | GCL 17
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679?#🇰🇷 South Korea | Vultr 3
