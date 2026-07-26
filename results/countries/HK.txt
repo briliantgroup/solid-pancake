@@ -3,5 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?&type=tcp&headerType=none&path=%2F#🇭🇰 Hong Kong | SIMCENTRIC 1
-vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?&type=tcp&headerType=none&path=/#🇭🇰 Hong Kong | SIMCENTRIC 2
+trojan://IQ68037294@185.14.47.36:443?sni=pretty-mollusk.rooster465.autos&fp=chrome&type=tcp&path=/#🇭🇰 Hong Kong | G-Core Labs S.A 1
+trojan://ON38567014@185.14.47.36:443?security=tls&type=tcp&path=/&sni=pretty-mollusk.rooster465.autos&fp=chrome#🇭🇰 Hong Kong | G-Core Labs S.A 2
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@207.174.133.111:8443?&security=tls&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇭🇰 Hong Kong | Pittqiao LLC 1
+vmess://ewogICAgImFkZCI6ICJuMTc0NzYyNDI3NC40dTltYS5pY3UiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJuMTc0NzYyNDI3NC40dTltYS5pY3UiLAogICAgImlkIjogImQ4ZGFmNTA3LWE0YWMtNGVlYS04Mzk5LThmMGNkMDcxZWI1MiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HrfCfh7BISy00My4xMDAuMzIuMTItMDI0MyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9#🇭🇰 Hong Kong | Alibaba.com LLC 1
