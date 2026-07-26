@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@5.178.96.232:2090?type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.197.68:2090?security=&alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 2
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@91.108.189.136:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 3
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@45.158.169.96:2090?type=tcp&security=none&encryption=none#🇱🇻 Latvia | Private Customer 1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@188.215.31.230:2090?security=&alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@5.178.96.232:2090?type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 2
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.106.87:2090?type=tcp&security=none&encryption=none#🇱🇻 Latvia | CGI GLOBAL LIMITED 3
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.62.191:2090?security=&alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 4
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@109.248.163.103:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 5
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.228.239:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 6
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.62.66:2090?security=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 7
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@91.108.189.136:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 8
