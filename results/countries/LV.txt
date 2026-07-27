@@ -4,14 +4,10 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.92.224:2090?type=tcp&security=none&encryption=none#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.230.163:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 2
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@5.178.96.226:2090?type=tcp&security=none&encryption=none#🇱🇻 Latvia | CGI GLOBAL LIMITED 3
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.204.32:2090?type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 4
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.238.5:2090?security=&alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 5
-vless://be2bcd98-0ecc-000a-aa1a-b453a1878393@45.145.6.247:443?type=tcp&security=reality&sni=s3-fi-1.rucdn777.com&fp=firefox&flow=xtls-rprx-vision&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM#🇱🇻 Latvia | Beget 1
-vless://7ce9b876-5e2e-4f5c-84af-40ea3a406428@pro-fi.emrata.top:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=firefox&sni=pro-fi.emrata.top&flow=xtls-rprx-vision#🇱🇻 Latvia | Vitalijs Jurkevics 1
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.233.212:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 6
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.204.212:2090?type=tcp&security=none&fp=chrome#🇱🇻 Latvia | CGI GLOBAL LIMITED 7
-vless://7e5964d036b843ff885b86c4d3bfd466@85.159.228.250:25703?#🇱🇻 Latvia | Global Connectivity Solution... 1
-hysteria2://u9zD-8mD-XZROtWZCZGNb_qU7qR3Q4dLk7hnLfaJBNyu12Mn@lv.h2corp.org:443?sni=lv.h2corp.org#🇱🇻 Latvia | Friendhosting LTD 1
-vless://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?type=raw&security=reality&fp=chrome&pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&sid=8c09fb78b12f&sni=yahoo.com&spx=/#🇱🇻 Latvia | Beget 2
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@203.18.98.109:2090?security=&alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | Mistic Internet Security Pty... 1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@5.178.96.226:2090?type=tcp&security=none&encryption=none#🇱🇻 Latvia | CGI GLOBAL LIMITED 2
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.204.212:2090?type=tcp&security=none&fp=chrome#🇱🇻 Latvia | CGI GLOBAL LIMITED 3
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.238.5:2090?security=&alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 4
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.204.32:2090?type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 5
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@95.182.99.160:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 6
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.233.212:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 7

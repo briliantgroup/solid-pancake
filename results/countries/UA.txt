@@ -3,4 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://a645844f-8938-4566-aa89-6e6f99adc218@78.159.240.69:8443?alpn=h2&encryption=none&fp=edge&path=%2Fwebsocket%3Fed%3D2560&security=tls&sni=2.26.148.147.tyr-agentstvo.tech&type=ws#🇺🇦 Ukraine | Global Cloud Network LLC 1
+vless://1bf44cb7-f947-441c-abb5-242c47e78292@91.224.87.130:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=abuse.sellflow.org#🇺🇦 Ukraine | PE Litkevich Alexandr Sergee... 1
+hysteria2://2996a658-be2d-412c-9ba3-5b73d65a3df6@78.159.240.215:8443?sni=quic.tyr-agentstvo.tech#🇺🇦 Ukraine | Global Cloud Network LLC 1
+hysteria2://2996a658-be2d-412c-9ba3-5b73d65a3df6@78.159.240.215:443?sni=quic.tyr-agentstvo.tech#🇺🇦 Ukraine | Global Cloud Network LLC 2
