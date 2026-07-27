@@ -3,13 +3,19 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.246:80?type=ws&security=none&path=/?Telegram-WangCai2🇨🇳&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt#🇫🇷 France | Fastly, Inc. 1
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.67:80?path=/?Telegram-WangCai2🇨🇳&security=none&host=BankMelat.glObal.ssl.faStly.nEt&encryption=none&type=ws#🇫🇷 France | Fastly, Inc. 2
-vless://c90fdc71-d7ac-4b66-8c0c-2be2a7b4ae0c@45.95.233.185:19168?mode=multi&security=reality&encryption=none&pbk=j9-PqbvTxOh3VZ_Sz696WKpEEFvft1CzUzzIvGCJn0w&fp=chrome&spx=%2F&type=grpc&serviceName=api&sni=apple.com&sid=baeaf515feed2c64#🇫🇷 France | Global Internet Solutions LL... 1
-trojan://NQ26071394@35.181.65.111:443?type=tcp&headerType=none&security=tls&encryption=none&sni=ready-kangaroo.rooster465.autos&fp=chrome&insecure=0#🇫🇷 France | AWS EC2 (eu-west-3) 1
+vless://ecfb4271-790e-4011-9364-6e168ed8a82a@76.164.202.210:448?type=tcp&security=reality&encryption=none&pbk=i34zHKfyydOveuaYnjEU4ocu662Wagkf7fIbj9qiQRA&sid=9e96f30390d6be81&sni=www.samsung.com#🇫🇷 France | ZetServers Frankfurt 1
+vless://db2b7549-a616-4d83-a4bf-51eda70ff82c@195.74.93.254:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48&sni=web.max.ru#🇫🇷 France | Interkvm Host SRL 1
+vless://809bce92-45a0-4fe3-af1d-79d1c8422606@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#🇫🇷 France | Interkvm Host SRL 2
+vless://eedcee2e-7517-4162-852d-b21b864b8e3f@195.74.93.254:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48&sni=web.max.ru#🇫🇷 France | Interkvm Host SRL 3
+trojan://NQ26071394@13.38.35.46:443?type=tcp&headerType=none&security=tls&encryption=none&sni=lucky-marmot.rooster465.autos&fp=chrome&insecure=0#🇫🇷 France | AWS EC2 (eu-west-3) 1
+trojan://ON38567014@13.38.35.46:443?security=tls&sni=lucky-marmot.rooster465.autos#🇫🇷 France | AWS EC2 (eu-west-3) 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@217.138.207.106:1080#🇫🇷 France | M247 LTD 1
+vless://451ccfb4-4d9f-4d16-a748-48862ff46b86@195.74.93.254:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48&sni=web.max.ru#🇫🇷 France | Interkvm Host SRL 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaU9NQlU1SUR2SmNGcXlOUGJSallS@137.74.119.18:10443?#🇫🇷 France | OVH 1
+vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sni=web.max.ru&sid=247fd6dab1a34a48#🇫🇷 France | Interkvm Host SRL 5
+vless://a5f5aa25-754c-480e-87b0-d617a848f1fc@185.171.202.157:50653?type=tcp&headerType=none&security=reality&encryption=none&sni=www.microsoft.com&fp=firefox&pbk=4lp5kcYnQrNUiXBwI4HOWOFtydwZuGF88OECrc7n6To&sid=5ada9e9c59e4ef9a&flow=xtls-rprx-vision#🇫🇷 France | Dyjix 1
+vless://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@77.221.152.151:443?type=grpc&headerType=none&security=reality&encryption=none&sni=www.lefigaro.fr&fp=firefox&pbk=Uwj82vGl-jAhU3VflWnTy7rISYi03slggjS32Zx8pkk&sid=6ba85179e30d4fc2&serviceName=wlgrpc#🇫🇷 France | Aeza 1
+vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&security=none&type=ws&host=akamaized.net&path=%2Fvless%2F#🇫🇷 France | OVH 2
+vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?encryption=none&type=tcp&security=reality&headerType=none&sni=speedtest.net&insecure=1&allowInsecure=1&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&sid=42b395462da31c0e&flow=xtls-rprx-vision#🇫🇷 France | OVH 3
 vless://4706d9c3-eec0-4666-9d84-e608a200e872@194.226.169.36:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&sid=b8aa&sni=yahoo.com#🇫🇷 France | xorek.cloud International LT... 1
-vless://fae3277c-0541-4ae9-bbbb-8247453ea652@194.226.169.36:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&sid=b8aa&type=tcp&headerType=none#🇫🇷 France | xorek.cloud International LT... 2
-trojan://PD07395842@united-bedbug.rooster465.autos:443?type=tcp&security=tls&fp=chrome#🇫🇷 France | AWS EC2 (eu-west-3) 2
-vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?encryption=none&type=tcp&security=reality&headerType=none&sni=speedtest.net&insecure=1&allowInsecure=1&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&sid=42b395462da31c0e&flow=xtls-rprx-vision#🇫🇷 France | OVH 1
-hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@fr2.h2corp.org:443?sni=fr2.h2corp.org#🇫🇷 France | MivoCloud SRL 1
-vless://ecfb4271-790e-4011-9364-6e168ed8a82a@76.164.202.212:448?type=tcp&security=reality&encryption=none&pbk=i34zHKfyydOveuaYnjEU4ocu662Wagkf7fIbj9qiQRA&sid=9e96f30390d6be81&sni=www.samsung.com#🇫🇷 France | ZetServers Frankfurt 1
+trojan://NQ26071394@35.181.65.111:443?type=tcp&headerType=none&security=tls&encryption=none&sni=ready-kangaroo.rooster465.autos&fp=chrome&insecure=0#🇫🇷 France | AWS EC2 (eu-west-3) 3

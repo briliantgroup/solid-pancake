@@ -3,6 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://85329505-90c2-43d1-9c4a-689b1a0be884@91.224.87.130:443?encryption=none&security=reality&type=tcp&sni=abuse.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇺🇦 Ukraine | PE Litkevich Alexandr Sergee... 1
-vless://a645844f-8938-4566-aa89-6e6f99adc218@78.159.240.69:8443?type=ws&headerType=none&security=tls&encryption=none&sni=2.26.148.147.tyr-agentstvo.tech&fp=edge&alpn=h2&path=%2Fwebsocket%3Fed%3D2560&insecure=0#🇺🇦 Ukraine | Global Cloud Network LLC 1
-vless://1bf44cb7-f947-441c-abb5-242c47e78292@91.224.87.130:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=abuse.sellflow.org#🇺🇦 Ukraine | PE Litkevich Alexandr Sergee... 2
+vless://1bf44cb7-f947-441c-abb5-242c47e78292@91.224.87.130:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=abuse.sellflow.org#🇺🇦 Ukraine | PE Litkevich Alexandr Sergee... 1
