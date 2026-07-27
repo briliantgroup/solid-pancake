@@ -4,12 +4,6 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.70.189:2090?encryption=none&security=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.233.212:2090?type=tcp&security=none&encryption=none&fp=chrome#🇱🇻 Latvia | CGI GLOBAL LIMITED 2
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@188.130.206.135:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 3
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&sni=fn.fifapes.monster&fp=chrome&type=tcp&headerType=none&host=fn.fifapes.monster&path=%2F#🇱🇻 Latvia | CGI GLOBAL LIMITED 4
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@109.248.163.157:2090?security=none&type=tcp&host=%2F%3F&headerType=http#🇱🇻 Latvia | CGI GLOBAL LIMITED 5
-vless://7e5964d036b843ff885b86c4d3bfd466@85.159.228.250:25703?encryption=none&security=none&type=tcp&headerType=none#🇱🇻 Latvia | Global Connectivity Solution... 1
-vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100?type=tcp&security=none&encryption=none&fp=chrome#🇱🇻 Latvia | RETN Limited 1
-vless://f2e9df1b-e0ba-4b37-a301-6aab8662c926@77.73.238.191:16622?encryption=none&security=reality&sni=yahoo.com&pbk=E5N_ckakvqgTOjiQ6Rmuwz1fchiT1-J3tH4cbzcH_GQ&sid=1c01d60ea915&type=tcp&headerType=none#🇱🇻 Latvia | Beget LLC 1
-vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?type=tcp&security=reality&encryption=none&fp=chrome&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c&sni=yahoo.com#🇱🇻 Latvia | Beget 1
-vless://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?type=tcp&security=reality&encryption=none&fp=chrome&pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&sid=8c09fb78b12f&sni=yahoo.com&spx=/#🇱🇻 Latvia | Beget 2
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@188.130.206.135:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 2
+vless://be2bcd98-0ecc-000a-aa1a-b453a1878393@45.145.6.247:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&sni=s3-fi-1.rucdn777.com#🇱🇻 Latvia | Beget 1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@203.18.98.218:2090?security=&alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | Mistic Internet Security Pty... 1

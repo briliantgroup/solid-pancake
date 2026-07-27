@@ -3,12 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://18bdc31e-fc7a-41ae-ba10-55a2fba63019@2.26.135.196:443?&security=reality&flow=xtls-rprx-vision&pbk=09O8bAlIWm9AGnNyxBtHwpYNQxlXPSQeQeKzS3ZMwGE&sid=a1f9c0e21d7b6485&fp=qq&sni=smorodina.mycdn-me.ru&type=tcp&headerType=none&host=smorodina.mycdn-me.ru&path=%2F#🇪🇪 Estonia | Manta Tech LTD 1
-vless://0c36a252-c86e-42f9-93c0-f4d8d12f258d@87.121.86.87:443?encryption=none&security=tls&sni=cloudflare.vhub.pro&fp=safari&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fwebsocket%3Fed%3D2560#🇪🇪 Estonia | 1Cent Host 1
-vless://0c36a252-c86e-42f9-93c0-f4d8d12f258d@144.31.170.231:8443?encryption=none&security=tls&sni=cloudflare.vhub.pro&fp=safari&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fwebsocket%3Fed%3D2560#🇪🇪 Estonia | 1Cent Host 2
-vless://0c36a252-c86e-42f9-93c0-f4d8d12f258d@64.188.82.171:443?encryption=none&security=tls&sni=cloudflare.vhub.pro&fp=edge&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fwebsocket%3Fed%3D2560#🇪🇪 Estonia | 1Cent Host 3
-vless://0c36a252-c86e-42f9-93c0-f4d8d12f258d@95.85.245.97:443?encryption=none&security=tls&sni=cloudflare.vhub.pro&fp=safari&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fwebsocket%3Fed%3D2560#🇪🇪 Estonia | 1Cent Host 4
-vless://0c36a252-c86e-42f9-93c0-f4d8d12f258d@95.85.243.240:443?encryption=none&security=tls&sni=cloudflare.vhub.pro&fp=edge&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fwebsocket%3Fed%3D2560#🇪🇪 Estonia | 1Cent Host 5
-vless://0c36a252-c86e-42f9-93c0-f4d8d12f258d@185.252.177.115:8443?encryption=none&security=tls&sni=cloudflare.vhub.pro&fp=safari&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fwebsocket%3Fed%3D2560#🇪🇪 Estonia | 1Cent Host 6
-vless://0c36a252-c86e-42f9-93c0-f4d8d12f258d@64.188.82.108:8443?encryption=none&security=tls&sni=cloudflare.vhub.pro&fp=safari&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fwebsocket%3Fed%3D2560#🇪🇪 Estonia | 1Cent Host 7
-vless://0c36a252-c86e-42f9-93c0-f4d8d12f258d@77.239.126.75:443?encryption=none&security=tls&sni=cloudflare.vhub.pro&fp=safari&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fwebsocket%3Fed%3D2560#🇪🇪 Estonia | 1Cent Host 8
+vless://18bdc31e-fc7a-41ae-ba10-55a2fba63019@2.26.135.196:443?security=reality&encryption=none&pbk=09O8bAlIWm9AGnNyxBtHwpYNQxlXPSQeQeKzS3ZMwGE&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=smorodina.mycdn-me.ru&sid=a1f9c0e21d7b6485#🇪🇪 Estonia | Manta Tech LTD 1
