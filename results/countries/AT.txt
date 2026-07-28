@@ -3,6 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://c7e9c591-2764-423a-afca-efbd010fd396@94.177.8.122:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇦🇹 Austria | Hohl IT e.U. 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.106.94.132:1080#🇦🇹 Austria | xorek.cloud International LT... 1
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&sni=vindobona.org#🇦🇹 Austria | Aeza 1
+vless://c7e9c591-2764-423a-afca-efbd010fd396@94.177.8.122:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇦🇹 Austria | Hohl IT e.U. 1

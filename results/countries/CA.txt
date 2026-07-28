@@ -3,16 +3,37 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
+vless://6bd7815d-9fb0-41c6-87ef-ffc713bf6b8f@151.101.193.54:80?&security=false&fp=chrome&type=ws&headerType=none&host=BankMelat.glObal.ssl.faStly.nEt.&path=%2F#🇨🇦 Canada | Fastly, Inc. 1
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.95:443?alpn=http/1.1&encryption=none&fp=firefox&host=fn.ariyuz.org&path=/api&security=tls&sni=fn.ariyuz.org&type=ws#🇨🇦 Canada | CF 1
-trojan://humanity@104.18.152.54:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2&insecure=0&fp=android&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇨🇦 Canada | CF 2
-trojan://humanity@172.66.47.69:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🇨🇦 Canada | CF 3
-trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🇨🇦 Canada | CF 4
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇨🇦 Canada | CF 5
-trojan://humanity@172.64.147.166:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🇨🇦 Canada | CF 6
-trojan://humanity@172.66.44.211:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🇨🇦 Canada | CF 7
-trojan://humanity@172.66.47.45:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#🇨🇦 Canada | CF 8
-trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🇨🇦 Canada | CF 9
-vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@172.67.180.173:2053?security=tls&type=ws&path=/&host=music1000.melobitmusic1.ir&alpn=h2,http/1.1&sni=music1000.melobitmusic1.ir&fp=chrome&encryption=none#🇨🇦 Canada | CF 10
-trojan://humanity@104.16.117.43:443?security=tls&sni=www.creationlong.org&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#🇨🇦 Canada | CF 11
-vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.21.35.235:2053?security=tls&type=ws&path=/&host=music1000.melobitmusic1.ir&alpn=h2,http/1.1&sni=music1000.melobitmusic1.ir&fp=chrome&encryption=none#🇨🇦 Canada | CF 12
-vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?&security=tls&fp=chrome&sni=shalana.xyz&type=ws&headerType=none&host=shalana.xyz&path=%2Fshalana#🇨🇦 Canada | CF 13
+vless://5cdcbd83-0742-4f45-a098-02340aa18f2b@172.67.157.241:2052?security=none&type=ws&host=n5.droonix.ir&path=%2F#🇨🇦 Canada | CF 2
+vless://a69d5300-8101-47b5-9448-6730f228af37@151.101.193.54:80?&security=false&fp=chrome&type=ws&headerType=none&host=BankMelat.glObal.ssl.faStly.nEt.&path=%2F#🇨🇦 Canada | Fastly, Inc. 2
+vless://c9380ef8-23f8-422e-81fe-ebbb032202cf@151.101.193.54:80?security=none&type=ws&path=%2F&host=BankMelat.glObal.ssl.faStly.nEt.&fp=chrome&encryption=none#🇨🇦 Canada | Fastly, Inc. 3
+trojan://humanity@104.16.63.25:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#🇨🇦 Canada | CF 3
+trojan://humanity@104.16.79.73:443?security=tls&sni=www.creationlong.org&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#🇨🇦 Canada | CF 4
+trojan://humanity@188.114.98.0:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#🇨🇦 Canada | CF 5
+trojan://humanity@104.16.117.43:443?security=tls&sni=www.creationlong.org&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#🇨🇦 Canada | CF 6
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.21.35.235:2053?security=tls&type=ws&path=/&host=music1000.melobitmusic1.ir&alpn=h2,http/1.1&sni=music1000.melobitmusic1.ir&fp=chrome&encryption=none#🇨🇦 Canada | CF 7
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@172.67.180.173:2053?security=tls&type=ws&path=/&host=music1000.melobitmusic1.ir&alpn=h2,http/1.1&sni=music1000.melobitmusic1.ir&fp=chrome&encryption=none#🇨🇦 Canada | CF 8
+trojan://humanity@104.20.26.246:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🇨🇦 Canada | CF 9
+trojan://humanity@172.64.152.23:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#🇨🇦 Canada | CF 10
+vless://4a805850-a2c4-42b3-898a-798f0c19c609@172.64.144.52:2082?host=2hx7vrum.xn--nxa.nyc.mn&path=/sub&security=none&type=ws#🇨🇦 Canada | CF 11
+vless://4a805850-a2c4-42b3-898a-798f0c19c609@104.18.43.204:2082?security=none&type=ws&host=2hx7vrum.xn--nxa.nyc.mn&path=/sub&descriptions=СвободуИнтернету926#🇨🇦 Canada | CF 12
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.202.17:2095?type=ws&host=nmslfangbinxing.pusytroller.gq&path=%2F#🇨🇦 Canada | CF 13
+vless://4a805850-a2c4-42b3-898a-798f0c19c609@172.64.144.52:2086?type=ws&host=od1kl638.xn--nxa.nyc.mn&path=/sub#🇨🇦 Canada | CF 14
+vless://4a805850-a2c4-42b3-898a-798f0c19c609@104.18.43.204:2052?host=3o3ed92e.xn--nxa.nyc.mn&security=none&path=/sub&type=ws&descriptions=СвободуИнтернету273#🇨🇦 Canada | CF 15
+vless://4a805850-a2c4-42b3-898a-798f0c19c609@104.18.43.204:80?security=none&type=ws&host=tqmfs45y.xn--nxa.nyc.mn&path=/sub#🇨🇦 Canada | CF 16
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.145.158:2095?security=none&type=ws&path=%2F&host=fuckingfangbinxing.pusytroller.cf&encryption=none#🇨🇦 Canada | CF 17
+vless://4a805850-a2c4-42b3-898a-798f0c19c609@172.64.144.52:8880?path=/sub&security=none&type=ws&host=rhna7tu4.xn--nxa.nyc.mn&freeinternet=kizyak_vpn1785236963642#🇨🇦 Canada | CF 18
+vless://4a805850-a2c4-42b3-898a-798f0c19c609@172.64.144.52:2052?security=none&type=ws&host=3o3ed92e.xn--nxa.nyc.mn&path=/sub&seq=you_are_beautiful0221#🇨🇦 Canada | CF 19
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.38.47:2095?&type=ws&headerType=none&host=fangbinxingnmsl.pusytroller.gq&path=%2F#🇨🇦 Canada | CF 20
+vless://4a805850-a2c4-42b3-898a-798f0c19c609@104.17.188.61:8880?security=none&type=ws&host=rhna7tu4.xn--nxa.nyc.mn&path=/sub&nonce=2pyKPcGR#🇨🇦 Canada | CF 21
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.161.104:2095?&type=ws&headerType=none&host=fangbinxingnmsl.pusytroller.gq&path=%2F#🇨🇦 Canada | CF 22
+vless://4a805850-a2c4-42b3-898a-798f0c19c609@104.18.43.204:2086?type=ws&path=%2Fsub&host=od1kl638.xn--nxa.nyc.mn&__rand=c8ad62fa#🇨🇦 Canada | CF 23
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.43.174:2095?security=none&type=ws&path=%2F&host=fuckingfangbinxing.pusytroller.cf&encryption=none#🇨🇦 Canada | CF 24
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.144.82:2095?type=ws&host=fangbinxingnmsl.pusytroller.gq&path=/#🇨🇦 Canada | CF 25
+vless://4a805850-a2c4-42b3-898a-798f0c19c609@104.18.43.204:8880?security=none&path=/sub&host=rhna7tu4.xn--nxa.nyc.mn&type=ws&descriptions=люби_себя0e2b16#🇨🇦 Canada | CF 26
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?type=ws&host=fangbinxingnmsl.pusytroller.gq&path=/#🇨🇦 Canada | CF 27
+vless://e1bd5c86-721c-4a2d-bdf8-ba50e522ec57@104.21.55.229:443?security=tls&type=ws&path=/e1bd5c86-721c-4a2d-bdf8-ba50e522ec57-vless&host=uk.xfj123.top&packetEncoding=xudp&sni=uk.xfj123.top&fp=chrome#🇨🇦 Canada | CF 28
+vless://4a805850-a2c4-42b3-898a-798f0c19c609@104.17.188.61:2082?path=/sub&host=2hx7vrum.xn--nxa.nyc.mn&type=ws&security=none#🇨🇦 Canada | CF 29
+vless://4a805850-a2c4-42b3-898a-798f0c19c609@104.17.188.61:80?security=none&type=ws&host=tqmfs45y.xn--nxa.nyc.mn&path=/sub&__rand=50233230#🇨🇦 Canada | CF 30
+vless://4a805850-a2c4-42b3-898a-798f0c19c609@104.17.188.61:2052?path=/sub&security=none&type=ws&host=3o3ed92e.xn--nxa.nyc.mn#🇨🇦 Canada | CF 31
