@@ -3,15 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.135.239:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#🇫🇷 France | OVH 1
-vless://c7e9c591-2764-423a-afca-efbd010fd396@51.91.100.159:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 2
-vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.134.90:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#🇫🇷 France | OVH 3
-vless://c7e9c591-2764-423a-afca-efbd010fd396@146.59.230.8:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 4
-vless://c7e9c591-2764-423a-afca-efbd010fd396@51.75.16.73:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 5
-vless://c7e9c591-2764-423a-afca-efbd010fd396@141.94.77.169:2053?&security=tls&fp=chrome&packet-encoding=xudp&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#🇫🇷 France | OVH 6
-vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.134.105:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#🇫🇷 France | OVH 7
-vless://c7e9c591-2764-423a-afca-efbd010fd396@162.19.79.57:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 8
+vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.134.90:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 1
+vless://c7e9c591-2764-423a-afca-efbd010fd396@51.75.16.73:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 2
+vless://c7e9c591-2764-423a-afca-efbd010fd396@141.94.77.169:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 3
+vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.134.105:2053?security=tls&type=ws&path=%2F&host=forfreeuse.sub-flow.online&sni=forfreeuse.sub-flow.online&fp=chrome#🇫🇷 France | OVH 4
+vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.135.239:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 5
+vless://c7e9c591-2764-423a-afca-efbd010fd396@162.19.79.57:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 6
 vless://c7e9c591-2764-423a-afca-efbd010fd396@31.59.120.124:2053?encryption=none&security=tls&flow=&type=ws&sni=forfreeuse.sub-flow.online&fp=&alpn=&host=forfreeuse.sub-flow.online&path=%2F&allowInsecure=0&insecure=0#🇫🇷 France | CGI GLOBAL LIMITED 1
-vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.135.111:2053?&security=tls&fp=chrome&packet-encoding=xudp&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#🇫🇷 France | OVH 9
-vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.134.153:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#🇫🇷 France | OVH 10
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment&fp=android#🇫🇷 France | L Oreal CO 1
+vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.135.111:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 7
+vless://c7e9c591-2764-423a-afca-efbd010fd396@146.59.230.8:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 8
+vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.134.153:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 9
