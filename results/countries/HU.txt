@@ -3,5 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://7d6d3391-7bf8-46bf-bd2e-01e82a790017@155.117.137.81:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn8-63.yahoo.com&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=cd5d72100116f1c3&type=tcp&headerType=none#🇭🇺 Hungary | IPXO Lease 1
+vless://5c2a674b-bf9d-4461-b56d-a9c2bc299d9a@155.117.137.201:443?&security=reality&flow=xtls-rprx-vision&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=3c9c5d01c6f824dd&fp=firefox&sni=cdn9-33.yahoo.com&type=tcp&headerType=none&host=cdn9-33.yahoo.com&path=%2F#🇭🇺 Hungary | IPXO Lease 1
+vless://7d6d3391-7bf8-46bf-bd2e-01e82a790017@155.117.137.201:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=cdn9-40.yahoo.com&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=69da7557f168a46a&fp=firefox#🇭🇺 Hungary | IPXO Lease 2
+vless://7d6d3391-7bf8-46bf-bd2e-01e82a790017@155.117.137.81:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn8-63.yahoo.com&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=cd5d72100116f1c3&type=tcp&headerType=none#🇭🇺 Hungary | IPXO Lease 3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.203.254:1080#🇭🇺 Hungary | M247 Ltd Budapest 1
