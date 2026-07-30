@@ -3,9 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://180351d5-e9c9-405e-a225-8a754507a004@152.53.47.153:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#🇦🇹 Austria | Anexia Holding GmbH 1
-ss://Y2hhY2hh`M`jAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.146.222:1080?#🇦🇹 Austria | M247 Vienna 1
+vless://c7e9c591-2764-423a-afca-efbd010fd396@46.102.156.144:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇦🇹 Austria | Hohl IT e.U. 1
+vless://c7e9c591-2764-423a-afca-efbd010fd396@94.177.8.122:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇦🇹 Austria | Hohl IT e.U. 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.106.94.132:1080#🇦🇹 Austria | xorek.cloud International LT... 1
-vless://bcc094e4-1a85-8a25-f8e1-5b08b9af841c@152.53.46.27:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stackoverflow.com&fp=chrome&pbk=LaGTRJ1CJnnYV7FnyqQnU28I0xFTPFKI8xmUFwig5ic&sid=c410508e9721512b&type=tcp&headerType=none#🇦🇹 Austria | Anexia Holding GmbH 2
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&sni=vindobona.org#🇦🇹 Austria | Aeza 1
-vless://d41fc81c-8679-494e-a687-60b15af4b14d@152.53.47.153:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#🇦🇹 Austria | Anexia Holding GmbH 3
+ss://Y2hhY2hh`M`jAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.146.222:1080?#🇦🇹 Austria | M247 Vienna 1
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&headerType=none&security=reality&encryption=none&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&flow=xtls-rprx-vision#🇦🇹 Austria | Aeza 1
+vless://bcc094e4-1a85-8a25-f8e1-5b08b9af841c@152.53.46.27:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stackoverflow.com&fp=chrome&pbk=LaGTRJ1CJnnYV7FnyqQnU28I0xFTPFKI8xmUFwig5ic&sid=c410508e9721512b&type=tcp&headerType=none#🇦🇹 Austria | Anexia Holding GmbH 1
+vless://d41fc81c-8679-494e-a687-60b15af4b14d@152.53.47.153:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#🇦🇹 Austria | Anexia Holding GmbH 2
+vless://ab044a84-8263-42ab-a1f1-2fd5ebace70d@152.53.47.153:16923?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&authority=&serviceName=neurex&mode=gun#🇦🇹 Austria | Anexia Holding GmbH 3
