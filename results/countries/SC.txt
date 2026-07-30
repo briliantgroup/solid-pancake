@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-trojan://humanity@45.130.125.112:443?security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&path=%2Fassignment#🇸🇨 Seychelles | RAPIDSEEDBOX 1
-trojan://humanity@45.130.125.76:443?security=tls&sni=www.calmlunch.com&alpn=http%2F1.1&allowInsecure=1&type=ws&path=%2Fassignment#🇸🇨 Seychelles | RAPIDSEEDBOX 2
-trojan://humanity@45.130.125.2:443?security=tls&sni=Www.cReaTIOnLONG.OrG&type=ws&host=Www.cReaTIOnLONG.OrG&path=%2Fassignment#🇸🇨 Seychelles | RAPIDSEEDBOX 3
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.207:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#🇸🇨 Seychelles | RAPIDSEEDBOX 1
+vless://1f405580-ff0b-4579-b235-3990526b0318@45.130.125.2:443?path=%2Fnews&security=tls&alpn=h2%2Ch3&encryption=none&insecure=0&host=cdn-gr.hardwarenew.ir.&fp=chrome&type=ws&allowInsecure=0&sni=cdn-gr.hardwarenew.ir.#🇸🇨 Seychelles | RAPIDSEEDBOX 2
+vless://1f405580-ff0b-4579-b235-3990526b0318@45.130.125.11:443?path=%2Fnews&security=tls&alpn=h2%2Ch3&encryption=none&insecure=0&host=cdn-gr.hardwarenew.ir.&fp=chrome&type=ws&allowInsecure=0&sni=cdn-gr.hardwarenew.ir.#🇸🇨 Seychelles | RAPIDSEEDBOX 3
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80?encryption=none&host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#🇸🇨 Seychelles | RAPIDSEEDBOX 4
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@45.130.125.239:2087?encryption=none&fp=chrome&host=tot1.erooo12345.xyz&path=%2F&security=tls&sni=tot1.erooo12345.xyz&type=ws#🇸🇨 Seychelles | RAPIDSEEDBOX 5
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&insecure=0&allowInsecure=0&type=ws&host=po.fastbrokencompony.com&path=%2F#🇸🇨 Seychelles | RAPIDSEEDBOX 6
+trojan://humanity@45.130.125.158:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇸🇨 Seychelles | RAPIDSEEDBOX 7
