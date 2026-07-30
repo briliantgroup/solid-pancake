@@ -3,7 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.204.32:2090?type=tcp&security=none&encryption=none#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.196.205:2090?security=&alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 2
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.196.205:2090?security=&alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.204.32:2090?type=tcp&security=none&encryption=none#🇱🇻 Latvia | CGI GLOBAL LIMITED 2
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@203.18.98.109:2090?security=&alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | Mistic Internet Security Pty... 1
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@109.248.163.242:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 3
+vless://7e5964d036b843ff885b86c4d3bfd466@85.159.228.250:25703?encryption=none&security=none&type=tcp&headerType=none#🇱🇻 Latvia | Global Connectivity Solution... 1
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@195.123.208.92:13443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru&source_name=mirror_0124&provider_id=mirror_0124#🇱🇻 Latvia | ITLDC Latvia network 1
+vless://f2e9df1b-e0ba-4b37-a301-6aab8662c926@77.73.238.191:16622?encryption=none&security=reality&sni=yahoo.com&pbk=E5N_ckakvqgTOjiQ6Rmuwz1fchiT1-J3tH4cbzcH_GQ&sid=1c01d60ea915&type=tcp&headerType=none#🇱🇻 Latvia | Beget LLC 1
