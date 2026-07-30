@@ -3,15 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@213.232.204.172:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@203.18.98.109:2090?security=&alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | Mistic Internet Security Pty... 1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@213.232.204.172:2090?type=tcp&headerType=none&security=none&encryption=none&fp=chrome#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@45.158.169.16:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | Private Customer 1
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.204.32:2090?type=tcp&security=none&encryption=none#🇱🇻 Latvia | CGI GLOBAL LIMITED 2
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.196.205:2090?security=&alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 3
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@217.19.4.60:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 4
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@109.248.163.242:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 5
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@213.232.204.98:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 6
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@188.215.31.178:2090?security=&alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@195.123.209.159:1080#🇱🇻 Latvia | ITLDC Latvia network 1
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@169.40.1.159:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=wise-karma.cdn.cachefleet.com&fp=random&pbk=0mDJharDr2-CHy3YNYTHvLEvTeksq1hDEM-lOuv-8A8&type=tcp&headerType=none#🇱🇻 Latvia | SIA VEESP 1
-vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?type=tcp&security=reality&encryption=none&fp=chrome&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&sid=f71c22&sni=yahoo.com&spx=/#🇱🇻 Latvia | RETN Limited 1
-vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e#🇱🇻 Latvia | RETN Limited 2
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@217.19.4.60:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 3

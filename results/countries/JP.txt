@@ -1,0 +1,10 @@
+#profile-update-interval: 3
+#profile-title: encode:Qm9iaVZQTiDwn4ev8J+HtSBKYXBhbg==
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#support-url: https://github.com/
+#profile-web-page-url: https://github.com/
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.159:10000?encryption=none&security=none&type=tcp&headerType=none#🇯🇵 Japan | Alpha JP Sub1 1
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#🇯🇵 Japan | DataCamp Limited 1
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443?#🇯🇵 Japan | DataCamp Limited 2
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443?#🇯🇵 Japan | DataCamp Limited 3
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=tcp&security=none&encryption=none&fp=firefox&sni=152.69.195.67#🇯🇵 Japan | Oracle Cloud Infrastructure ... 1
