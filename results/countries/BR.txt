@@ -3,6 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://831f56ff-d117-4a72-bb2b-a5e44eab6fbf@pro-ru-bridge.emrata.top:443?&security=reality&flow=xtls-rprx-vision&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&fp=firefox&sni=pro-ru-bridge.emrata.top&type=tcp&headerType=none&host=pro-ru-bridge.emrata.top&path=%2F#🇧🇷 Brazil | V tal 1
-vless://1478d83f-3e0b-4d96-99cc-b514495e53c6@45.192.2.173:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sni=yandex.net&sid=364994a6f61fc955#🇧🇷 Brazil | JQI TRADE LIMITED 1
-vless://0b8dfc50-9e2d-4b3c-85cd-870b478312a0@45.192.2.115:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sni=yandex.net&sid=ece180c605b5453c#🇧🇷 Brazil | JQI TRADE LIMITED 2
+vless://c245b785-bb81-481b-95c9-c2db14c66f25@pro-ru-bridge.emrata.top:443?flow=xtls-rprx-vision&fp=firefox&host=pro-ru-bridge.emrata.top&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&security=reality&sni=pro-ru-bridge.emrata.top#🇧🇷 Brazil | V tal 1
+vless://831f56ff-d117-4a72-bb2b-a5e44eab6fbf@pro-ru-bridge.emrata.top:443?type=tcp&security=reality&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&fp=firefox&sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision#🇧🇷 Brazil | V tal 2

@@ -3,37 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.134.90:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇫🇷 France | OVH 1
-vless://c7e9c591-2764-423a-afca-efbd010fd396@51.91.100.159:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 2
-vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.134.105:2053?encryption=none&fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 3
-vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.135.111:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇫🇷 France | OVH 4
-vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.134.153:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇫🇷 France | OVH 5
-vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.135.239:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇫🇷 France | OVH 6
-vless://c7e9c591-2764-423a-afca-efbd010fd396@51.75.16.73:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇫🇷 France | OVH 7
-vless://c7e9c591-2764-423a-afca-efbd010fd396@141.94.77.169:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇫🇷 France | OVH 8
-vless://c7e9c591-2764-423a-afca-efbd010fd396@162.19.79.57:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 9
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.166.241:22223?type=tcp&security=none&encryption=none#🇫🇷 France | AWS EC2 (eu-west-3) 1
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.166.241:22222?encryption=none&security=none&type=tcp#🇫🇷 France | AWS EC2 (eu-west-3) 2
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.166.241:22224?type=tcp&security=none&encryption=none#🇫🇷 France | AWS EC2 (eu-west-3) 3
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22222?encryption=none&security=none&type=tcp#🇫🇷 France | AWS EC2 (eu-west-3) 4
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22224?security=&encryption=none&headerType=&type=tcp#🇫🇷 France | AWS EC2 (eu-west-3) 5
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@64.31.63.244:8881?#🇫🇷 France | One Provider 1
-vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?&type=tcp&headerType=none&path=%2F#🇫🇷 France | Aeza 1
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@45.140.147.241:443?type=tcp&security=none&encryption=none#🇫🇷 France | Ibcs 1
-vless://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&sid=59625eb3275249ca&sni=www.tesla.com#🇫🇷 France | AWS EC2 (eu-west-3) 6
-vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?type=tcp&headerType=none&security=reality&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&fp=qq&sni=deepl.com&sid=a8ae&spx=%2F#🇫🇷 France | Beafort Limited 1
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn#🇫🇷 France | ONLINE 1
-hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com#🇫🇷 France | ONLINE 2
-vless://c90fdc71-d7ac-4b66-8c0c-2be2a7b4ae0c@45.95.233.185:19168?mode=multi&security=reality&encryption=none&pbk=j9-PqbvTxOh3VZ_Sz696WKpEEFvft1CzUzzIvGCJn0w&fp=chrome&spx=%2F&type=grpc&serviceName=api&sni=apple.com&sid=baeaf515feed2c64#🇫🇷 France | Global Internet Solutions LL... 1
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@45.80.215.68:443?security=tls&encryption=none&host=45.80.215.68&headerType=none&type=tcp&sni=45.80.215.68#🇫🇷 France | G-Core Labs S.A 1
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@147.45.42.27:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&sni=node12.mxvpn.dev&path=/#🇫🇷 France | Aeza 2
-vless://ecfb4271-790e-4011-9364-6e168ed8a82a@76.164.202.211:448?type=tcp&security=reality&encryption=none&fp=chrome&pbk=i34zHKfyydOveuaYnjEU4ocu662Wagkf7fIbj9qiQRA&sid=9e96f30390d6be81&sni=www.samsung.com#🇫🇷 France | ZetServers Frankfurt 1
-vless://ecfb4271-790e-4011-9364-6e168ed8a82a@76.164.202.210:448?type=tcp&security=reality&encryption=none&pbk=i34zHKfyydOveuaYnjEU4ocu662Wagkf7fIbj9qiQRA&sid=9e96f30390d6be81&sni=www.samsung.com#🇫🇷 France | ZetServers Frankfurt 2
-vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?security=reality&encryption=none&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=9a4c7d2f8e1b6a3c#🇫🇷 France | OVH 10
-vless://ecfb4271-790e-4011-9364-6e168ed8a82a@76.164.202.212:448?type=tcp&security=reality&encryption=none&fp=chrome&pbk=i34zHKfyydOveuaYnjEU4ocu662Wagkf7fIbj9qiQRA&sid=9e96f30390d6be81&sni=www.samsung.com#🇫🇷 France | ZetServers Frankfurt 3
-vless://eedcee2e-7517-4162-852d-b21b864b8e3f@195.74.93.254:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48&sni=web.max.ru#🇫🇷 France | Interkvm Host SRL 1
-vless://451ccfb4-4d9f-4d16-a748-48862ff46b86@195.74.93.254:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48&sni=web.max.ru#🇫🇷 France | Interkvm Host SRL 2
-vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sni=web.max.ru&sid=247fd6dab1a34a48#🇫🇷 France | Interkvm Host SRL 3
-vless://db2b7549-a616-4d83-a4bf-51eda70ff82c@195.74.93.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.max.ru&fp=chrome&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48&type=tcp&headerType=none#🇫🇷 France | Interkvm Host SRL 4
-vless://809bce92-45a0-4fe3-af1d-79d1c8422606@195.74.93.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.max.ru&fp=chrome&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48&type=tcp&headerType=none#🇫🇷 France | Interkvm Host SRL 5
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&fp=ios&type=ws&path=%2Fassignment#🇫🇷 France | L Oreal CO 1
+vless://c7e9c591-2764-423a-afca-efbd010fd396@162.19.78.179:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 1
+vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.134.105:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#🇫🇷 France | OVH 2
+vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.135.141:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 3
+vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.135.209:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 4
+vless://c7e9c591-2764-423a-afca-efbd010fd396@51.91.102.36:2053?host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 5
+vless://c7e9c591-2764-423a-afca-efbd010fd396@54.36.98.76:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 6
+vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.135.44:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 7
+vless://c7e9c591-2764-423a-afca-efbd010fd396@51.91.100.159:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 8
+vless://c7e9c591-2764-423a-afca-efbd010fd396@51.77.140.9:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 9
+vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.134.90:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇫🇷 France | OVH 10
+vless://c7e9c591-2764-423a-afca-efbd010fd396@141.94.77.169:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 11
+vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.134.153:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇫🇷 France | OVH 12
+vless://c7e9c591-2764-423a-afca-efbd010fd396@146.59.230.8:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | OVH 13

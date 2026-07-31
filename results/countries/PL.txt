@@ -3,14 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&path=%2F&security=none&type=ws#🇵🇱 Poland | ATM S.A. 1
-vless://03446511-2806-4fc0-b02f-f10d2d3a33c6@185.16.36.200:43439?security=reality&sni=cdn-up.perecbass.ru&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=ae99c61853e8a6ae&type=grpc&serviceName=ws#🇵🇱 Poland | Meverywhere sp. z o.o 1
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.128.233:443?flow=xtls-rprx-vision&security=reality&sni=my.neoncloak.space&fp=firefox&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea&type=tcp&path=/#🇵🇱 Poland | Snowd Security OU 1
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.128.185:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea&sni=pl10.myxasecure.space&path=/#🇵🇱 Poland | Snowd Security OU 2
-vless://1fef5248-fdd2-40d6-b3b9-6c33d4e74724@144.31.0.34:7443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=8wD0IhR27ftD5LyJDq9CaFzi6DgA4vFtB-UP6QIdWVc&sid=e8ca5079a5e91481&sni=_custom_#🇵🇱 Poland | H2nexus LTD 1
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?encryption=none&type=raw&security=reality&sni=ads.x5.ru&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#🇵🇱 Poland | Korbank S. A. 1
-vless://cb784d00-d34a-4389-b938-8717f7b28353@81.90.17.164:443?type=tcp&security=reality&sni=yastatic.net&fp=chrome&flow=xtls-rprx-vision&pbk=v0XQn6uvyC8q5CThcRYLer1F1OOYpZDn5NLOvDicaWg&sid=b31c2b75add2e5fa#🇵🇱 Poland | Intezio Networks Warsaw 1
-vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@144.31.0.100:443?security=reality&encryption=none&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&headerType=&type=tcp&flow=xtls-rprx-vision&sni=vaultivo-hgooe.ru&sid=5e3ab3ab228625#🇵🇱 Poland | H2nexus LTD 2
-vless://f6a2cd4a-b755-4b9f-b854-40101e28e217@144.31.113.56:58427?security=reality&encryption=none&pbk=NCqZzVFlyDITdXB28eEHBgHVqlqpllm1BoJ4wImYHl4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ymail.com&sid=6a58#🇵🇱 Poland | Hostoff Limited 1
-vless://4b35002d-59f8-428a-8591-29bbbb56075f@152.233.43.84:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=api-maps.yandex.ru&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&fp=chrome#🇵🇱 Poland | CDN77 Poland 1
-vless://7a3ac632-d917-4c8d-bc8e-786cd9818747@152.233.43.84:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=api-maps.yandex.ru&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&fp=ios#🇵🇱 Poland | CDN77 Poland 2
+vless://c7e9c591-2764-423a-afca-efbd010fd396@45.149.63.235:2053?host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇵🇱 Poland | Private Customer 1
