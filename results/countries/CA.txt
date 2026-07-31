@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://49e76398-5127-4005-90cb-c2a971f745f1@172.64.34.119:443?security=tls&type=ws&path=/carbon&host=uhnjk.greenlionport-fla.sbs&sni=uhnjk.greenlionport-fla.sbs&fp=chrome&encryption=none#🇨🇦 Canada | CF 1
-vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@172.67.157.55:8443?security=tls&sni=ad-005.novayjr9g.info&fp=chrome&type=ws&host=ad-005.novayjr9g.info&path=/#🇨🇦 Canada | CF 2
-vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@172.67.157.55:8443?encryption=none&security=tls&sni=ad-020.novayjr9g.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ad-020.novayjr9g.info&path=%2F#🇨🇦 Canada | CF 3
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@172.67.180.173:2053?type=ws&security=tls&fp=chrome&sni=music1000.melobitmusic1.ir#🇨🇦 Canada | CF 1
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.21.35.235:2053?encryption=none&type=ws&host=music1000.melobitmusic1.ir&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=music1000.melobitmusic1.ir#🇨🇦 Canada | CF 2
+vless://e35a5ad5-0175-4cd6-b654-1eb220ff28f0@172.67.169.143:443/?type=ws&encryption=none&flow=&host=infra-services-c8-2.21491204-f13b-4977-9cc9-5275edd68fd8.kdns.fr&path=/Wvf67jc5MgASmsb9Qsr0&security=tls&sni=infra-services-c8-2.21491204-f13b-4977-9cc9-5275edd68fd8.kdns.fr&alpn=http/1.1&fp=chrome&packetEncoding=xudp#🇨🇦 Canada | CF 3
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.21.76.231:2095?type=ws&host=nmslfangbinxing.pusytroller.gq&path=%2F#🇨🇦 Canada | CF 4
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.98:2095?security=none&type=ws&path=%2F&host=fuckingfangbinxing.pusytroller.cf&encryption=none#🇨🇦 Canada | CF 5
