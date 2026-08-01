@@ -3,5 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
+vless://c7e9c591-2764-423a-afca-efbd010fd396@146.59.19.208:2053?type=ws&security=tls&sni=forfreeuse.sub-flow.online#🇵🇱 Poland | OVH 1
 vless://c7e9c591-2764-423a-afca-efbd010fd396@45.149.63.235:2053?type=ws&security=tls&sni=forfreeuse.sub-flow.online#🇵🇱 Poland | Private Customer 1
-vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.45:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇵🇱 Poland | EasyNET 1
+vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.133:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇵🇱 Poland | EasyNET 1
+vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.124:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇵🇱 Poland | EasyNET 2
