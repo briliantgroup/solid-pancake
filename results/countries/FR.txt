@@ -3,5 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
+vless://c7e9c591-2764-423a-afca-efbd010fd396@31.59.121.155:2053?type=ws&security=tls&fp=firefox&sni=forfreeuse.sub-flow.online#🇫🇷 France | Cloudbackbone 1
 vless://c7e9c591-2764-423a-afca-efbd010fd396@77.221.153.168:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇫🇷 France | Aeza 1
-vless://c7e9c591-2764-423a-afca-efbd010fd396@31.59.121.155:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | Cloudbackbone 1

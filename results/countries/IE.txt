@@ -3,5 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRENTd0ppS20xZ1l0N0F1@20.223.136.145:443#🇮🇪 Ireland | Azure 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUnJCZzlTOWtvc1NvM3RH@20.223.136.145:443#🇮🇪 Ireland | Azure 2
+vless://c7e9c591-2764-423a-afca-efbd010fd396@52.19.138.237:2053?type=ws&security=tls&sni=forfreeuse.sub-flow.online#🇮🇪 Ireland | AWS EC2 (eu-west-1) 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUn`J`CZzlTOWtvc1NvM3RH@20.223.136.145:443#🇮🇪 Ireland | Azure 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRENTd0ppS20xZ1l0N0F1@20.223.136.145:443#🇮🇪 Ireland | Azure 2
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@dev-ops-notes.blog:443?flow=xtls-rprx-vision&fp=qq&host=dev-ops-notes.blog&pbk=5qYuPXdx_1i6bBOUJRKCSv2vBxdWxSZcct_Cxd-W0hc&security=reality&sid=65c55164c5e88da1&sni=dev-ops-notes.blog#🇮🇪 Ireland | Mvps LTD 1
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@193.24.234.34:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5qYuPXdx_1i6bBOUJRKCSv2vBxdWxSZcct_Cxd-W0hc&sid=65c55164c5e88da1&sni=dev-ops-notes.blog#🇮🇪 Ireland | Mvps LTD 2
