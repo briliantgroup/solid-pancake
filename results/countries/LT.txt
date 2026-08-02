@@ -3,4 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&sid=6ba85179e30d4fc2&sni=amd.com#🇱🇹 Lithuania | UAB Cherry Servers 1
+vless://5083f498-4894-4c81-8648-40a2faf4b545@144.31.243.69:443?type=ws&headerType=none&security=tls&encryption=none&sni=cloudflare.vhub.pro&fp=firefox&alpn=http%2F1.1&path=%2Fwebsocket%3Fed%3D2560&insecure=0#🇱🇹 Lithuania | SERV.HOST GROUP LTD 1
+vless://04b9e828-43ed-4faf-8952-41069ec08355@93.115.25.139:443?type=tcp&security=tls&encryption=none&fp=firefox&sni=ddc-chr2.astralweb.tech#🇱🇹 Lithuania | Dedicated servers 1
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@93.115.25.139:443?type=tcp&security=tls&encryption=none&fp=firefox&sni=ddc-chr2.astralweb.tech#🇱🇹 Lithuania | Dedicated servers 2
+vless://5c192fd7-ef98-4112-a20c-129108fcd7e9@93.115.25.139:443?encryption=none&security=tls&sni=ddc-chr2.astralweb.tech&fp=firefox&alpn=h2&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇱🇹 Lithuania | Dedicated servers 3
