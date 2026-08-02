@@ -3,4 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-trojan://9ad83f65a560960e6509b677eb6162c1@153.75.250.171:49271?security=tls&sni=153.75.250.171.sslip.io&type=tcp#🇺🇸 United States | Interserver, Inc 2
+vless://f5692768-5288-43c6-8cef-341dde6344a5@154.17.239.145:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=cFOObXBY1O7-LqMqwQ4qDbRdH104xyMb6XwrNHuCkho&sni=learn.microsoft.com#🇺🇸 United States | DMIT Cloud Services 1
