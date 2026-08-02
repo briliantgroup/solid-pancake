@@ -4,4 +4,9 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 vless://c7e9c591-2764-423a-afca-efbd010fd396@31.59.121.155:2053?type=ws&security=tls&fp=firefox&sni=forfreeuse.sub-flow.online#🇫🇷 France | Cloudbackbone 1
-vless://c7e9c591-2764-423a-afca-efbd010fd396@77.221.153.168:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇫🇷 France | Aeza 1
+vless://c7e9c591-2764-423a-afca-efbd010fd396@77.221.153.168:2053?host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇷 France | Aeza 1
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn#🇫🇷 France | ONLINE 1
+vless://b3506a00-c476-4b9b-859b-8362a1373ef1@195.74.93.254:443?type=tcp&security=reality&sni=web.max.ru&fp=chrome&flow=xtls-rprx-vision&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48#🇫🇷 France | Interkvm Host SRL 1
+vless://fae3277c-0541-4ae9-bbbb-8247453ea652@194.226.169.36:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&sid=b8aa&type=tcp&headerType=none#🇫🇷 France | xorek.cloud International LT... 1
+vless://4706d9c3-eec0-4666-9d84-e608a200e872@194.226.169.36:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&sid=b8aa&sni=yahoo.com#🇫🇷 France | xorek.cloud International LT... 2
+hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@194.180.174.69:443/?sni=fr2.h2corp.org#🇫🇷 France | MivoCloud SRL 1
