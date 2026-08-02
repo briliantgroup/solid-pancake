@@ -3,25 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://245bb424-b186-4738-8f42-bdbde719d4c9@104.18.42.68:443?&security=tls&fp=chrome&alpn=h2&sni=pinalo.zenvorix.ir&type=ws&headerType=none&host=pinalo.zenvorix.ir&path=%2Fnova-geo-psiphon-fi#🇨🇦 Canada | CF 1
-vless://8a88edf2-235a-4e74-a012-315e8b0f000c@172.66.146.2:2087?type=ws&security=tls&fp=chrome&sni=oknoloy.dearhossein-taktaz.ir#🇨🇦 Canada | CF 2
-vless://8a88edf2-235a-4e74-a012-315e8b0f000c@104.18.19.39:2087?path=/&security=tls&alpn=h2,http/1.1,h3&encryption=none&host=oknoloy.dearhossein-taktaz.ir&fp=chrome&type=ws&sni=oknoloy.dearhossein-taktaz.ir#🇨🇦 Canada | CF 3
-vless://8a88edf2-235a-4e74-a012-315e8b0f000c@104.18.151.69:2083?path=%2F&security=tls&encryption=none&insecure=0&host=oknoloy.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=oknoloy.dearhossein-taktaz.ir#🇨🇦 Canada | CF 4
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.44:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#🇨🇦 Canada | CF 5
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.42:443?type=ws&security=tls&sni=de-new-1.ariyuz.org#🇨🇦 Canada | CF 6
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.46:443?type=ws&security=tls&path=%2F&sni=de-new.ariyuz.org#🇨🇦 Canada | CF 7
-vless://6eda0aac-4964-46c2-9132-1fda49cc7dcf@108.162.194.34:2096?encryption=none&type=ws&host=telegram8.freepersianland10.workers.dev&path=%2FeyJqdW5rIjoieHc3MmJYdFVYbUhMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=chrome&sni=teleGRAm8.FReEPerSiaNlaNd10.WORkerS.DeV#🇨🇦 Canada | CF 8
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=/http&security=&encryption=none&host=de.vpnbase.net&type=ws#🇨🇦 Canada | CF 9
-vless://a3d24b02-6703-49f0-8a60-526044edc49d@104.17.108.69:443?encryption=none&type=ws&host=tarafdarto.alanfaz.org&path=%2F&security=tls&alpn=h2&fp=chrome&sni=tarafdarto.alanfaz.org#🇨🇦 Canada | CF 10
-vless://42f3c6bc-fdc3-4d4e-b95d-f84f9e6bf27f@172.67.196.252:2053?security=tls&type=ws&path=/api/vote/number/row/n1&host=ger-full.deepinsane.com&alpn=http/1.1&sni=ger-full.deepinsane.com&fp=chrome&encryption=none#🇨🇦 Canada | CF 11
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.68:443?type=ws&headerType=none&security=tls&encryption=none&sni=germany-2.ariyuz.org&alpn=http%2F1.1&path=%2F&host=germany-2.ariyuz.org&insecure=0#🇨🇦 Canada | CF 12
-vless://42f3c6bc-fdc3-4d4e-b95d-f84f9e6bf27f@104.21.36.164:2053?encryption=none&type=ws&host=ger-full.deepinsane.com&path=%2Fapi%2Fvote%2Fnumber%2Frow%2Fn1&security=tls&sni=ger-full.deepinsane.com#🇨🇦 Canada | CF 13
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.251:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=germany-2.ariyuz.org&type=ws&headerType=none&host=germany-2.ariyuz.org&path=%2F#🇨🇦 Canada | CF 14
-vless://49e76398-5127-4005-90cb-c2a971f745f1@172.64.34.119:443?&security=tls&fp=chrome&sni=uhnjk.greenlionport-fla.sbs&type=ws&headerType=none&host=uhnjk.greenlionport-fla.sbs&path=%2Fcarbon#🇨🇦 Canada | CF 15
-vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@ad-005.zen2bswa.info:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-005.zen2bswa.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-005.zen2bswa.info#🇨🇦 Canada | CF 16
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?type=ws&headerType=none&security=none&encryption=none&path=%2Fhttp&host=de.vpnbase.net#🇨🇦 Canada | CF 17
-vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@172.67.145.169:8443?encryption=none&security=tls&sni=ad-005.pixel9xdmq.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F#🇨🇦 Canada | CF 18
-vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@172.67.145.169:8443?encryption=none&security=tls&sni=ad-020.pixel9xdmq.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F#🇨🇦 Canada | CF 19
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@172.67.145.169:8443?encryption=none&fp=chrome&host=ad-013.pixel9xdmq.info&path=%2F&security=tls&sni=ad-013.pixel9xdmq.info&type=ws#🇨🇦 Canada | CF 20
-vless://963c91fc-1ce7-4fc7-806f-0a2e7b03bfee@104.26.14.85:443?encryption=none&security=tls&sni=sinavm3.soft10.ir&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&allowInsecure=0&type=ws&host=sinavm3.soft10.ir&path=%2Fassignment----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM#🇨🇦 Canada | CF 21
-vless://963c91fc-1ce7-4fc7-806f-0a2e7b03bfee@188.114.97.4:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=sinavm3.soft10.ir&type=ws&headerType=none&host=sinavm3.soft10.ir&path=%2Fassignment----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM#🇨🇦 Canada | CF 22
+vless://8a88edf2-235a-4e74-a012-315e8b0f000c@104.18.19.39:2087?path=/&security=tls&alpn=h2,http/1.1,h3&encryption=none&host=oknoloy.dearhossein-taktaz.ir&fp=chrome&type=ws&sni=oknoloy.dearhossein-taktaz.ir#🇨🇦 Canada | CF 1
+vless://8a88edf2-235a-4e74-a012-315e8b0f000c@www.canva.com:2087?path=%2F&security=tls&encryption=none&host=oknoloy.dearhossein-taktaz.ir&fp=chrome&type=ws&sni=oknoloy.dearhossein-taktaz.ir#🇨🇦 Canada | CF 2
+vless://8a88edf2-235a-4e74-a012-315e8b0f000c@104.18.151.69:2083?path=%2F&security=tls&encryption=none&insecure=0&host=oknoloy.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=oknoloy.dearhossein-taktaz.ir#🇨🇦 Canada | CF 3
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#🇨🇦 Canada | CF 4
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#🇨🇦 Canada | CF 5
+vless://963c91fc-1ce7-4fc7-806f-0a2e7b03bfee@104.26.14.85:443?encryption=none&security=tls&sni=sinavm3.soft10.ir&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&allowInsecure=0&type=ws&host=sinavm3.soft10.ir&path=%2Fassignment----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM#🇨🇦 Canada | CF 6
