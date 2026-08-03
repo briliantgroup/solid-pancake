@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://e8ac897a-a53a-0002-aaef-6e17aa71eed3@217.19.122.194:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=7a0xjAoeGvlHx-Vy-JC-nr_eKQhQyFUDL16M85Z-Zzo&security=reality&sid=15affa0af66dfc79&sni=wl-back.coconutstrip.co&type=raw#🇺🇦 Ukraine | BeeLane B2O SPB CDN Video 1
-hysteria2://12a9c8a7-4b08-4514-82f3-9a64bb9bd201@78.159.240.215:8443?sni=quic.tyr-agentstvo.tech#🇺🇦 Ukraine | Global Cloud Network LLC 1
-hysteria2://12a9c8a7-4b08-4514-82f3-9a64bb9bd201@78.159.240.215:443?sni=quic.tyr-agentstvo.tech#🇺🇦 Ukraine | Global Cloud Network LLC 2
-vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@ukraine.xiaomaimai.dpdns.org:20071?flow=xtls-rprx-vision&fp=edge&pbk=zX5dT9fA8VRXb3XSB8olbacIR1Dq69juoC7US2paR08&security=reality&sid=a02bf9&sni=www.lamer.com#🇺🇦 Ukraine | M-node 1
-vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@91.236.248.20:20071?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zX5dT9fA8VRXb3XSB8olbacIR1Dq69juoC7US2paR08&sid=a02bf9&sni=www.lamer.com#🇺🇦 Ukraine | M-node 2
+hysteria2://12a9c8a7-4b08-4514-82f3-9a64bb9bd201@78.159.240.215:443?sni=quic.tyr-agentstvo.tech#🇺🇦 Ukraine | Global Cloud Network LLC 1
+hysteria2://12a9c8a7-4b08-4514-82f3-9a64bb9bd201@78.159.240.215:8443?sni=quic.tyr-agentstvo.tech#🇺🇦 Ukraine | Global Cloud Network LLC 2
+vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@91.236.248.20:20071?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zX5dT9fA8VRXb3XSB8olbacIR1Dq69juoC7US2paR08&sid=a02bf9&sni=www.lamer.com#🇺🇦 Ukraine | M-node 1
