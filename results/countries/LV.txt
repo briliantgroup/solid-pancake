@@ -5,4 +5,5 @@
 #profile-web-page-url: https://github.com/
 vless://4bce450e-0a37-4fdd-8c9e-ba6a5e4730aa@31.76.123.32:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-fi.emrata.top#🇱🇻 Latvia | Vitalijs Jurkevics 1
 vless://d3b3f278-2cca-4abf-aa27-bf0c0f27cbd0@31.76.123.16:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-fi.emrata.top#🇱🇻 Latvia | Vitalijs Jurkevics 2
-vless://c7e9c591-2764-423a-afca-efbd010fd396@185.92.183.41:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇱🇻 Latvia | As56971 1
+vless://d3b3f278-2cca-4abf-aa27-bf0c0f27cbd0@pro-fi.emrata.top:443?&security=reality&flow=xtls-rprx-vision&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=firefox&sni=pro-fi.emrata.top&type=tcp&headerType=none&host=pro-fi.emrata.top&path=%2F#🇱🇻 Latvia | Vitalijs Jurkevics 3
+vless://fdac0300-5963-4e68-adb6-fc89a2de99a2@pro-fi.emrata.top:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=firefox&sni=pro-fi.emrata.top&flow=xtls-rprx-vision#🇱🇻 Latvia | Vitalijs Jurkevics 4

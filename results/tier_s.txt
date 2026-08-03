@@ -3,4 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.196.207.151:443?#🇺🇸 United States | AWS EC2 (us-east-1) 1
+vless://17b84958-e98e-4916-8895-8f89d507c5f7@104.19.35.107:2087?path=/&security=tls&encryption=none&insecure=0&host=lively-pine-d144.nova-bfb430.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=lively-pine-d144.nova-bfb430.workers.dev#🇺🇸 United States | Vultr 3
+vless://e35a5ad5-0175-4cd6-b654-1eb220ff28f0@104.21.90.146:443?security=tls&type=ws&path=/Wvf67jc5MgASmsb9Qsr0&host=node-dispatch-c8-2.e20260720.kdns.fr&packetEncoding=xudp&sni=node-dispatch-c8-2.e20260720.kdns.fr&fp=chrome#🇺🇸 United States | HostPapa 5
