@@ -3,8 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://82880171-779d-4c28-8a38-59f2769dccfa@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&insecure=1&host=pan11.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#🇺🇸 United States | Fastly, Inc. 1
 vless://c7e9c591-2764-423a-afca-efbd010fd396@208.103.161.206:443?encryption=none&security=tls&sni=forfreeuse.sub-flow.online&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=forfreeuse.sub-flow.online&path=%2F#🇺🇸 United States | Notion Labs, Inc. 1
 vless://c7e9c591-2764-423a-afca-efbd010fd396@80.209.240.188:2053?type=ws&security=tls&fp=firefox&sni=forfreeuse.sub-flow.online#🇺🇸 United States | HOSTKEY 1
 vless://c7e9c591-2764-423a-afca-efbd010fd396@72.18.132.149:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇺🇸 United States | Exabytes Network (Singapore)... 1
-vless://8957414e-9e89-45bc-ac4b-ea2f561eed6c@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 United States | Fastly, Inc. 2
+vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:8443?type=grpc&security=reality&fp=firefox&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&sni=download.nvidia.com&serviceName=TunService#🇺🇸 United States | Fine Group Servers Solutions... 1
+vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:993?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&sni=download.nvidia.com&path=/#🇺🇸 United States | Fine Group Servers Solutions... 2
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?sni=hk.catxstar.com&fp=chrome&type=tcp&path=/#🇺🇸 United States | NetLab Global 1
+vless://89c3b66f-c849-4602-a5a8-84b6f06af478@3.162.103.97:80?sni=d2pwbkmfr5lxa4.cloudfront.net&type=ws&host=d2pwbkmfr5lxa4.cloudfront.net&path=%2F#🇺🇸 United States | AWS CloudFront (GLOBAL) 1
+vless://89c3b66f-c849-4602-a5a8-84b6f06af478@www.true.th:80?host=d2pwbkmfr5lxa4.cloudfront.net&path=%2F&sni=d2pwbkmfr5lxa4.cloudfront.net&type=ws#🇺🇸 United States | AWS CloudFront (GLOBAL) 2
+vless://89c3b66f-c849-4602-a5a8-84b6f06af478@3.169.173.8:80?allowInsecure=0&sni=d2pwbkmfr5lxa4.cloudfront.net&type=ws&host=d2pwbkmfr5lxa4.cloudfront.net&path=/#🇺🇸 United States | AWS CloudFront (GLOBAL) 3
+vless://89c3b66f-c849-4602-a5a8-84b6f06af478@3.162.103.26:80?type=ws&sni=d2pwbkmfr5lxa4.cloudfront.net#🇺🇸 United States | AWS CloudFront (GLOBAL) 4
