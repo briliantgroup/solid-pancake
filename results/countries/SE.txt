@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://c7e9c591-2764-423a-afca-efbd010fd396@185.82.126.9:2053?type=ws&security=tls&sni=forfreeuse.sub-flow.online#🇸🇪 Sweden | YOURSERVER 1
+vless://c7e9c591-2764-423a-afca-efbd010fd396@185.82.126.216:2053?type=ws&security=tls&sni=forfreeuse.sub-flow.online#🇸🇪 Sweden | YOURSERVER 1
 vless://c7e9c591-2764-423a-afca-efbd010fd396@185.82.126.247:2053?type=ws&security=tls&sni=forfreeuse.sub-flow.online#🇸🇪 Sweden | YOURSERVER 2
-vless://c7e9c591-2764-423a-afca-efbd010fd396@185.82.126.216:2053?type=ws&security=tls&sni=forfreeuse.sub-flow.online#🇸🇪 Sweden | YOURSERVER 3
-vless://c7e9c591-2764-423a-afca-efbd010fd396@185.82.126.64:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇸🇪 Sweden | YOURSERVER 4
+vless://c7e9c591-2764-423a-afca-efbd010fd396@185.82.126.64:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇸🇪 Sweden | YOURSERVER 3
+vless://c7e9c591-2764-423a-afca-efbd010fd396@185.82.126.9:2053?type=ws&security=tls&sni=forfreeuse.sub-flow.online#🇸🇪 Sweden | YOURSERVER 4

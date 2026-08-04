@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=elenaaaaaaaaaa.cloudns.pro.&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY&security=none&type=ws#🇨🇦 Canada | CF 1
-vless://36a857e4-f3d4-43aa-8b90-d7da849da989@002.inc-electrocell-001-002.workers.dev:443?encryption=none&security=tls&sni=002.Inc-ElectROcElL-001-002.WoRKERS.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=002.inc-electrocell-001-002.workers.dev&path=%2FeyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#🇨🇦 Canada | CF 2
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.110:80?security=none&type=ws&path=/http&host=de.vpnbase.net&packetEncoding=xudp&encryption=none#🇨🇦 Canada | CF 3
+vless://96e341a7-3077-4613-b482-41bd9c90cc4d@ezaccess-project-4c7950.ez-dc9bbb.workers.dev:443?encryption=none&type=ws&host=ezaccess-project-4c7950.ez-dc9bbb.workers.dev&path=%2FeyJqdW5rIjoiN2w4dDlRNVV5NkZ5NU1aeSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=chrome&sni=eZaCCesS-proJEcT-4C7950.Ez-dC9bBB.WorKErs.dEV#🇨🇦 Canada | CF 1
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.73.50:2087?security=tls&sni=vo1.erooo12345.xyz&type=ws&host=vo1.erooo12345.xyz&path=%2F&fp=chrome#🇨🇦 Canada | CF 2
+vless://42f3c6bc-fdc3-4d4e-b95d-f84f9e6bf27f@104.21.36.164:2053?encryption=none&type=ws&host=ger-full.deepinsane.com&path=%2Fapi%2Fvote%2Fnumber%2Frow%2Fn1&security=tls&sni=ger-full.deepinsane.com#🇨🇦 Canada | CF 3
+vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@104.21.41.131:8443?encryption=none&fp=chrome&host=ad-005.vector9nmb3.info&path=%2F&security=tls&sni=ad-005.vector9nmb3.info&type=ws#🇨🇦 Canada | CF 4
+vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@104.21.41.131:8443?path=/&security=tls&encryption=none&insecure=0&host=ad-020.vector9nmb3.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-020.vector9nmb3.info#🇨🇦 Canada | CF 5
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@104.21.41.131:8443?encryption=none&security=tls&sni=ad-010.vector9nmb3.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ad-010.vector9nmb3.info&path=%2F#🇨🇦 Canada | CF 6
