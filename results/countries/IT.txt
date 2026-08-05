@@ -3,8 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://dcd08975-739e-44c7-9022-7c7fcb87e74b@116.204.164.30:7443?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&fp=chrome&type=ws&sni=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇮🇹 Italy | Netutils 1
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?type=tcp&security=none&encryption=none&brand=@Arvand_soul#🇮🇹 Italy | Oracle Corporation 1
-vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@185.119.19.105:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=u695099u8adcedd7s8746.gogocs.xyz#🇮🇹 Italy | LakeNetworks 1
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001?#🇮🇹 Italy | Oneprovider.com 1
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle Corporation 1
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@it-one.quiet-rogue.site:443/?sni=it-one.quiet-rogue.site#🇮🇹 Italy | Vladislav Nitsenko 1
+vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#🇮🇹 Italy | Oracle Corporation 2
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@62.76.234.75:10901#🇮🇹 Italy | Baxet Group Inc 1
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=%2Fvless%2F&security=&encryption=none&type=ws#🇮🇹 Italy | OVH 1
-vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b&sni=yahoo.com&packetEncoding=none#🇮🇹 Italy | Oracle Corporation 2
