@@ -3,4 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@91.236.248.20:20071?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=zX5dT9fA8VRXb3XSB8olbacIR1Dq69juoC7US2paR08&sid=a02bf9&sni=www.lamer.com#🇺🇦 Ukraine | M-node 1
+hysteria2://7836b28e-8451-4596-ad3e-e3601b2335ba@78.159.240.69:8443?fm=%257B%250A%250A%257D&type=hysteria&security=tls&sni=quic.tyr-agentstvo.tech&alpn=h3#🇺🇦 Ukraine | Global Cloud Network LLC 1
+hysteria2://9b4c96f9-60e8-4694-b069-c46992390555@78.159.240.215:8443?insecure=0&sni=quic.tyr-agentstvo.tech&alpn=h3&obfs=none#🇺🇦 Ukraine | Global Cloud Network LLC 2
+hysteria2://9b4c96f9-60e8-4694-b069-c46992390555@78.159.240.215:2053?sni=quic.tyr-agentstvo.tech&obfs=none#🇺🇦 Ukraine | Global Cloud Network LLC 3
