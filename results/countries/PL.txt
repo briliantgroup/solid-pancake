@@ -3,5 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.244.146.24:443?type=ws&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net#🇵🇱 Poland | AWS CloudFront (GLOBAL) 1
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.244.146.80:443?type=ws&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net#🇵🇱 Poland | AWS CloudFront (GLOBAL) 2
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.244.146.94:443?type=ws&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net#🇵🇱 Poland | AWS CloudFront (GLOBAL) 1
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.244.146.6:443?type=ws&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net#🇵🇱 Poland | AWS CloudFront (GLOBAL) 2
