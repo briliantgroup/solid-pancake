@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.99:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Colombia | Oracle Corporation 1
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.183.151:62145?&security=none&type=tcp&headerType=&path=%2F#🇨🇴 Colombia | Oracle Corporation 2
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.187.58:62145?#🇨🇴 Colombia | Oracle Corporation 3
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.214.155:62145?type=tcp&security=none&encryption=none#🇨🇴 Colombia | Oracle Corporation 1
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.221.5:62145?&security=none&type=tcp&headerType=&path=%2F#🇨🇴 Colombia | Oracle Corporation 2
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.178.238:62145?&security=none&type=tcp&headerType=&path=%2F#🇨🇴 Colombia | Oracle Corporation 3
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.183.151:62145?&security=none&type=tcp&headerType=&path=%2F#🇨🇴 Colombia | Oracle Corporation 4
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.187.58:62145?type=tcp&security=none&encryption=none#🇨🇴 Colombia | Oracle Corporation 5
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.99:62145?type=tcp&security=none&encryption=none#🇨🇴 Colombia | Oracle Corporation 6
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.239.150:62145?type=tcp&security=none&encryption=none#🇨🇴 Colombia | Oracle Corporation 7
