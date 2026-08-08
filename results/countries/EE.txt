@@ -3,7 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-trojan://humanity@5.189.254.114:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇪🇪 Estonia | Brainoza OU 1
-vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&host=%2F%3FBIA_TELEGRAM%40NexVexo_NexVexo_NexVexo_NexVexo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#🇪🇪 Estonia | FairyHosting 1
-hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@off.cryptoofarm.com:443?sni=off.cryptoofarm.com&insecure=0&allowInsecure=0#🇪🇪 Estonia | HZ Na44 1
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?encryption=none&mode=gun&security=none&serviceName=grpc&type=grpc#🇪🇪 Estonia | 1Cent Host 1
+vless://41784775-8846-4579-9d9d-9ad6ea802e2e@185.123.53.221:49001?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_LbLyj6OynSREglFpkhdrxVmh_bf9p60uTEWfQbtUWo&sid=1a6b1f9d0e&sni=de-7.techprovide.icu#🇪🇪 Estonia | BlueVPS 1
+vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?&security=reality&flow=xtls-rprx-vision&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&fp=qq&sni=max.ru&type=tcp&headerType=none&host=max.ru&path=%2F#🇪🇪 Estonia | 1Cent Host 1
+vless://f692629b-3557-488a-9c9b-60775331e423@89.125.13.9:443?type=grpc&headerType=none&security=reality&encryption=none&sni=fi1-cosmostechnology.ru&fp=firefox&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&serviceName=fi1cosmos#🇪🇪 Estonia | Qwins LTD 1
+trojan://humanity@80.77.25.142:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇪🇪 Estonia | servinga GmbH 1
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?encryption=none&mode=gun&security=none&serviceName=grpc&type=grpc#🇪🇪 Estonia | 1Cent Host 2
+vless://f692629b-3557-488a-9c9b-60775331e423@93.123.39.49:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=chrome&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&type=tcp&headerType=none#🇪🇪 Estonia | Qwins LTD 2
+vless://41784775-8846-4579-9d9d-9ad6ea802e2e@ee-1.techprovide.icu:49001?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=_LbLyj6OynSREglFpkhdrxVmh_bf9p60uTEWfQbtUWo&sid=1a6b1f9d0e&sni=de-7.techprovide.icu&spx=/#🇪🇪 Estonia | BlueVPS 2
