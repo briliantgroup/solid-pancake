@@ -3,8 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vmess://eyJhZGQiOiAiNS4xODguMTkwLjI1MiIsICJhaWQiOiAiMCIsICJhbHBuIjogbnVsbCwgImZwIjogImNocm9tZSIsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAibmFtZSI6ICJUUiBcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjcgfCBAUmF5ZGlrYWx4IHwgMzM2OCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMjIzMjQsICJzY3kiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6IG51bGwsICJ0bHMiOiAiIiwgInR5cGUiOiBudWxsLCAidiI6IG51bGwsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMifQ==#🇹🇷 Türkiye | GCL 1
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none&type=grpc&serviceName=grpc&packetEncoding=xudp#🇹🇷 Türkiye | Global Connectivity Solution... 1
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376?#🇹🇷 Türkiye | Oneprovider.com 1
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119?#🇹🇷 Türkiye | 3NT SOLUTIONS LLP 1
-vless://f692629b-3557-488a-9c9b-60775331e423@83.217.9.154:443?type=grpc&headerType=none&security=reality&encryption=none&sni=fi1-cosmostechnology.ru&fp=qq&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&serviceName=fi1cosmos#🇹🇷 Türkiye | GCS SER 1
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@201.50.115.23:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&sni=eu-central.cendora.ru#🇹🇷 Türkiye | GLB Bulut Teknolojisi Limite... 1
