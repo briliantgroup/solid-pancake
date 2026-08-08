@@ -3,6 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.119:443?encryption=none&fp=firefox&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&security=reality&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru&type=grpc#🇱🇹 Lithuania | SERV.HOST GROUP LTD 1
-trojan://humanity@194.135.80.192:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇱🇹 Lithuania | InternetoVizija 1
-vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.240:443?encryption=none&fp=firefox&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&security=reality&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru&type=grpc#🇱🇹 Lithuania | SERV.HOST GROUP LTD 2
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@46.29.234.210:443?type=grpc&security=reality&fp=chrome&pbk=II9Tn-HPL7xcENiybDfQ_bSw31rSzQbIGYn-hCxdb2w&sid=ccda00cc&sni=www.tradingview.com&serviceName=grpc#🇱🇹 Lithuania | Global Internet Solutions LL... 1
+vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.119:443?type=grpc&security=reality&fp=firefox&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&sni=fi1-cosmostechnology.ru&serviceName=fi1cosmos#🇱🇹 Lithuania | SERV.HOST GROUP LTD 1
