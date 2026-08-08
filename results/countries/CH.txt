@@ -3,4 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.26.156:1080?#🇨🇭 Switzerland | M247 Ltd Zurich 1
+trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261/?type=tcp&security=tls&sni=speedtest.tinkoff.ru&allowInsecure=1&fp=chrome#🇨🇭 Switzerland | M247 Ltd Zurich 2
 vless://2a77a470-315c-493d-b690-59b814a804cb@178.83.226.55:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=sellflow.org#🇨🇭 Switzerland | Ultahost, Inc. 1
+vless://f692629b-3557-488a-9c9b-60775331e423@193.151.108.156:443?encryption=none&fp=firefox&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&security=reality&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru&type=grpc#🇨🇭 Switzerland | SERV.HOST GROUP LTD 1
+vless://f692629b-3557-488a-9c9b-60775331e423@ch1.fi1-cosmostechnology.ru:443?type=grpc&headerType=none&security=reality&encryption=none&sni=fi1-cosmostechnology.ru&fp=firefox&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&serviceName=fi1cosmos#🇨🇭 Switzerland | SERV.HOST GROUP LTD 2
