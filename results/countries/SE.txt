@@ -3,5 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-trojan://humanity@77.221.138.199:8443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇸🇪 Sweden | Aeza 1
+vless://f128bc2c-8018-43a1-8ed7-66eabc8f157c@142.111.244.75:448?type=tcp&security=reality&encryption=none&fp=qq&pbk=r8ljXJO_4yLUonHdkPeWbD9A__XqoudwWAiXx9fbcj8&sid=39a997621a3598c9&sni=www.samsung.com#🇸🇪 Sweden | IB Compute Systems Inc 1
 vless://f692629b-3557-488a-9c9b-60775331e423@150.241.72.37:443?encryption=none&fp=firefox&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&security=reality&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru&type=grpc#🇸🇪 Sweden | xorek.cloud International LT... 1
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@85.137.170.110:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=smm.tunnelpoint.space#🇸🇪 Sweden | Mvps LTD 1
