@@ -3,22 +3,18 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://f178a8ac-48ca-4510-8a16-4ef6f972f240@104.16.71.182:443?path=%2FeyJqdW5rIjoiYTJzRVB1QW1HQSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=fLoRAl-fire-1f55.vEeGsHHEehH.WorKErs.dev#🇨🇦 Canada | CF 1
-vless://3603bbef-fefe-40bf-9352-5ed6d6d28d42@104.16.73.211:8443?path=/&security=tls&encryption=none&insecure=0&host=ftp.skylinknet.ir&fp=chrome&type=ws&allowInsecure=0&sni=ftp.skylinknet.ir#🇨🇦 Canada | CF 2
-vless://98262dbd-3606-437b-b12e-3f38ca62522f@1.rmgyvpn.rest:443?security=tls&type=ws&path=/ws-cdn&host=1.rmgyvpn.rest&packetEncoding=xudp&sni=1.rmgyvpn.rest&fp=chrome#🇨🇦 Canada | CF 3
-vless://f3a436a8-45c3-4c5d-bf97-b1ff6e9ced38@api.connectix.uk:443?&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=unitedstates.havray2025.ir&type=ws&headerType=none&host=unitedstates.havray2025.ir&path=%2F#🇨🇦 Canada | CF 4
-vless://59eefc04-b831-45cf-8d68-63ca23381171@104.26.1.195:8080?type=ws&host=premium-us-az-01-hostinger.efgwf.online&path=%2Fws-hTopcF3L&fp=chrome#🇨🇦 Canada | CF 5
-vless://59eefc04-b831-45cf-8d68-63ca23381171@172.67.69.63:8080?security=none&type=ws&host=premium-us-az-01-hostinger.efgwf.online&path=/ws-hTopcF3L#🇨🇦 Canada | CF 6
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4yMS41Ny44NCIsICJwb3J0IjogIjg0NDMiLCAiaWQiOiAiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJ0bHMiOiAidGxzIiwgImFscG4iOiAiIiwgInNuaSI6ICJ2MnJheTEuZG96YXBwLnh5eiIsICJwYXRoIjogIi9sTW5zWlVONC8iLCAiaG9zdCI6ICJ2MnJheTEuZG96YXBwLnh5eiIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMifQ==#🇨🇦 Canada | CF 7
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080?#🇨🇦 Canada | DO 1
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1DQS0xNDAzMTA1OCIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==#🇨🇦 Canada | Palmira Hosting LLC 1
-vless://d9e4721d-cdac-44c7-bc91-117367eac194@216.152.147.28:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=kjiuPmjM4IutdZudHfcPZHEwcrBEFY4qBLlvfC6A_Ss&sid=b9f8d3f8&type=tcp&headerType=none#🇨🇦 Canada | GTHost 1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Canada | DataCamp Limited 1
-vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#🇨🇦 Canada | OVH 1
-vmess://ewogICAgImFkZCI6ICIxNTguNTEuMTIxLjYzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAic2VyaWJ1cy5vcmciLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImxpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0xNTguNTEuMTIxLjYzLTA1MzQiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==#🇨🇦 Canada | GTHost 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@38.113.188.118:1080#🇨🇦 Canada | Baraka Streaming Technologie... 1
-vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&sid=0e&sni=google.com&spx=/#🇨🇦 Canada | Azure 1
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNlt3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLUNBLTIzNDM1IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==#🇨🇦 Canada | Palmira Hosting LLC 2
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.110:80?security=none&type=ws&path=/http&host=de.vpnbase.net&packetEncoding=xudp&encryption=none#🇨🇦 Canada | CF 8
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@185.196.61.82:8080#🇨🇦 Canada | Oneprovider.com 1
-trojan://humanity@104.17.121.43:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🇨🇦 Canada | CF 9
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.18.1.1:2053?encryption=none&security=tls&sni=music1000.melobitmusic1.ir&fp=chrome&type=ws&path=%2F#🇨🇦 Canada | CF 1
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.21.35.235:2053?security=tls&type=ws&path=/&host=music1000.melobitmusic1.ir&alpn=h2,http/1.1&sni=music1000.melobitmusic1.ir&fp=chrome&encryption=none#🇨🇦 Canada | CF 2
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@172.67.180.173:2053?encryption=none&type=ws&host=music1000.melobitmusic1.ir&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=music1000.melobitmusic1.ir#🇨🇦 Canada | CF 3
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.21.76.231:2095?type=ws&host=nmslfangbinxing.pusytroller.gq&path=%2F#🇨🇦 Canada | CF 4
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?path=/&security=none&encryption=none&host=fangbinxingnmsl.pusytroller.gq&type=ws#🇨🇦 Canada | CF 5
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.149.244:2095?security=none&type=ws&path=/&host=fuckingfangbinxing.pusytroller.cf&packetEncoding=xudp#🇨🇦 Canada | CF 6
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@188.114.97.6:2095?path=%2F&security=none&encryption=none&host=download.pusytroller.gq&type=ws#🇨🇦 Canada | CF 7
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.98:2095?security=none&type=ws&path=%2F&host=fuckingfangbinxing.pusytroller.cf&encryption=none#🇨🇦 Canada | CF 8
+vless://98262dbd-3606-437b-b12e-3f38ca62522f@172.67.150.239:443?encryption=none&fp=chrome&host=1.rmgyvpn.rest&path=%2Fws-cdn&security=tls&sni=1.rmgyvpn.rest&type=ws#🇨🇦 Canada | CF 9
+vless://e35a5ad5-0175-4cd6-b654-1eb220ff28f0@104.21.90.146:443?encryption=none&security=tls&sni=node-dispatch-c8-2.e20260720.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=node-dispatch-c8-2.e20260720.kdns.fr&path=%2FWvf67jc5MgASmsb9Qsr0#🇨🇦 Canada | CF 10
+vless://98262dbd-3606-437b-b12e-3f38ca62522f@104.21.0.119:443?encryption=none&fp=chrome&host=1.rmgyvpn.rest&path=/ws-cdn&security=tls&sni=1.rmgyvpn.rest&type=ws#🇨🇦 Canada | CF 11
+vless://59eefc04-b831-45cf-8d68-63ca23381171@104.26.0.195:8080?security=none&type=ws&host=premium-us-az-01-hostinger.efgwf.online&path=/ws-hTopcF3L#🇨🇦 Canada | CF 12
+vless://916e3030-6eac-418b-9402-7508ca7d6280@172.64.152.241:8443?type=ws&headerType=none&security=tls&encryption=none&sni=us-akile.nanniang.top&fp=chrome&path=%2F&host=us-akile.nanniang.top&insecure=0#🇨🇦 Canada | CF 13
+vless://916e3030-6eac-418b-9402-7508ca7d6280@172.64.145.158:8443?&security=tls&fp=chrome&sni=us-akile.nanniang.top&type=ws&headerType=none&host=us-akile.nanniang.top&path=%2F#🇨🇦 Canada | CF 14
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443?#🇨🇦 Canada | DataCamp Limited 1
