@@ -3,15 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#🇨🇦 Canada | CF 1
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.46:443?type=ws&security=tls&sni=de-new.ariyuz.org#🇨🇦 Canada | CF 2
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.42:443?type=ws&security=tls&sni=de-new-1.ariyuz.org#🇨🇦 Canada | CF 3
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.44:443?type=ws&security=tls&sni=de-new.ariyuz.org#🇨🇦 Canada | CF 4
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@104.21.41.140:2053?type=ws&security=tls&fp=chrome&sni=po.fastbrokencompony.com#🇨🇦 Canada | CF 5
-vless://42f3c6bc-fdc3-4d4e-b95d-f84f9e6bf27f@104.21.36.164:2053?encryption=none&type=ws&host=ger-full.deepinsane.com&path=%2Fapi%2Fvote%2Fnumber%2Frow%2Fn1&security=tls&sni=ger-full.deepinsane.com#🇨🇦 Canada | CF 6
-vless://f178a8ac-48ca-4510-8a16-4ef6f972f240@104.16.71.182:443?path=%2FeyJqdW5rIjoiYTJzRVB1QW1HQSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=fLoRAl-fire-1f55.vEeGsHHEehH.WorKErs.dev#🇨🇦 Canada | CF 7
-vless://42f3c6bc-fdc3-4d4e-b95d-f84f9e6bf27f@172.67.196.252:2053?security=tls&type=ws&path=/api/vote/number/row/n1&host=ger-full.deepinsane.com&alpn=http/1.1&sni=ger-full.deepinsane.com&fp=chrome&encryption=none#🇨🇦 Canada | CF 8
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.68:443?type=ws&security=tls&sni=germany-2.ariyuz.org#🇨🇦 Canada | CF 9
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?security=tls&type=ws&path=%2F&host=germany-2.ariyuz.org&sni=germany-2.ariyuz.org&alpn=http%2F1.1#🇨🇦 Canada | CF 10
-vless://mahanvpn-mahanvpn@104.17.147.22:443?path=%2F&security=tls&encryption=none&insecure=0&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&allowInsecure=0&sni=mAhaNrEaliteAm.MaHkHan.iR#🇨🇦 Canada | CF 11
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.72.41:2095?encryption=none&host=fuckfangbinxing.pusytroller.gq&path=/&security=none&type=ws#🇨🇦 Canada | CF 12
+vless://f178a8ac-48ca-4510-8a16-4ef6f972f240@104.16.71.7:443?path=%2FeyJqdW5rIjoiOE9MZ0g0cE00WlMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=FlorAL-Fire-1f55.VeeGshHEeHh.WOrKeRs.dev#🇨🇦 Canada | CF 1
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.42:443?type=ws&headerType=none&security=tls&encryption=none&sni=de-new-1.ariyuz.org&path=%2F&insecure=0#🇨🇦 Canada | CF 2
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.44:443?type=ws&headerType=none&security=tls&encryption=none&sni=de-new.ariyuz.org&path=%2F&insecure=0#🇨🇦 Canada | CF 3
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.46:443?type=ws&headerType=none&security=tls&encryption=none&sni=de-new.ariyuz.org&path=%2F&insecure=0#🇨🇦 Canada | CF 4
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.18.1.18:443?type=ws&headerType=none&security=tls&encryption=none&sni=germany-2.ariyuz.org.&fp=ios&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2F&host=germany-2.ariyuz.org.&insecure=0#🇨🇦 Canada | CF 5
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#🇨🇦 Canada | CF 6
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?type=ws&headerType=none&security=tls&encryption=none&sni=germany-2.ariyuz.org&fp=chrome&alpn=http%2F1.1&path=%2F&host=germany-2.ariyuz.org&insecure=0#🇨🇦 Canada | CF 7
+vless://42f3c6bc-fdc3-4d4e-b95d-f84f9e6bf27f@104.21.36.164:2053?encryption=none&security=tls&sni=ger-full.deepinsane.com&alpn=http%2F1.1&fp=chrome&type=ws&host=ger-full.deepinsane.com&path=%2Fapi%2Fvote%2Fnumber%2Frow%2Fn1#🇨🇦 Canada | CF 8
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.18.1.1:443?type=ws&headerType=none&security=tls&encryption=none&sni=germany-2.ariyuz.org.&fp=ios&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2F&host=germany-2.ariyuz.org.&insecure=0#🇨🇦 Canada | CF 9
+vless://42f3c6bc-fdc3-4d4e-b95d-f84f9e6bf27f@172.67.196.252:2053?encryption=none&security=tls&sni=ger-full.deepinsane.com&alpn=http%2F1.1&fp=chrome&type=ws&host=ger-full.deepinsane.com&path=%2Fapi%2Fvote%2Fnumber%2Frow%2Fn1#🇨🇦 Canada | CF 10
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.18.1.1:2053?encryption=none&security=tls&sni=music1000.melobitmusic1.ir&fp=chrome&type=ws&path=%2F#🇨🇦 Canada | CF 11
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.72.41:2095?security=none&type=ws&path=/&host=fuckfangbinxing.pusytroller.gq&packetEncoding=xudp&encryption=none#🇨🇦 Canada | CF 12
+vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@172.67.69.106:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=zero.csmaster.ggff.net&type=ws&headerType=none&host=zero.csmaster.ggff.net&path=%2F#🇨🇦 Canada | CF 13
+vless://7a657573-e522-4b12-5be8-3033a1d43d71@104.20.51.24:8443?encryption=none&type=ws&host=xezm0oexu9js.e5z3laeluqds.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F3033a1d43d71%2Floc-1&security=tls&fp=chrome&sni=xezm0oexu9js.e5z3laeluqds.workers.dev#🇨🇦 Canada | CF 14
