@@ -3,17 +3,18 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=/http&security=&encryption=none&host=de.vpnbase.net&type=ws#🇨🇦 Canada | CF 1
-vless://0b053b33-d63a-403c-8b8d-9d2881c8a4d8@104.18.155.141:8443?encryption=none&type=ws&host=ftp.skylinknet.ir&path=%2F&security=tls&fp=chrome&sni=ftp.skylinknet.ir#🇨🇦 Canada | CF 2
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.44:443?type=ws&security=tls&fp=chrome&sni=de-new.ariyuz.org#🇨🇦 Canada | CF 3
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.42:443?type=ws&security=tls&fp=chrome&sni=de-new-1.ariyuz.org#🇨🇦 Canada | CF 4
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.46:443?type=ws&security=tls&fp=chrome&sni=de-new.ariyuz.org#🇨🇦 Canada | CF 5
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@188.114.96.19:2053?type=ws&security=tls&encryption=none&path=%2F&sni=po.fastbrokencompony.com&fp=chrome&alpn=h2%2Chttp%2F1.1&headerType=none#🇨🇦 Canada | CF 6
+vless://f178a8ac-48ca-4510-8a16-4ef6f972f240@104.16.71.7:443?path=%2FeyJqdW5rIjoiOE9MZ0g0cE00WlMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=FlorAL-Fire-1f55.VeeGshHEeHh.WOrKeRs.dev#🇨🇦 Canada | CF 1
+vless://0b053b33-d63a-403c-8b8d-9d2881c8a4d8@104.18.155.141:8443?&security=tls&fp=chrome&sni=ftp.skylinknet.ir&type=ws&headerType=none&host=ftp.skylinknet.ir&path=%2F#🇨🇦 Canada | CF 2
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.44:443?type=ws&headerType=none&security=tls&encryption=none&sni=de-new.ariyuz.org&path=%2F&insecure=0#🇨🇦 Canada | CF 3
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.46:443?type=ws&headerType=none&security=tls&encryption=none&sni=de-new.ariyuz.org&path=%2F&insecure=0#🇨🇦 Canada | CF 4
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.42:443?type=ws&headerType=none&security=tls&encryption=none&sni=de-new-1.ariyuz.org&path=%2F&insecure=0#🇨🇦 Canada | CF 5
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@cf.levikogjgfdd.ir:2053?path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=ios&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#🇨🇦 Canada | CF 6
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@104.21.41.140:2053?type=ws&security=tls&fp=chrome&sni=po.fastbrokencompony.com#🇨🇦 Canada | CF 7
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@104.18.28.234:2053?type=ws&security=tls&fp=ios&sni=po.fastbrokencompony.com#🇨🇦 Canada | CF 8
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.251:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=germany-2.ariyuz.org&type=ws&headerType=none&host=germany-2.ariyuz.org&path=%2F#🇨🇦 Canada | CF 9
-vless://07f82c34-bd45-4a7e-b70a-d4e73e2e5a39@cctvhikvision.center:2083?path=/&security=tls&alpn=h2&encryption=none&host=uwu.blueknight.site&fp=chrome&type=ws&sni=uwu.blueknight.site#🇨🇦 Canada | CF 10
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?type=ws&headerType=none&security=tls&encryption=none&sni=germany-2.ariyuz.org&fp=chrome&alpn=http%2F1.1&path=%2F&host=germany-2.ariyuz.org&insecure=0#🇨🇦 Canada | CF 11
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.18.1.18:443?type=ws&security=tls&fp=ios&sni=germany-2.ariyuz.org.#🇨🇦 Canada | CF 12
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.72.41:2095?security=none&host=fuckfangbinxing.pusytroller.gq&type=ws&encryption=none&path=/&seq=you_are_beautiful0620#🇨🇦 Canada | CF 13
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.28.234:2095?path=%2F&security=none&encryption=none&host=fuckingfangbinxing.pusytroller.cf&type=ws#🇨🇦 Canada | CF 14
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@188.114.97.6:2053?type=ws&security=tls&fp=ios&sni=po.fastbrokencompony.com#🇨🇦 Canada | CF 8
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@172.66.44.97:2053?path=%2F&security=tls&encryption=none&insecure=0&host=po.fastbrokencompony.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#🇨🇦 Canada | CF 9
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?type=ws&headerType=none&security=tls&encryption=none&sni=germany-2.ariyuz.org&fp=chrome&alpn=http%2F1.1&path=%2F&host=germany-2.ariyuz.org&insecure=0#🇨🇦 Canada | CF 10
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.18.1.18:443?type=ws&headerType=none&security=tls&encryption=none&sni=germany-2.ariyuz.org.&fp=ios&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2F&host=germany-2.ariyuz.org.&insecure=0#🇨🇦 Canada | CF 11
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.251:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=germany-2.ariyuz.org&type=ws&headerType=none&host=germany-2.ariyuz.org&path=%2F#🇨🇦 Canada | CF 12
+vless://42f3c6bc-fdc3-4d4e-b95d-f84f9e6bf27f@104.21.36.164:2053?encryption=none&security=tls&sni=ger-full.deepinsane.com&alpn=http%2F1.1&fp=chrome&type=ws&host=ger-full.deepinsane.com&path=%2Fapi%2Fvote%2Fnumber%2Frow%2Fn1#🇨🇦 Canada | CF 13
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?encryption=none&security=tls&sni=terazhediii.info&fp=chrome&type=ws&host=terazhediii.info&path=%2Fhdgrbws#🇨🇦 Canada | CF 14
+vless://4311bd3f-4f66-4538-a624-221b87690b2c@188.114.97.6:2087?encryption=none&security=tls&sni=mjtbknetmkhremge.ordak.qzz.io&fp=chrome&type=ws&host=mjtbknetmkhremge.ordak.qzz.io&path=/fl?ed#🇨🇦 Canada | CF 15
