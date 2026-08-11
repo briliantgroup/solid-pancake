@@ -4,13 +4,6 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.4:45647#🇭🇰 Hong Kong | SIMCENTRIC 1
-vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?&type=tcp&headerType=none&path=/#🇭🇰 Hong Kong | SIMCENTRIC 2
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?encryption=none&security=none&type=tcp#🇭🇰 Hong Kong | SIMCENTRIC 2
+vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?&type=tcp&headerType=none&path=/#🇭🇰 Hong Kong | SIMCENTRIC 3
 trojan://BxceQaOe@18.166.226.204:39024?allowInsecure=1&sni=t.me/ripaojiedian#🇭🇰 Hong Kong | AWS EC2 (ap-east-1) 1
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.141.221.124:8388#🇭🇰 Hong Kong | Strong Worth Holdings Limite... 1
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.105:8388#🇭🇰 Hong Kong | DALIAN YICHUAN INDUSTRIAL CO... 1
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.79:8388#🇭🇰 Hong Kong | DALIAN YICHUAN INDUSTRIAL CO... 2
-vless://2058418a-7718-4050-bdd5-db7487ffdb3b@34.96.200.38:443?type=tcp&security=reality&encryption=none&fp=qq&pbk=uoXBNYcBgR-h2YmU1NFhFyASr6qh9UghWOuo1WZIikw&sid=17d824dd68e24aaf&sni=www.cloudflare.com#🇭🇰 Hong Kong | GCP 1
-vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#🇭🇰 Hong Kong | Alibaba Cloud LLC 1
-vless://ed720ae2-e1ab-41d4-8c9c-ca9ab3cfee70@18.162.173.112:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=bd685806015172ca&pbk=0EtR_KBpH13wngvWn6rXJjINlWjb2nW8fgXrR46bz3E&encryption=none#🇭🇰 Hong Kong | AWS EC2 (ap-east-1) 2
-trojan://ND91608427@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos#🇭🇰 Hong Kong | G-Core Labs S.A 1
-trojan://ND91608427@185.244.208.210:443?sni=upright-hamster.rooster465.autos&fp=chrome&type=tcp&path=/#🇭🇰 Hong Kong | GCL 1
