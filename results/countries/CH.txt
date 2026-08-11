@@ -4,5 +4,6 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.26.156:1080#🇨🇭 Switzerland | M247 Ltd Zurich 1
-trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261/?type=tcp&security=tls&sni=speedtest.tinkoff.ru&allowInsecure=1&fp=chrome#🇨🇭 Switzerland | M247 Ltd Zurich 2
+trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?type=tcp&security=tls&sni=86.106.84.195&allowInsecure=1#🇨🇭 Switzerland | M247 Ltd Zurich 2
+vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.193.123:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=40ce08cf20c67003&sni=storage.yandex.net&fp=firefox&alpn=http%2F1.1#🇨🇭 Switzerland | Individual Entrepreneur ARTE... 1
 vless://2a77a470-315c-493d-b690-59b814a804cb@178.83.226.55:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=sellflow.org#🇨🇭 Switzerland | Ultahost, Inc. 1
