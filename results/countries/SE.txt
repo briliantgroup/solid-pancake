@@ -3,10 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@sw.rexten.cc:443?flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=sw.rexten.cc#🇸🇪 Sweden | Alexhost SRL 1
-vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@150.241.72.5:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&sni=eu-central.cendora.ru#🇸🇪 Sweden | xorek.cloud International LT... 1
-vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@143.246.194.26:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&sni=sw.rexten.cc#🇸🇪 Sweden | Alexhost SRL 2
-vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@143.246.197.86:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&sni=sw.rexten.cc#🇸🇪 Sweden | Alexhost SRL 3
-vless://641baa2f-6f74-4ecf-b948-032d19ba0142@88.216.130.130:40443?flow=xtls-rprx-vision&fp=firefox&pbk=EbXSjwJKAI1cmU2TK3af62qS2k58x8Rnct1525c0m1I&security=reality&sid=2d127d11297df7de&sni=deepl.com#🇸🇪 Sweden | SuperOnline 1
-vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.161.51:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=d3ee47fc2f553c44&sni=storage.yandex.net&fp=firefox&alpn=http%2F1.1#🇸🇪 Sweden | Datacamp Limited 1
-vless://8fecd05d-a813-45ca-8e4c-84ccaecaa923@194.238.57.38:2761?type=grpc&security=reality&fp=firefox&pbk=dceVfMGiO2_ER1FpViwO2enwKMXJXxVDmURu3NLN5zU&sid=57e7bb88&sni=adobe.com&serviceName=apisub#🇸🇪 Sweden | node-hosting 1
+vless://5d577f62-28a8-4b7e-9441-9307b6132065@2.27.56.109:443?type=tcp&security=reality&encryption=none&pbk=8R416wHsKA_fipQLIw2gceCaTTBJIZRMwGjNTURAx3I&sid=ad55857184e91aad&sni=stacks.vk-portal.net&fp=edge#🇸🇪 Sweden | Mitelis Security Limited 1
