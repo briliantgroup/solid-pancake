@@ -3,10 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://7185500c-8b9a-49d2-8cbb-765542a49a52@183.107.137.157:36389?fp=chrome&host=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&type=ws#🇰🇷 South Korea | Korea Telecom 1
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652?#🇰🇷 South Korea | broadNnet 1
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.139.79.57:13979?#🇰🇷 South Korea | SK Broadband Co Ltd 1
-trojan://ND91608427@3.38.106.2:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=communal-sunbird.rooster465.autos#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 1
-trojan://ND91608427@3.36.131.218:443?security=tls&sni=humorous-malamute.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 2
-vmess://eyJhZGQiOiIxNTIuNjcuMjE4LjM4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==#🇰🇷 South Korea | Oracle Cloud Infrastructure ... 1
-trojan://ND91608427@52.79.210.229:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=chief-bluegill.rooster465.autos#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 3
-trojan://ND91608427@43.201.56.44:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=distinct-llama.rooster465.autos#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 4
+trojan://ND91608427@3.35.140.99:443?security=tls&sni=moved-meerkat.rooster465.autos#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 1
+trojan://ND91608427@43.201.46.108:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=exotic-chow.rooster465.autos#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 2
+trojan://ND91608427@3.38.106.2:443?security=tls&sni=communal-sunbird.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 3
+trojan://ND91608427@43.201.56.44:443?security=tls&sni=distinct-llama.rooster465.autos#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 4
