@@ -3,9 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://0af68419-99f6-4d13-9445-2265041f1154@104.167.197.79:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cA3-aAVa0dZXMKbzXj5nLUyxB1AdgrOVU8UU_mJ67EA&security=reality&sid=c78d9525a558f9f9&sni=ashley.kosmolet.xyz&type=tcp#🇺🇸 United States | 3hcloud LLC 1
-vless://0af68419-99f6-4d13-9445-2265041f1154@ashley.kosmolet.xyz:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ashley.kosmolet.xyz&fp=firefox&pbk=cA3-aAVa0dZXMKbzXj5nLUyxB1AdgrOVU8UU_mJ67EA&sid=c78d9525a558f9f9&flow=xtls-rprx-vision#🇺🇸 United States | 3hcloud LLC 2
-vless://e0b92ed6-788e-4e96-a266-7a7041a3811d@199.232.78.159:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=SvnTeamChannel.global.ssl.fastly.net&sni=ssl.fastly.com#🇺🇸 United States | Fastly, Inc. 1
-vless://0f350a5d-e801-4eca-a1b9-abe9798ad48a@199.232.78.159:443?fp=chrome&host=pan1.global.ssl.fastly.net&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053&security=tls&sni=ssl.fastly.com&type=ws#🇺🇸 United States | Fastly, Inc. 2
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@3.162.103.26:443?type=ws&security=tls&fp=chrome&sni=d1yxsk0zprgivr.cloudfront.net#🇺🇸 United States | AWS CloudFront (GLOBAL) 1
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@3.162.103.19:443?encryption=none&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F#🇺🇸 United States | AWS CloudFront (GLOBAL) 2
+vless://XpnTeam-32@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 United States | Fastly, Inc. 1
+vless://XpnTeam-33@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 United States | Fastly, Inc. 2
