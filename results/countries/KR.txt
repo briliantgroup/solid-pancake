@@ -3,6 +3,22 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
+vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjdbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1LUi0xMTM4NDYwMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#🇰🇷 South Korea | Oracle Cloud Infrastructure ... 1
+vmess://eyJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsImFpZCI6IjAiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJuYXRpb24iOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiODAiLCJwcyI6Ilx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNlcnZlclBvcnQiOjAsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#🇰🇷 South Korea | Oracle Cloud Infrastructure ... 2
+trojan://AE62539071@52.78.65.37:443?type=tcp&security=none&encryption=none&sni=full-mayfly.rooster465.autos#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 1
+trojan://ND91608427@43.203.119.20:443?security=tls&sni=uncommon-feline.rooster465.autos#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 2
+trojan://AE62539071@glorious-lark.rooster465.autos:443?security=tls#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 3
+trojan://AE62539071@52.79.160.55:443?type=tcp&security=none&encryption=none&sni=gorgeous-hookworm.rooster465.autos#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 4
+trojan://AE62539071@capable-jay.rooster465.autos:443?security=tls#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 5
+trojan://ND91608427@3.36.131.218:443?security=tls&sni=humorous-malamute.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 6
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@141.164.45.187:8000?#🇰🇷 South Korea | Vultr 1
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@141.164.45.187:8008?#🇰🇷 South Korea | Vultr 2
+trojan://AE62539071@oriented-pegasus.rooster465.autos:443?type=tcp&security=tls&encryption=none&fp=chrome#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 7
 vless://d6d7619a-6b7b-4a80-bd8c-5ddb645eba4a@151.245.106.49:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=nNohnS45XyaEcSAKchLKkCTEBzVUc-PZ6UfbKo83z0E&sid=44e0e12bb5fcebe2&sni=www.cloudflare.com#🇰🇷 South Korea | HostHatch 1
-trojan://AE62539071@saved-ghoul.rooster465.autos:443?security=tls#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 1
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001?#🇰🇷 South Korea | Vultr 3
 vmess://eyJhZGQiOiIxNTAuMTA5LjI0MC4xNzkiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImY5ZGNiMzAzLTNlNzMtNDBlYi05MzI3LTFhYzg4ZjlhMmI3MiIsIm5ldCI6IndzIiwicGF0aCI6Ilwvd3Nwcm94eSIsInBvcnQiOjg0NDMsInBzIjoiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtS1ItMTQ5NDA3NDEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6Ind3dy5iaW5nLmNvbSJ9#🇰🇷 South Korea | Aceville Pte.ltd 1
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7002#🇰🇷 South Korea | Vultr 4
+trojan://AE62539071@driving-antelope.rooster465.autos:443?security=tls#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 8
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@141.164.45.187:5001?#🇰🇷 South Korea | Vultr 5
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#🇰🇷 South Korea | broadNnet 1
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697?#🇰🇷 South Korea | Vultr 6
