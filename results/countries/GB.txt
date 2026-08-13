@@ -3,10 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://9e3de7f7-a595-4117-b1b6-dc41eb870ab1@144.31.213.225:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ABNRlkjlonYV9TOFYgjWwz0wn1s6sg_yCErsLYkU_Sg&sid=d6ff9019a77e354a&sni=www.cloudflare.com#🇬🇧 United Kingdom | SERV.HOST GROUP LTD 1
-vless://1e973bda-3a02-4431-9df8-83595f6f65d8@194.150.166.12:443?flow=xtls-rprx-vision&security=reality&sni=www.avito.ru&fp=firefox&pbk=b75SrHI--As9QxOVfRIPkGmGfXjs53CGAjbws2K99Rs&type=tcp&path=%2F#🇬🇧 United Kingdom | Regxa Company Information Te... 1
-vless://e83af88a-a884-48ba-b462-a1edccff15e7@50.7.197.2:8443?path=/api/connect&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=apkav-6.bosx.net#🇬🇧 United Kingdom | FDCservers.net 1
-vless://000f16e8-cc68-4951-b336-acd81996efde@149.248.77.106:40443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&sni=deepl.com#🇬🇧 United Kingdom | BL Networks 1
-vless://5c53b9e9-fbe8-4c50-a623-73cdafa3886b@46.250.240.80:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=cevjPz2GmTrXDFXQbGizdN6t4c6m11kclJEf5nOHOTE&sid=52dfc493bb6b6c16&type=tcp#🇬🇧 United Kingdom | Yorkshire Tech Limited 1
-vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6Ilx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlN1t3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLUdCLTEzNDQ2Nzc2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#🇬🇧 United Kingdom | GTHost 1
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001?#🇬🇧 United Kingdom | Neterra Ltd 1
+vless://bb742567-ec51-4956-9d3d-099e1a4d48c4@51.89.194.151:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=JH8yFK9WKJnwxF4HTGO2ZOXZDlaDqYzx3e5PvyeU8ww&sid=6edb6b2ddfed9e1c&sni=www.cloudflare.com#🇬🇧 United Kingdom | OVH 1
