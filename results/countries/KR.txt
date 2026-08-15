@@ -3,6 +3,32 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjowLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsIm5ldCI6InRjcCIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjcgSm9pbitUZWxlZ3JhbTpAU29sVlBOIFx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ2IjoiMiJ9#🇰🇷 South Korea | Oracle Cloud Infrastructure ... 1
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#🇰🇷 South Korea | SK Broadband Co Ltd 1
-trojan://ND91608427@43.201.56.44:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=distinct-llama.rooster465.autos&allow_insecure=0#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 1
+vless://8d4cffc5-5b52-4cef-8059-2095c100a8a7@183.107.137.157:36389?encryption=none&type=ws&sni=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&security=tls&fp=chrome&ech=cloudflare-ech.com&host=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&path=/@Marisa_kristi&packetEncoding=xudp&udp=1#🇰🇷 South Korea | Korea Telecom 1
+trojan://ND91608427@3.38.106.2:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=communal-sunbird.rooster465.autos#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 1
+trojan://FH72359861@54.180.158.231:443?sni=precise-locust.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 2
+trojan://FH72359861@3.38.92.134:443?sni=major-goose.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 3
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 4
+trojan://AE62539071@possible-yeti.rooster465.autos:443?security=tls#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 5
+trojan://AE62539071@glorious-glider.rooster465.autos:443?security=tls#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 6
+trojan://FH72359861@3.38.152.121:443?sni=apt-whippet.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 7
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 8
+trojan://AE62539071@saved-ghoul.rooster465.autos:443?security=tls#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 9
+trojan://AE62539071@skilled-monster.rooster465.autos:443?security=tls#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 10
+trojan://AE62539071@eager-platypus.rooster465.autos:443?type=tcp&security=none&encryption=none&sni=eager-platypus.rooster465.autos#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 11
+trojan://AE62539071@grand-grub.rooster465.autos:443?security=tls#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 12
+trojan://FH72359861@good-hound.rooster465.autos:443?allowInsecure=0#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 13
+trojan://AE62539071@sacred-hound.rooster465.autos:443?security=tls#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 14
+trojan://ND91608427@43.201.46.108:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=exotic-chow.rooster465.autos#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 15
+trojan://AE62539071@infinite-tuna.rooster465.autos:443?security=tls#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 16
+trojan://FH72359861@fit-marten.rooster465.autos:443?allowInsecure=0#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 17
+trojan://AE62539071@glorious-lark.rooster465.autos:443?security=tls#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 18
+vless://d6d7619a-6b7b-4a80-bd8c-5ddb645eba4a@151.245.106.49:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=nNohnS45XyaEcSAKchLKkCTEBzVUc-PZ6UfbKo83z0E&sid=44e0e12bb5fcebe2&sni=www.cloudflare.com#🇰🇷 South Korea | HostHatch 1
+trojan://FH72359861@kind-grizzly.rooster465.autos:443?allowInsecure=0#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 19
+trojan://FH72359861@absolute-bobcat.rooster465.autos:443?allowInsecure=0&type=tcp&security=none&encryption=none#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 20
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652?#🇰🇷 South Korea | broadNnet 1
+trojan://AE62539071@uncommon-feline.rooster465.autos:443?allowInsecure=1#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 21
+vmess://eyJhZGQiOiIxNTAuMTA5LjI0MC4xNzkiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImY5ZGNiMzAzLTNlNzMtNDBlYi05MzI3LTFhYzg4ZjlhMmI3MiIsIm5ldCI6IndzIiwicGF0aCI6Ilwvd3Nwcm94eSIsInBvcnQiOjg0NDMsInBzIjoiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtS1ItMTQ5NDA3NDEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6Ind3dy5iaW5nLmNvbSJ9#🇰🇷 South Korea | Aceville Pte.ltd 1
+trojan://FH72359861@charming-puma.rooster465.autos:443?allowInsecure=0#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 22
+trojan://AE62539071@oriented-pegasus.rooster465.autos:443?type=tcp&security=tls&encryption=none&fp=chrome#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 23
+trojan://ND91608427@pure-ram.rooster465.autos:443?type=tcp&security=none&encryption=none&sni=pure-ram.rooster465.autos#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 24
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123?#🇰🇷 South Korea | SK Broadband Co Ltd 1
