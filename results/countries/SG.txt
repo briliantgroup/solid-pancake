@@ -3,5 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:17623?security=reality&flow=xtls-rprx-vision&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F&fp=ios#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 1
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?security=reality&type=tcp&sni=www.apple.com&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&fp=chrome#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 2
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@45.8.211.57:443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new-1.ariyuz.org#🇸🇬 Singapore | Tang Dynastic Technology Pte... 1
