@@ -3,4 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?encryption=none&security=none&type=tcp#🇭🇰 Hong Kong | SIMCENTRIC 1
+trojan://BxceQaOe@18.162.120.218:11035?security=tls&sni=t.me%2Fripaojiedian#🇭🇰 Hong Kong | AWS EC2 (ap-east-1) 1
+trojan://ND91608427@185.244.208.13:443?security=tls&sni=ace-starling.rooster465.autos&path=/#🇭🇰 Hong Kong | GCL 1
+trojan://AE62539071@185.244.208.69:443?security=tls&sni=strong-haddock.rooster465.autos#🇭🇰 Hong Kong | GCL 2
+trojan://ND91608427@185.244.208.210:443?security=tls&sni=upright-hamster.rooster465.autos&path=/#🇭🇰 Hong Kong | GCL 3
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjQ3LjI0Mi43OS4xOTgiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgInRscyI6ICJ0bHMiLCAic25pIjogImVqT01zeFB0UDE5QVB5R0wudi4zZG5zLnZpcCIsICJwYXRoIjogIi93cy12bWVzcyIsICJob3N0IjogImVqT01zeFB0UDE5QVB5R0wudi4zZG5zLnZpcCIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMifQ==#🇭🇰 Hong Kong | Hong Kong 1
