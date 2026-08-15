@@ -3,5 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
+vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=/&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#🇮🇷 Iran | Anycast 1
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#🇮🇷 Iran | ANYCAST 1
-vless://d0f4d620-db2b-45e0-8353-a073461b1130@95.38.102.243:443?encryption=none&security=tls&sni=new01.asaltabie.monster&type=ws&host=new01.asaltabie.monster&path=%2F#🇮🇷 Iran | Respina 1
