@@ -3,6 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.73.137:443?flow=xtls-rprx-vision&fp=chrome&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru#🇸🇪 Sweden | xorek.cloud International LT... 1
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@87.121.105.50:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&sni=nordic.cendora.ru#🇸🇪 Sweden | Play2go International Limite... 1
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@2.26.101.64:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&sni=nordic.cendora.ru#🇸🇪 Sweden | Play2go Customers Network 1
+vless://c7e9c591-2764-423a-afca-efbd010fd396@129.151.198.3:2053?fp=chrome&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#🇸🇪 Sweden | Oracle Corporation 1
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@13.249.8.83:443?type=ws&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net#🇸🇪 Sweden | AWS CloudFront (GLOBAL) 1
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@13.249.8.3:443?type=ws&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net#🇸🇪 Sweden | AWS CloudFront (GLOBAL) 2
