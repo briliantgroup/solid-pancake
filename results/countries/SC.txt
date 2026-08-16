@@ -3,5 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.207:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#🇸🇨 Seychelles | RAPIDSEEDBOX 1
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none&host=po.fastbrokencompony.com&path=%2F&security=tls&sni=po.fastbrokencompony.com&type=ws#🇸🇨 Seychelles | RAPIDSEEDBOX 2
+vless://3bde3993-ece7-4e26-95f1-a2dda32bbf4a@fast26.slopllex.app:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=edge&sni=fast26.slopllex.app&fm={"type":"fragment","settings":{"packets":"tlshello","lengths":["3-5","6-8","10-20"],"delays":["10-20"],"maxSplit":"3-6"}}#🇸🇨 Seychelles | Alaxona Internet Inc 1
+trojan://humanity@45.130.125.112:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇸🇨 Seychelles | RAPIDSEEDBOX 1
+trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇸🇨 Seychelles | RAPIDSEEDBOX 2
+vless://215c2b34-6371-49c7-a90d-39a4fe5191c0@200.165.228.78:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru&fp=firefox#🇸🇨 Seychelles | Alaxona Internet Inc 2
+vless://5383fb97-1178-4709-9a25-b767b743e911@200.165.234.62:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🇸🇨 Seychelles | Alaxona Internet Inc 3
+vless://215c2b34-6371-49c7-a90d-39a4fe5191c0@200.165.228.78:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=edge#🇸🇨 Seychelles | Alaxona Internet Inc 4
