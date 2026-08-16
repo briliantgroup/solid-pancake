@@ -1,0 +1,19 @@
+#profile-update-interval: 3
+#profile-title: encode:Qm9iaVZQTiDwn4er8J+HtyBGcmFuY2U=
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#support-url: https://github.com/
+#profile-web-page-url: https://github.com/
+vless://1ef571c9-b9f0-48bb-a6d6-866c98c80eb9@213.176.73.235:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=note.magazinetut.online#🇫🇷 France | SERV.HOST GROUP LTD 1
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr140.mechvpn.online:443?alpn=h3&sni=fr140.mechvpn.online#🇫🇷 France | Layer7 Networks GmbH 1
+vless://7e760d89-a8f4-4a87-8f10-b4af28c61b7f@212.69.86.187:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=cdn.intercom-home.online#🇫🇷 France | HOSTKEY 1
+trojan://QV31589740@51.44.160.58:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=great-krill.rooster465.autos#🇫🇷 France | AWS EC2 (eu-west-3) 1
+vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo&sid=5030&sni=status.play.google.com&spx=/&seq=you_are_beautiful8818#🇫🇷 France | Contabo 1
+vless://d42baacd-aa5e-4cec-96dc-b9b3d82acc65@note.magazinetut.online:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#🇫🇷 France | SERV.HOST GROUP LTD 2
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.188.143.142:443?#🇫🇷 France | AWS EC2 (eu-west-3) 2
+vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@169.58.143.21:443?type=ws&security=tls&fp=chrome&sni=finite-node.rtxconfigz.com&packetEncoding=none#🇫🇷 France | Contabo 2
+vless://4706d9c3-eec0-4666-9d84-e608a200e872@194.226.169.36:443?fp=chrome&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&security=reality&sid=b8aa&sni=yahoo.com&type=tcp#🇫🇷 France | xorek.cloud International LT... 1
+vless://fae3277c-0541-4ae9-bbbb-8247453ea652@194.226.169.36:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&sid=b8aa&sni=yahoo.com#🇫🇷 France | xorek.cloud International LT... 2
+vless://dc495bf5-9591-43aa-83de-d8dc7a8769b8@145.223.68.48:443?&security=false&fp=chrome&type=ws&headerType=none&path=%2Fvless#🇫🇷 France | Regxa Company for Informatio... 1
+trojan://ND91608427@15.237.137.197:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=fancy-skink.rooster465.autos&allow_insecure=0#🇫🇷 France | AWS EC2 (eu-west-3) 3
+vless://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&sid=59625eb3275249ca&sni=www.tesla.com&spx=/#🇫🇷 France | AWS EC2 (eu-west-3) 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388?#🇫🇷 France | OVH 1

@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://c7e9c591-2764-423a-afca-efbd010fd396@185.109.48.13:2053?fp=chrome&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#🇳🇱 The Netherlands | IROKO Networks Corporation 1
-vless://c7e9c591-2764-423a-afca-efbd010fd396@195.133.94.188:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru#🇳🇱 Netherlands | Des Capital B.V 1
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.239.83.52:443?type=ws&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net#🇳🇱 The Netherlands | AWS CloudFront (GLOBAL) 1
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9001?type=grpc&security=reality&encryption=none&sni=api-maps.yandex.ru&serviceName=grpc-reality&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇳🇱 The Netherlands | CDNetworksru 1
+vless://c7e9c591-2764-423a-afca-efbd010fd396@185.109.48.13:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru#🇳🇱 The Netherlands | IROKO Networks Corporation 1
+vless://c7e9c591-2764-423a-afca-efbd010fd396@195.133.94.188:2053?type=ws&security=tls&fp=firefox&sni=forfreeuse.rtqa.ru#🇳🇱 Netherlands | Des Capital B.V 1
+vless://c7e9c591-2764-423a-afca-efbd010fd396@185.18.52.77:2053?type=ws&security=tls&fp=firefox&sni=forfreeuse.rtqa.ru#🇳🇱 The Netherlands | Fornex Hosting S.L. 1
+trojan://humanity@45.87.41.18:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇳🇱 The Netherlands | SpectraIP B.V 1
+trojan://humanity@194.147.33.102:8443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇳🇱 Netherlands | Baykov Ilya Sergeevich 1
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9002?type=grpc&security=reality&encryption=none&sni=api-maps.yandex.ru&serviceName=grpc-reality&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇳🇱 The Netherlands | CDNetworksru 2
