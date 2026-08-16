@@ -3,5 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
+vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@85.90.197.147:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=grek.o4ka-internet.com&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0&type=tcp&headerType=none&fp=safari#🇬🇷 Greece | GF GR SKG 1
 vless://27dcb3a9-c82d-4628-a8c4-bae39e6cb4f4@185.226.67.182:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JyGDRuOThmoCQ2pYD5VyPnFBKb25RqwqJ6-W-tNHBlY&security=reality&sid=0491f3e34348cb95&sni=depa.kupivodku.top&type=tcp#🇬🇷 Greece | Asimia Damaskou 1
-vless://670decfe-68cc-499e-8cb1-22b39c20acbb@grek.helper-internet.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&sni=grek.helper-internet.com&spx=/#🇬🇷 Greece | GF GR SKG 1
+vless://27dcb3a9-c82d-4628-a8c4-bae39e6cb4f4@depa.kupivodku.top:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=depa.kupivodku.top&fp=edge&pbk=JyGDRuOThmoCQ2pYD5VyPnFBKb25RqwqJ6-W-tNHBlY&sid=0491f3e34348cb95&spx=%2F&type=tcp&headerType=none#🇬🇷 Greece | Asimia Damaskou 2
+vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@grek.o4ka-internet.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=grek.o4ka-internet.com&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0&fp=safari#🇬🇷 Greece | GF GR SKG 2
