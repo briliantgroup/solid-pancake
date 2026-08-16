@@ -3,9 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@217.19.122.234:9001?encryption=none&fp=firefox&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc#🇳🇱 The Netherlands | BeeLane B2O SPB CDN Video 1
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9001?type=grpc&security=reality&encryption=none&sni=api-maps.yandex.ru&serviceName=grpc-reality&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇳🇱 The Netherlands | CDNetworksru 1
-vless://c7e9c591-2764-423a-afca-efbd010fd396@213.183.61.100:2053?type=ws&security=tls&fp=firefox&sni=forfreeuse.rtqa.ru#🇳🇱 The Netherlands | Melbikomas UAB 1
-vless://c7e9c591-2764-423a-afca-efbd010fd396@185.109.48.13:2053?type=ws&security=tls&fp=firefox&sni=forfreeuse.rtqa.ru#🇳🇱 The Netherlands | IROKO Networks Corporation 1
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@217.19.122.234:2027?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=raw#🇳🇱 The Netherlands | BeeLane B2O SPB CDN Video 2
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@217.19.122.234:9002?encryption=none&fp=firefox&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sni=api-maps.yandex.ru&type=grpc#🇳🇱 The Netherlands | BeeLane B2O SPB CDN Video 3
+trojan://humanity@fr2.levikogjgfdd.ir:2053?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#🇳🇱 The Netherlands | Servers Tech Fzco 1
