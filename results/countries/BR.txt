@@ -3,4 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://b6b92515-13c5-4e6e-9fea-8db2d44628a0@200.165.225.174:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&security=reality&sid=33b5887524592cad&sni=veilix.ciphero.xyz&type=tcp#🇧🇷 Brazil | Alaxona Internet Inc 1
+vless://b6b92515-13c5-4e6e-9fea-8db2d44628a0@veilix.ciphero.xyz:443?type=tcp&headerType=none&security=reality&encryption=none&sni=veilix.ciphero.xyz&fp=firefox&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad&flow=xtls-rprx-vision#🇧🇷 Brazil | Alaxona Internet Inc 1
