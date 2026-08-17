@@ -3,5 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?security=none&encryption=none&headerType=none&type=tcp#🇭🇰 Hong Kong | SIMCENTRIC 1
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.4:45647?type=tcp&security=none&encryption=none#🇭🇰 Hong Kong | SIMCENTRIC 2
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.4:45647?type=tcp&security=none&encryption=none#🇭🇰 Hong Kong | SIMCENTRIC 1
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=&encryption=none&headerType=none&type=tcp#🇭🇰 Hong Kong | SIMCENTRIC 2
+vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?security=none&encryption=none&headerType=none&type=tcp#🇭🇰 Hong Kong | SIMCENTRIC 3
+ss://YWVzLTI1Ni1nY206SWpMamxIYk5DZ3cyRDRkVg==@212.192.15.41:8388#🇭🇰 Hong Kong | Baxet Group Inc 1
+vless://1b6de5d8-3285-422c-b6fe-2989918f528b@124.156.182.132:443?&security=reality&flow=xtls-rprx-vision&pbk=CdNLdccy_ALnjDvwZa14eP31CoJ_BLqJAS2OLCNwogg&sid=d19dcb524604e214&fp=chrome&sni=www.apple.com&type=tcp&headerType=&host=www.apple.com&path=%2F#🇭🇰 Hong Kong | Tencent Cloud Computing (Bei... 1
+trojan://6ec301428255a78a1d826988d86cc87e@18.162.120.218:50887?security=tls&sni=www.nintendogames.net&type=tcp&fp=chrome&allowInsecure=0#🇭🇰 Hong Kong | AWS EC2 (ap-east-1) 1
+trojan://BxceQaOe@18.162.120.218:11035?security=tls&sni=t.me%2Fripaojiedian#🇭🇰 Hong Kong | AWS EC2 (ap-east-1) 2
+trojan://ND91608427@185.244.208.13:443?security=tls&sni=ace-starling.rooster465.autos#🇭🇰 Hong Kong | GCL 1
