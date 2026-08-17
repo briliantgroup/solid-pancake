@@ -3,40 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
+vless://XpnTeam-5@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#🇺🇸 United States | Fastly, Inc. 1
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@170.114.45.239:443?encryption=none&fp=firefox&security=tls&sni=de-new-1.ariyuz.org&type=ws#🇺🇸 United States | Zoom Video Communications, I... 1
-vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?&security=tls&fp=chrome&sni=ssl.fastly.com&type=ws&headerType=none&host=lsjaoijji.global.ssl.fastly.neT.&path=%2F#🇺🇸 United States | Fastly, Inc. 1
-vless://be42674a-296a-43d8-bf04-b8314d65ff63@199.232.78.159:443?&security=tls&fp=chrome&sni=ssl.fastly.com&type=ws&headerType=none&host=pane2.global.ssl.fastly.net&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER#🇺🇸 United States | Fastly, Inc. 2
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn#🇺🇸 United States | OVH 1
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.209:23576?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn#🇺🇸 United States | OVH 2
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&path=/#🇺🇸 United States | OVH 3
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn&packetEncoding=none#🇺🇸 United States | OVH 4
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇺🇸 United States | OVH 5
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn#🇺🇸 United States | OVH 6
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn#🇺🇸 United States | OVH 7
-vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@198.62.62.123:2083?encryption=none&fp=chrome&host=kjgdksgghre466.pages.dev&path=/&security=tls&sni=kjgdksgghre466.pages.dev&type=ws#🇺🇸 United States | Health Market Science 1
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn&packetEncoding=none#🇺🇸 United States | OVH 8
-vmess://eyJhZGQiOiI4NC4xNy40MS4yIiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjpudWxsLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuYW1lIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTIDUwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoxODAwMCwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggSm9pbitUZWxlZ3JhbTpAU29sVlBOIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6bnVsbCwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjpudWxsLCJ0bHMiOiIiLCJ0eXBlIjpudWxsLCJ2IjpudWxsfQ==#🇺🇸 United States | CDN77 Seattle 1
-trojan://ND91608427@44.244.3.114:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pet-ghost.rooster465.autos#🇺🇸 United States | AWS EC2 (us-west-2) 1
-trojan://FH72359861@34.210.213.17:443?type=tcp&security=none&encryption=none&sni=tough-tuna.rooster465.autos#🇺🇸 United States | AWS EC2 (us-west-2) 2
-trojan://PQ05174892@34.220.224.252:443?type=tcp&security=none&encryption=none&sni=smooth-sculpin.rooster465.autos#🇺🇸 United States | AWS EC2 (us-west-2) 3
-trojan://PQ05174892@35.91.138.234:443?type=tcp&security=none&encryption=none&sni=sure-bengal.rooster465.autos#🇺🇸 United States | AWS EC2 (us-west-2) 4
-trojan://AE62539071@54.244.169.225:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=sharing-duck.rooster465.autos#🇺🇸 United States | AWS EC2 (us-west-2) 5
-trojan://AE62539071@54.188.176.255:443?type=tcp&security=none&encryption=none&sni=arriving-colt.rooster465.autos#🇺🇸 United States | AWS EC2 (us-west-2) 6
-trojan://FH72359861@44.251.158.80:443?type=tcp&security=none&encryption=none&sni=obliging-louse.rooster465.autos#🇺🇸 United States | AWS EC2 (us-west-2) 7
-trojan://FH72359861@16.146.11.254:443?security=tls&sni=live-stallion.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇺🇸 United States | AWS EC2 (us-west-2) 8
-trojan://AE62539071@44.243.85.47:443?type=tcp&security=none&encryption=none&sni=liked-serval.rooster465.autos#🇺🇸 United States | AWS EC2 (us-west-2) 9
-trojan://FH72359861@44.247.89.62:443?type=tcp&security=none&encryption=none&sni=communal-squid.rooster465.autos#🇺🇸 United States | AWS EC2 (us-west-2) 10
-trojan://AE62539071@54.245.126.186:443?type=tcp&security=none&encryption=none&sni=moral-cow.rooster465.autos#🇺🇸 United States | AWS EC2 (us-west-2) 11
-trojan://ND91608427@44.246.163.102:443?type=raw&sni=fleet-bonefish.rooster465.autos#🇺🇸 United States | AWS EC2 (us-west-2) 12
-trojan://FH72359861@54.185.164.73:443?type=tcp&security=none&encryption=none&sni=outgoing-lynx.rooster465.autos#🇺🇸 United States | AWS EC2 (us-west-2) 13
-trojan://PQ05174892@44.249.55.18:443?type=tcp&security=none&encryption=none&sni=lucky-chimp.rooster465.autos#🇺🇸 United States | AWS EC2 (us-west-2) 14
-trojan://AE62539071@100.22.163.167:443?type=tcp&security=none&encryption=none&sni=bright-baboon.rooster465.autos#🇺🇸 United States | AWS EC2 (us-west-2) 15
-trojan://FH72359861@34.222.243.142:443?type=tcp&security=none&encryption=none&sni=comic-poodle.rooster465.autos#🇺🇸 United States | AWS EC2 (us-west-2) 16
-trojan://FH72359861@34.217.192.97:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=warm-aardvark.rooster465.autos#🇺🇸 United States | AWS EC2 (us-west-2) 17
-trojan://AE62539071@35.88.120.18:443?type=tcp&security=none&encryption=none&sni=dominant-jaguar.rooster465.autos#🇺🇸 United States | AWS EC2 (us-west-2) 18
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@us3.levikogjgfdd.ir:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&sni=yahoo.com#🇺🇸 United States | Inception Hosting Limited 1
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.223:443?&security=reality&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&fp=ios&sni=yahoo.com&type=tcp&headerType=none&host=yahoo.com&path=%2F#🇺🇸 United States | Inception Hosting Limited 2
-trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142/?type=tcp&amp;security=tls&amp;sni=static.rutube.ru&amp;allowInsecure=1#🇺🇸 United States | Unitas Global 1
-vless://382a883d-aff1-4850-9c54-bca118f59e5a@69.63.215.138:50159?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FIfvMYBmBPgASKrykRrkVOld-45nTrKpY7T8ijiyuSE&sid=eb281e128c41c864&sni=www.cloudflare.com#🇺🇸 United States | DMIT Cloud Services 1
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.229:443?flow=xtls-rprx-vision&fp=ios&host=yahoo.com&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com#🇺🇸 United States | Inception Hosting Limited 3
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.16:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 United States | Inception Hosting Limited 4
