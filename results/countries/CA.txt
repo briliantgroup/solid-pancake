@@ -3,40 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.110:80?security=none&type=ws&path=/http&host=de.vpnbase.net&packetEncoding=xudp&encryption=none#🇨🇦 Canada | CF 1
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.7.70:443?type=ws&security=tls&path=/&sni=de-new.ariyuz.org#🇨🇦 Canada | CF 2
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.6.70:443?path=/?TELEGRAM-TOOTFFARANGI?ed=512&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#🇨🇦 Canada | CF 3
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.44:443?type=ws&security=tls&fp=chrome&sni=de-new.ariyuz.org#🇨🇦 Canada | CF 4
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.19.45.195:443?type=ws&security=tls&fp=chrome&sni=de-new-1.ariyuz.org#🇨🇦 Canada | CF 5
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.42:443?type=ws&security=tls&fp=chrome&sni=de-new-1.ariyuz.org#🇨🇦 Canada | CF 6
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.63.25:443?fp=unsafe&path=%2F&security=tls&sni=de-new-1.ariyuz.org&type=ws#🇨🇦 Canada | CF 7
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@188.114.97.6:443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new-1.ariyuz.org#🇨🇦 Canada | CF 8
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.46:443?type=ws&security=tls&fp=chrome&sni=de-new.ariyuz.org#🇨🇦 Canada | CF 9
-vless://f178a8ac-48ca-4510-8a16-4ef6f972f240@104.16.71.7:443?path=%2FeyJqdW5rIjoiOE9MZ0g0cE00WlMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=FlorAL-Fire-1f55.VeeGshHEeHh.WOrKeRs.dev#🇨🇦 Canada | CF 10
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.18.1.1:443?type=ws&headerType=none&security=tls&encryption=none&sni=germany-2.ariyuz.org.&fp=ios&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2F&host=germany-2.ariyuz.org.&insecure=0#🇨🇦 Canada | CF 11
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@104.18.28.234:2053?type=ws&security=tls&fp=chrome&sni=po.fastbrokencompony.com#🇨🇦 Canada | CF 12
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?encryption=none&type=ws&path=/http&host=de.vpnbase.net#🇨🇦 Canada | CF 13
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@188.114.97.6:2095?path=%2F&security=none&encryption=none&host=download.pusytroller.gq&type=ws#🇨🇦 Canada | CF 14
-vless://e8a2c7f9-cfec-46e0-a91a-a1394aaa90e4@104.21.31.99:443?security=tls&type=ws&path=/kXHZ0iPM96r8UDUAsTH2scSHpeWN&host=6-m23.dAEGu2031.ccWu.Cc&packetEncoding=xudp&sni=6-m23.DAEgU2031.ccWU.CC&fp=chrome#🇨🇦 Canada | CF 15
-vless://1078d418-b4e0-4668-9018-dc90c2042d61@172.67.118.45:443?encryption=none&type=ws&host=workspace.evan00.dpdns.org&path=%2F&security=tls&fp=chrome&sni=workspace.evan00.dpdns.org#🇨🇦 Canada | CF 16
-vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?security=tls&type=ws&path=/&host=workspace.evan00.dpdns.org&packetEncoding=xudp&sni=workspace.evan00.dpdns.org&fp=randomized#🇨🇦 Canada | CF 17
-vless://e8a2c7f9-cfec-46e0-a91a-a1394aaa90e4@172.67.164.20:443?encryption=none&type=ws&host=4-M23.dAEgu2032.cCwu.Cc&path=%2FkXHZ0iPM96r8UDUAsTH2scSHpeWN&security=tls&fp=chrome&sni=4-m23.dAeGU2032.CcWu.CC#🇨🇦 Canada | CF 18
-vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇨🇦 Canada | CF 19
-vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@cf.130209.xyz:2053?fp=edge&host=usa.105794.xyz&path=%2Fdownload%2Fv3%2Finstaller-x64.bin&security=tls&sni=usa.105794.xyz&type=ws#🇨🇦 Canada | CF 20
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443?#🇨🇦 Canada | OVH 1
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080?#🇨🇦 Canada | DO 1
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtQ0EtMTQwMzEwNTgiLCJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI1MyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇨🇦 Canada | Palmira Hosting LLC 1
-vless://339db138-41ff-44e9-a323-46da89fbf1a7@66.70.179.198:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=0KeXfLKnfTgIL7U-hSEn284rsECLiru0s0Rd11XzyzQ&sid=d823e50b944daee4&sni=www.apple.com#🇨🇦 Canada | OVH 2
-vless://d9e4721d-cdac-44c7-bc91-117367eac194@216.152.147.28:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=kjiuPmjM4IutdZudHfcPZHEwcrBEFY4qBLlvfC6A_Ss&sid=b9f8d3f8&type=tcp&headerType=none#🇨🇦 Canada | GTHost 1
-vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#🇨🇦 Canada | OVH 3
-vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@184.107.141.174:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&security=reality&sid=b91a73752053b039&sni=ca.servers.gracevpnbuy.com&type=tcp#🇨🇦 Canada | Jean-Denis Boivin 1
-vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#🇨🇦 Canada | Azure 1
-vmess://eyJhZGQiOiIyMTYuMTI4LjE3Ni4xNjYiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZWJjYTU1OWMtYTRhMS00MDYyLTk0NTMtNjQxMmQ4ZmY1MjU1IiwibmV0Ijoid3MiLCJwYXRoIjoiL2ViY2E1NTljLWE0YTEtNDA2Mi05NDUzLTY0MTJkOGZmNTI1NSIsInBvcnQiOiIyODgwOSIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇨🇦 Canada | Vultr 1
-vless://f9c6ae5c-a537-4ce1-8ad5-d1e579e0275f@209.200.246.86:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ECtV4BdcZKXG49uHtDX-71e1YVr7gu54ykbaBms9kh4&sid=c2f3117b3268d0a6&sni=www.cloudflare.com#🇨🇦 Canada | Regxa Company for Informatio... 1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443?#🇨🇦 Canada | DataCamp Limited 1
-vless://6ca50712-c5cd-4e32-97c5-bfa6485b848a@209.200.246.143:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6clD-wWfOGRFlh91SRgnfvtO6BjZP7LM2-B4u7x3gh0&sid=03c7c40feb004001&sni=www.cloudflare.com#🇨🇦 Canada | Regxa Company for Informatio... 2
-trojan://humanity@104.18.9.83:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#🇨🇦 Canada | CF 21
-vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@172.67.118.45:443?&security=tls&fp=chrome&sni=zero.csmaster.ggff.net&type=ws&headerType=none&host=zero.csmaster.ggff.net&path=%2F#🇨🇦 Canada | CF 22
-vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@172.64.157.48:8443?fp=edge&host=hongkong.11459178.xyz&path=%2Fcdn%2Fpackages%2Fruntime-core.tar.gz&security=tls&sni=hongkong.11459178.xyz&type=ws#🇨🇦 Canada | CF 23
-vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@104.19.149.99:8443?fp=edge&host=hongkong.11459178.xyz&path=%2Fcdn%2Fpackages%2Fruntime-core.tar.gz&security=tls&sni=hongkong.11459178.xyz&type=ws#🇨🇦 Canada | CF 24
-vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@xmm5.130209.xyz:8443?&security=tls&fp=edge&sni=hongkong.11459178.xyz&type=ws&headerType=none&host=hongkong.11459178.xyz&path=%2Fcdn%2Fpackages%2Fruntime-core.tar.gz#🇨🇦 Canada | CF 25
+vless://c0f16ee2-a909-4890-ab1c-96489230658a@172.67.178.251:443?security=tls&type=ws&path=/vless&host=admin.jikebet.com&sni=admin.jikebet.com&fp=chrome#🇨🇦 Canada | CF 1
+vless://c0f16ee2-a909-4890-ab1c-96489230658a@104.21.67.41:443?path=%2Fvless&security=tls&encryption=none&insecure=0&host=admin.jikebet.com&fp=chrome&type=ws&allowInsecure=0&sni=admin.jikebet.com#🇨🇦 Canada | CF 2
+vless://c0f16ee2-a909-4890-ab1c-96489230658a@172.64.80.1:443?path=/vless&security=tls&encryption=none&insecure=0&host=admin.jikebet.com&fp=chrome&type=ws&allowInsecure=0&sni=admin.jikebet.com#🇨🇦 Canada | CF 3
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.21.111:2095?security=&encryption=none&host=fangbinxingnmsl.pusytroller.gq&type=ws#🇨🇦 Canada | CF 4
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.144.82:2095?&type=ws&headerType=none&host=fangbinxingnmsl.pusytroller.gq&path=%2F#🇨🇦 Canada | CF 5
+vless://e8a2c7f9-cfec-46e0-a91a-a1394aaa90e4@172.67.176.49:443?encryption=none&type=ws&host=2-m23.DaegU2031.ccwU.CC&path=%2FkXHZ0iPM96r8UDUAsTH2scSHpeWN&security=tls&fp=chrome&sni=2-M23.daeGU2031.cCWu.cc#🇨🇦 Canada | CF 6
+vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?security=tls&type=ws&path=/&host=workspace.evan00.dpdns.org&packetEncoding=xudp&sni=workspace.evan00.dpdns.org&fp=chrome#🇨🇦 Canada | CF 7
+vless://1078d418-b4e0-4668-9018-dc90c2042d61@172.67.118.45:443?type=ws&security=tls&fp=chrome&sni=workspace.evan00.dpdns.org#🇨🇦 Canada | CF 8
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.43.174:2095?security=none&type=ws&path=%2F&host=fuckingfangbinxing.pusytroller.cf&encryption=none#🇨🇦 Canada | CF 9
+vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@172.67.118.45:443?&security=tls&fp=chrome&sni=zero.csmaster.ggff.net&type=ws&headerType=none&host=zero.csmaster.ggff.net&path=%2F#🇨🇦 Canada | CF 10
+vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@172.67.69.106:443?encryption=none&type=ws&host=zero.csmaster.ggff.net&path=%2F&security=tls&fp=chrome&sni=zero.csmaster.ggff.net#🇨🇦 Canada | CF 11
+vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@172.64.157.48:8443?fp=edge&host=hongkong.11459178.xyz&path=%2Fcdn%2Fpackages%2Fruntime-core.tar.gz&security=tls&sni=hongkong.11459178.xyz&type=ws#🇨🇦 Canada | CF 12
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ro-3.ariyuz.org&type=ws&headerType=none&host=ro-3.ariyuz.org&path=%2F#🇨🇦 Canada | CF 13
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.27:443?type=ws&security=tls&sni=ro.ariyuz.org#🇨🇦 Canada | CF 14

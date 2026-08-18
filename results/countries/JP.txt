@@ -3,45 +3,91 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.40:10000?type=tcp&security=none&encryption=none#🇯🇵 Japan | Alpha JP Sub1 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1VEJqWmhEbU9Nd0JWQUpJ@45.32.16.53:8388?#🇯🇵 Japan | Vultr 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXYkVOMGc2UmJuc3llOEVKWno5NE9G@108.61.223.231:443?#🇯🇵 Japan | Vultr 2
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443?#🇯🇵 Japan | DataCamp Limited 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE@176.97.73.215:8388#🇯🇵 Japan | IROKO Networks Corporation 1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443?#🇯🇵 Japan | DataCamp Limited 2
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443?#🇯🇵 Japan | DataCamp Limited 3
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#🇯🇵 Japan | Contabo 1
-vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:445?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&sid=c226283c4de5b1ad&sni=ads.x5.ru#🇯🇵 Japan | Vladislav Nitsenko 1
-vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?type=grpc&security=reality&fp=firefox&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&sid=c226283c4de5b1ad&sni=ads.x5.ru&serviceName=grpc#🇯🇵 Japan | Vladislav Nitsenko 2
-trojan://PQ05174892@13.114.14.77:443?sni=pretty-rat.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 1
-trojan://PQ05174892@54.238.4.188:443?sni=pumped-clam.rooster465.autos&allowInsecure=1&type=tcp#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 2
-trojan://PQ05174892@18.183.172.58:443?sni=picked-hippo.rooster465.autos&allowInsecure=1&type=tcp#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 3
-trojan://AE62539071@43.207.235.64:443?sni=real-cardinal.rooster465.autos&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 4
-trojan://FH72359861@57.180.38.121:443?security=tls&sni=champion-panther.rooster465.autos&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 5
-trojan://FH72359861@54.249.121.222:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=lucky-primate.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 6
-trojan://ND91608427@54.249.34.120:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=social-mutt.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 7
-trojan://ND91608427@18.178.132.111:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=devoted-heron.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 8
-trojan://PQ05174892@3.112.19.207:443?sni=amazed-burro.rooster465.autos&type=tcp&fp=chrome#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 9
-trojan://FH72359861@52.195.233.147:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=touching-ostrich.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 10
-trojan://PQ05174892@54.249.221.234:443?sni=open-caribou.rooster465.autos&type=tcp&fp=chrome#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 11
-trojan://FH72359861@18.181.200.117:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=sacred-shepherd.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 12
-trojan://FH72359861@13.231.237.228:443?security=tls&sni=classic-pug.rooster465.autos&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 13
-trojan://AE62539071@13.115.52.58:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=wise-longhorn.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 14
-trojan://PQ05174892@18.183.179.0:443?sni=key-sponge.rooster465.autos&allowInsecure=1&type=tcp#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 15
+trojan://FH72359861@52.195.233.147:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=touching-ostrich.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 1
+trojan://AE62539071@18.183.140.61:443?sni=harmless-imp.rooster465.autos&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 2
+trojan://AE62539071@18.179.15.13:443?sni=shining-haddock.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 3
+trojan://AE62539071@3.112.4.72:443?sni=definite-hen.rooster465.autos&allowInsecure=1&type=tcp#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 4
+trojan://PQ05174892@18.182.55.209:443?sni=prime-quail.rooster465.autos&allowInsecure=1&type=tcp#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 5
+trojan://AE62539071@13.113.43.109:443?sni=learning-ibex.rooster465.autos&allowInsecure=1&type=tcp#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 6
+trojan://AE62539071@35.72.10.188:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=immortal-woodcock.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 7
+trojan://FH72359861@funny-squid.rooster465.autos:443?security=tls#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 8
+trojan://PQ05174892@13.192.168.51:443?sni=learning-leopard.rooster465.autos&allowInsecure=1&type=tcp#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 9
+trojan://FH72359861@54.248.67.10:443?sni=funny-squid.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 10
+trojan://AE62539071@frank-frog.rooster465.autos:443?security=tls#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 11
+trojan://PQ05174892@key-sponge.rooster465.autos:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=key-sponge.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 12
+trojan://AE62539071@polished-katydid.rooster465.autos:443?security=tls#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 13
+trojan://AE62539071@13.158.135.118:443?type=raw&sni=literate-cow.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 14
+trojan://AE62539071@18.183.216.49:443?sni=fun-poodle.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 15
+trojan://PQ05174892@13.230.240.243:443?sni=ready-monarch.rooster465.autos&allowInsecure=1&type=tcp#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 16
+trojan://ND91608427@18.181.175.120:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=sure-humpback.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 17
+trojan://FH72359861@13.115.163.4:443?sni=devoted-zebra.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 18
+trojan://FH72359861@engaged-lionfish.rooster465.autos:443?security=tls#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 19
+trojan://FH72359861@3.112.250.103:443?sni=flexible-pony.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 20
+trojan://PQ05174892@43.207.145.97:443?sni=engaged-antelope.rooster465.autos&allowInsecure=1&type=tcp#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 21
+trojan://AE62539071@joint-ewe.rooster465.autos:443?security=tls#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 22
+trojan://FH72359861@54.238.168.66:443?sni=diverse-hawk.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 23
+trojan://AE62539071@13.231.232.184:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=better-molly.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 24
+trojan://HC04361579@52.195.208.128:443?sni=legible-ocelot.rooster465.autos&allowInsecure=1&type=tcp#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 25
+trojan://AE62539071@54.249.33.71:443?sni=outgoing-ladybird.rooster465.autos&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 26
+trojan://PQ05174892@54.199.28.234:443?sni=robust-toucan.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 27
+trojan://FH72359861@52.196.34.5:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=welcome-owl.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 28
+trojan://AE62539071@13.231.24.177:443?sni=easy-barnacle.rooster465.autos&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 29
+trojan://AE62539071@57.181.88.104:443?sni=climbing-frog.rooster465.autos&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 30
+trojan://AE62539071@43.207.176.210:443?sni=whole-perch.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 31
+trojan://PQ05174892@54.65.206.173:443?sni=major-duckling.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 32
+trojan://PQ05174892@52.195.206.148:443?sni=fair-kingfish.rooster465.autos&allowInsecure=1&type=tcp#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 33
+trojan://ND91608427@3.113.1.131:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=perfect-slug.rooster465.autos&allow_insecure=0#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 34
+trojan://FH72359861@internal-mongoose.rooster465.autos:443?security=tls&sni=internal-mongoose.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 35
+trojan://PQ05174892@52.196.139.154:443?security=tls&sni=sterling-vervet.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 36
+trojan://PQ05174892@43.206.241.145:443?security=tls&sni=concise-guinea.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 37
+trojan://AE62539071@52.195.10.183:443?sni=improved-anteater.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 38
+trojan://ND91608427@18.178.132.111:443?security=tls&sni=devoted-heron.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 39
+trojan://AE62539071@real-cardinal.rooster465.autos:443?security=tls#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 40
+trojan://ND91608427@social-mutt.rooster465.autos:443?security=tls&sni=social-mutt.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 41
+trojan://AE62539071@18.183.109.172:443?sni=well-jennet.rooster465.autos&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 42
+trojan://PQ05174892@champion-alien.rooster465.autos:443?security=tls#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 43
+trojan://FH72359861@casual-stallion.rooster465.autos:443?security=tls#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 44
+trojan://PQ05174892@18.182.64.217:443?sni=moved-weasel.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 45
+trojan://AE62539071@13.115.52.58:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=wise-longhorn.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 46
 vless://048a61f8-b236-4082-b1c3-c22a85693c12@162.128.181.182:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gcqSfWJ1yR5Aa2fsBYZ3vyaC0yQnil4qqNMZN4weZlE&sid=674a07ea4d1c4255&sni=www.cloudflare.com#🇯🇵 Japan | Zenlayer Inc 1
-trojan://PQ05174892@52.193.0.187:443?sni=humane-hawk.rooster465.autos&type=tcp&fp=chrome#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 16
-trojan://FH72359861@52.195.225.156:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=many-pangolin.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 17
-trojan://ND91608427@3.112.15.214:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=adjusted-labrador.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 18
-trojan://AE62539071@43.207.166.211:443?sni=proper-mouse.rooster465.autos&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 19
-trojan://PQ05174892@43.206.241.145:443?security=tls&sni=concise-guinea.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 20
-trojan://PQ05174892@3.113.6.163:443?sni=together-amoeba.rooster465.autos&allowInsecure=1&type=tcp#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 21
-trojan://AE62539071@54.249.80.161:443?sni=deep-ringtail.rooster465.autos&type=tcp&fp=chrome#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 22
-trojan://FH72359861@13.113.71.200:443?allowInsecure=0&sni=trusting-elf.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 23
-trojan://ND91608427@3.112.223.141:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=internal-sunbird.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 24
-trojan://FH72359861@3.112.69.18:443?sni=light-filly.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 25
-trojan://AE62539071@13.115.158.235:443?sni=prepared-thrush.rooster465.autos&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 26
-trojan://PQ05174892@54.199.63.163:443?sni=musical-mouse.rooster465.autos&allowInsecure=1&type=tcp#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 27
-trojan://FH72359861@54.249.17.79:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=flying-swift.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 28
-trojan://AE62539071@43.207.140.98:443?sni=right-seahorse.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 29
-trojan://FH72359861@18.183.245.11:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=bright-buffalo.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 30
-trojan://AE62539071@54.249.34.120:443?sni=social-mutt.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 31
+trojan://FH72359861@13.114.70.20:443?sni=brave-cattle.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 47
+trojan://FH72359861@13.113.172.232:443?sni=sure-husky.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 48
+trojan://PQ05174892@13.113.231.8:443?sni=unbiased-coyote.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 49
+trojan://FH72359861@18.177.139.241:443?sni=steady-prawn.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 50
+trojan://FH72359861@52.195.225.156:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=many-pangolin.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 51
+trojan://PQ05174892@52.195.7.13:443?sni=intense-kid.rooster465.autos&allowInsecure=1&type=tcp#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 52
+trojan://AE62539071@well-jennet.rooster465.autos:443?security=tls#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 53
+trojan://AE62539071@deep-ringtail.rooster465.autos:443?security=tls#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 54
+trojan://AE62539071@3.112.200.59:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=new-eagle.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 55
+trojan://AE62539071@52.194.186.154:443?sni=evolving-kangaroo.rooster465.autos&type=tcp&fp=chrome#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 56
+trojan://ND91608427@adjusted-labrador.rooster465.autos:443?security=tls&sni=adjusted-labrador.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 57
+trojan://PQ05174892@13.114.14.77:443?sni=pretty-rat.rooster465.autos&allowInsecure=1&type=tcp#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 58
+trojan://FH72359861@18.183.164.199:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=helping-shark.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 59
+trojan://FH72359861@54.249.17.79:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=flying-swift.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 60
+trojan://AE62539071@43.207.118.231:443?sni=joint-ewe.rooster465.autos&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 61
+trojan://FH72359861@18.181.213.219:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lasting-jaguar.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 62
+trojan://AE62539071@whole-grub.rooster465.autos:443?security=tls#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 63
+trojan://PQ05174892@13.159.17.90:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=outgoing-cockatoo.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 64
+trojan://AE62539071@clear-heron.rooster465.autos:443?security=tls#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 65
+vless://696338ec-091d-4b41-b855-8f88d5b5d873@103.76.85.228:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oCsEp9srC8WQ7ZAsGSqD0QZ9MrNtIrUyllSZcgTfd28&sid=b81f60db2e3d6346&sni=www.apple.com#🇯🇵 Japan | Toko Communications Co., Ltd 1
+trojan://ND91608427@real-werewolf.rooster465.autos:443?security=tls&sni=real-werewolf.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 66
+trojan://FH72359861@3.112.69.18:443?sni=light-filly.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 67
+trojan://AE62539071@13.115.158.235:443?sni=prepared-thrush.rooster465.autos&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 68
+trojan://FH72359861@54.168.199.96:443?sni=steady-lemming.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 69
+trojan://PQ05174892@54.238.100.160:443?security=tls&sni=witty-duckling.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 70
+trojan://FH72359861@touching-ostrich.rooster465.autos:443?security=tls&sni=touching-ostrich.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 71
+trojan://AE62539071@13.113.89.229:443?sni=coherent-newt.rooster465.autos&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 72
+trojan://AE62539071@13.231.222.134:443?sni=grateful-crawdad.rooster465.autos&allowInsecure=1&type=tcp#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 73
+trojan://FH72359861@18.183.245.11:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=bright-buffalo.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 74
+trojan://FH72359861@18.179.31.199:443?sni=prompt-duckling.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 75
+trojan://AE62539071@wise-longhorn.rooster465.autos:443?type=tcp&security=tls&sni=wise-longhorn.rooster465.autos&fp=chrome#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 76
+trojan://AE62539071@13.230.97.36:443?sni=known-albacore.rooster465.autos&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 77
+trojan://AE62539071@54.64.255.224:443?security=tls&sni=maximum-elk.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 78
+trojan://PQ05174892@3.113.6.163:443?sni=together-amoeba.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 79
+trojan://PQ05174892@54.238.4.188:443?sni=pumped-clam.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 80
+trojan://FH72359861@57.180.34.69:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=magical-airedale.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 81
+trojan://AE62539071@13.115.54.131:443?sni=intense-wildcat.rooster465.autos&type=tcp&path=/#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 82
+vless://6a1f6c94-7785-42e2-9203-381d1f4db37e@103.100.158.10:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1xIu8ESLs4JviWXp8XaOceWAEVHqWLzNIiojA_uf8Ug&sid=83feb7aa267e9ddf&sni=www.apple.com#🇯🇵 Japan | GCP 1
+trojan://FH72359861@13.114.84.244:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=adapting-giraffe.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 83
+trojan://FH72359861@54.150.234.233:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=needed-gelding.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 84
+vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@64.176.36.17:443?type=ws&security=tls&fp=firefox&sni=zero.csmaster.ggff.net#🇯🇵 Japan | Vultr 1
