@@ -3,16 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjowLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsIm5ldCI6InRjcCIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjcgSm9pbitUZWxlZ3JhbTpAU29sVlBOIFx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ2IjoiMiJ9#🇰🇷 South Korea | Oracle Cloud Infrastructure ... 1
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652?#🇰🇷 South Korea | broadNnet 1
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123?#🇰🇷 South Korea | SK Broadband Co Ltd 1
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@27.255.82.134:2078?#🇰🇷 South Korea | Ehostict 1
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.139.79.57:13979?#🇰🇷 South Korea | SK Broadband Co Ltd 2
-trojan://ND91608427@43.201.103.8:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=intimate-moray.rooster465.autos#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 1
-trojan://PQ05174892@43.203.240.219:443?type=tcp&security=none&encryption=none&sni=precious-stag.rooster465.autos#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 2
-trojan://FH72359861@13.125.156.56:443?type=tcp&security=none&encryption=none&sni=gentle-platypus.rooster465.autos#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 3
-trojan://ND91608427@43.202.56.122:443?security=tls&sni=striking-maggot.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 4
-trojan://FH72359861@13.125.17.253:443?type=tcp&security=none&encryption=none&sni=lasting-bobcat.rooster465.autos#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 5
-trojan://PQ05174892@13.209.18.180:443?type=tcp&security=none&encryption=none&sni=musical-manatee.rooster465.autos#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 6
-trojan://ND91608427@52.78.13.238:443?security=tls&sni=upward-puma.rooster465.autos&path=/#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 7
-trojan://HC04361579@54.180.237.220:443?type=raw&sni=key-barnacle.rooster465.autos#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 8
+vless://8d4cffc5-5b52-4cef-8059-2095c100a8a7@183.107.137.157:36389?encryption=none&type=ws&sni=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&security=tls&fp=chrome&ech=cloudflare-ech.com&host=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&path=/@Marisa_kristi&packetEncoding=xudp&udp=1#🇰🇷 South Korea | Korea Telecom 1

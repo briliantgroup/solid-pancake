@@ -3,7 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@130.49.189.41:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs&sid=4fa44664f6a566d3&sni=youtube.superbuba.top#🇦🇱 Albania | Global Connectivity Solution... 1
-vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@78.159.131.235:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#🇦🇱 Albania | Global Connectivity Solution... 2
-vless://1da18def-6804-44c8-bb6d-83cff995f567@78.159.131.235:443?pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&security=reality&sni=yahoo.com&sid=7bcfc0bc&fp=chrome&flow=xtls-rprx-vision&type=tcp&headerType=none&encryption=none#🇦🇱 Albania | Global Connectivity Solution... 3
-vless://604c8c22-1524-4a3f-b85f-d3375482dcc4@85.155.228.35:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=Q0351ApYOgCGCOgSEROnacDdm7xp-kLs9mYddSDFwRQ&sid=360881fdb193758d&sni=github.com#🇦🇱 Albania | Andrew Kristuli 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXMG9tdmN1eWV6aG5SaG4zeHRMSlJV@130.49.189.158:10792#🇦🇱 Albania | Global Connectivity Solution... 1
+vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@130.49.189.41:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs&sid=4fa44664f6a566d3&sni=youtube.superbuba.top#🇦🇱 Albania | Global Connectivity Solution... 2
