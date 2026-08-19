@@ -3,8 +3,24 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://c7e9c591-2764-423a-afca-efbd010fd396@54.229.164.147:2053?fp=chrome&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#🇮🇪 Ireland | AWS EC2 (eu-west-1) 1
-trojan://FH72359861@108.130.49.217:443?allowInsecure=1&sni=concise-bass.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 2
-trojan://FH72359861@3.253.78.205:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=balanced-heron.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 3
-trojan://AE62539071@54.74.210.220:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=funny-hen.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 4
-trojan://AE62539071@54.74.159.195:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=kind-stork.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 5
+vless://c7e9c591-2764-423a-afca-efbd010fd396@54.229.164.147:2053?encryption=none&type=ws&security=tls&sni=forfreeuse.rtqa.ru#🇮🇪 Ireland | AWS EC2 (eu-west-1) 1
+trojan://PQ05174892@108.130.49.217:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=concise-bass.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 2
+trojan://FH72359861@54.216.139.140:443?allowInsecure=1&sni=cunning-grub.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 3
+trojan://PQ05174892@34.244.253.42:443?sni=nice-elephant.rooster465.autos&allowInsecure=1&type=tcp#🇮🇪 Ireland | AWS EC2 (eu-west-1) 4
+trojan://EQ30679154@54.217.133.71:443?sni=willing-beagle.rooster465.autos&type=tcp&fp=chrome#🇮🇪 Ireland | AWS EC2 (eu-west-1) 5
+trojan://FH72359861@108.130.49.217:443?allowInsecure=1&sni=concise-bass.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 6
+trojan://FH72359861@108.128.201.154:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=touching-turtle.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 7
+trojan://AE62539071@54.170.38.205:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=unbiased-garfish.rooster465.autos&allow_insecure=0#🇮🇪 Ireland | AWS EC2 (eu-west-1) 8
+trojan://AE62539071@108.130.137.102:443?fp=chrome&sni=worthy-labrador.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 9
+trojan://PQ05174892@54.217.167.110:443?sni=glowing-filly.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland | AWS EC2 (eu-west-1) 10
+trojan://FH72359861@34.245.159.68:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=summary-firefly.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 11
+trojan://FH72359861@3.253.78.205:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=balanced-heron.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 12
+trojan://AE62539071@18.201.47.180:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=healthy-panda.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 13
+trojan://AE62539071@54.74.210.220:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=funny-hen.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 14
+trojan://PQ05174892@18.201.47.180:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=healthy-panda.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 15
+trojan://EQ30679154@54.74.185.175:443?sni=romantic-kangaroo.rooster465.autos&type=tcp&fp=chrome#🇮🇪 Ireland | AWS EC2 (eu-west-1) 16
+trojan://FH72359861@54.72.58.12:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=darling-mongrel.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 17
+trojan://AE62539071@18.201.28.146:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=helped-haddock.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 18
+trojan://PQ05174892@108.130.137.102:443?type=tcp&security=none&encryption=none&sni=worthy-labrador.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 19
+trojan://UO36402987@34.251.228.118:443?type=raw&headerType=none&security=tls&fp=chrome&sni=definite-ladybird.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 20
+trojan://AE62539071@54.74.159.195:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=kind-stork.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 21
