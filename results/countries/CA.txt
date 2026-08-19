@@ -3,30 +3,26 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@188.114.96.19:2053?type=ws&security=tls&encryption=none&path=%2F&sni=po.fastbrokencompony.com&fp=chrome&alpn=h2%2Chttp%2F1.1&headerType=none#🇨🇦 Canada | CF 1
-vless://05cf7b0e-ad1a-42bb-80e7-73ae45b1019a@172.67.201.133:8443?encryption=none&security=tls&sni=france.io-com-de-dev.org&alpn=http%2F1.1&fp=chrome&type=ws&host=france.io-com-de-dev.org&path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Fx9i2#🇨🇦 Canada | CF 2
-vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@104.18.32.47:2053?encryption=none&security=tls&sni=ov.iran-servers.shop&fp=chrome&type=ws&host=ov.iran-servers.shop&path=%2FJ5aLQOY1R9ONWYCM#🇨🇦 Canada | CF 3
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@104.16.118.43:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#🇨🇦 Canada | CF 4
-vmess://ewogICAgImFkZCI6ICJydXNoLXcxbml1LnRlZW9wcC5vbmxpbmUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJydXNoLXcxbml1LnRlZW9wcC5vbmxpbmUiLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yMS40My45Mi0wMzA3IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=#🇨🇦 Canada | CF 5
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.145.202:2095?&type=ws&headerType=none&host=fangbinxingnmsl.pusytroller.gq&path=%2F#🇨🇦 Canada | CF 6
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.144.82:2095?&type=ws&headerType=none&host=fangbinxingnmsl.pusytroller.gq&path=%2F#🇨🇦 Canada | CF 7
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.72.41:2095?security=none&path=/&encryption=none&type=ws&host=fuckfangbinxing.pusytroller.gq#🇨🇦 Canada | CF 8
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.38.47:2095?&type=ws&headerType=none&host=fangbinxingnmsl.pusytroller.gq&path=%2F#🇨🇦 Canada | CF 9
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@162.159.36.5:2095?&type=ws&headerType=none&host=fangbinxingnmsl.pusytroller.gq&path=%2F#🇨🇦 Canada | CF 10
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.28.234:2095?path=%2F&security=none&encryption=none&host=fuckingfangbinxing.pusytroller.cf&type=ws#🇨🇦 Canada | CF 11
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.41.190:2095?security=none&type=ws&path=/&host=fuckingfangbinxing.pusytroller.cf&encryption=none#🇨🇦 Canada | CF 12
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.185.207:2095?&type=ws&headerType=none&host=fangbinxingnmsl.pusytroller.gq&path=%2F#🇨🇦 Canada | CF 13
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.148.244:2095?path=/&security=none&encryption=none&type=ws&host=fuckingfangbinxing.pusytroller.cf#🇨🇦 Canada | CF 14
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&host=download.pusytroller.gq&path=/&security=none&type=ws#🇨🇦 Canada | CF 15
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.21.76.231:2095?type=ws&host=nmslfangbinxing.pusytroller.gq&path=%2F#🇨🇦 Canada | CF 16
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.98:2095?security=none&type=ws&path=/&host=fuckingfangbinxing.pusytroller.cf&packetEncoding=xudp#🇨🇦 Canada | CF 17
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.43.174:2095?security=none&type=ws&path=%2F&host=fuckingfangbinxing.pusytroller.cf&encryption=none#🇨🇦 Canada | CF 18
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.185.26:2095?&type=ws&headerType=none&host=fangbinxingnmsl.pusytroller.gq&path=%2F#🇨🇦 Canada | CF 19
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.161.104:2095?&type=ws&headerType=none&host=fangbinxingnmsl.pusytroller.gq&path=%2F#🇨🇦 Canada | CF 20
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.21.111:2095?security=&encryption=none&host=fangbinxingnmsl.pusytroller.gq&type=ws#🇨🇦 Canada | CF 21
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.202.17:2095?path=%2F&security=&encryption=none&host=fuckfangbinxing.pusytroller.gq&type=ws#🇨🇦 Canada | CF 22
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.21.74.214:2095?security=false&type=ws&headerType=none&host=download.pusytroller.gq&path=%2F&fp=chrome#🇨🇦 Canada | CF 23
-vless://e8a2c7f9-cfec-46e0-a91a-a1394aaa90e4@172.67.176.49:443?encryption=none&security=tls&sni=2-M23.daeGU2031.cCWu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=2-m23.DaegU2031.ccwU.CC&path=%2FkXHZ0iPM96r8UDUAsTH2scSHpeWN#🇨🇦 Canada | CF 24
-vless://e8a2c7f9-cfec-46e0-a91a-a1394aaa90e4@172.67.164.20:443?encryption=none&security=tls&sni=4-m23.dAeGU2032.CcWu.CC&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=4-M23.dAEgu2032.cCwu.Cc&path=%2FkXHZ0iPM96r8UDUAsTH2scSHpeWN#🇨🇦 Canada | CF 25
-vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@172.67.69.106:443?encryption=none&type=ws&host=zero.csmaster.ggff.net&path=%2F&security=tls&fp=chrome&sni=zero.csmaster.ggff.net#🇨🇦 Canada | CF 26
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.27:443?type=ws&security=tls&fp=chrome&sni=ro.ariyuz.org#🇨🇦 Canada | CF 27
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.117.43:443?type=ws&security=tls&path=/&sni=de-new.ariyuz.org#🇨🇦 Canada | CF 1
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.80.73:443?type=ws&security=tls&fp=chrome&sni=de-new.ariyuz.org#🇨🇦 Canada | CF 2
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.44:443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#🇨🇦 Canada | CF 3
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.46:443?type=ws&security=tls&fp=chrome&sni=de-new.ariyuz.org#🇨🇦 Canada | CF 4
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.7.70:443?type=ws&security=tls&fp=chrome&sni=de-new.ariyuz.org#🇨🇦 Canada | CF 5
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.89.120:443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new-1.ariyuz.org#🇨🇦 Canada | CF 6
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.17.21.111:443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new-1.ariyuz.org#🇨🇦 Canada | CF 7
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@104.21.74.214:2053?type=ws&security=tls&fp=chrome&sni=po.fastbrokencompony.com#🇨🇦 Canada | CF 8
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@188.114.97.6:2053?type=ws&security=tls&fp=ios&sni=po.fastbrokencompony.com#🇨🇦 Canada | CF 9
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.63.25:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=germany-2.ariyuz.org&type=ws&headerType=none&host=germany-2.ariyuz.org&path=%2F#🇨🇦 Canada | CF 10
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.62.25:443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new-1.ariyuz.org#🇨🇦 Canada | CF 11
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@cf.levikogjgfdd.ir:2053?path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=ios&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#🇨🇦 Canada | CF 12
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtREUtMTUzODY2NTAiLCJhZGQiOiJjZi5sZXZpa29namdmZGQuaXIiLCJwb3J0IjoiMjA1MyIsImlkIjoiOWExYTA1ZDktNjliZS00NWQzLWUzMjYtYzY2MjFlZGY3YjMxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiIiwic25pIjoiZGVhcHAuamlzdXl1bi50b3AiLCJwYXRoIjoiXC9kZXZtIiwiaG9zdCI6ImRlYXBwLmppc3V5dW4udG9wIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇨🇦 Canada | CF 13
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.251:443?&security=tls&fp=chrome&alpn=http/1.1&sni=germany-2.ariyuz.org&type=ws&headerType=none&host=germany-2.ariyuz.org&path=/#🇨🇦 Canada | CF 14
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@104.21.41.140:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&fp=chrome&alpn=h3,h2&type=ws&host=po.fastbrokencompony.com&path=/#🇨🇦 Canada | CF 15
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@188.114.97.6:2095?path=%2F&security=none&encryption=none&host=download.pusytroller.gq&type=ws#🇨🇦 Canada | CF 16
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.21.111:2095?security=&encryption=none&host=fangbinxingnmsl.pusytroller.gq&type=ws#🇨🇦 Canada | CF 17
+vless://6ca50712-c5cd-4e32-97c5-bfa6485b848a@209.200.246.143:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6clD-wWfOGRFlh91SRgnfvtO6BjZP7LM2-B4u7x3gh0&sid=03c7c40feb004001&sni=www.cloudflare.com#🇨🇦 Canada | Regxa Company for Informatio... 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@ca225.vpnbook.com:443#🇨🇦 Canada | OVH 1
+vmess://ewogICAgImFkZCI6ICIyMy4xNjIuMjAwLjIyNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjIzLjE2Mi4yMDAuMjI3IiwKICAgICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3Z3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4eo8J+HpkNBLTIzLjE2Mi4yMDAuMjI3LTA1MjgiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==#🇨🇦 Canada | Palmira Hosting LLC 1
+vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?type=tcp&security=tls&encryption=none&fp=firefox&sni=lizca2.footballfantasyforum.com#🇨🇦 Canada | Shorefront Media Inc 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@15.235.75.71:8388#🇨🇦 Canada | OVH 2
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6IjAiLCJhbHBuIjpudWxsLCJmcCI6bnVsbCwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmFtZSI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBDQSAyIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoxODAwMCwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgSm9pbitUZWxlZ3JhbTpAU29sVlBOIFx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiIsInNjeSI6bnVsbCwic25pIjpudWxsLCJ0bHMiOiIiLCJ0eXBlIjpudWxsLCJ2IjpudWxsLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#🇨🇦 Canada | Palmira Hosting LLC 2
