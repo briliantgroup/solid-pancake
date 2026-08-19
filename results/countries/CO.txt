@@ -3,5 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.179.102:62145?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#🇨🇴 Colombia | Oracle Corporation 1
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.219.244:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Colombia | Oracle Corporation 2
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.124.143:62145?type=tcp&security=none&encryption=none#🇨🇴 Colombia | Oracle Corporation 1
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.124.70:62145?type=tcp&security=none&encryption=none#🇨🇴 Colombia | Oracle Corporation 2

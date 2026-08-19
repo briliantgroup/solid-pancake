@@ -3,11 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@216.9.224.172:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&sni=us.rexten.cc#🇹🇷 Türkiye | White Label Services, LLC 1
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none&security=none&serviceName=grpc&type=grpc#🇹🇷 Türkiye | Global Connectivity Solution... 1
-vless://b7d9d47c-1378-4e1b-83d9-51c74bd5c036@130.185.123.32:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0#🇹🇷 Turkey | Iaas 1
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@45.141.148.10:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fyOnHd_PZ6UjxCLPDFfxrT3XIJnjTpHXyluFakC3v14&security=reality&sid=95d36da964f4e951&sni=tr.savesafe.cc&type=tcp#🇹🇷 Türkiye | White Label Services, LLC 2
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@45.141.148.11:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fyOnHd_PZ6UjxCLPDFfxrT3XIJnjTpHXyluFakC3v14&security=reality&sid=95d36da964f4e951&sni=tr.savesafe.cc&type=tcp#🇹🇷 Türkiye | White Label Services, LLC 3
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@194.116.236.9:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fyOnHd_PZ6UjxCLPDFfxrT3XIJnjTpHXyluFakC3v14&security=reality&sid=95d36da964f4e951&sni=tr.savesafe.cc&type=tcp#🇹🇷 Türkiye | White Label Services, LLC 4
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@45.141.148.12:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fyOnHd_PZ6UjxCLPDFfxrT3XIJnjTpHXyluFakC3v14&security=reality&sid=95d36da964f4e951&sni=tr.savesafe.cc&type=tcp#🇹🇷 Türkiye | White Label Services, LLC 5
-vless://a7a98347-5fe4-4615-9a89-7f1ba759265e@151.241.226.201:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=_jsI5uVVqXkzCZ0OGJ5U7waecxOEiu2lm-8f8ZyW5mc&sid=f5d596282182b440&sni=www.apple.com#🇹🇷 Türkiye | Hostkey B.V 1
+vless://68bdc1ee-c6ee-4d91-ab52-35ce0d368302@193.124.46.65:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=193.124.46.65#🇹🇷 Türkiye | Baxet Group Inc 1
+trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#🇹🇷 Türkiye | Baxet Group Inc 2

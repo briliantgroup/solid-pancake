@@ -3,4 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@kz.frkn.org:443?insecure=false&up-mbps=0#🇰🇿 Kazakhstan | Beafort Limited 1
+vless://fd6011da-5c16-463d-8aaf-ff35c1b95a74@5.180.27.159:8445?encryption=none&fp=firefox&pbk=LZF1JDaVO0Mk_YHH19G5Pv1_jVKm_k_0KcJCWhMHRQo&security=reality&serviceName=grpc&sid=fe8565750f25&sni=ya.ru&type=grpc#🇰🇿 Kazakhstan | Beafort Limited 1
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.12.73.145:443?type=tcp&headerType=none&security=reality&encryption=none&sni=nordic.cendora.ru&fp=qq&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&flow=xtls-rprx-vision#🇰🇿 Kazakhstan | Netfire TEC 1
+vless://5238521b-c5dd-42af-870e-c174a2aaaafe@199.189.253.213:13443?encryption=none&security=reality&sni=auto.cendora.ru&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&flow=xtls-rprx-vision&fp=safari#🇰🇿 Kazakhstan | HostLab LLC 1
+hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@kz.frkn.org:443?insecure=false&up-mbps=0#🇰🇿 Kazakhstan | Beafort Limited 2
+vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?type=tcp&security=reality&encryption=none&fp=firefox&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa&sni=yahoo.com#🇰🇿 Kazakhstan | BEGET 1
+vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6IlZQTiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==#🇰🇿 Kazakhstan | TOO Tol'ko litsenzionnyye pr... 1
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZmYzW3d3dy52Mm5vZGVzLmNvbV0gdm1lc3MtIiwiYWRkIjoiM2gta2F6YWtoc3RhbjEuMDl2cG4uY29tIiwicG9ydCI6ODAsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwicGF0aCI6Ilwvdm1lc3NcLyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇰🇿 Kazakhstan | TOO Tol'ko litsenzionnyye pr... 2
