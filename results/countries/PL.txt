@@ -3,6 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://c7e9c591-2764-423a-afca-efbd010fd396@145.239.85.117:2053?encryption=none&fp=chrome&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#🇵🇱 Poland | OVH 1
 vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.133:2053?encryption=none&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#🇵🇱 Poland | EasyNET 1
+vless://c7e9c591-2764-423a-afca-efbd010fd396@145.239.85.117:2053?encryption=none&fp=chrome&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#🇵🇱 Poland | OVH 1
 vless://391f093f-85fc-473d-abe2-ea607b9ff567@13.143.130.130:443?alpn=http/1.1&encryption=none&fp=firefox&path=/websocket?ed=2560&security=tls&sni=api.fuck-you.dyn.site.fwqfw783rg2dad.website&type=ws#🇵🇱 Poland | Vladislav Novitskii 1
