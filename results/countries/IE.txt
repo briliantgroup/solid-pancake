@@ -4,3 +4,15 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 vless://c7e9c591-2764-423a-afca-efbd010fd396@54.229.164.147:2053?encryption=none&type=ws&security=tls&sni=forfreeuse.rtqa.ru#🇮🇪 Ireland | AWS EC2 (eu-west-1) 1
+trojan://PQ05174892@54.217.167.110:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=glowing-filly.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 2
+trojan://AE62539071@108.130.137.102:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=worthy-labrador.rooster465.autos&allow_insecure=0#🇮🇪 Ireland | AWS EC2 (eu-west-1) 3
+trojan://EQ30679154@54.74.185.175:443?sni=romantic-kangaroo.rooster465.autos&allowInsecure=1&type=tcp#🇮🇪 Ireland | AWS EC2 (eu-west-1) 4
+trojan://AE62539071@18.201.47.180:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=healthy-panda.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 5
+trojan://PQ05174892@18.201.47.180:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=healthy-panda.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 6
+trojan://FH72359861@108.128.201.154:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=touching-turtle.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 7
+trojan://FH72359861@34.245.159.68:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=summary-firefly.rooster465.autos&allow_insecure=0#🇮🇪 Ireland | AWS EC2 (eu-west-1) 8
+trojan://AE62539071@helped-haddock.rooster465.autos:443?security=tls#🇮🇪 Ireland | AWS EC2 (eu-west-1) 9
+trojan://FH72359861@54.72.58.12:443?type=raw&sni=darling-mongrel.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 10
+trojan://PQ05174892@34.244.253.42:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=nice-elephant.rooster465.autos#🇮🇪 Ireland | AWS EC2 (eu-west-1) 11
+trojan://FH72359861@cunning-grub.rooster465.autos:443?security=tls#🇮🇪 Ireland | AWS EC2 (eu-west-1) 12
+trojan://FH72359861@touching-turtle.rooster465.autos:443?security=tls#🇮🇪 Ireland | AWS EC2 (eu-west-1) 13
