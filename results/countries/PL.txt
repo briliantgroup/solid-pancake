@@ -4,4 +4,8 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 vless://c7e9c591-2764-423a-afca-efbd010fd396@145.239.85.117:2053?encryption=none&fp=chrome&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#🇵🇱 Poland | OVH 1
-vless://5ca83936-136d-4314-8453-4ba10a86cf60@api.fuck-you.dyn.site.fwqfw783rg2dad.website:443?encryption=none&security=tls&sni=api.fuck-you.dyn.site.fwqfw783rg2dad.website&insecure=0&allowInsecure=0&type=ws&path=%2Fwebsocket&fp=android#🇵🇱 Poland | Vladislav Novitskii 1
+vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.133:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#🇵🇱 Poland | EasyNET 1
+vless://5ca83936-136d-4314-8453-4ba10a86cf60@api.fuck-you.dyn.site.fwqfw783rg2dad.website:443?&security=tls&fp=firefox&sni=api.fuck-you.dyn.site.fwqfw783rg2dad.website&type=ws&headerType=none&host=api.fuck-you.dyn.site.fwqfw783rg2dad.website&path=%2Fwebsocket#🇵🇱 Poland | Vladislav Novitskii 1
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.244.146.6:443?type=ws&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net#🇵🇱 Poland | AWS CloudFront (GLOBAL) 1
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.244.146.24:443?type=ws&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net#🇵🇱 Poland | AWS CloudFront (GLOBAL) 2
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.244.146.94:443?type=ws&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net#🇵🇱 Poland | AWS CloudFront (GLOBAL) 3
