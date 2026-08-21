@@ -1,0 +1,19 @@
+#profile-update-interval: 3
+#profile-title: encode:Qm9iaVZQTiDwn4eu8J+HuSBJdGFseQ==
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#support-url: https://github.com/
+#profile-web-page-url: https://github.com/
+vless://4c7480b2-d67b-4bb9-9f33-0700dfcbdee6@116.204.164.27:7443?path=/@Marisa_kristi&security=tls&encryption=none&insecure=0&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev#🇮🇹 Italy | Netutils 1
+vless://0baed386-770e-4e17-a6ca-24349e60903f@116.204.164.17:7443?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&fp=chrome&type=ws&sni=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇮🇹 Italy | Netutils 2
+vless://4e243073-f25c-4aab-b3ff-63b6e8ef7f4b@116.204.164.27:7443?security=tls&type=ws&path=/@Marisa_kristi&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&packetEncoding=xudp&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&fp=chrome#🇮🇹 Italy | Netutils 3
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle Corporation 1
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@194.87.47.162:10901#🇮🇹 Italy | Baxet Group Inc 1
+vless://8e85752d-c04f-427d-9d70-b10d144c8492@31.77.154.15:443?type=tcp&headerType=none&security=reality&encryption=none&sni=it.horizonless.pro&fp=firefox&pbk=_j2WOC-2bKrT_NYoILpIHacMFb6rHjkC_fuqf5LCNFw&flow=xtls-rprx-vision#🇮🇹 Italy | Vladislav Nitsenko 1
+vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&sid=5b8a942318178e7b&sni=www.apple.com#🇮🇹 Italy | OVH 1
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@37.202.205.75:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=it.savesafe.cc&fp=firefox&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&sid=62b6d6e51d461d78&type=tcp&headerType=none#🇮🇹 Italy | XeniaHosting 1
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@37.202.205.70:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&sid=62b6d6e51d461d78&sni=it.savesafe.cc#🇮🇹 Italy | XeniaHosting 2
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@it.getsavesafe.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&security=reality&sid=62b6d6e51d461d78&sni=it.savesafe.cc&type=tcp#🇮🇹 Italy | XeniaHosting 3
+vless://2b622609-bb92-49e8-9631-4ada00324f47@45.155.68.9:443?type=ws&security=tls&fp=chrome&sni=it2ws.wba-pn.ru#🇮🇹 Italy | Global Connectivity Solution... 1
+vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#🇮🇹 Italy | Global Connectivity Solution... 2
+vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#🇮🇹 Italy | Oracle Corporation 2
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?path=/vless/&security=&alpn=http/1.1&encryption=none&fp=chrome&type=ws#🇮🇹 Italy | OVH 2
