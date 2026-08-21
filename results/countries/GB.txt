@@ -3,4 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://c7e9c591-2764-423a-afca-efbd010fd396@143.110.163.137:2053?encryption=none&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru&type=ws#🇬🇧 United Kingdom | DO 1
+vless://c7e9c591-2764-423a-afca-efbd010fd396@143.110.163.137:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru#🇬🇧 United Kingdom | DO 1
