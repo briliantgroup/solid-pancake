@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://c7e9c591-2764-423a-afca-efbd010fd396@70.34.197.112:443?fp=chrome&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#🇸🇪 Sweden | Vultr 1
 vless://c7e9c591-2764-423a-afca-efbd010fd396@129.151.198.3:2053?fp=chrome&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#🇸🇪 Sweden | Oracle Corporation 1
-vless://c7e9c591-2764-423a-afca-efbd010fd396@65.20.113.2:443?type=ws&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru#🇸🇪 Sweden | Vultr 2
+vless://c7e9c591-2764-423a-afca-efbd010fd396@70.34.197.112:443?type=ws&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru#🇸🇪 Sweden | Vultr 1
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.82.19:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=v1hVg2Uc7Wsc_bhlLfKkML_HUGogQA9O9n9uZFwzQSM&sid=065cf4f1c7d83e79&sni=america.cendora.ru#🇸🇪 Sweden | xorek.cloud International LT... 1
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.73.137:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&sni=eu-central.cendora.ru#🇸🇪 Sweden | xorek.cloud International LT... 2
+vless://3284cf4e-b74a-4424-ba91-f81408372c78@150.241.73.13:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=wikipedia.org&pbk=14mbxpFBwnpp817ZLgT-6dVqsOmNPIaH7ygYcYScjGg&sid=2b4790ccbac1edb2&fp=edge#🇸🇪 Sweden | xorek.cloud International LT... 3
+vless://c47b421f-65f1-4190-b7ba-bd2045086fe4@31.76.81.9:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=diw5L3O4EkRQGWDSfdpQooPUc3zBTItooeOQ_fIDFWI&sid=7f2e9c4b1a8d6e53&sni=yahoo.com#🇸🇪 Sweden | Play2go Customers Network 1
