@@ -3,5 +3,19 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://7893b302-3882-4c38-9ab6-6313f1575d1a@43.161.254.71:443?encryption=none&host=cf.udpid.org&path=%2F%40zyzzzoao&security=tls&sni=cf.udpid.org&type=ws#🇭🇰 Hong Kong | Aceville Pte.ltd 1
-vmess://eyJ2IjoiMiIsInBzIjoiSEszIDEwLjFLQi9zIiwiYWRkIjoiaTJwc20za25vZjVxamppeC52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6IiIsInRlc3RfbmFtZSI6IkhLMyJ9#🇭🇰 Hong Kong | Alibaba Cloud - HK 1
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.4:45647#🇭🇰 Hong Kong | SIMCENTRIC 1
+vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?security=none&encryption=none&headerType=none&type=tcp#🇭🇰 Hong Kong | SIMCENTRIC 2
+vmess://ewogICAgImFkZCI6ICI0Ny4yNDQuMTIwLjE5NyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiODQ1ZTZiMDgtMjkxOS00MjkwLWFkZTAtNWRjN2RjZWE1OWNhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDQ0ODY3LAogICAgInBzIjogIvCfh63wn4ewSEstNDcuMjQ0LjEyMC4xOTctNDg3NCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9#🇭🇰 Hong Kong | Alibaba Cloud - HK 1
+vmess://ewogICAgImFkZCI6ICI0Ny4yNDQuMTIwLjE5NyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDViODM1MTktOWM0Zi00MDUyLWExMWItMDJlMDE3YjYzNmQ0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDM2NzAzLAogICAgInBzIjogIvCfh63wn4ewSEstNDcuMjQ0LjEyMC4xOTctNDg3MyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9#🇭🇰 Hong Kong | Alibaba Cloud - HK 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@95.40.120.162:8316#🇭🇰 Hong Kong | AWS EC2 (ap-east-1) 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@95.40.120.162:8319#🇭🇰 Hong Kong | AWS EC2 (ap-east-1) 2
+vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJiOWRlMWJjOS1iYWE3LTQxYWMtODZmNy1jY2Q1OTY5NWNiMjEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2Fya2kiLCJwb3J0IjoiMjMwMjYiLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMFt3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLUhLLTExMzg0MDMxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#🇭🇰 Hong Kong | Alibaba Cloud - HK 3
+vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#🇭🇰 Hong Kong | Alibaba Cloud LLC 1
+vless://19bb341c-ee57-4899-b1e7-e9d3ebdf23df@223.122.123.74:30100?type=tcp&security=tls&encryption=none&fp=firefox&sni=xiweini.dpdns.org#🇭🇰 Hong Kong | China Mobile Hong Kong Compa... 1
+trojan://HC04361579@185.14.47.38:443?type=tcp&path=/&sni=normal-elk.rooster465.autos&fp=chrome#🇭🇰 Hong Kong | G-Core Labs S.A 1
+trojan://AE62539071@185.14.47.234:443?sni=novel-mouse.rooster465.autos&fp=chrome&type=tcp&path=/#🇭🇰 Hong Kong | G-Core Labs S.A 2
+trojan://EQ30679154@185.14.47.56:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=kind-unicorn.rooster465.autos#🇭🇰 Hong Kong | G-Core Labs S.A 3
+trojan://HC04361579@185.244.208.60:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=renewing-ewe.rooster465.autos#🇭🇰 Hong Kong | GCL 1
+trojan://EQ30679154@91.199.84.83:443?sni=full-ox.rooster465.autos&fp=chrome&type=tcp&path=/#🇭🇰 Hong Kong | G-Core Labs S.A 4
+trojan://AE62539071@185.14.47.238:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=magical-kodiak.rooster465.autos&allow_insecure=1#🇭🇰 Hong Kong | G-Core Labs S.A 5
+trojan://ND91608427@185.244.208.210:443?fp=chrome&sni=upright-hamster.rooster465.autos#🇭🇰 Hong Kong | GCL 2

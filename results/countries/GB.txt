@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
+vless://c7e9c591-2764-423a-afca-efbd010fd396@212.135.37.169:443/?type=ws&encryption=none&flow=&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru&allowInsecure=1&fp=chrome#🇬🇧 United Kingdom | Catixs Ltd 1
 vless://c7e9c591-2764-423a-afca-efbd010fd396@143.110.163.137:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru#🇬🇧 United Kingdom | DO 1
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@91.193.59.191:2087?type=ws&security=tls&fp=firefox&sni=vlso5.1d.mom#🇬🇧 United Kingdom | Dream Cloud Innovation Limit... 1
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@91.193.59.251:2053?type=ws&security=tls&fp=firefox&sni=vlso6.1d.mom#🇬🇧 United Kingdom | Dream Cloud Innovation Limit... 2
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@91.193.58.125:2053?type=ws&security=tls&fp=firefox&sni=vlso5.1d.mom#🇬🇧 United Kingdom | Dream Cloud Innovation Limit... 3
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@91.193.58.217:2053?allowInsecure=1&type=ws&security=tls&fp=chrome&sni=vlso200.1d.mom#🇬🇧 United Kingdom | Dream Cloud Innovation Limit... 4
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@91.193.59.27:2096?type=ws&security=tls&fp=firefox&sni=vlso300.1d.mom#🇬🇧 United Kingdom | Dream Cloud Innovation Limit... 5
+vless://c7e9c591-2764-423a-afca-efbd010fd396@94.72.108.133:2053?host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#🇬🇧 United Kingdom | Contabo 1
