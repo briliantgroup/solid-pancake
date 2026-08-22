@@ -4,4 +4,7 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 vless://c7e9c591-2764-423a-afca-efbd010fd396@129.151.198.3:2053?fp=chrome&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#🇸🇪 Sweden | Oracle Corporation 1
+vless://c7e9c591-2764-423a-afca-efbd010fd396@70.34.197.112:443?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#🇸🇪 Sweden | Vultr 1
 vless://c7e9c591-2764-423a-afca-efbd010fd396@89.22.234.164:2053?type=ws&security=tls&fp=firefox&sni=forfreeuse.rtqa.ru#🇸🇪 Sweden | Servers Tech Fzco 1
+vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@150.241.72.19:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jykHELMbLLn1SDyllhXRWbAAneDWlJmiGPylnz7ECVc&security=reality&sid=3f0641de339bb8da&sni=au.windconnect.pro&type=tcp#🇸🇪 Sweden | xorek.cloud International LT... 1
+vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@au.windconnect.pro:443?security=reality&encryption=none&sni=au.windconnect.pro&fp=firefox&pbk=jykHELMbLLn1SDyllhXRWbAAneDWlJmiGPylnz7ECVc&sid=3f0641de339bb8da&flow=xtls-rprx-vision&spx=%2F#🇸🇪 Sweden | xorek.cloud International LT... 2
