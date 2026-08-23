@@ -3,9 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://8384341b-cd89-4a21-a022-cc4bd4e648ca@46.29.238.139:40443?type=tcp&security=reality&fp=firefox&pbk=7i4Y7v80NVAIi_4_9roDkqcXmexIHli87dfZuFaQMUI&sid=68da&sni=deepl.com&packetEncoding=none#🇳🇴 Norway | GIR SER 1
-vless://b2963d78-6a98-4a9e-a20b-fa74dff5fde1@151.242.168.181:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=urD2miGxEfHylELSqqggBKCYIMSNXNTbdPijru7-eAQ&sid=46babe29a750b634&sni=kibi-institut.de#🇳🇴 Norway | Gigahost 1
-vless://6c52b79f-fd02-41bc-bf75-4c80fbc6a939@151.242.168.181:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=urD2miGxEfHylELSqqggBKCYIMSNXNTbdPijru7-eAQ&security=reality&sid=46babe29a750b634&sni=kibi-institut.de&type=tcp#🇳🇴 Norway | Gigahost 2
-vless://57d437b6-d25d-4956-a297-07f066174d62@151.242.168.181:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=urD2miGxEfHylELSqqggBKCYIMSNXNTbdPijru7-eAQ&security=reality&sid=46babe29a750b634&sni=kibi-institut.de&type=tcp#🇳🇴 Norway | Gigahost 3
-vless://14eb2c19-89ba-4a10-bd52-cbf6a5f5cae0@194.110.207.48:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=fd55b698ee8c3629#🇳🇴 Norway | Gigahost 4
-vless://474f10e3-c205-4204-999a-466ffcca1b10@194.110.207.48:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&sni=kibi-institut.de#🇳🇴 Norway | Gigahost 5
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.5.26:443?security=reality&encryption=none&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nordic.cendora.ru&sid=2186a755ed67b034#🇳🇴 Norway | SERV.HOST GROUP LTD 1
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.5.26:13443?security=reality&type=tcp&packetEncoding=xudp&sni=auto.cendora.ru&fp=qq&flow=xtls-rprx-vision&sid=a7f3c91b2e6d84c0&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM#🇳🇴 Norway | SERV.HOST GROUP LTD 2
