@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.136:65443#🇨🇳 China | shanghai wexchange network t... 1
-trojan://1addb6f6-c65a-4652-91e7-cbf3c6fa6f95@221.230.19.73:48966?security=tls&sni=vpn-node.internal&allowInsecure=1&alpn=http%2F1.1&type=ws&path=%2FxVpnTrojanWsSvc7f3a&host=vpn-node.internal&fp=firefox#🇨🇳 China | Zhenjiang Ruifutong Software... 1
 trojan://0fca6e12-4c18-4adb-a6ed-747d3833cb40@223.107.155.28:43273?security=tls&sni=vpn-node.internal&allowInsecure=1&alpn=http%2F1.1&type=ws&path=%2FxVpnTrojanWsSvc7f3a&host=vpn-node.internal&fp=chrome#🇨🇳 China | China Mobile 1
-vless://710fc22f-06b2-4b6d-bb3e-f57c17b670a6@2.27.27.168:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=d1NlaZfnsYjWfxRTqIBk1ldBUmdE-kRTEQ_sWd1JYwI&security=reality&sni=www.ray-balance.space&type=tcp#🇨🇳 China | H2nexus 1
+vless://710fc22f-06b2-4b6d-bb3e-f57c17b670a6@2.27.27.168:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=d1NlaZfnsYjWfxRTqIBk1ldBUmdE-kRTEQ_sWd1JYwI&sni=www.ray-balance.space&packetEncoding=none#🇨🇳 China | H2nexus 1
+vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528/?type=tcp&encryption=none&flow=&packetEncoding=xudp#🇨🇳 China | China Mobile 2
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#🇨🇳 China | shanghai wexchange network t... 1
