@@ -3,5 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://627b1c2d-2905-470f-857a-da7589968fbc@2.26.128.76:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=w88Ys8dVF9DuslGwUD05J9-FHNoAT9qmPysCvHiEmmg&security=reality&sid=1b40e7c2a1d8f635&sni=wombat.mycdn-me.ru&type=tcp#🇪🇪 Estonia | Manta Tech LTD 1
-vless://627b1c2d-2905-470f-857a-da7589968fbc@2.26.135.193:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=09O8bAlIWm9AGnNyxBtHwpYNQxlXPSQeQeKzS3ZMwGE&security=reality&sid=a1f9c0e21d7b6485&sni=smorodina.mycdn-me.ru&type=tcp#🇪🇪 Estonia | Manta Tech LTD 2
+vless://627b1c2d-2905-470f-857a-da7589968fbc@2.26.128.76:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=w88Ys8dVF9DuslGwUD05J9-FHNoAT9qmPysCvHiEmmg&sid=1b40e7c2a1d8f635&sni=wombat.mycdn-me.ru#🇪🇪 Estonia | Manta Tech LTD 1
+vless://627b1c2d-2905-470f-857a-da7589968fbc@2.26.135.193:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=09O8bAlIWm9AGnNyxBtHwpYNQxlXPSQeQeKzS3ZMwGE&sid=a1f9c0e21d7b6485&sni=smorodina.mycdn-me.ru#🇪🇪 Estonia | Manta Tech LTD 2
