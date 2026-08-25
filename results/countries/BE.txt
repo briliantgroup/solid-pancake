@@ -3,4 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://33ec1638-ef61-4082-bf68-5a0523c15b75@bel2.pandaonline.org:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=bel2.pandaonline.org&pbk=7o1jjBQhSSkXhRz9TPqvtYBj9GnJAuH3JJVxc7_DTWI&encryption=none#🇧🇪 Belgium | H2nexus 1
+vless://33ec1638-ef61-4082-bf68-5a0523c15b75@bel1.pandaonline.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bel1.pandaonline.org&fp=firefox&pbk=8zwu_JeBAKXJUGgMPKECkOl8IRSRlTKUO5Mnc0fOLkM&type=tcp#🇧🇪 Belgium | H2nexus 1
