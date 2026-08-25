@@ -3,10 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.110:80?security=none&type=ws&path=/http&host=de.vpnbase.net&packetEncoding=xudp&encryption=none#🇨🇦 Canada | CF 1
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?type=ws&headerType=none&security=tls&encryption=none&sni=germany-2.ariyuz.org&fp=chrome&alpn=http%2F1.1&path=%2F&host=germany-2.ariyuz.org&insecure=0#🇨🇦 Canada | CF 2
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.68:443?type=ws&headerType=none&security=tls&encryption=none&sni=germany-2.ariyuz.org&alpn=http%2F1.1&path=%2F&host=germany-2.ariyuz.org&insecure=0#🇨🇦 Canada | CF 3
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.251:443?&security=tls&fp=chrome&alpn=http/1.1&sni=germany-2.ariyuz.org&type=ws&headerType=none&host=germany-2.ariyuz.org&path=/#🇨🇦 Canada | CF 4
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.18.1.18:443?type=ws&headerType=none&security=tls&encryption=none&sni=germany-2.ariyuz.org.&fp=ios&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2F&host=germany-2.ariyuz.org.&insecure=0#🇨🇦 Canada | CF 5
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#🇨🇦 Canada | CF 6
-trojan://humanity@104.16.72.41:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 Canada | CF 7
+vless://893096ae-ed76-4440-bc34-f77c4872540f@188.114.96.3:443?alpn=http%252F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=maSterserVeR1-VSH.KaLlEH.WORkERs.DEV&path=%2FeyJqdW5rIjoieE1zSFhYR2hkcHZGUHI3cSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=maSterserVeR1-VSH.KaLlEH.WORkERs.DEV&type=ws#🇨🇦 Canada | CF 1
+vless://2b181a3a-c001-4145-845a-5d43a43837d5@104.19.50.28:443?encryption=none&type=ws&host=vpn-1fj.pages.dev&path=%2F&security=tls&fp=chrome&sni=vpn-1fj.pages.dev#🇨🇦 Canada | CF 2
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@104.17.171.60:2083?type=ws&security=tls&fp=chrome&sni=vlso6.1d.mom#🇨🇦 Canada | CF 3
+vless://756e8f39-04e8-436d-b5c6-905d37d9562c@188.114.96.3:2087?encryption=none&fp=chrome&host=ez-98919a.motoricb.workers.dev&path=%2FeyJqdW5rIjoiR1BxUFhYR0w1TlBLMTRsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&sni=ez-98919a.motoricb.workers.dev&type=ws#🇨🇦 Canada | CF 4
