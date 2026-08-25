@@ -3,4 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@200.165.235.98:9892?type=grpc&security=reality&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sni=dl.google.com&mode=multi&serviceName=grpc-tunnel&fp=chrome#🇸🇨 Seychelles | Alaxona Internet Inc 1
+trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇸🇨 Seychelles | RAPIDSEEDBOX 1
+vless://936b7663-a841-4b42-b639-6e3fab1dbf45@200.165.234.119:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru&fp=firefox#🇸🇨 Seychelles | Alaxona Internet Inc 1
