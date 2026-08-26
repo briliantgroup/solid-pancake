@@ -3,5 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://9972a440-39a6-4672-8883-5dd188863acf@159.200.230.146:52?security=none&encryption=none&headerType=none&type=tcp#🇭🇰 Hong Kong | Netnova Limited 1
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d3.catcat321.com:20025/?type=tcp&security=tls&sni=tw.catxstar.com&allowInsecure=1#🇭🇰 Hong Kong | Catixs Ltd 1
+vless://9972a440-39a6-4672-8883-5dd188863acf@159.200.230.146:52?security=&encryption=none&headerType=none&type=tcp#🇭🇰 Hong Kong | Netnova Limited 1
