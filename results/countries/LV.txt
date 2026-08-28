@@ -3,13 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@185.135.86.175:9094?#🇱🇻 Latvia | Melbikomas UAB 1
-ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@185.135.86.175:9086?#🇱🇻 Latvia | Melbikomas UAB 2
-ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ@185.135.86.175:9007?#🇱🇻 Latvia | Melbikomas UAB 3
-ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@185.135.86.175:9033?#🇱🇻 Latvia | Melbikomas UAB 4
-ss://YWVzLTI1Ni1jZmI6aGJ0dmdVejV1Tll5QjNSZg@185.135.86.175:9036?#🇱🇻 Latvia | Melbikomas UAB 5
-ss://YWVzLTI1Ni1jZmI6NDV4Z01nbTM4NnBqV2pUeA==@185.135.86.175:9082?#🇱🇻 Latvia | Melbikomas UAB 6
-ss://YWVzLTI1Ni1jZmI6WWc0TWJkWEZROUhGRlZZNg@185.135.86.175:9034?#🇱🇻 Latvia | Melbikomas UAB 7
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?type=ws&sni=laoye.in-gect.fun&packetEncoding=none#🇱🇻 Latvia | Melbikomas UAB 8
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2083?type=grpc&security=tls&fp=firefox&sni=laoye.in-gect.fun&serviceName=grpc#🇱🇻 Latvia | Melbikomas UAB 9
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e&sni=vk.ru#🇱🇻 Latvia | Melbikomas UAB 10
+vless://618acefa-2ff1-41b0-a295-f8a08858a897@185.145.245.179:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&security=reality&sni=d.tranzit-net.ru&type=tcp#🇱🇻 Latvia | VEESP datacenter 1
+vless://618acefa-2ff1-41b0-a295-f8a08858a897@185.145.245.168:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&security=reality&sni=d.tranzit-net.ru&type=tcp#🇱🇻 Latvia | VEESP datacenter 2
