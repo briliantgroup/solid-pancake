@@ -3,17 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://f73681a4-1654-446f-a7eb-bda3bfd9e521@84.32.177.5:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Q6vABOUn6Uxtp0uDsfDG-SRJFLBh_oOofD9reec4iSg&sid=cf41f778&sni=mst15ch.jarvesitw.ru#🇱🇹 Lithuania | NET 1
-ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086?#🇱🇹 Lithuania | Ibernap 1
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@195.238.126.20:9011?#🇱🇹 Lithuania | Ibernap 2
-ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ@195.238.126.20:9008?#🇱🇹 Lithuania | Ibernap 3
-ss://YWVzLTI1Ni1jZmI6SkNKcGJSYlFaTnc5WEZaRw==@195.238.126.20:9078?#🇱🇹 Lithuania | Ibernap 4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015?#🇱🇹 Lithuania | SERV.HOST GROUP LTD 1
-ss://YWVzLTI1Ni1jZmI6YjhLa05EakVkNVFxRnlSbQ==@195.238.126.20:9002?#🇱🇹 Lithuania | Ibernap 5
-ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA@195.238.126.20:9045?#🇱🇹 Lithuania | Ibernap 6
-ss://YWVzLTI1Ni1jZmI6eGF1cE1VdmhwdHd4ZERVZw==@195.238.126.20:9012?#🇱🇹 Lithuania | Ibernap 7
-ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068?#🇱🇹 Lithuania | Ibernap 8
-vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@88.119.176.24:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&sni=lit9.helper-internet.com#🇱🇹 Lithuania | HOSTLINE, UAB 1
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.83.114:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&sid=4a46213c935e2ee4&sni=baltic.cendora.ru#🇱🇹 Lithuania | SERV.HOST GROUP LTD 2
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&sni=doubleclick-cn.net#🇱🇹 Lithuania | UAB Cherry Servers 1
-vless://9e1d737e-f3c1-4757-84b2-3dcf66a468ed@144.31.243.148:443?flow=xtls-rprx-vision&fp=firefox&pbk=3wa3ZmMniymkL-58bPtY7baWPxdJ6n2UaJMG7YiLiGo&security=reality&sni=dl.google.com&type=tcp#🇱🇹 Lithuania | SERV.HOST GROUP LTD 3
+vless://f73681a4-1654-446f-a7eb-bda3bfd9e521@84.32.177.5:443?security=reality&type=tcp&sni=mst15ch.jarvesitw.ru&fp=firefox&flow=xtls-rprx-vision&sid=cf41f778&pbk=Q6vABOUn6Uxtp0uDsfDG-SRJFLBh_oOofD9reec4iSg&encryption=none#🇱🇹 Lithuania | NET 1
