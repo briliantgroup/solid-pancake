@@ -3,5 +3,22 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&host=OV-Italy1.09vpn.com&type=ws#🇮🇹 Italy | OVH 1
-vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?security=tls&type=ws&path=/RoBeRt&sni=milan.adaspoloandco.com&fp=qq#🇮🇹 Italy | OVH 2
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#🇮🇹 Italy | OVH 1
+ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ@91.201.65.122:9050?#🇮🇹 Italy | Melbicom 1
+ss://YWVzLTI1Ni1jZmI6VHlOa0dtcDloczZlR3BESw==@91.201.65.122:9092?#🇮🇹 Italy | Melbicom 2
+vless://699ce9a1-abbb-4525-988e-b940381352e8@151.241.215.109:443?type=ws&sni=151.241.215.109#🇮🇹 Italy | Hostkey B.V 1
+ss://YWVzLTI1Ni1jZmI6cDV3U2tiMnVNM3BLU1Mzag@91.201.65.122:9074?#🇮🇹 Italy | Melbicom 3
+ss://YWVzLTI1Ni1jZmI6YjhLa05EakVkNVFxRnlSbQ@91.201.65.122:9002?#🇮🇹 Italy | Melbicom 4
+vless://bd6ebd72-25cd-4209-a418-a8c72946da90@172.232.196.241:32396?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&sid=dd6ce6af95001a&sni=www.sony.com#🇮🇹 Italy | Akamai Technologies, Inc. 1
+ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@91.201.65.122:9070?#🇮🇹 Italy | Melbicom 5
+ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA@91.201.65.122:9097?#🇮🇹 Italy | Melbicom 6
+ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@91.201.65.122:9039?#🇮🇹 Italy | Melbicom 7
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?path=/vless/&security=&encryption=none&host=ov-italy1.09vpn.com&type=ws&sni=OV-Italy1.09vpn.com#🇮🇹 Italy | OVH 2
+vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&sid=a0a305ccc8e94aa8&sni=www.intel.com#🇮🇹 Italy | Akamai Technologies, Inc. 2
+ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@91.201.65.122:9053?#🇮🇹 Italy | Melbicom 8
+vless://e4737ce4-c646-44cc-9067-390e13c2a5f6@itproxy4.lockdwn.com:443?&sni=itproxy4.lockdwn.com&type=ws&headerType=none&host=itproxy4.lockdwn.com&path=/#🇮🇹 Italy | Hostkey B.V 2
+vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?security=tls&type=ws&path=/RoBeRt&sni=milan.adaspoloandco.com&fp=qq#🇮🇹 Italy | OVH 3
+vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?security=tls&type=ws&path=/RoBeRt&sni=milan.adaspoloandco.com&fp=qq#🇮🇹 Italy | OVH 4
+vmess://eyJhZGQiOiAiNTcuMTMxLjMyLjE5MSIsICJhaWQiOiAwLCAiaG9zdCI6ICJPVi1JdGFseTEuMDl2cG4uY29tIiwgImlkIjogIjg0OGFmMzNjLTgxZjItNDBjOS05M2IyLTQ2ODFkMDU2OTM2YiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiA4NDQzLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIk9WLUl0YWx5MS4wOXZwbi5jb20iLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=#🇮🇹 Italy | OVH 5
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#🇮🇹 Italy | OVH 6
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle Corporation 1

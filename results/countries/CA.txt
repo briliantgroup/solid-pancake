@@ -4,14 +4,7 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=%2Fhttp&security=&encryption=none&host=de.vpnbase.net&type=ws#🇨🇦 Canada | CF 1
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@172.64.155.209:80?type=ws&host=de.vpnbase.net&path=%2Fhttp#🇨🇦 Canada | CF 2
-trojan://humanity@104.16.122.175:443?type=ws&security=tls&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&alpn=h2,http/1.1#🇨🇦 Canada | CF 3
-trojan://humanity@104.19.229.21:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#🇨🇦 Canada | CF 4
-vless://39473ed8-fa83-4ef3-8aa6-92b865b6cb4f@188.114.97.6:443?path=%2Fjasnppws&security=tls&encryption=none&insecure=0&host=639232800095312190.outback-homaxe.info&fp=chrome&type=ws&allowInsecure=0&sni=639232800095312190.outback-homaxe.info#🇨🇦 Canada | CF 5
-trojan://humanity@104.20.6.134:443?type=ws&security=tls&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&alpn=h2,http/1.1#🇨🇦 Canada | CF 6
-vless://30610baf-4645-4c7b-9a22-0d0a0a79eab5@188.114.97.6:443?path=/glasspanel/guest000_0_5de14443985f/&security=tls&encryption=none&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["5","94","1"],"delays":["0"],"maxSplit":"0"}},{"type":"fragment","settings":{"packets":"1-1","lengths":["109","1"],"delays":["1"],"maxSplit":"355"}}]}&insecure=0&host=mao.kipfel.kdns.fr&type=ws&allowInsecure=0&sni=mao.kipfel.kdns.fr#🇨🇦 Canada | CF 7
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=jp3.yohototo.top&path=/tyxyws#🇨🇦 Canada | CF 8
-vless://0aeb1da4-2362-4aaa-97f3-26d0f84423b5@172.66.40.229:2096?type=ws&security=tls&fp=firefox&sni=8.sahanwickramasinghe.me#🇨🇦 Canada | CF 9
-vless://542fd687-5160-4f80-9223-56678567dd29@104.17.72.206:8443?type=ws&security=tls&fp=firefox&sni=8.sahanwickramasinghe.me#🇨🇦 Canada | CF 10
-vless://542fd687-5160-4f80-9223-56678567dd29@104.17.70.206:8443?type=ws&security=tls&fp=firefox&sni=8.sahanwickramasinghe.me#🇨🇦 Canada | CF 11
-vless://542fd687-5160-4f80-9223-56678567dd29@mktossl.com:8443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=8.sahanwickramasinghe.me#🇨🇦 Canada | CF 12
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@188.114.97.6:8080?encryption=none&host=cdn.asshole.eu.cc&path=/&security=none&type=ws#🇨🇦 Canada | CF 2
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@188.114.97.6:443?encryption=none&host=cdn.asshole.eu.cc&path=/&security=tls&sni=cdn.asshole.eu.cc&type=ws#🇨🇦 Canada | CF 3
+vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=a.cwvps.eu.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#🇨🇦 Canada | CF 4
+vless://30610baf-4645-4c7b-9a22-0d0a0a79eab5@188.114.97.6:443?path=/glasspanel/guest000_0_5de14443985f/&security=tls&encryption=none&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["5","94","1"],"delays":["0"],"maxSplit":"0"}},{"type":"fragment","settings":{"packets":"1-1","lengths":["109","1"],"delays":["1"],"maxSplit":"355"}}]}&insecure=0&host=mao.kipfel.kdns.fr&type=ws&allowInsecure=0&sni=mao.kipfel.kdns.fr#🇨🇦 Canada | CF 5
