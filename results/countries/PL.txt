@@ -1,8 +1,0 @@
-#profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4e18J+HsSBQb2xhbmQ=
-#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-#support-url: https://github.com/
-#profile-web-page-url: https://github.com/
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@chopin.adaspoloandco.com:8443?security=tls&type=ws&path=%2Fdownload.php&packetEncoding=none&allowInsecure=0&sni=chopin.adaspoloandco.com&fp=qq#🇵🇱 Poland | OVH 1
-vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@kz3.freeinternat.com:443?type=tcp&security=reality&sni=kz3.freeinternat.com&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&fp=random&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇵🇱 Poland | DOLSAT sp. z o.o. 1
-vless://1c342f96-08e4-4a74-bbd1-4746b7757c28@94.125.102.152:443?alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=tc-pl-1.chankovich.space&type=tcp#🇵🇱 Poland | Intezio Worldwide Limited 1
