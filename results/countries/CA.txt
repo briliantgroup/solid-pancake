@@ -3,4 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.110:80?security=none&type=ws&path=/http&host=de.vpnbase.net&packetEncoding=xudp&encryption=none#🇨🇦 Canada | CF 1
+vless://26b35808-f1e1-4b97-8c69-46796f058d8b@172.67.174.249:443?encryption=none&type=ws&host=ezaccess-project-9138d4.5f6on.workers.dev&path=%2FeyJqdW5rIjoicG9pMkt4TDY2TVNtRSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=chrome&sni=eZaccESs-PROjeCT-9138d4.5f6ON.WORkerS.DeV#🇨🇦 Canada | CF 1
+vless://527451fe-ee1f-4e6f-94ca-808f055f7c9b@soskeynets-8tnpd.hsysyegegrygvvvdujhh.workers.dev:443?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=05a5f9v5a6cm563ieoye7j-8tnpd.hsysyegegrygvvvdujhh.workers.dev&path=/vl/ERYN0G44hia16zhR&security=tls&sni=05a5f9v5a6cm563ieoye7j-8tnpd.hsysyegegrygvvvdujhh.workers.dev&type=ws#🇨🇦 Canada | CF 2
+vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@172.64.147.85:80?path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=&encryption=none&host=elenaaaaaaaaaa.cloudns.pro&fp=chrome&type=ws#🇨🇦 Canada | CF 3
+vless://93fa8bdb-9cca-4a3e-8355-b7c12e4f595e@104.25.5.52:443?encryption=none&type=ws&host=fornewiran.ade-1000.workers.dev&path=%2Fvl%2FyLWNcuUuw1jlJpkDhGy%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=chrome&sni=FORnEwIRAn.ADE-1000.worKeRS.dev#🇨🇦 Canada | CF 4
+vless://96e341a7-3077-4613-b482-41bd9c90cc4d@172.67.182.245:443?encryption=none&type=ws&host=ezaccess-project-4c7950.ez-dc9bbb.workers.dev&path=%2FeyJqdW5rIjoiN2w4dDlRNVV5NkZ5NU1aeSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&alpn=http%2F1.1&fp=chrome&sni=eZaCCesS-proJEcT-4C7950.Ez-dC9bBB.WorKErs.dEV#🇨🇦 Canada | CF 5
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?security=none&type=ws&path=/http&host=de.vpnbase.net&packetEncoding=xudp&encryption=none#🇨🇦 Canada | CF 6
+trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 Canada | CF 7
