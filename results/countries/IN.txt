@@ -3,8 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://0faaa1ee-f3d2-49ec-92af-3228329f3000@172.237.44.80:19567?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=tzm4xWHOerooioq4QQkI7VCvIapECgody_vJGDzX3UI&sid=87714fc3c52a&sni=www.nvidia.com&packetEncoding=none#🇮🇳 India | Akamai Technologies, Inc. 1
-vless://OwLimbo@65.20.84.60:443?security=reality&encryption=none&pbk=rW32mnGIawfF0HfU6-NYsue8jXVfGIBgEwgIEHC-FBY&headerType=none&fp=chrome&spx=/r50vEOL8TAVH9eX&type=tcp&sni=amp-api-edge.apps.apple.com&sid=485c0fafd745#🇮🇳 India | Vultr 1
-vless://0bf89828-484f-4710-9581-12aa961e3bf1@194.61.31.126:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=29fe4205ddc971a8&pbk=Gy6W0bXf2bpxoG1k3szp8X0ekzoyXlEtzT8V4mYQ3EE#🇮🇳 India | Contabo 1
+vless://0faaa1ee-f3d2-49ec-92af-3228329f3000@172.237.44.80:19567?security=reality&encryption=none&pbk=tzm4xWHOerooioq4QQkI7VCvIapECgody_vJGDzX3UI&host=v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=87714fc3c52a#🇮🇳 India | Akamai Technologies, Inc. 1
+vmess://ewogICAgImFkZCI6ICIxNTIuNjcuOC4yMDUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eu8J+Hs0lOLTE1Mi42Ny44LjIwNS0wMjQ1IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiMTUyLjY3LjguMjA1Igp9#🇮🇳 India | Oracle Cloud Infrastructure ... 1
 vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&sid=221873918e0bb74d&sni=www.cloudflare.com#🇮🇳 India | REGXA INDIA, PRIVATE LIMITED 1
-vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#🇮🇳 India | Beafort Limited 1
+trojan://M7v%w11Se*@34.131.228.210:443?allowInsecure=1&sni=hyfuuf6.wsone.icu#🇮🇳 India | GCP 1
+trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇳 India | GCP 2
+vless://ad87d7fd-f5e2-4d59-aa58-36df84a2e3de@5.253.29.204:443?alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=blog.repaironline.biz&type=tcp#🇮🇳 India | Beafort Limited 1
