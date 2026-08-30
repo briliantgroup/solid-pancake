@@ -3,19 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-ss://YWVzLTI1Ni1jZmI6WWc0TWJkWEZROUhGRlZZNg@185.135.86.175:9034?#🇱🇻 Latvia | Melbikomas UAB 1
-ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@185.135.86.175:9086?#🇱🇻 Latvia | Melbikomas UAB 2
-ss://YWVzLTI1Ni1jZmI6SEFWQWRFM25YaHFBNW5IcA@185.135.86.175:9017?#🇱🇻 Latvia | Melbikomas UAB 3
-ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@185.135.86.175:9068?#🇱🇻 Latvia | Melbikomas UAB 4
-ss://YWVzLTI1Ni1jZmI6aGJ0dmdVejV1Tll5QjNSZg@185.135.86.175:9036?#🇱🇻 Latvia | Melbikomas UAB 5
-ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@185.135.86.175:9033?#🇱🇻 Latvia | Melbikomas UAB 6
-ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@185.135.86.175:9094?#🇱🇻 Latvia | Melbikomas UAB 7
-ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ@185.135.86.175:9007?#🇱🇻 Latvia | Melbikomas UAB 8
-ss://YWVzLTI1Ni1jZmI6NDV4Z01nbTM4NnBqV2pUeA==@185.135.86.175:9082?#🇱🇻 Latvia | Melbikomas UAB 9
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?type=ws&sni=laoye.in-gect.fun#🇱🇻 Latvia | Melbikomas UAB 10
-vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@31.76.62.223:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&sni=lat2.freeinternat.com#🇱🇻 Latvia | SERV.HOST GROUP LTD 1
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2083?encryption=none&security=tls&serviceName=grpc&sni=laoye.in-gect.fun&type=grpc#🇱🇻 Latvia | Melbikomas UAB 11
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2083?type=grpc&security=tls&fp=chrome&sni=laoye.in-gect.fun&mode=gun&serviceName=grpc#🇱🇻 Latvia | Melbikomas UAB 12
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?type=raw&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e&sni=vk.ru#🇱🇻 Latvia | Melbikomas UAB 13
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.62.167:443?security=reality&encryption=none&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eu-west.cendora.ru&sid=dd3ff38418d29d22#🇱🇻 Latvia | SERV.HOST GROUP LTD 2
-vless://1e560bb6-4d52-4625-a629-54b1282f1b93@46.28.64.242:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=2FrYX1NTCe-fnm0kvNLYMPAuOZ8jbsYOSCKu3lY3CBQ&sid=64c147592a2f84d9&sni=www.cloudflare.com#🇱🇻 Latvia | Green Floid LLC 1
+vless://523486c6-c0b5-4e5b-8896-4af2375b41cc@195.123.212.30.blanesik.space:443?&security=tls&fp=qq&sni=195.123.212.30.blanesik.space&type=ws&headerType=none&host=195.123.212.30.blanesik.space&path=%2Fwebsocket%3Fed%3D2560#🇱🇻 Latvia | ITLDC Latvia network 1
