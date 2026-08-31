@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://1206bad5-dcc9-410e-9595-d9fe9ee54085@31.77.183.88:5001?&security=reality&flow=xtls-rprx-vision&pbk=D-G2rTpSUTAF6Rj0C6Gxnk-uzsaGzM6MSbJX3jCyBBk&sid=a1b2c3d4&fp=ios&sni=max.ru&type=tcp&headerType=none&host=max.ru&path=%2F#🇰🇷 South Korea | Korea Telecom 1
-vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwibmV0IjoidGNwIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtS1ItMTEzODQ2MDEiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=#🇰🇷 South Korea | Oracle Cloud Infrastructure ... 1
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#🇰🇷 South Korea | broadNnet 1
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#🇰🇷 South Korea | SK Broadband Co Ltd 1
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#🇰🇷 South Korea | SK Broadband Co Ltd 2
-vless://10dd7b2d-eda2-4a47-9f6e-5093a3cd7ded@3.38.1.152:19179?security=reality&encryption=none&pbk=BabvzCKB_cqCz56qFQhOWIypFKFhEWo9Eyn_JPZIAxA&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fa1e592603c283#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 1
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 2
-vless://9f7dddc4-6c77-4e2c-bfa4-7e5afdfd48f8@151.245.106.49:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=Wg07hKwQjSVmOsEHn7X1iLAXR2wkKRSyv8TZmq9ZsRA&sid=58186df4a95a1504&sni=www.cloudflare.com#🇰🇷 South Korea | HostHatch 1
-vless://1ebb0858-218a-4dee-8746-36a67bc64462@119.28.161.143:443?type=tcp&encryption=none&sni=apple.com&fp=chrome&security=reality&pbk=pR7MPTAA4cZsW9AO-twMzuogiWGMKPiheTg70fcWWWs&sid=0a427bc3#🇰🇷 South Korea | Tencent cloud computing (Bei... 1
-vless://83973343-90db-423d-a5f7-2e3b56aeb8f4@43.202.46.25:28482?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=8fsYG_Pg35aeg1E5Gc3HUaXou2OUQee4ukxVk99iR0s&sid=fa1e592603c283&sni=www.intel.com#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 3
+vless://1206bad5-dcc9-410e-9595-d9fe9ee54085@31.77.183.88:5001?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=ios&pbk=D-G2rTpSUTAF6Rj0C6Gxnk-uzsaGzM6MSbJX3jCyBBk&sni=max.ru&sid=a1b2c3d4#🇰🇷 South Korea | Korea Telecom 1
+vless://1206bad5-dcc9-410e-9595-d9fe9ee54085@31.77.183.88:5002?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=k2yF3sI8EkzmMZ2LtVWHldfStorNw5gAvj59bTDZMUI&sid=f648aa09b85f5eab&sni=mg.aeternavpn.space#🇰🇷 South Korea | Korea Telecom 2
+vless://0735b6f3-fdaa-4413-9c98-9af58e8a9052@220.72.143.166:12016?encryption=none&security=tls&sni=2-gys60wmzb6bqzd.qpsjn114hh3vlph9z60sesz0agjawpwroneg.workers.dev&fp=chrome&type=ws&host=2-gys60wmzb6bqzd.qpsjn114hh3vlph9z60sesz0agjawpwroneg.workers.dev&path=/@Marisa_kristi#🇰🇷 South Korea | Korea Telecom 3
