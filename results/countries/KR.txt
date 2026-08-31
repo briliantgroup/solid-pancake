@@ -3,6 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://1206bad5-dcc9-410e-9595-d9fe9ee54085@31.77.183.88:5001?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=ios&pbk=D-G2rTpSUTAF6Rj0C6Gxnk-uzsaGzM6MSbJX3jCyBBk&sni=max.ru&sid=a1b2c3d4#🇰🇷 South Korea | Korea Telecom 1
-vless://1206bad5-dcc9-410e-9595-d9fe9ee54085@31.77.183.88:5002?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=k2yF3sI8EkzmMZ2LtVWHldfStorNw5gAvj59bTDZMUI&sid=f648aa09b85f5eab&sni=mg.aeternavpn.space#🇰🇷 South Korea | Korea Telecom 2
-vless://0735b6f3-fdaa-4413-9c98-9af58e8a9052@220.72.143.166:12016?encryption=none&security=tls&sni=2-gys60wmzb6bqzd.qpsjn114hh3vlph9z60sesz0agjawpwroneg.workers.dev&fp=chrome&type=ws&host=2-gys60wmzb6bqzd.qpsjn114hh3vlph9z60sesz0agjawpwroneg.workers.dev&path=/@Marisa_kristi#🇰🇷 South Korea | Korea Telecom 3
+vless://1206bad5-dcc9-410e-9595-d9fe9ee54085@31.77.183.88:5001?&security=reality&flow=xtls-rprx-vision&pbk=D-G2rTpSUTAF6Rj0C6Gxnk-uzsaGzM6MSbJX3jCyBBk&sid=a1b2c3d4&fp=ios&sni=max.ru&type=tcp&headerType=none&host=max.ru&path=%2F#🇰🇷 South Korea | Korea Telecom 1
