@@ -3,4 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://316dda83-17f1-4f29-a05f-b84b7f991b82@82.118.18.202:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HDiwGAN66V77CrlCWrDZupEiSQk204dkWRjJok0zYhk&sid=720148f2fea16d0f&sni=www.cloudflare.com#🇧🇬 Bulgaria | Green Floid LLC 1
+vless://316dda83-17f1-4f29-a05f-b84b7f991b82@82.118.18.202:443?encryption=none&security=reality&sni=www.cloudflare.com&pbk=HDiwGAN66V77CrlCWrDZupEiSQk204dkWRjJok0zYhk&sid=720148f2fea16d0f&flow=xtls-rprx-vision#🇧🇬 Bulgaria | Green Floid LLC 1
+vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@84.238.133.186:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&security=reality&sid=6aa2d2e950441a9a&sni=swed2.helper-internet.com&type=tcp#🇧🇬 Bulgaria | Redcluster LTD 1
