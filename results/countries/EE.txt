@@ -3,6 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://f2ea3f68-6e31-4e07-a78c-fff6ebe246c3@2.26.128.74:443?security=reality&encryption=none&pbk=w88Ys8dVF9DuslGwUD05J9-FHNoAT9qmPysCvHiEmmg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=wombat.mycdn-me.ru&sid=1b40e7c2a1d8f635&fp=chrome#🇪🇪 Estonia | Manta Tech LTD 1
-vless://c7e9c591-2764-423a-afca-efbd010fd396@5.45.117.125:443?path=/&security=tls&encryption=none&insecure=0&host=freeuse.firta.ru&fp=chrome&type=ws&allowInsecure=0&sni=freeuse.firta.ru#🇪🇪 Estonia | Hosting Services 1
-vless://f2ea3f68-6e31-4e07-a78c-fff6ebe246c3@2.26.135.201:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=09O8bAlIWm9AGnNyxBtHwpYNQxlXPSQeQeKzS3ZMwGE&sid=a1f9c0e21d7b6485&sni=smorodina.mycdn-me.ru#🇪🇪 Estonia | Manta Tech LTD 2
+vless://739c1201-db54-47f5-aed7-29782a5bbe18@2.26.128.80:443?security=reality&encryption=none&sni=wombat.mycdn-me.ru&fp=qq&pbk=w88Ys8dVF9DuslGwUD05J9-FHNoAT9qmPysCvHiEmmg&sid=1b40e7c2a1d8f635&flow=xtls-rprx-vision&spx=%2F#🇪🇪 Estonia | Manta Tech LTD 1
