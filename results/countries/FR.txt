@@ -3,4 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@50.7.33.218:443?&security=reality&flow=xtls-rprx-vision&pbk=ZZwdN1Lt-fIR8A4Y1NbYCCEI6th2YXYHHRLHraVXyn0&sid=72461ccce5373103&fp=firefox&sni=edge-fr2.mystatic-cdn.ru&type=tcp&headerType=none&host=edge-fr2.mystatic-cdn.ru&path=%2F#🇫🇷 France | FDCservers.net 1
+vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@50.7.33.218:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=edge-fr2.mystatic-cdn.ru&fp=firefox&pbk=ZZwdN1Lt-fIR8A4Y1NbYCCEI6th2YXYHHRLHraVXyn0&sid=72461ccce5373103#🇫🇷 France | FDCservers.net 1
+vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=passport.yandex.ru&alpn=http/1.1&fp=firefox&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&headertype=none#🇫🇷 France | Contabo 1
+vless://a5d740d3-2af5-49c2-bfca-f0983456f5fc@169.58.143.21:443?type=ws&security=tls&fp=chrome&sni=finite-node.rtxconfigz.com#🇫🇷 France | Contabo 2
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=android#🇫🇷 France | HMS 1
+vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@169.58.143.21:443?path=/&security=tls&encryption=none&insecure=0&host=telegram.us&type=ws&allowInsecure=0&sni=finite-node.rtxconfigz.com#🇫🇷 France | Contabo 3
