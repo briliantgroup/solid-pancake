@@ -3,5 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.161:2087?encryption=none&path=/8f2690e2d016&security=none&type=ws#🇬🇧 United Kingdom | IDC Cube 1
+vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.140:2087?path=%2F8f2690e2d016&security=&encryption=none&type=ws#🇬🇧 United Kingdom | IDC Cube 1
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#🇬🇧 United Kingdom | Clouvider Limited 1
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&fp=ios&sni=yahoo.com&type=tcp&headerType=none&host=yahoo.com&path=/#🇬🇧 United Kingdom | Clouvider Limited 2
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@91.193.17.156:9460?type=grpc&security=reality&fp=firefox&pbk=rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc&sni=www.google.com&serviceName=TunService#🇬🇧 United Kingdom | HZ Na33 1
 vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@141.101.122.147:443?&security=tls&fp=chrome&sni=a.cwvps.eu.org&type=ws&headerType=none&host=a.cwvps.eu.org&path=%2Fws#🇬🇧 United Kingdom | CF 1
