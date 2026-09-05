@@ -3,7 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsSW9OU01lWUxYOFFHSG5PcDBEVEJSMFc5MS9DSFZERWpQcWpNRHVZY2RRPQ@45.129.142.41:47425#🇨🇿 Czechia | Aleksei Fedorov PR Krusevac 1
-vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@5.39.202.127:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=czek1.kovsh.lol&security=reality&pbk=crRdG3Hd_QtGCJi9fd1rtHpDIB7vnCx1Yexfu6XkIzU&sid=2cec07a8614696e5#🇨🇿 Czechia | GamerHost s.r.o 1
-vless://0764541b-3e57-4b47-954b-51e996fae5fc@78.159.247.123:7444?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=akamai.com&fp=firefox&flow=xtls-rprx-vision&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo#🇨🇿 Czechia | Global Cloud Network LLC 1
-vless://0764541b-3e57-4b47-954b-51e996fae5fc@78.159.247.166:7444?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=akamai.com&fp=firefox&flow=xtls-rprx-vision&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo#🇨🇿 Czechia | Global Cloud Network LLC 2
+vless://0764541b-3e57-4b47-954b-51e996fae5fc@78.159.247.123:7444?security=reality&type=tcp&packetEncoding=xudp&sni=akamai.com&fp=firefox&flow=xtls-rprx-vision&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&encryption=none#🇨🇿 Czechia | Global Cloud Network LLC 1
