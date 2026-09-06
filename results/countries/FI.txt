@@ -3,8 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@132.243.223.227:2101?encryption=none&fp=chrome&security=tls&serviceName=fi-grpc-test&sni=132-243-223-227.sslip.io&type=grpc#🇫🇮 Finland | Qwins LTD 1
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0#🇫🇮 Finland | Play2go Customers Network 1
 vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#🇫🇮 Finland | Baykov Ilya Sergeevich 1
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0#🇫🇮 Finland | Play2go Customers Network 1
+vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@132.243.223.227:2101?encryption=none&fp=chrome&security=tls&serviceName=fi-grpc-test&sni=132-243-223-227.sslip.io&type=grpc#🇫🇮 Finland | Qwins LTD 1
+vless://40205ae5-d30f-4216-b2e0-0506dbbd382e@2.26.100.192:2087?security=reality&type=grpc&mode=gun&serviceName=grpc&packetEncoding=xudp&sni=ads.x5.ru&fp=firefox&sid=c226283c4de5b1ad&pbk=Ku60WZ3HEdE07DoEBJ5I9o_fjcN_bhdK8bTW3RJjBmM#🇫🇮 Finland | Play2go Customers Network 2
 vless://e24cf9d3-e936-4a90-9932-33931b6a9b45@185.58.207.249:443?security=reality&type=tcp&packetEncoding=xudp&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&sid=db39&pbk=7sFZz7V1r5qtysLzjw07rOOA2P8NG7kvVX5BxFfc-Xc&encryption=none#🇫🇮 Finland | POWER-SERVERS-ROLE-ORG 1
 vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@31.76.88.10:443?path=/cdn/v3/live&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cf5.rumedia-cdn.com&fp=chrome&type=ws&allowInsecure=0&sni=cf5.rumedia-cdn.com#🇫🇮 Finland | u1host Finland 1
+vless://bed0fd7d-7873-4617-8459-edc93a2138cd@46.62.135.67:443?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&sid=7a0300af51a1c4cf&allowInsecure=1#🇫🇮 Finland | Hetzner 1
+vless://40205ae5-d30f-4216-b2e0-0506dbbd382e@2.26.100.192:445?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Ku60WZ3HEdE07DoEBJ5I9o_fjcN_bhdK8bTW3RJjBmM&sid=c226283c4de5b1ad&sni=ads.x5.ru#🇫🇮 Finland | Play2go Customers Network 3
+vless://d2bcbd8d-a65f-4ba5-831e-a435c22db32c@86.38.182.226:667?type=tcp&headerType=none&security=none&encryption=none#🇫🇮 Finland | Verda Cloud Oy 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUNkljVXBjVngwWTg1RHhTVGdYZTRB@86.38.182.226:97#🇫🇮 Finland | Verda Cloud Oy 2
