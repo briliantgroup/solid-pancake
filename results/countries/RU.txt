@@ -3,12 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@185.147.27.164:8443?&security=tls&flow=xtls-rprx-vision&sni=user-6a8d949a.noooo.win&type=tcp&headerType=none&path=/#🇷🇺 Russia | Procloud LLC 1
-vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=user-6a917f32.noooo.win&type=raw#🇷🇺 Russia | Procloud LLC 2
-vless://441afe11-a180-4516-bb80-80a8a6b38705@193.163.203.253:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a&sni=yandex.ru#🇷🇺 Russia | Dmitry Viktorovich Petrov 1
+vless://09f2e2f4-3225-4342-bc92-cb58ee841f72@201.24.49.228:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🇷🇺 Russia | TimeWeb 1
+vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=user-6a917f32.noooo.win#🇷🇺 Russia | Procloud LLC 1
+vless://72c8ea26-8b77-4e31-a23f-79c19b3a2ef1@186.246.48.59:2200?encryption=none&type=ws&path=%2Fv1&security=none#🇷🇺 Russia | Sprinthost LLC 1
+vless://7ee53e03-96ed-4121-9da2-62f3d3374506@185.185.69.26:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🇷🇺 Russia | SPRINTHOST.RU LLC 1
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#🇷🇺 Russia | SERV.HOST GROUP LTD 1
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | TOO Beget 1
-vless://aa7d939b-feaa-4ad3-9615-74216f490807@201.24.49.240:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=edge#🇷🇺 Russia | TimeWeb 1
-vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?security=reality&encryption=none&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=bbe46bd8f6b96839#🇷🇺 Russia | SERV.HOST GROUP LTD 2
+vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&security=reality&sid=bbe46bd8f6b96839&sni=yandex.ru&type=tcp#🇷🇺 Russia | SERV.HOST GROUP LTD 2
 vless://d4719d52-c3fc-4651-98e1-535dbd77dbcf@91.218.230.240:20443?encryption=none&security=none&type=raw#🇷🇺 Russia | Internet-Hosting Ltd 1
-vless://2d1dd57d-e163-41e5-ab71-87dc12e4c728@185.178.208.140:443?alpn=http%2F1.1&encryption=none&fp=firefox&path=%2Fapi%2Fv3%2Flive%2Fhls%2Fsegment&security=tls&sni=mapgasstation.ru&type=ws#🇷🇺 Russia | Ddos-guard LTD 1
+vless://237f91bf-102e-4077-8cc3-baebccb42936@85.198.70.200:14406?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ldAmsl3dqTCUBmlmA8CS9ZnpznP6cFWj9AxNddWnbxY&security=reality&sid=1a2b3c4d5e6f7a8b&sni=vk.ru&type=raw#🇷🇺 Russia | Beget LLC 1
