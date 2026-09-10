@@ -3,4 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#🇫🇷 France | ONLINE 1
+vless://c543f005-59f7-40c1-9ae6-37505691d5be@51.77.217.70:2053?security=reality&encryption=none&pbk=UKvonm_uE7TSwksQIVQuNYgYwmcidr_g4lDIE2JW_Ag&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=4868e772d098f0af#🇫🇷 France | OVH 1
+vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@195.216.168.158:443?type=grpc&security=reality&fp=chrome&pbk=JgAozyY8uYe10LDFxsY5KL6C54nPrFezT6lK5Rfvrjk&sid=3faf2070&sni=google.com&serviceName=MediaService#🇫🇷 France | Andrey Voskresenskiy 1
+vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?security=reality&encryption=none&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo&headerType=none&fp=chrome&spx=/&type=tcp&sni=status.play.google.com&sid=5030#🇫🇷 France | Contabo 1
