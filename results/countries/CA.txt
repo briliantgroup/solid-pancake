@@ -3,5 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://02960dc5-ade0-4f85-a3ec-3e73b3599f0f@104.17.134.117:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=s2p.open-ml.ir&fp=chrome&type=ws&allowInsecure=0&sni=s2p.open-ml.ir#🇨🇦 Canada | CF 1
-vless://acc591a0-04ae-4676-996a-e6fe01b26ed2@aljha.typeshoes.online:443?&security=tls&fp=chrome&sni=aljha.typeshoes.online&type=ws&headerType=none&host=aljha.typeshoes.online&path=%2Fkdi#🇨🇦 Canada | CF 2
+vless://f2900749-7cff-42b7-9566-dfb03840d374@172.67.192.140:2053?path=%2Ffi-cdn&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=land.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#🇨🇦 Canada | CF 1
+vless://f2900749-7cff-42b7-9566-dfb03840d374@104.21.44.5:2053?path=%2Ffi-cdn&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=land.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#🇨🇦 Canada | CF 2
+vless://7e26fd8f-d75a-473d-84ba-9f4e3f47d086@172.67.179.82:443?encryption=none&security=tls&sni=1-m20.be434a1f-0c04-40c9-a43a-87cc7d7da502.kdns.fr&type=ws&host=1-m20.be434a1f-0c04-40c9-a43a-87cc7d7da502.kdns.fr&path=/8qMLgNapWf6SBxo8fhQlVPYO#🇨🇦 Canada | CF 3
+vless://ef5c5d5c-08c6-4549-b05e-d1ff29ecc8ba@172.67.156.222:443?&security=tls&sni=3-m16.ChIAn-mAI-6.kDnS.Fr&type=ws&headerType=none&host=3-m16.ChIAn-Mai-6.kdNs.Fr&path=%2FJRr6VGcSLFc034DC6sDbwyWJLbB#🇨🇦 Canada | CF 4
+vless://7700ff6d-cefb-4768-a806-ec4f63fe3b38@172.67.155.189:443?encryption=none&security=tls&sni=0-M13.1B9390A5-6209-45bd-ba0e-057EBB2641c3.KdNS.FR&type=ws&host=0-m13.1b9390a5-6209-45Bd-ba0E-057EbB2641C3.kdNS.fr&path=%2FED3ZQPu7lqyeDGD58KabZ#🇨🇦 Canada | CF 5
+vless://ef5c5d5c-08c6-4549-b05e-d1ff29ecc8ba@172.67.204.201:443/?type=ws&encryption=none&flow=&host=7-m16.CHiaN-MAi-8.KDNS.Fr&path=/JRr6VGcSLFc034DC6sDbwyWJLbB&security=tls&sni=7-m16.CHiaN-MAi-8.KDNs.FR&fp=chrome#🇨🇦 Canada | CF 6
+vless://7e26fd8f-d75a-473d-84ba-9f4e3f47d086@172.67.223.223:443?security=tls&type=ws&path=/8qMLgNapWf6SBxo8fhQlVPYO&host=1-m20.d3b454d2-cba8-4b62-8d16-189d13194e3a.kdns.fr&packetEncoding=xudp&sni=1-m20.d3b454d2-cba8-4b62-8d16-189d13194e3a.kdns.fr&fp=chrome#🇨🇦 Canada | CF 7
+vless://1aa96574-c28b-4ee9-855d-ebdbbf1f7e90@172.67.133.136:443?encryption=none&type=ws&host=4-m13.1332AfDC-0737-4bB1-8cA8-EE4f0cd20Bc6.kDNS.Fr&path=%2FED3ZQPu7lqyeDGD58KabZ&security=tls&fp=chrome&sni=4-m13.1332aFdC-0737-4BB1-8cA8-EE4f0cd20BC6.KDnS.FR#🇨🇦 Canada | CF 8
