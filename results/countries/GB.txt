@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?encryption=none&security=tls&sni=129.121.95.159&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=129.121.95.159&path=%2Fconnect#🇬🇧 United Kingdom | Oracle Corporation 1
-vless://7145cd77-3d83-49b8-9c95-970fbe090fd6@ov-unitedkingdom1.09vpn.com:8443?&security=tls&type=ws&headerType=&host=ov-unitedkingdom1.09vpn.com&path=%2Fvless%2F#🇬🇧 United Kingdom | OVH 1
-vless://7dc2737e-1155-42f6-aec4-6b2b001001ae@46.250.240.80:2053?type=tcp&security=reality&fp=firefox&pbk=AttEUIEavqeVE5oz4_AxJPrcwx3IgcFElW2OoF8qTAg&sid=b895d279c8cc40f9&sni=www.cloudflare.com#🇬🇧 United Kingdom | Yorkshire Tech Limited 1
-vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzc1wvIiwicG9ydCI6IjgwIiwicHMiOiJcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTdbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1HQi0xMDIwODcwMSIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI3NSIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#🇬🇧 United Kingdom | OVH 2
-vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=/vless/&security=none&type=ws#🇬🇧 United Kingdom | OVH 3
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#🇬🇧 United Kingdom | Oneprovider.com 1
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@91.193.17.156:9458?type=grpc&headerType=none&security=reality&encryption=none&sni=www.google.com&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&spx=%2F&serviceName=TunService&fp=edge#🇬🇧 United Kingdom | HZ Na33 1
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@91.193.17.234:9460?type=grpc&security=reality&fp=chrome&pbk=rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc&sni=www.google.com&serviceName=TunService#🇬🇧 United Kingdom | HZ Na33 2
-vless://f7477fa8-e386-47ef-882b-dab1aa2c804f@104.194.144.94:443?type=raw&security=reality&encryption=none&sni=suffolkprimarycare.uk&fp=qq&pbk=QwTtgVOc8K7-YF0p8whf5gpwaE_pNfmdDe_nL3eTiwQ&sid=4712672a032df0b8&flow=xtls-rprx-vision#🇬🇧 United Kingdom | RouterHosting LLC 1
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?security=reality&type=tcp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&encryption=none#🇬🇧 United Kingdom | Clouvider Limited 1
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none&host=yahoo.com#🇬🇧 United Kingdom | Clouvider Limited 2
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.197.202:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=hubby.failspace.top&type=tcp#🇬🇧 United Kingdom | FDCservers.net 1
