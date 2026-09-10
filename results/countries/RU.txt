@@ -3,13 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=/v1&security=none&encryption=none&type=ws#🇷🇺 Russia | MegaMax Network 1
-vless://fc72e947-b8dd-4de0-9ec7-2b0050c9f83a@141.8.199.212:4100?encryption=none&type=ws&host=live.ok.ru&path=%2Fv1&security=none#🇷🇺 Russia | Sprinthost 199 1
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@158.160.17.175:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=BVwyZUEoTujbWy-7QczfJyYAsHw2y_H8SMMfbK5AEho&sid=81dd866769f057&sni=ya.ru#🇷🇺 Russia | Yandex.Cloud LLC 1
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@82.202.157.181:9882?type=grpc&security=reality&fp=firefox&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aa&sni=dl.google.com&serviceName=grpc-tunnel#🇷🇺 Russia | Cloud.ru 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112?#🇷🇺 Russia | .masterhost 1
 vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=firefox&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc#🇷🇺 Russia | Adman LLC 1
+hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇷🇺 Russia | SERV.HOST GROUP LTD 1
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424/?type=tcp&encryption=none&sni=ya.ru&fp=chrome&security=reality&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#🇷🇺 Russia | TOO Beget 1
-vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&security=reality&sid=bbe46bd8f6b96839&sni=yandex.ru&type=tcp#🇷🇺 Russia | SERV.HOST GROUP LTD 1
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@80.90.185.80:9892?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aa#🇷🇺 Russia | Company Delfa Co. Ltd. 1
-hy2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@gta.internet-card.sbs:443/?insecure=1&sni=gta.internet-card.sbs#🇷🇺 Russia | SERV.HOST GROUP LTD 2
-vless://237f91bf-102e-4077-8cc3-baebccb42936@85.198.70.200:14406?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ldAmsl3dqTCUBmlmA8CS9ZnpznP6cFWj9AxNddWnbxY&security=reality&sid=1a2b3c4d5e6f7a8b&sni=vk.ru&type=raw#🇷🇺 Russia | Beget LLC 1
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@158.160.17.175:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=BVwyZUEoTujbWy-7QczfJyYAsHw2y_H8SMMfbK5AEho&sid=81dd866769f057&sni=ya.ru#🇷🇺 Russia | Yandex.Cloud LLC 1
+vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?security=reality&encryption=none&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=bbe46bd8f6b96839#🇷🇺 Russia | SERV.HOST GROUP LTD 2
+vless://b5e12bc3-67ea-4049-8c32-0eeb8b554a2e@185.229.9.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=7o36V1H4H_34kTMpwCfJmDB1bbd21Rgbk2dM_dAonyM&security=reality&sid=0bb3fbdc6cb178d4&sni=www.vk.com&spx=%2F&type=raw#🇷🇺 Russia | Datahouse FOLGA 1
