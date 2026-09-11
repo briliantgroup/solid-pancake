@@ -3,4 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9882?type=grpc&security=reality&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aa&sni=dl.google.com&serviceName=grpc-tunnel&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless#🇺🇦 Ukraine | PE Litkevich Alexandr Sergee... 1
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9873?security=reality&type=grpc&mode=gun&serviceName=grpc-tunnel&packetEncoding=xudp&sni=dl.google.com&fp=qq&sid=aabb&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU#🇺🇦 Ukraine | PE Litkevich Alexandr Sergee... 1
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9882?security=reality&type=grpc&mode=gun&serviceName=grpc-tunnel&packetEncoding=xudp&sni=dl.google.com&fp=qq&sid=aa&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU#🇺🇦 Ukraine | PE Litkevich Alexandr Sergee... 2
