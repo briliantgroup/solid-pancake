@@ -3,8 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇨🇦 Canada | CF 1
-trojan://humanity@104.16.72.41:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#🇨🇦 Canada | CF 2
-vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.21.70.21:443?path=/ws&security=tls&encryption=none&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["5", "94", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["109", "1"], "delays": ["1"], "maxSplit": "355"}}]}&insecure=0&host=a.cwvps.eu.org&fp=unsafe&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#🇨🇦 Canada | CF 3
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#🇨🇦 Canada | DO 1
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#🇨🇦 Canada | OVH 1
+vless://02960dc5-ade0-4f85-a3ec-3e73b3599f0f@172.67.154.17:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=s2p.open-ml.ir&fp=chrome&type=ws&allowInsecure=0&sni=s2p.open-ml.ir#🇨🇦 Canada | CF 1
+vless://02960dc5-ade0-4f85-a3ec-3e73b3599f0f@104.17.134.117:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=s2p.open-ml.ir&fp=chrome&type=ws&allowInsecure=0&sni=s2p.open-ml.ir#🇨🇦 Canada | CF 2

@@ -1,8 +1,0 @@
-#profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4er8J+HtyBGcmFuY2U=
-#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-#support-url: https://github.com/
-#profile-web-page-url: https://github.com/
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.252.3:22222?encryption=none&amp;security=none&amp;type=tcp#🇫🇷 France | AWS EC2 (eu-west-3) 1
-vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&security=none&type=ws&host=akamaized.net&path=%2Fvless%2F#🇫🇷 France | OVH 1
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&security=none&encryption=none&type=ws#🇫🇷 France | OVH 2
