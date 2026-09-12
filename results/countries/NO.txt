@@ -3,10 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://b02ff150-ee30-46e0-9ea1-adbfd7762a06@151.242.168.125:390?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bowandbead.com&pbk=5RCgAVjaT7hwdVIKAEULswXGqR127ZOZV6X17nEhYk8&sid=b545fe8c5e22f92d&fp=ios#🇳🇴 Norway | Gigahost 1
-vless://db320947-adfb-400d-b60b-383b8324bffe@46.29.238.88:40443?type=tcp&headerType=none&security=reality&pbk=aZOpodpnifoxDqTzWgxJRffgsiGnG9-h-EZd4SvOImc&fp=chrome&sni=deepl.com&sid=f7b2&spx=/#🇳🇴 Norway | GIR SER 1
-vless://b9f9ecbf-0699-48e2-89f1-a6535694d202@151.242.169.118:443?encryption=none&flow=xtls-rprx-vision&pbk=-cWdyfFTCDxkxuz5ei5ETdJkYaJcQCFPc9-6ZV8Z8kk&security=reality&sid=9d009eca3324c917&sni=fernandfoxgloveinteriors.co.uk&type=tcp&fp=ios#🇳🇴 Norway | Gigahost 2
-vless://6f752d76-d22c-4e17-97e1-0d1384e96073@151.242.169.118:443?encryption=none&flow=xtls-rprx-vision&pbk=-cWdyfFTCDxkxuz5ei5ETdJkYaJcQCFPc9-6ZV8Z8kk&security=reality&sid=9d009eca3324c917&sni=fernandfoxgloveinteriors.co.uk&type=tcp&fp=ios#🇳🇴 Norway | Gigahost 3
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@31.76.5.158:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=norway-3.moritech.net&type=tcp#🇳🇴 Norway | SERV.HOST GROUP LTD 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#🇳🇴 Norway | Oneprovider.com 1
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@31.76.5.3:443?security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=viper-26.moriarty-web.com#🇳🇴 Norway | SERV.HOST GROUP LTD 2
