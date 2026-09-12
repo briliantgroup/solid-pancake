@@ -3,5 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://02960dc5-ade0-4f85-a3ec-3e73b3599f0f@172.67.154.17:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=s2p.open-ml.ir&fp=chrome&type=ws&allowInsecure=0&sni=s2p.open-ml.ir#🇨🇦 Canada | CF 1
-vless://02960dc5-ade0-4f85-a3ec-3e73b3599f0f@104.17.134.117:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=s2p.open-ml.ir&fp=chrome&type=ws&allowInsecure=0&sni=s2p.open-ml.ir#🇨🇦 Canada | CF 2
+vless://02960dc5-ade0-4f85-a3ec-3e73b3599f0f@172.67.154.17:443?&security=tls&fp=chrome&sni=s2p.open-ml.ir&type=ws&headerType=none&host=s2p.open-ml.ir&path=%2Fws#🇨🇦 Canada | CF 1
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@chatgpt.com:443?security=tls&sni=mfyousheng.nl.eu.org&insecure=0&allowInsecure=0&type=ws&host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g#🇨🇦 Canada | CF 2
