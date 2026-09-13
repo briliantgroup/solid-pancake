@@ -1,0 +1,9 @@
+#profile-update-interval: 3
+#profile-title: encode:Qm9iaVZQTiDwn4e58J+HvCBUYWl3YW4=
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#support-url: https://github.com/
+#profile-web-page-url: https://github.com/
+vless://41b96ee9-ee5e-455f-9753-187a9dead97a@35.221.158.209:32981?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=JSn0GPz1WOSTUDBxN_XYnhgb2Jpjc2LpfBTzX1j3V2E&sid=70f4b7a4c40636&sni=www.sony.com#🇹🇼 Taiwan | GCP 1
+vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?security=reality&encryption=none&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f713561d#🇹🇼 Taiwan | NTT America, Inc. 1
+vless://85a6bd94-83a9-4e80-849f-c06d7011d1a4@35.201.163.218:30837?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=LXPNhrAGxr_QE4YCdJfKE40ebsPNIHnLbydhl6bipCo&sid=97101ba788915e5a&sni=www.sony.com#🇹🇼 Taiwan | GCP 2
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?&security=tls&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇹🇼 Taiwan | Chunghwa Telecom Co. Ltd. 1

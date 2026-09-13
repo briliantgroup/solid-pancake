@@ -3,4 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICI5MC4xMjcuMTQzLjEzNSIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsICJwYXRoIjogIi9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCAidGxzIjogInRscyIsICJzbmkiOiAicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwgInRlc3RfbmFtZSI6ICIxMzUifQ==#🇫🇷 France | France Telecom Orange 1
+vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@88.218.77.37:443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#🇫🇷 France | RackNerd LLC 1
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#🇫🇷 France | OVH 1
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2096?encryption=none&host=usejh2.neobo-tooth.ru&path=%2F&security=none&type=ws#🇫🇷 France | Ibcs 1
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?flow=xtls-rprx-vision&fp=random&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#🇫🇷 France | ONLINE 1
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2053?encryption=none&flow=xtls-rprx-vision&fp=&pbk=dRLd_E_GYCkCcwxLN5EcRQYsREKqisb26_ZSehxUpWY&security=reality&sid=1eb8ea8dae937ae0&sni=vk.ru&type=tcp#🇫🇷 France | Ibcs 2
+vmess://eyJhZGQiOiAiNTEuMTAzLjI4LjI0NyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZTU3ZTliYjQtYTQ0Mi00NGRkLWE0YmItMmFhYzcyY2ZkMWYyIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiNTQ1NTUiLCAicHMiOiAi8J+Hq/Cfh7cxNzAxNDEgfCDimqHvuI9UZWxlZ3JhbSA9IHQubWUvU09Ta2V5TkVUIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==#🇫🇷 France | Azure 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNThkMTZlNTkzZDQ0ZjQy@158.173.221.214:11001#🇫🇷 France | OVH 2
