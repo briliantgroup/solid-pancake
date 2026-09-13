@@ -3,14 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://94b6a70a-73a6-4997-a322-b02a6f9b78db@171.22.119.25:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZPdVCztKOeffv0v4TpdQ8X5LMGmVNxZe1ZC7BFC8118&security=reality&sid=940dbf5b&sni=www.uva.nl&type=tcp#🇷🇺 Russia | NetCrafters OU 1
-vless://ecf728d9-1555-4e12-b178-1d8bd98465e4@46.243.235.188:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=_ilhBTibNauMOEUqylnlBAUTYiqHHtmEDXkx18SHCR4&security=reality&sni=pool.dataroute.biz&spx=%2F&type=raw#🇷🇺 Russia | LLC Global cloud network 1
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:8443?&security=tls&fp=chrome&sni=vlessru.duckdns.org&type=ws&headerType=none&host=vlessru.duckdns.org&path=%2Fwsru#🇷🇺 Russia | TimeWeb 1
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@158.160.17.175:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=BVwyZUEoTujbWy-7QczfJyYAsHw2y_H8SMMfbK5AEho&sid=81dd866769f057&sni=ya.ru#🇷🇺 Russia | Yandex.Cloud LLC 1
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424/?type=tcp&encryption=none&sni=ya.ru&fp=chrome&security=reality&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#🇷🇺 Russia | TOO Beget 1
-vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&type=tcp&headerType=none#🇷🇺 Russia | Dmitry Viktorovich Petrov 1
-vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839#🇷🇺 Russia | SERV.HOST GROUP LTD 1
-vless://3db8407b-1f96-4b82-bfeb-55258c1e57b4@200.165.231.31:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU&security=reality&sid=1067b23f928e7618&sni=flarora.ferreo.sbs&type=tcp#🇷🇺 Russia | TimeWeb 2
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@gta.internet-card.sbs:443?insecure=1&sni=gta.internet-card.sbs#🇷🇺 Russia | SERV.HOST GROUP LTD 2
-vless://9a47a8ff-8cdd-4a35-b765-fbad6d40e0a0@186.246.12.242:2053?&security=tls&fp=chrome&type=ws&headerType=none&path=%2F#🇷🇺 Russia | TimeWeb 3
-vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:8443?mode=gun&security=reality&encryption=none&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&fp=chrome&type=grpc&serviceName=TunService&sni=dl.dell.com#🇷🇺 Russia | TrafficTransitSolution LLC 1
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=firefox&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc#🇷🇺 Russia | Adman LLC 1
+vless://19365fd3-d23c-4a9e-a2ef-543d230e65c4@193.233.217.140:2200?path=%2Fv1&security=&encryption=none&type=ws#🇷🇺 Russia | Aeza 1
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | TOO Beget 1
+vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&security=reality&sid=bbe46bd8f6b96839&sni=yandex.ru&type=tcp#🇷🇺 Russia | SERV.HOST GROUP LTD 1
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@31.76.71.252:443?sni=gta.internet-card.sbs&path=%2f&allow_insecure=1#🇷🇺 Russia | SERV.HOST GROUP LTD 2
+vless://9a47a8ff-8cdd-4a35-b765-fbad6d40e0a0@186.246.12.242:2053?&security=tls&fp=chrome&type=ws&headerType=none&path=%2F#🇷🇺 Russia | TimeWeb 1

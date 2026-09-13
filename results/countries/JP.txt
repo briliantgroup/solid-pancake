@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#🇯🇵 Japan | DataCamp Limited 1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵 Japan | DataCamp Limited 2
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCJhZGQiOiI0NS4zMi41Ny4xMTgiLCJwb3J0IjoiNDQzMyIsImlkIjoiMzViODk4MzItMGE3Yy00OGRkLThkMWMtYTI4OTFiNTIyMTk1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇯🇵 Japan | Vultr 1
-vmess://eyJhZGQiOiIxNTUuMjQ4LjE3Ni40NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxNTRkYmMzOS0wOTIxLWNmMTEtMjliZC0xNTZjNTAwMGQ3NjMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1MjE2IiwicHMiOiJcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUgSm9pbitUZWxlZ3JhbTpAU29sVlBOIFx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇯🇵 Japan | Oracle Cloud Infrastructure ... 1
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#🇯🇵 Japan | Contabo 1
-vmess://eyJhZGQiOiIxNjguMTEwLjYwLjEwNCIsImFpZCI6IjAiLCJob3N0Ijoib2MuaW1mdW4uZnVuIiwiaWQiOiJhZDQ1ZjhmNi0wZjBhLTRjYzQtYjkwNy1jNDU4MjQwN2RjOTQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMTgxMTIiLCJwcyI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNVtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSlAiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#🇯🇵 Japan | Oracle Cloud Infrastructure ... 2
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵 Japan | DataCamp Limited 3
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#🇯🇵 Japan | Contabo 2
-vless://3340c44a-042e-4dfd-b82c-33192d56ba98@156.231.113.153:443?flow=xtls-rprx-vision&fp=chrome&pbk=h2GGazCHLBtmIUxiCxGUvsaEF8mGi8xFeCcI14sAJTI&security=reality&sid=4bbe62498d4cc3c9&sni=www.cloudflare.com&type=tcp#🇯🇵 Japan | Akile LTD 1
-vless://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159?&security=reality&flow=xtls-rprx-vision&pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&sid=091e1c5db8451757&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=&host=www.cloudflare.com&path=%2F#🇯🇵 Japan | DMIT Cloud Services 1
-vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🇯🇵 Japan | Rackip Consultancy Pte. LTD 1
+vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?path=%2Fvless%2F&security=&encryption=none&type=ws#🇯🇵 Japan | Ipxo LLC 1
+vless://e2b8b217-cffb-4d66-9b8b-eca6e4334032@13.231.19.51:11690?security=reality&encryption=none&pbk=Bv3z0_uFRabB9C4CFpNfqepZUyeO4YTh1duJdMBNLkg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=034885e346fd30#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 1
+vmess://eyJ2IjoiMiIsImFkZCI6IjE3Mi4xMTEuMTQ2LjY0IiwicG9ydCI6IjgwIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiJcL3ZtZXNzXC8iLCJwcyI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNVt3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLUpQLTEwMzA2OTM3Iiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇯🇵 Japan | Ipxo LLC 2
