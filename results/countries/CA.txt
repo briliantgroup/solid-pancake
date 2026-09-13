@@ -3,12 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-trojan://humanity@chat.openai.com:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#🇨🇦 Canada | CF 1
-vless://1aa96574-c28b-4ee9-855d-ebdbbf1f7e90@172.67.155.252:443?encryption=none&security=tls&sni=2-m13.0ee25773-D3D3-479D-a8fF-3F51D1D20031.kDNs.fR&type=ws&host=2-m13.0ee25773-D3d3-479D-a8ff-3F51d1D20031.kDnS.Fr&path=%2FED3ZQPu7lqyeDGD58KabZ#🇨🇦 Canada | CF 2
-vless://1aa96574-c28b-4ee9-855d-ebdbbf1f7e90@172.67.131.46:443?encryption=none&type=ws&host=5-M13.0943E131-87f4-4b7F-bC60-9d984cC0ADA2.kDns.fr&path=%2FED3ZQPu7lqyeDGD58KabZ&security=tls&fp=chrome&sni=5-M13.0943e131-87f4-4B7F-bC60-9D984cc0adA2.kdNS.fR#🇨🇦 Canada | CF 3
-vless://a90c264d-3853-4eef-9a3d-628b2d02d15e@104.21.47.191:443?encryption=none&security=tls&sni=2-M19.nORtH-kORea-FLOw.KDns.fr&fp=chrome&type=ws&host=2-m19.NORTh-koREA-FLoW.KdNs.FR&path=%2FCjBjB9sn5pCvaSwScc#🇨🇦 Canada | CF 4
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#🇨🇦 Canada | OVH 1
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#🇨🇦 Canada | OVH 2
-vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?flow=xtls-rprx-vision&encryption=none&security=reality&sni=google.com&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&sid=0e&type=tcp&headerType=none#🇨🇦 Canada | Azure 1
-vless://c8f9e08d-7d07-4059-9f71-0b014b9e0ec7@66.70.179.124:443?security=reality&type=tcp&alpn=h2%2Chttp%2F1.1&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=af7e79b5&pbk=feWlxnxySxB9B9HiuC4NwoTe_6slRqaW-EULPN0yxjY#🇨🇦 Canada | OVH 3
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?path=/tyxyws&security=tls&encryption=none&insecure=0&host=jp3.yohototo.top&fp=chrome&type=ws&allowInsecure=0&sni=jp3.yohototo.top#🇨🇦 Canada | CF 5
+vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@162.159.152.2:443?encryption=none&fp=edge&host=tl.520783.xyz&path=%252Fassets%252Fdist%252Fapp-update-payload.dat&security=tls&sni=tl.520783.xyz&type=ws#🇨🇦 Canada | CF 1
