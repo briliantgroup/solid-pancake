@@ -3,6 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.187:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=poland-new-dedic-2.failspace.top&type=tcp#🇵🇱 Poland | FDCservers.net 1
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.196:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=poland-new-decic-1.failspace.top#🇵🇱 Poland | FDCservers.net 2
-vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?security=reality&encryption=none&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fa3ea655619a3e78#🇵🇱 Poland | GF PL GDN 1
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.196:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=poland-new-decic-1.failspace.top#🇵🇱 Poland | FDCservers.net 1
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.248.237:443?type=tcp&headerType=none&security=tls&encryption=none&sni=pl-new-dedic.failspace.top&fp=firefox&flow=xtls-rprx-vision#🇵🇱 Poland | FDCservers.net 2
