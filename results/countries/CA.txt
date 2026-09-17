@@ -3,4 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://V2XNET@188.114.98.0:443?path=/xvpnws/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=or.mirikhan.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=or.mirikhan.dpdns.org#🇨🇦 Canada | CF 1
+vless://807cd1e0-f4ce-4785-b7a3-cde0c1614b8d@104.25.30.10:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=de14.69lover.my&type=ws&headerType=none&host=de14.69lover.my&path=%2Fapi%2Fv2%2F6c316c769ad6853c%2Fstream#🇨🇦 Canada | CF 1
+vless://V2XNET@188.114.98.0:443?path=/xvpnws/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=or.mirikhan.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=or.mirikhan.dpdns.org#🇨🇦 Canada | CF 2
+trojan://humanity@104.16.122.175:443?type=ws&security=tls&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&alpn=h2,http/1.1#🇨🇦 Canada | CF 3
+trojan://humanity@104.21.13.204:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 Canada | CF 4
+trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 Canada | CF 5
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&type=ws#🇨🇦 Canada | CF 6
+vless://7e26fd8f-d75a-473d-84ba-9f4e3f47d086@172.67.169.213:443?security=tls&type=ws&path=/8qMLgNapWf6SBxo8fhQlVPYO&host=2-m20.20260721-9dc5-4f76-ad18-12cd86bca954.ccwu.cc&packetEncoding=xudp&sni=2-m20.20260721-9dc5-4f76-ad18-12cd86bca954.ccwu.cc&fp=chrome#🇨🇦 Canada | CF 7
+vless://a90c264d-3853-4eef-9a3d-628b2d02d15e@104.21.56.104:443?encryption=none&security=tls&sni=2-M19.AlbANia.KDnS.fR&fp=chrome&type=ws&host=2-m19.aLbaNIA.kdNs.fR&path=%2FCjBjB9sn5pCvaSwScc#🇨🇦 Canada | CF 8
+vless://1aa96574-c28b-4ee9-855d-ebdbbf1f7e90@104.21.64.209:443?encryption=none&type=ws&host=6-M13.0ee25773-D3D3-479D-a8ff-3F51d1d20031.kDnS.fr&path=%2FED3ZQPu7lqyeDGD58KabZ&security=tls&fp=chrome&sni=6-M13.0eE25773-d3d3-479D-A8Ff-3F51d1D20031.kdNs.fR#🇨🇦 Canada | CF 9
+vless://a90c264d-3853-4eef-9a3d-628b2d02d15e@104.21.47.191:443?encryption=none&security=tls&sni=2-M19.nORtH-kORea-FLOw.KDns.fr&fp=chrome&type=ws&host=2-m19.NORTh-koREA-FLoW.KdNs.FR&path=%2FCjBjB9sn5pCvaSwScc#🇨🇦 Canada | CF 10
+vless://a90c264d-3853-4eef-9a3d-628b2d02d15e@172.67.176.60:443?encryption=none&security=tls&sni=3-M19.SoUtH-afRIcA.CCwu.Cc&fp=chrome&type=ws&host=3-m19.south-afriCa.Ccwu.Cc&path=%2FCjBjB9sn5pCvaSwScc#🇨🇦 Canada | CF 11
+vless://ef5c5d5c-08c6-4549-b05e-d1ff29ecc8ba@172.67.206.48:443?security=tls&type=ws&path=/JRr6VGcSLFc034DC6sDbwyWJLbB&host=1-M16.AyUtTHAYA2030.KdNS.fR&packetEncoding=xudp&sni=1-M16.AyUtTHAYA2030.KdNS.fR&fp=chrome#🇨🇦 Canada | CF 12
+vless://7e26fd8f-d75a-473d-84ba-9f4e3f47d086@172.67.213.128:443?encryption=none&type=ws&host=9-m20.cd6b506e-5a88-4c5d-9e11-906f39613c04.kdns.fr&path=%2F8qMLgNapWf6SBxo8fhQlVPYO&security=tls&sni=9-m20.cd6b506e-5a88-4c5d-9e11-906f39613c04.kdns.fr#🇨🇦 Canada | CF 13
