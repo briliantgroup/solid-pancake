@@ -4,16 +4,11 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg@176.32.35.44:50111#🇷🇺 Russia | BX Network 1
-vless://3d53970b-419b-4a27-87b5-e9c99bb02eca@31.76.34.91:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=XBx1PANE_LKfrCRVCsu1LDwd2kywg7iDHW9tYEf2SQ0&security=reality&sni=cdn2.fiprotected.com&type=raw#🇷🇺 Russia | Yakovlev Denis Alexandrovich 1
-vless://ecf728d9-1555-4e12-b178-1d8bd98465e4@46.243.235.188:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=_ilhBTibNauMOEUqylnlBAUTYiqHHtmEDXkx18SHCR4&security=reality&sni=pool.dataroute.biz&spx=%2F&type=raw#🇷🇺 Russia | LLC Global cloud network 1
-hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#🇷🇺 Russia | SERV.HOST GROUP LTD 1
-vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=chrome&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc#🇷🇺 Russia | Adman LLC 1
-vless://b8201bab-fa6c-4f6e-b289-b5da660c6f69@46.8.200.91:443?&security=tls&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive#🇷🇺 Russia | Adman LLC 2
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | TOO Beget 1
-vless://23af657b-e7f0-4f65-85da-dc96b7f30f37@188.225.56.11:443?security=reality&encryption=none&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=a9dc98a7dc87a7dc#🇷🇺 Russia | TimeWeb 1
-vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&security=reality&sid=bbe46bd8f6b96839&sni=yandex.ru&type=tcp#🇷🇺 Russia | SERV.HOST GROUP LTD 2
-vless://2cbf425a-aed6-4c8f-937f-6265ed13a7fa@188.225.56.11:443?security=reality&encryption=none&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=a9dc98a7dc87a7dc#🇷🇺 Russia | TimeWeb 2
+vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?security=reality&encryption=none&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=bbe46bd8f6b96839#🇷🇺 Russia | SERV.HOST GROUP LTD 1
 vless://937fbdad-d97b-4540-9136-de1886df866f@77.110.104.238:2053?security=reality&type=grpc&mode=gun&serviceName=pl199grpc&packetEncoding=xudp&sni=www.tagesschau.de&fp=firefox&sid=facfeeb537603598&pbk=sHEHsya9ZbC34uBUOzAfAO8u2b3Ik71hp4AKMGLvZxw#🇷🇺 Russia | Aeza 1
 vless://937fbdad-d97b-4540-9136-de1886df866f@77.110.104.238:443?type=grpc&security=reality&fp=firefox&pbk=lvBVTmcLFcPyhVE2MGeTd0ls2FNOvBD7UhJNEmvprUQ&sid=f182f2fcf956838e&sni=www.wikipedia.org&serviceName=ru217125de65grpc#🇷🇺 Russia | Aeza 2
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.162.100:9880?type=grpc&security=reality&fp=firefox&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&sni=dl.google.com&serviceName=grpc-tunnel#🇷🇺 Russia | Sbercloud 1
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.195:9873?security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#🇷🇺 Russia | Sbercloud 2
+vless://9a47a8ff-8cdd-4a35-b765-fbad6d40e0a0@186.246.12.242:2053?&security=tls&fp=chrome&type=ws&headerType=none&path=%2F#🇷🇺 Russia | TimeWeb 1
+vless://940af00c-d91c-416a-8171-1f92cb327014@95.129.236.76:443?alpn=http%2F1.1&encryption=none&fp=firefox&path=%2Fv1%2Fdata%2Fsync%2F&security=tls&sni=metrics.gitpacket.pro&type=ws#🇷🇺 Russia | Ddos-guard LTD 1
+vless://9a47a8ff-8cdd-4a35-b765-fbad6d40e0a0@bz9.wba-pn.ru:2053?fp=chrome&packetEncoding=none&security=tls&sni=speedtest.tinkoff.ru&type=ws&allowInsecure=1&insecure=1#🇷🇺 Russia | TimeWeb 2
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.195:9873?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#🇷🇺 Russia | Sbercloud 1
+hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@31.76.71.63:443/?insecure=1&sni=cabinet.wwwinternetvideo.click#🇷🇺 Russia | SERV.HOST GROUP LTD 2
