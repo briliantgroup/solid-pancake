@@ -3,7 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vmess://eyJhZGQiOiI5NS4xODIuOTQuMjEwIiwiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiIiwiZnAiOiIiLCJzbmkiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJwcyI6IvCfjJAgQW55Y2FzdC1JUCB8IPCfh6nwn4eqIPCfh7jwn4eqIHwgW0JMXSIsImFpZCI6IjAiLCJ0eXBlIjoibm9uZSJ9#🇦🇪 United Arab Emirates | Cloud Software - FZCO 1
-vless://1f959100-a98b-47fb-84fa-359246dc458a@188.72.103.4:443?encryption=none&fp=firefox&host=apicdn.4subnodes.com&path=%2Fapiv1%2Fesa1-asda2jcvnbpseflkn-kjweksad&security=tls&sni=apicdn.4subnodes.com&type=ws#🇦🇪 United Arab Emirates | Yandex.Cloud LLC 1
-vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@45.88.13.5:8443?mode=gun&security=reality&encryption=none&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#🇦🇪 United Arab Emirates | Quality Network Middle East ... 1
-vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle Cloud Infrastructure ... 1
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@45.88.13.5:8443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=TunService#🇦🇪 United Arab Emirates | Quality Network Middle East ... 1
