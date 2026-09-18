@@ -3,7 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#🇬🇧 United Kingdom | Clouvider Limited 1
-vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@141.101.122.147:443?encryption=none&type=ws&host=a.cwvps.eu.org&path=%2Fws&security=tls&fp=chrome&sni=a.cwvps.eu.org#🇬🇧 United Kingdom | CF 1
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@91.193.17.234:9460?type=grpc&security=reality&fp=chrome&pbk=rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc&sni=www.google.com&serviceName=TunService#🇬🇧 United Kingdom | HZ Na33 1
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#🇬🇧 United Kingdom | Crosslink LLC 1
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇬🇧 United Kingdom | Clouvider Limited 1
