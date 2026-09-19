@@ -3,21 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#🇫🇷 France | OVH 1
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.252.23:443#🇫🇷 France | AWS EC2 (eu-west-3) 1
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@143.246.209.46:8081?path=%2Fvless-test&security=&encryption=none&type=ws#🇫🇷 France | Alexhost SRL 1
-vless://826f4c26-5e01-472d-a1f1-1bd8e2cb25fb@194.76.155.80:2443?encryption=none&fp=firefox&pbk=3cW_F0us0je_lhnl5xpwSxHyRfTQaKFELxWLr8jRzic&security=reality&serviceName=rex-grpc&sid=e496c7fe1cefc9ff&sni=deepl.com&type=grpc#🇫🇷 France | Beafort Limited 1
-vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?security=reality&encryption=none&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&headerType=none&fp=qq&type=tcp&sni=deepl.com&sid=a8ae#🇫🇷 France | Beafort Limited 2
-hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#🇫🇷 France | ONLINE 1
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#🇫🇷 France | ONLINE 2
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?flow=xtls-rprx-vision&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com#🇫🇷 France | OVH 2
-vless://3c48b5f5-7766-4896-874e-b3ba1860e83a@195.154.118.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=w-mebel.pro&fp=random&pbk=YhT24GkuI1r7Fwo8pxIYH3CmTtbRlYs5X7fWtYp3vTY&sid=05f4f85fdc6c1379&type=tcp#🇫🇷 France | ONLINE 3
-vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&security=none&type=ws&host=akamaized.net&path=%2Fvless%2F#🇫🇷 France | OVH 3
-vless://bf16ee0c-8b3c-41e4-ab3a-8b48033c404e@51.77.217.70:2053?type=tcp&security=reality&fp=firefox&pbk=g63cT3uI0Y5iUtj3m__RYz7nmR1eIK4AYikdnZCl63w&sid=bfe58beb41f1d09f&sni=www.apple.com#🇫🇷 France | OVH 4
+vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?security=reality&encryption=none&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&headerType=none&fp=qq&type=tcp&sni=deepl.com&sid=a8ae#🇫🇷 France | Beafort Limited 1
 vless://d619964d-26d6-452d-9860-6f058f03ba8e@34.155.10.226:443?&security=reality&pbk=6tH_NDFcxWn60B3s-MgrkBTU2yUUBY42ZG1av50Ywhk&sid=ae682368818bd6c5&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🇫🇷 France | GCP 1
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?flow=xtls-rprx-vision&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com#🇫🇷 France | OVH 5
-vless://069a2bbd-3fc9-470f-a251-c836a96ed04a@34.155.54.237:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=SVT2WeXMIrumlh5VG1lbHN6YbqL7-u2iRkv1js8XEU4&sid=3f95392a418ec8fd#🇫🇷 France | GCP 2
-vless://218ae360-0e5f-4856-91f3-1823adfc9037@mrs.sepporated.com:443?security=tls&type=ws&headerType=&path=%2Fws&host=mrs.sepporated.com&sni=mrs.sepporated.com&fp=#🇫🇷 France | Lightnode-FR 1
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&security=none&encryption=none&type=ws#🇫🇷 France | OVH 6
 vless://edb50d20-2d3e-4c1e-8a75-a17168a89aa5@145.223.68.58:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=a44ff7d2e80213c2&pbk=qc2DcqT9zPPZr6ePZ7ukxACWrYhRNIBjDIjCK7veyQg#🇫🇷 France | Regxa Company for Informatio... 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNThkMTZlNTkzZDQ0ZjQy@158.173.221.214:11001#🇫🇷 France | OVH 7
