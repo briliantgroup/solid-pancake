@@ -3,8 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
+trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇪🇸 Spain | SR DC Mad1 1
+trojan://humanity@185.114.72.31:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇪🇸 Spain | First Server Limited 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Spain | TELUS Communications Inc. 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Spain | Psychz Networks 1
-vless://c379d8e4-c67d-42ec-a3ed-ca99d1ad0546@196.245.52.146:25535?encryption=none&fp=firefox&pbk=Jh7CocBJSA55VZcLfXwXwoQ_Hi5pV-L1vv1SY-IrSh4&security=reality&sid=7642ce57308852e7&sni=www.microsoft.com&type=tcp#🇪🇸 Spain | Fiber Grid 1
+vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@194.26.100.73:443?encryption=none&fp=firefox&pbk=S6t9-gOX2mxWKNGvGSJ8NxDdlJy78d4gN2-wv2d0hFw&security=reality&serviceName=grpc&sid=8319913f2e5f5711&sni=es.cache-4d8a.com&type=grpc#🇪🇸 Spain | Cubepath Inc 1
+vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@194.26.100.18:443?encryption=none&pbk=S6t9-gOX2mxWKNGvGSJ8NxDdlJy78d4gN2-wv2d0hFw&security=reality&serviceName=grpc&sid=8319913f2e5f5711&sni=es.cache-4d8a.com&type=grpc&fp=firefox#🇪🇸 Spain | Cubepath Inc 2
 vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE&security=reality&sid=0dfc23fe80778c00&sni=www.cloudflare.com&type=tcp#🇪🇸 Spain | Green Floid LLC 1
-vless://c379d8e4-c67d-42ec-a3ed-ca99d1ad0546@es2.h1cloud.net:25535?type=tcp&headerType=none&security=reality&encryption=none&sni=www.microsoft.com&fp=firefox&pbk=Jh7CocBJSA55VZcLfXwXwoQ_Hi5pV-L1vv1SY-IrSh4&sid=7642ce57308852e7&spx=%2F#🇪🇸 Spain | Fiber Grid 2
 vless://cb15d1b0-e48b-4c4c-b98a-fa1103aa3723@87.76.179.117:7443?flow=xtls-rprx-vision&security=reality&fp=firefox&sni=www.samsung.com&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1#🇪🇸 Spain | NetGrid Host LTD 1
