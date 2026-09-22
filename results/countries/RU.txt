@@ -3,11 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://0d00987e-272f-4f57-bef1-ca681dc23d34@95.129.236.239:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws#🇷🇺 Russia | Ddos-guard LTD 1
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.162.100:9880?encryption=none&fp=firefox&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc#🇷🇺 Russia | Sbercloud 1
-vless://f2465248-f6b5-41bb-82d2-3cceab797ecb@95.129.236.239:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws#🇷🇺 Russia | Ddos-guard LTD 2
-vless://38f2979a-fa16-45b5-afaa-c35529d5dd55@95.129.236.239:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws#🇷🇺 Russia | Ddos-guard LTD 3
-vless://3f04ccbd-b552-47b0-b6b7-7a0b48bc16d5@95.129.236.239:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws#🇷🇺 Russia | Ddos-guard LTD 4
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.195:9873?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#🇷🇺 Russia | Sbercloud 2
-vless://441afe11-a180-4516-bb80-80a8a6b38705@193.163.203.253:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&security=reality&sid=5ee019e02e6ed99a&sni=yandex.ru&type=tcp#🇷🇺 Russia | Dmitry Viktorovich Petrov 1
-vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a&flow=xtls-rprx-vision#🇷🇺 Russia | Dmitry Viktorovich Petrov 2
+hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#🇷🇺 Russia | SERV.HOST GROUP LTD 1
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=chrome&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc#🇷🇺 Russia | Adman LLC 1
+vless://b8201bab-fa6c-4f6e-b289-b5da660c6f69@46.8.200.91:443?path=%2Fcdn%2Fv3%2Flive&security=tls&encryption=none&insecure=0&host=cf3.rumedia-cdn.com&type=ws&allowInsecure=0&sni=cf3.rumedia-cdn.com#🇷🇺 Russia | Adman LLC 2
+vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839&sni=yandex.ru#🇷🇺 Russia | SERV.HOST GROUP LTD 2
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@45.8.228.131:8080?alpn=h2&encryption=none&fp=firefox&mode=gun&security=tls&serviceName=grpc&sni=vdss.lavivas.org&type=grpc#🇷🇺 Russia | MT FINANCE LLC 1
+vless://89a0fe83-dcb3-4e3c-92ed-407fc668e7b1@77.110.105.102:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ru-1.brodvpn.com&fp=chrome&type=tcp&headerType=none#🇷🇺 Russia | Aeza 1
+vless://441afe11-a180-4516-bb80-80a8a6b38705@193.163.203.253:443?security=reality&type=tcp&packetEncoding=xudp&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&sid=5ee019e02e6ed99a&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&encryption=none#🇷🇺 Russia | Dmitry Viktorovich Petrov 1
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@213.171.25.29:9889?type=grpc&security=reality&fp=qq&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&sid=aabb&sni=dl.google.com&serviceName=grpc-tunnel#🇷🇺 Russia | Cloud.ru 1
