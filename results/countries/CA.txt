@@ -3,19 +3,20 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://0b3e7958-e5c4-498f-ab21-b49686f95d2d@188.114.97.1:2053?encryption=none&type=ws&host=bold-term-4edd.mbigspot.workers.dev&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=bold-term-4edd.mbigspot.workers.dev#🇨🇦 Canada | CF 1
-vless://735b8344-0b95-464c-b687-1c5616138908@172.67.130.159:2096?path=/3cagtz3&security=tls&encryption=none&insecure=0&host=cdn-de.skyvora.app&fp=chrome&type=ws&allowInsecure=0&sni=cdn-de.skyvora.app#🇨🇦 Canada | CF 2
+vless://6a3cdccd-b2d8-4cd2-af76-e3e92d584264@artemis-vpn-free-01.huge-b.com:2053?path=%2F%40Artemis_Vpn&security=tls&encryption=none&insecure=0&host=artemis-vpn-free-01.huge-b.com&fp=chrome&type=ws&allowInsecure=0&sni=artemis-vpn-free-01.huge-b.com#🇨🇦 Canada | CF 1
+vless://735b8344-0b95-464c-b687-1c5616138908@172.67.130.159:2096?path=%2F3cagtz3&security=tls&encryption=none&insecure=0&host=cdn-de.skyvora.app&fp=chrome&type=ws&allowInsecure=0&sni=cdn-de.skyvora.app#🇨🇦 Canada | CF 2
 vless://735b8344-0b95-464c-b687-1c5616138908@104.21.8.201:2096?path=/3cagtz3&security=tls&encryption=none&insecure=0&host=cdn-de.skyvora.app&fp=chrome&type=ws&allowInsecure=0&sni=cdn-de.skyvora.app#🇨🇦 Canada | CF 3
 vless://bdc5e450-3e2d-4001-928e-e3bc6cecb249@104.21.8.201:2096?path=/hux9duzm54&security=tls&encryption=none&insecure=0&host=cdn.skyvora.app&fp=chrome&type=ws&allowInsecure=0&sni=cdn.skyvora.app#🇨🇦 Canada | CF 4
-vless://bdc5e450-3e2d-4001-928e-e3bc6cecb249@172.67.130.159:2096?&security=tls&fp=chrome&sni=cdn.skyvora.app&type=ws&headerType=none&host=cdn.skyvora.app&path=%2Fhux9duzm54#🇨🇦 Canada | CF 5
-vless://214bf4c5-045a-4ddb-944b-e2eef9b33338@104.21.8.201:2096?path=/9hf8a67dhf&security=tls&encryption=none&host=cdn-fr.skyvora.app&fp=chrome&type=ws&sni=cdn-fr.skyvora.app#🇨🇦 Canada | CF 6
-vless://214bf4c5-045a-4ddb-944b-e2eef9b33338@172.67.130.159:2096?&security=tls&fp=chrome&sni=cdn-fr.skyvora.app&type=ws&headerType=none&host=cdn-fr.skyvora.app&path=%2F9hf8a67dhf#🇨🇦 Canada | CF 7
-vless://550d6eb0-1775-44a4-a464-9176e3d74b50@104.21.8.201:2096?&security=tls&fp=chrome&sni=cdn-us.skyvora.app&type=ws&headerType=none&host=cdn-us.skyvora.app&path=%2F0i027asku#🇨🇦 Canada | CF 8
-vless://550d6eb0-1775-44a4-a464-9176e3d74b50@172.67.130.159:2096?path=/0i027asku&security=tls&encryption=none&insecure=0&host=cdn-us.skyvora.app&fp=chrome&type=ws&allowInsecure=0&sni=cdn-us.skyvora.app#🇨🇦 Canada | CF 9
-vless://1d54a125-8f1e-46bb-9a23-0ecf4ac92db8@104.21.8.201:2096?fp=chrome&host=cdn-ca.skyvora.app&path=%2Ffqg7aacd8s&security=tls&sni=cdn-ca.skyvora.app&type=ws#🇨🇦 Canada | CF 10
-vless://1d54a125-8f1e-46bb-9a23-0ecf4ac92db8@172.67.130.159:2096?path=/fqg7aacd8s&security=tls&encryption=none&insecure=0&host=cdn-ca.skyvora.app&fp=chrome&type=ws&allowInsecure=0&sni=cdn-ca.skyvora.app#🇨🇦 Canada | CF 11
+vless://bdc5e450-3e2d-4001-928e-e3bc6cecb249@172.67.130.159:2096?fp=chrome&host=cdn.skyvora.app&path=%2Fhux9duzm54&security=tls&sni=cdn.skyvora.app&type=ws#🇨🇦 Canada | CF 5
+vless://214bf4c5-045a-4ddb-944b-e2eef9b33338@172.67.130.159:2096?&security=tls&fp=chrome&sni=cdn-fr.skyvora.app&type=ws&headerType=none&host=cdn-fr.skyvora.app&path=%2F9hf8a67dhf#🇨🇦 Canada | CF 6
+vless://214bf4c5-045a-4ddb-944b-e2eef9b33338@104.21.8.201:2096?path=/9hf8a67dhf&security=tls&encryption=none&host=cdn-fr.skyvora.app&fp=chrome&type=ws&sni=cdn-fr.skyvora.app#🇨🇦 Canada | CF 7
+vless://550d6eb0-1775-44a4-a464-9176e3d74b50@172.67.130.159:2096?path=/0i027asku&security=tls&encryption=none&insecure=0&host=cdn-us.skyvora.app&fp=chrome&type=ws&allowInsecure=0&sni=cdn-us.skyvora.app#🇨🇦 Canada | CF 8
+vless://550d6eb0-1775-44a4-a464-9176e3d74b50@104.21.8.201:2096?&security=tls&fp=chrome&sni=cdn-us.skyvora.app&type=ws&headerType=none&host=cdn-us.skyvora.app&path=%2F0i027asku#🇨🇦 Canada | CF 9
+vless://1d54a125-8f1e-46bb-9a23-0ecf4ac92db8@172.67.130.159:2096?path=/fqg7aacd8s&security=tls&encryption=none&insecure=0&host=cdn-ca.skyvora.app&fp=chrome&type=ws&allowInsecure=0&sni=cdn-ca.skyvora.app#🇨🇦 Canada | CF 10
+vless://1d54a125-8f1e-46bb-9a23-0ecf4ac92db8@104.21.8.201:2096?&security=tls&fp=chrome&sni=cdn-ca.skyvora.app&type=ws&headerType=none&host=cdn-ca.skyvora.app&path=%2Ffqg7aacd8s#🇨🇦 Canada | CF 11
 vless://36788cf4-fcb4-49c5-a563-5f888849b1cc@172.67.130.159:2096?path=/vqyps6kf3&security=tls&encryption=none&insecure=0&host=cdn-jp.skyvora.app&fp=chrome&type=ws&allowInsecure=0&sni=cdn-jp.skyvora.app#🇨🇦 Canada | CF 12
 vless://36788cf4-fcb4-49c5-a563-5f888849b1cc@104.21.8.201:2096?path=/vqyps6kf3&security=tls&encryption=none&insecure=0&host=cdn-jp.skyvora.app&fp=chrome&type=ws&allowInsecure=0&sni=cdn-jp.skyvora.app#🇨🇦 Canada | CF 13
-vless://832c8f42-7fe1-4aa4-9171-eb9dddbf6fef@104.21.8.201:2096?&security=tls&fp=chrome&sni=cdn-sg.skyvora.app&type=ws&headerType=none&host=cdn-sg.skyvora.app&path=%2F78bc8#🇨🇦 Canada | CF 14
-vless://832c8f42-7fe1-4aa4-9171-eb9dddbf6fef@172.67.130.159:2096?&security=tls&fp=chrome&sni=cdn-sg.skyvora.app&type=ws&headerType=none&host=cdn-sg.skyvora.app&path=%2F78bc8#🇨🇦 Canada | CF 15
+vless://832c8f42-7fe1-4aa4-9171-eb9dddbf6fef@172.67.130.159:2096?fp=chrome&path=%2F78bc8&security=tls&sni=cdn-sg.skyvora.app&type=ws#🇨🇦 Canada | CF 14
+vless://832c8f42-7fe1-4aa4-9171-eb9dddbf6fef@104.21.8.201:2096?&security=tls&fp=chrome&sni=cdn-sg.skyvora.app&type=ws&headerType=none&host=cdn-sg.skyvora.app&path=%2F78bc8#🇨🇦 Canada | CF 15
 vless://ecb9ab47-31aa-4dd9-92eb-191047b353bd@104.21.8.201:2096?&security=tls&fp=chrome&sni=cdn-hk.skyvora.app&type=ws&headerType=none&host=cdn-hk.skyvora.app&path=%2Ff7i3lo6xbs#🇨🇦 Canada | CF 16
+vless://ecb9ab47-31aa-4dd9-92eb-191047b353bd@172.67.130.159:2096?fp=chrome&host=cdn-hk.skyvora.app&path=%2Ff7i3lo6xbs&security=tls&sni=cdn-hk.skyvora.app&type=ws#🇨🇦 Canada | CF 17
