@@ -3,8 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://b8201bab-fa6c-4f6e-b289-b5da660c6f69@46.8.200.91:443?&security=tls&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive#🇷🇺 Russia | Adman LLC 1
-vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?security=tls&fp=firefox&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc#🇷🇺 Russia | Adman LLC 2
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | TOO Beget 1
 vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839#🇷🇺 Russia | SERV.HOST GROUP LTD 1
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@95.163.232.171:14443?alpn=http/1.1&encryption=none&fp=chrome&path=/ws&security=tls&sni=media-se.compressor.work&type=ws#🇷🇺 Russia | "Domain names registrar REG.... 1
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@85.208.86.91:9872?encryption=none&security=reality&sni=dl.google.com&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&type=grpc&mode=gun&serviceName=grpc-tunnel&fp=chrome#🇷🇺 Russia | Cloud.ru 1
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@213.171.25.178:9830?security=reality&sni=dl.google.com&type=grpc&serviceName=grpc-tunnel&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb#🇷🇺 Russia | Cloud.ru 2
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#🇷🇺 Russia | Cloud.ru 3
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.243.18:9872?security=reality&type=grpc&mode=gun&serviceName=grpc-tunnel&packetEncoding=xudp&sni=dl.google.com&fp=firefox&sid=aabb&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc#🇷🇺 Russia | Cloud.ru 4
+vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?security=reality&flow=xtls-rprx-vision&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&fp=chrome&sni=yandex.ru&type=tcp&headerType=none&path=%2F#🇷🇺 Russia | Dmitry Viktorovich Petrov 1
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.110:9830?authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&encryption=none&fp=chrome&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc#🇷🇺 Russia | Cloud.ru 5
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9889?type=grpc&security=reality&fp=qq&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&sni=dl.google.com&serviceName=grpc-tunnel#🇷🇺 Russia | Cloud.ru 6
