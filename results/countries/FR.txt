@@ -1,0 +1,9 @@
+#profile-update-interval: 3
+#profile-title: encode:Qm9iaVZQTiDwn4er8J+HtyBGcmFuY2U=
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#support-url: https://github.com/
+#profile-web-page-url: https://github.com/
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.170.37:22222?encryption=none&amp;security=none&amp;type=tcp#🇫🇷 France | AWS EC2 (eu-west-3) 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#🇫🇷 France | OVH 1
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@185.171.202.105:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fra.loozerp.wiki&sid=ff776ff77be48b88#🇫🇷 France | Dyjix 1
+vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@143.246.209.46:8081?path=%2Fvless-test&security=&encryption=none&type=ws#🇫🇷 France | Alexhost SRL 1
