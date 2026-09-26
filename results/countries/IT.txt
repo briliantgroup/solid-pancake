@@ -3,5 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://08db3580-ce2e-4e88-80c7-ffcc02de55e8@116.204.164.27:7443?encryption=none&fp=firefox&host=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&path=/@Marisa_kristi&security=tls&sni=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&type=ws#🇮🇹 Italy | Netutils 1
-vless://c676be7d-b481-4bba-88d0-65855e09dc67@116.204.164.60:7443?encryption=none&type=ws&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&path=%2F%40Marisa_kristi&security=tls&fp=chrome&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev#🇮🇹 Italy | Netutils 2
+vless://d25fa7ff-f71e-4cc2-88e6-a340b86fdebf@116.204.164.5:7443?security=tls&type=ws&path=/@Marisa_kristi&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&packetEncoding=xudp&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&fp=chrome&encryption=none#🇮🇹 Italy | Netutils 1
