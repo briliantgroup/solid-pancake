@@ -3,5 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://25284368-40d5-4abe-9f56-54a07e88a7af@84.32.51.238:45977?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=lt-1.dzvn.space&fp=firefox&pbk=5JPUCm5vkIUyBfwcgnkWXJNIW4CaWgBzXgT61cvWVVA&sid=f688ff32ece6b15f&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22delay%22%3A%2210-20%22%2C%22length%22%3A%22100-200%22%2C%22packets%22%3A%22tlshello%22%2C%22maxSplit%22%3A%223-6%22%7D%7D%5D%7D#🇱🇹 Lithuania | UAB Cherry Servers 1
+vless://25284368-40d5-4abe-9f56-54a07e88a7af@84.32.51.238:45977?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=5JPUCm5vkIUyBfwcgnkWXJNIW4CaWgBzXgT61cvWVVA&sid=f688ff32ece6b15f&sni=lt-1.dzvn.space&fm={#🇱🇹 Lithuania | UAB Cherry Servers 1
 vless://d448490d-4ee6-442f-80e1-5e1c186c4ce1@94.176.234.161:443?security=reality&encryption=none&pbk=UpI0XKNUsMJ24XawPQ8g7br1faEsO7BOvmIIGg9Wrm8&headerType=&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=dbb2ef1c7c#🇱🇹 Lithuania | RACKRAY 1
