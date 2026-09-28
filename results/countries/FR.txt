@@ -3,4 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://7faa65a6-b43b-413e-9480-a81fae3d0c49@185.255.114.91:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=VDZdbh_RzDDZsHpYF58yUuuvXh93XnmkvpSqb50qG2U&security=reality&sid=1be482b8e08aa0ef&sni=nl2.reddotcorp.org&type=tcp#🇫🇷 France | Weyro LTD 1
+vless://7faa65a6-b43b-413e-9480-a81fae3d0c49@185.255.114.91:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=VDZdbh_RzDDZsHpYF58yUuuvXh93XnmkvpSqb50qG2U&sid=1be482b8e08aa0ef&sni=nl2.reddotcorp.org#🇫🇷 France | Weyro LTD 1
