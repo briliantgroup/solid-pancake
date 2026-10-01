@@ -3,5 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://79bc7b01-6e4e-4365-a120-fefac8182bd9@34.51.119.243:443?&security=reality&pbk=vFcM44RcbcO5jcrSWHLd_0exXAnnJLhpCNnMrWCwlzI&sid=65f01b4b99e52015&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🇲🇽 Mexico | GCP 1
-vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@45.134.9.133:8443?encryption=none&security=tls&sni=ul-mexico1.09vpn.com&allowInsecure=true&type=ws&path=/vless/&packetEncoding=xudp#🇲🇽 Mexico | Ipxo Limited 1
+vless://79bc7b01-6e4e-4365-a120-fefac8182bd9@34.51.23.2:443?fp=chrome&pbk=vFcM44RcbcO5jcrSWHLd_0exXAnnJLhpCNnMrWCwlzI&security=reality&sid=65f01b4b99e52015&sni=www.cloudflare.com#🇲🇽 Mexico | GCP 1

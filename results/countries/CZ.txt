@@ -3,9 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://ea723504-e8df-4f23-b35f-c93961d5128a@153.76.185.163:3090?mode=multi&serviceName=vless&type=grpc&security=none&encryption=none#🇨🇿 Czechia | Reliable Communications s.r.... 1
-vless://ea723504-e8df-4f23-b35f-c93961d5128a@194.87.59.29:2085?mode=multi&serviceName=vless&type=grpc&security=none&encryption=none#🇨🇿 Czechia | Reliable Communications s.r.... 2
-vless://ea723504-e8df-4f23-b35f-c93961d5128a@194.87.59.5:2085?mode=multi&serviceName=vless&type=grpc&security=none&encryption=none#🇨🇿 Czechia | Reliable Communications s.r.... 3
-vless://ea723504-e8df-4f23-b35f-c93961d5128a@153.76.185.159:3090?mode=multi&serviceName=vless&type=grpc&security=none&encryption=none#🇨🇿 Czechia | Reliable Communications s.r.... 4
-vless://ea723504-e8df-4f23-b35f-c93961d5128a@153.76.185.162:3090?mode=multi&serviceName=vless&type=grpc&security=none&encryption=none#🇨🇿 Czechia | Reliable Communications s.r.... 5
+vless://14e227c3-5a83-4b4d-a41a-e5f499c79415@153.76.185.108:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Czechia | Reliable Communications s.r.... 1
 vless://eec2f6a7-c10f-43b0-b133-61f9bf9bbc27@45.146.90.85:443?encryption=none&flow=xtls-rprx-vision&pbk=bPbAdn6ogLbiv5cRe5d12EL7FhooAIVrC3-fg90P-Bw&security=reality&sid=72104d27a0f5f62e&sni=www.amazon.com&type=tcp&fp=safari#🇨🇿 Czechia | RAPIDSEEDBOX 1
