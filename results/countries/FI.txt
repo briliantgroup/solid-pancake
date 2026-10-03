@@ -4,5 +4,8 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?encryption=none&fp=firefox&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&security=reality&sid=d368b94e275ab080&sni=www.google.com&type=tcp#🇫🇮 Finland | Hetzner 1
-vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.108.3.59:443?security=reality&encryption=none&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.eitaa.com&sid=90ec9bba2019#🇫🇮 Finland | Hetzner 2
-vless://f811a2e8-08ed-4b30-b44c-449a7cab54d8@13.143.173.198:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=P1ijgorxcrokmQIyG-DnMf73vJEgfvGY_OntmZe6Wwc&sni=fincaafterpool.best&encryption=none#🇫🇮 Finland | HSTQ-HOSTING-SERVICE 1
+vless://47f79fc1-0646-40e8-8a58-73e85d183d5a@144.31.27.215:43000?security=reality&encryption=none&pbk=dxCQnOekn14riFxt3vdwDNydvW47FsmwFG6BJ2mUgEg&headerType=none&fp=chrome&spx=/AhmadV2ray&type=tcp&flow=xtls-rprx-vision&sni=144.31.27.215&sid=568d87a47271344e#🇫🇮 Finland | u1host Finland 1
+vless://d6bd3ec0-84f5-4df3-bd5a-ef69469ce642@31.77.248.45:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OteiE-wbd2FB2eY1kwT8UnalZfYV25IRs5ipYB7tcUw&security=reality&sid=5c3ed0eb079e640d&sni=hel2.mtmajestic.space&type=tcp#🇫🇮 Finland | Andris Jakovlevs 1
+vless://a5dd2dd9-0995-449e-be67-4a409890dc42@2.27.207.30:443?type=tcp&security=reality&sni=jdbdb.huinaduok.fans&fp=random&pbk=nG28Y1q-Ul2oBH-FegAkzGtvY6IRCIwras1k8CLwdGo&sid=da4d87fa&fm=AhmadV2ray&encryption=none&spx=%2FAhmadV2ray&headerType=none&flow=xtls-rprx-vision#🇫🇮 Finland | Play2go - Fzco 1
+vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?security=reality&encryption=none&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=91af08b1ce1f#🇫🇮 Finland | Globalit DOO 1
+vless://f3462e4a-aabe-4f73-97bb-573b706644f7@78.17.11.109:8443?encryption=none&security=tls&sni=cdn.fwqfw783rg2dad.website&type=ws&path=%2Fwebsocket&host=cdn.fwqfw783rg2dad.website&fp=android#🇫🇮 Finland | Snowd Security OU 1
