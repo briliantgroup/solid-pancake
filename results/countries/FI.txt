@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.108.3.59:443?security=reality&encryption=none&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.eitaa.com&sid=90ec9bba2019#🇫🇮 Finland | Hetzner 1
-vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?encryption=none&fp=firefox&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&security=reality&sid=d368b94e275ab080&sni=www.google.com&type=tcp#🇫🇮 Finland | Hetzner 2
-vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@77.42.28.120:1280?type=ws&host=is1-ssl.mzstatic.com&path=/#🇫🇮 Finland | Cloud Hel1 1
-vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.foxsports.com&fp=chrome&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&sid=91af08b1ce1f&type=tcp&headerType=none#🇫🇮 Finland | Globalit DOO 1
+vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?encryption=none&fp=firefox&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&security=reality&sid=d368b94e275ab080&sni=www.google.com&type=tcp#🇫🇮 Finland | Hetzner 1
+vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.108.3.59:443?security=reality&encryption=none&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.eitaa.com&sid=90ec9bba2019#🇫🇮 Finland | Hetzner 2
+vless://f811a2e8-08ed-4b30-b44c-449a7cab54d8@13.143.173.198:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=P1ijgorxcrokmQIyG-DnMf73vJEgfvGY_OntmZe6Wwc&sni=fincaafterpool.best&encryption=none#🇫🇮 Finland | HSTQ-HOSTING-SERVICE 1
