@@ -4,8 +4,5 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇬🇧 United Kingdom | Clouvider Limited 1
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#🇬🇧 United Kingdom | Clouvider Limited 2
-vmess://eyJhZGQiOiIxODYuMTkwLjIxMS4xNDciLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6Ilx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlN1tvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtR0IiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#🇬🇧 United Kingdom | objx.net 1
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#🇬🇧 United Kingdom | M247 LTD 1
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.211:2083?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=gun#🇬🇧 United Kingdom | FDCservers.net 1
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.23.32:8080#🇬🇧 United Kingdom | M247 LTD 2
+vless://93c53b59-1523-4621-9528-77b016a28304@57.129.130.200:52014?security=tls&type=ws&path=/@Marisa_kristi&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&packetEncoding=none&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&fp=chrome#🇬🇧 United Kingdom | OVH 1
+vless://82fc8761-470b-4022-89da-ce5412e8bb0a@57.129.130.57:52014?security=tls&type=ws&path=/@Marisa_kristi&host=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&packetEncoding=xudp&sni=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&fp=chrome&encryption=none#🇬🇧 United Kingdom | OVH 2
