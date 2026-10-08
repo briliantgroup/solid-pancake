@@ -3,8 +3,28 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@35.78.243.103:443?security=tls&type=ws&path=%2Ft.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz&packetEncoding=xudp&sni=x.m-90.xyz&fp=chrome&encryption=none#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 1
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@13.231.221.179:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=chrome&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 2
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@13.115.139.162:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=chrome&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 3
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@150.230.63.93:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=chrome&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#🇯🇵 Japan | Oracle Cloud Infrastructure ... 1
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@129.225.175.227:443?encryption=none&fp=firefox&host=x.m-90.xyz&path=/t.me/TEAMNETGRATISCOL&security=tls&sni=x.m-90.xyz&type=ws#🇯🇵 Japan | Oracle Cloud Infrastructure ... 2
+trojan://UX82473651@54.250.237.143:443?security=tls&sni=accurate-frog.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 1
+trojan://UX82473651@prime-corgi.rooster465.autos:443?security=tls&sni=prime-corgi.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 2
+trojan://UX82473651@54.238.153.132:443?security=tls&sni=obliging-louse.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 3
+trojan://UX82473651@winning-marten.rooster465.autos:443?security=tls&sni=winning-marten.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 4
+vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?security=reality&encryption=none&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&host=v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=03653bc03be10c97#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 5
+trojan://UX82473651@54.249.55.154:443?security=tls&sni=prime-corgi.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 6
+trojan://UX82473651@brief-glider.rooster465.autos:443?security=tls&sni=brief-glider.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 7
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t9.qifei.app:443?security=reality&type=tcp&packetEncoding=none&sni=www.amazon.com&fp=random&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo#🇯🇵 Japan | SAKURA 1
+trojan://UX82473651@organic-caribou.rooster465.autos:443?sni=organic-caribou.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 8
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.170.8.95:443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#🇯🇵 Japan | ACE SG 1
+trojan://UX82473651@43.207.89.91:443?security=tls&sni=organic-caribou.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 9
+trojan://UX82473651@dynamic-imp.rooster465.autos:443?sni=dynamic-imp.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 10
+trojan://UX82473651@accurate-frog.rooster465.autos:443?sni=accurate-frog.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 11
+trojan://UX82473651@13.231.247.130:443?sni=concrete-aardvark.rooster465.autos&fp=chrome&type=tcp&path=%2f#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 12
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@152.69.200.216:443?encryption=none&fp=firefox&host=jp3.yohototo.top&path=/tyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Japan | Oracle Cloud Infrastructure ... 1
+trojan://UX82473651@54.199.66.128:443?security=tls&sni=integral-rodent.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 13
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@154.31.114.162:8443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#🇯🇵 Japan | DMIT Cloud Services 1
+trojan://UX82473651@3.112.245.255:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=dynamic-imp.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 14
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@160.16.139.182:443?security=reality&encryption=none&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=1a#🇯🇵 Japan | SAKURA 2
+trojan://UX82473651@43.207.198.39:443?allowInsecure=1&insecure=1&security=tls&sni=fancy-javelin.rooster465.autos&type=tcp&headerType=none#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 15
+trojan://UX82473651@comic-poodle.rooster465.autos:443?sni=comic-poodle.rooster465.autos#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 16
+trojan://UX82473651@evolving-platypus.rooster465.autos:443?allowInsecure=1&insecure=1&security=tls&sni=evolving-platypus.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 17
+trojan://UX82473651@13.230.139.12:443?security=tls&sni=brief-glider.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 18
+vless://a853e120-3570-462b-aec1-e8f3d4f92d24@178.239.117.24:443?security=tls&type=ws&path=%2F&host=asia.csmaster.site&sni=asia.csmaster.site&fp=chrome&encryption=none#🇯🇵 Japan | OrangeVPS LLC 1
+vless://a853e120-3570-462b-aec1-e8f3d4f92d24@161.33.15.101:443?encryption=none&fp=firefox&host=asia.csmaster.site&security=tls&sni=asia.csmaster.site&type=ws#🇯🇵 Japan | Oracle Cloud Infrastructure ... 2
