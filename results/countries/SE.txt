@@ -3,5 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://203d434a-2a92-45df-8973-ca80434ecf73@163.245.43.50:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=content.v1.Feed&allowInsecure=0&sni=se-twitch.global-cdn.org#🇸🇪 Sweden | Purdue University Northwest 1
-vless://0d628b17-8ac4-49b9-a422-6b99077bfdf6@31.76.3.34:443?security=reality&type=tcp&packetEncoding=xudp&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&sid=8a2b3c4d5e6f7012&pbk=CetY_ReGID1LBH275yWlxxOctI82PtgxR-fjYSRTKzM&encryption=none#🇸🇪 Sweden | SERV.HOST GROUP LTD 1
+vless://56de13ac-086e-4789-8e1e-1bf2bd90216b@177.3.209.245:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=MQrvfivvEfLGzDee7h0j5uC-DwaD_38_NXOY9-NhqxM&security=reality&sni=swidenlanzerotte.live&type=tcp#🇸🇪 Sweden | Play2go - Fzco 1
