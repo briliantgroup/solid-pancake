@@ -1,17 +1,17 @@
 {
-  "checked_at": "2026-10-15 08:34:29 UTC",
-  "total_working": 787,
+  "checked_at": "2026-10-15 14:32:32 UTC",
+  "total_working": 716,
   "tier_s": 0,
   "tier_a": 0,
   "tier_b": 0,
-  "tier_c": 787,
+  "tier_c": 716,
   "avg_score": 0.0,
   "avg_latency_ms": 0.0,
   "min_latency_ms": 0,
   "p95_latency_ms": 0,
   "avg_jitter_ms": 0.0,
-  "avg_speed_mbps": 22.8,
-  "max_speed_mbps": 65.61,
+  "avg_speed_mbps": 17.97,
+  "max_speed_mbps": 49.31,
   "speed_checked": true,
   "countries": {
     "CA": {
@@ -22,49 +22,42 @@
       "tier_a": 0
     },
     "DE": {
-      "count": 47,
+      "count": 49,
       "avg_ping_ms": 0.0,
       "avg_score": 0.0,
       "tier_s": 0,
       "tier_a": 0
     },
     "FI": {
-      "count": 17,
-      "avg_ping_ms": 0.0,
-      "avg_score": 0.0,
-      "tier_s": 0,
-      "tier_a": 0
-    },
-    "GB": {
-      "count": 1,
+      "count": 18,
       "avg_ping_ms": 0.0,
       "avg_score": 0.0,
       "tier_s": 0,
       "tier_a": 0
     },
     "NL": {
-      "count": 64,
+      "count": 74,
       "avg_ping_ms": 0.0,
       "avg_score": 0.0,
       "tier_s": 0,
       "tier_a": 0
     },
     "RU": {
-      "count": 12,
+      "count": 4,
       "avg_ping_ms": 0.0,
       "avg_score": 0.0,
       "tier_s": 0,
       "tier_a": 0
     },
     "US": {
-      "count": 2,
+      "count": 3,
       "avg_ping_ms": 0.0,
       "avg_score": 0.0,
       "tier_s": 0,
       "tier_a": 0
     },
     "XX": {
-      "count": 639,
+      "count": 563,
       "avg_ping_ms": 0.0,
       "avg_score": 0.0,
       "tier_s": 0,
