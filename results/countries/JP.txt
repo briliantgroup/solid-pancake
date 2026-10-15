@@ -3,6 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@151.241.128.115:16586?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=tBvlo8F8hKRXSK-EHRAfzEH-x3e4uvheGloO-9bPKx4&sid=70ab6d813e&sni=us1p1.xn--ghq880n3na965a.com#🇯🇵 Japan | IPXO 1
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#🇯🇵 Japan | Contabo 1
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#🇯🇵 Japan | Contabo 2
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@151.241.128.115:16586?security=reality&type=tcp&packetEncoding=xudp&sni=us1p1.xn--ghq880n3na965a.com&fp=firefox&flow=xtls-rprx-vision&sid=70ab6d813e&pbk=tBvlo8F8hKRXSK-EHRAfzEH-x3e4uvheGloO-9bPKx4#🇯🇵 Japan | IPXO 1
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵 Japan | DataCamp Limited 1
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?security=tls&sni=45.32.52.173#🇯🇵 Japan | Vultr 1
