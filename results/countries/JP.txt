@@ -5,3 +5,13 @@
 #profile-web-page-url: https://github.com/
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@151.241.128.115:41705?security=reality&type=tcp&packetEncoding=xudp&sni=us1p1.xn--ghq880n3na965a.com&fp=firefox&flow=xtls-rprx-vision&sid=e51285e3&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA#🇯🇵 Japan | IPXO 1
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@151.241.128.115:16586?security=reality&type=tcp&packetEncoding=xudp&sni=us1p1.xn--ghq880n3na965a.com&fp=firefox&flow=xtls-rprx-vision&sid=70ab6d813e&pbk=tBvlo8F8hKRXSK-EHRAfzEH-x3e4uvheGloO-9bPKx4#🇯🇵 Japan | IPXO 2
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#🇯🇵 Japan | DataCamp Limited 1
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#🇯🇵 Japan | Contabo 1
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#🇯🇵 Japan | Contabo 2
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@130.94.65.201:80?host=platform115.halalkhor.info&path=%2Fplatform115&security=none&sni=platform115.halalkhor.info&type=ws#🇯🇵 Japan | Light Node Limited 1
+vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?path=%2Fvless%2F&security=&encryption=none&type=ws#🇯🇵 Japan | Ipxo LLC 1
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@130.94.67.40:80?path=/platform118&security=none&type=ws#🇯🇵 Japan | Light Node Limited 2
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?sni=platform109.halalkhor.info&type=ws&host=platform109.halalkhor.info&path=/platform109#🇯🇵 Japan | Light Node Limited 3
+vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?flow=xtls-rprx-vision&fp=qq&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&security=reality&sid=03653bc03be10c97&sni=www.sony.com&type=tcp#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 1
+trojan://HutaoCloud@185.220.238.77:11543?security=tls&sni=185.220.238.77&allowInsecure=true&type=ws&host=185.220.238.77&path=/api#🇯🇵 Japan | Akari Networks Limited 1
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@130.94.67.180:80?path=%2Fplatform117&security=none&type=ws#🇯🇵 Japan | Light Node Limited 4
