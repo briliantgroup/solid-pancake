@@ -1,12 +1,6 @@
 #profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4e58J+HtyBUdXJrZXk=
+#profile-title: encode:Qm9iaVZQTiDwn4e58J+HtyBUw7xya2l5ZQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-ss://YWVzLTEyOC1nY206Qkkyb21YZ1hkdXU5NXhBVHU1dWFVM2puMkxwYjktcUs=@78.135.77.110:11700#🇹🇷 Turkey | Netlen Internet Hizmetleri L... 1
-vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?security=reality&encryption=none&pbk=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=f46cd3ea3d1eb72d#🇹🇷 Turkey | Pixoof Teknoloji Anonim Sirk... 1
-vless://f079a440-e5f6-46cc-bcaf-273c8cf4417d@tutua.azad0namah.ir:8080?encryption=none&security=none&type=tcp&headerType=none#🇹🇷 Türkiye | Poyraz Hosting 1
-vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&sid=9e419c0759b54d6f#🇹🇷 Türkiye | Hostkey B.V 1
-vless://2f7361b1-3c6b-4ddf-9e28-5297a22513ca@82.26.86.145:8443?encryption=none&fp=firefox&pbk=sSwSzf1fW2e08l8SeLAPvZf2KHb6iTmFYWmdLzUMpSo&security=reality&serviceName=api.v1.Sync&sid=95e422958b1cde43&sni=www.rutube.ru&type=grpc#🇹🇷 Türkiye | Hostkey B.V 2
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@146.103.24.187:8443?encryption=none&security=tls&sni=vlso5.1d.mom&fp=chrome&type=ws&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080&host=vlso5.1d.mom#🇹🇷 Türkiye | Baran Cirak 1
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@203.202.232.110:443?security=tls&type=ws&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080fp%3Dchrome&host=vlso5.1d.mom&packetEncoding=xudp&sni=vlso5.1d.mom&fp=chrome#🇹🇷 Türkiye | White Label Services, LLC 1
+trojan://humanity@155.103.71.142:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇹🇷 Türkiye | White Label Services, LLC 1
