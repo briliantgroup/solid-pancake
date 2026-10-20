@@ -3,6 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://f5f0babe-aea2-4f07-a1fc-3c9820253f49@212.81.47.99:51106?encryption=none&fp=firefox&pbk=2k8UhfxEK4WSVLWUr-uRExRiTiAsacWpe6I1xrnyt38&security=reality&sid=abcd1234&sni=apple.com&type=tcp#🇦🇺 Australia | Datacamp Limited 1
-vless://36e89875-9c53-482b-bc41-d3890e9da176@51.161.204.244:443?flow=xtls-rprx-vision&fp=firefox&host=www.cloudflare.com&path=%2F&pbk=gCAazs5uxNuMZIxfDdw8wPE0nwKY4QfBfBkQveKAkEk&security=reality&sid=0ad08b47f498efd2&sni=www.cloudflare.com&type=tcp#🇦🇺 Australia | REGXA, LTD 1
+vless://f5f0babe-aea2-4f07-a1fc-3c9820253f49@212.81.47.99:51106?&security=reality&pbk=2k8UhfxEK4WSVLWUr-uRExRiTiAsacWpe6I1xrnyt38&sid=abcd1234&fp=chrome&sni=apple.com&type=tcp&headerType=none&host=apple.com&path=%2F#🇦🇺 Australia | Datacamp Limited 1
+vless://36e89875-9c53-482b-bc41-d3890e9da176@51.161.204.244:443?flow=xtls-rprx-vision&fp=chrome&pbk=gCAazs5uxNuMZIxfDdw8wPE0nwKY4QfBfBkQveKAkEk&security=reality&sid=0ad08b47f498efd2&sni=www.cloudflare.com&type=tcp#🇦🇺 Australia | REGXA, LTD 1
 hysteria2://633bc3be486b646190661ac2387c150a@152.67.115.203:443?insecure=1&obfs=salamander&obfs-password=850a3fb1cd33a28f12d837578ae1a2e7&sni=www.bing.com#🇦🇺 Australia | Oracle Cloud Infrastructure ... 1
