@@ -3,14 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-ss://YWVzLTI1Ni1jZmI6bUVOZnhURlFwUktLaDRBcw==@217.30.10.44:9071#🇵🇱 Poland | Melbikomas UAB 1
-ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.44:9006#🇵🇱 Poland | Melbikomas UAB 2
-vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#🇵🇱 Poland | OVH 1
-vless://7ab86f1f-871e-4de6-9dae-7addf6dc976c@151.241.166.159:443?security=reality&encryption=none&pbk=tPhBRGpTbyaPFF3W0wpqncSrdNsV5I-eyM3S9CZoeCQ&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl-hsts.zloygo.com&sid=9a26e586f8cadc07#🇵🇱 Poland | Riya 1
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2&packetEncoding=xudp#🇵🇱 Poland | Korbank S. A. 1
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@31.133.0.186:443?security=tls&sni=pl2.dedushka.top&fp=firefox&alpn=http%2F1.1&type=tcp&headerType=none#🇵🇱 Poland | EasyNET 1
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@144.31.0.140:443?security=reality&encryption=none&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.sakhalin.fyi&sid=7271129440ade8fa#🇵🇱 Poland | H2nexus LTD 1
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@217.30.10.44:9042#🇵🇱 Poland | Melbikomas UAB 3
-vmess://eyJhZGQiOiI1NC4zNy4xMzEuMTI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCJpZCI6IjZkZWVmOWFkLTEzNTctNDQzZC1mOTVjLWNiMTg5NTJjMjBiMyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6IltPcGVuUmF5XSDwn4er8J+Ht0ZSLTE2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInZjbiI6IiJ9#🇵🇱 Poland | OVH 2
-vless://51a1fd52-fd88-4905-a976-35e44be28e4b@2.26.225.89:8443?encryption=none&security=tls&sni=pl.flen-vpn.xyz&type=tcp#🇵🇱 Poland | VPSPay Networks LTD 1
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@31.133.0.182:443?sni=pl1.dedushka.top&type=tcp&fp=chrome#🇵🇱 Poland | EasyNET 2
+trojan://humanity@148.253.212.42:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇵🇱 Poland | GuardNetwork 1
