@@ -3,5 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://06e177f7-240d-4687-bd85-235505801a5e@59.125.69.24:443?encryption=none&security=tls&sni=ty986gfazs.cainiaohub.xyz&allowInsecure=true&type=ws&host=ty986gfazs.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530&packetEncoding=xudp#🇹🇼 Taiwan | Chunghwa Telecom Co. Ltd. 1
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@151.242.189.40:443?encryption=none&security=tls&sni=vlso5.1d.mom&fp=chrome&type=ws&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080&host=vlso5.1d.mom#🇹🇼 Taiwan | ByteVirt LLC 1
+trojan://0a9f1f5a397bd427@125.227.86.45:443?allowInsecure=1&sni=TG.freecodes&alpn=h2&type=grpc&serviceName=db#🇹🇼 Taiwan | Chunghwa Telecom Co. Ltd. 1
+vless://82eb8419-59f4-4d3e-9106-d05d22af615c@166.0.199.78:9443?&security=reality&flow=xtls-rprx-vision&pbk=0hIFPaEn4RdFib8_eP8HYxMywR5izEwM3JA2W1Zo8U4&sid=b390142456517acc&fp=chrome&sni=www.amazon.com&type=tcp&headerType=none&host=www.amazon.com&path=%2F#🇹🇼 Taiwan | Akile LTD 1
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@61.230.160.34:24215?security=reality&type=tcp&packetEncoding=xudp&sni=addons.mozilla.org&fp=firefox&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE#🇹🇼 Taiwan | Chunghwa Telecom Co. Ltd. 2
+vless://06e177f7-240d-4687-bd85-235505801a5e@59.125.69.24:443?encryption=none&security=tls&sni=ty986gfazs.cainiaohub.xyz&allowInsecure=true&type=ws&host=ty986gfazs.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530&packetEncoding=xudp#🇹🇼 Taiwan | Chunghwa Telecom Co. Ltd. 3
+vless://06e177f7-240d-4687-bd85-235505801a5e@60.248.219.54:443?encryption=none&security=tls&sni=ty986gfazs.cainiaohub.xyz&allowInsecure=true&type=ws&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530&packetEncoding=xudp#🇹🇼 Taiwan | Chunghwa Telecom Co. Ltd. 4
