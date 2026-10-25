@@ -3,4 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://3644635c-f8c4-449c-a665-fce1897a7bf3@66.90.115.122:2090?security=reality&type=tcp&packetEncoding=none&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=bb472a184677af64&pbk=qBobe6KSNkFLqTPCffcJo0nXgxy-3JKru9WRqY9rkjk#🇭🇰 Hong Kong | FDCservers.net 1
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.2.9.167:443?sni=jp.mjt001.com&peer=jp.mjt001.com&security=tls#🇭🇰 Hong Kong | Azure 1
