@@ -3,9 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#🇮🇳 India | Linode 1
 vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:10443?sni=5.253.29.254#🇮🇳 India | Beafort Limited 1
 vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:14430?&sni=5.253.29.254&type=ws&headerType=none&host=5.253.29.254&path=/vless#🇮🇳 India | Beafort Limited 2
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?sni=13.140.56.100&type=ws&host=13.140.56.100&path=/vless#🇮🇳 India | Contabo 1
+vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?security=none&type=ws&path=%2Fvless&host=13.140.56.100&packetEncoding=xudp&encryption=none#🇮🇳 India | Contabo 1
 vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?encryption=none&fp=firefox&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&security=reality&sid=6bdc8320&sni=www.cloudflare.com&type=tcp#🇮🇳 India | Contabo 2
 vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?security=reality&encryption=none&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&headerType=&fp=chrome&type=tcp&sni=www.apple.com&sid=9980e0609b0d3891#🇮🇳 India | Contabo 3
+vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?encryption=none&fp=firefox&host=app-6ada5023.deploy.meerasolution.com&path=/ws/16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&sni=app-6ada5023.deploy.meerasolution.com&type=ws#🇮🇳 India | Bharti Telenet Ltd. 1

@@ -3,21 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697#🇰🇷 South Korea | Vultr 1
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119#🇰🇷 South Korea | Vultr 2
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@141.164.45.187:5498#🇰🇷 South Korea | Vultr 3
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:5001#🇰🇷 South Korea | Vultr 4
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:8888#🇰🇷 South Korea | Vultr 5
+vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiaWQiOiI0MWE3MDg5YS0wNDBiLTQ1MzgtOGI4ZC0wMTA5MDI0MDViZGUiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicHMiOiJbT3BlblJheV0g8J+HsPCfh7dLUi01MyJ9#🇰🇷 South Korea | Oracle Cloud Infrastructure ... 1
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.234:4652#🇰🇷 South Korea | broadNnet 1
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@141.164.45.187:2376#🇰🇷 South Korea | Vultr 6
-vmess://eyJhZGQiOiIxNDYuNTYuMTEyLjExMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg4ODgiLCJwcyI6Ilx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇰🇷 South Korea | Oracle Cloud Infrastructure ... 1
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@141.164.45.187:8000?#🇰🇷 South Korea | Vultr 7
-trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?allowInsecure=1&sni=154.90.62.70&type=tcp#🇰🇷 South Korea | Lightnode Limited 1
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 1
-vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=429499c03d4cc8a0&pbk=F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo#🇰🇷 South Korea | HostHatch 1
-vless://319d5ffb-57e8-4bbd-ac0c-5d55d0c253de@47.80.19.173:2053?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=3c4041d3&pbk=DfFU5OG93GxB1x25Dl2BTkxKsBTFF4Su4PXYPbYvmms&encryption=none#🇰🇷 South Korea | Delta Centric LLC, Zenlayer ... 1
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 2
-hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@13.125.13.26:443?insecure=1&sni=www.bing.com#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 3
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@141.164.45.187:8091#🇰🇷 South Korea | Vultr 8
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7df6Z+p5Zu9XzIzIiwiYWRkIjoiMTQwLjIzOC4yLjI1MCIsInBvcnQiOiI0NDMiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9#🇰🇷 South Korea | Oracle Cloud Infrastructure ... 2
+ss://YWVzLTI1Ni1jZmI6MTIzNCFAIyQ=@49.254.204.133:1774#🇰🇷 South Korea | Haionnet 1
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#🇰🇷 South Korea | SK Broadband Co Ltd 1
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@141.164.45.187:2376#🇰🇷 South Korea | Vultr 1
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#🇰🇷 South Korea | Vultr 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM=@13.125.13.26:8443#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 1
+vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh7Dwn4e3S1ItMjYiLCJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsInBvcnQiOiI4MCIsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwiaG9zdCI6ImtyMDIuYTBhLnh5eiJ9#🇰🇷 South Korea | Oracle Cloud Infrastructure ... 2
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&encryption=none#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 2
+trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?allowInsecure=1&sni=154.90.62.70&type=tcp#🇰🇷 South Korea | Lightnode Limited 1
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?flow=xtls-rprx-vision&fp=random&host=www.apple.com&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 3
+vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=429499c03d4cc8a0&pbk=F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo#🇰🇷 South Korea | HostHatch 1
+vless://7e68e32f-8015-4f37-9082-70e8b0b58043@13.125.13.26:443?&security=reality&flow=xtls-rprx-vision&pbk=DHOrfoin7TeRpnIoU3d6qT5Yrq3QPVFp49kApATA4iE&sid=e04a526b0b09c765&fp=chrome&sni=telemetry.tesla-dev2.ev-infra.com&type=tcp&headerType=none&host=telemetry.tesla-dev2.ev-infra.com&path=%2F#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 4
