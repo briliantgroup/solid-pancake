@@ -3,12 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@168.222.49.164:10000?security=none&encryption=none&headerType=none&type=tcp#🇵🇱 Poland | Doprax ApS 1
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@168.222.49.164:10000?security=none&type=tcp#🇵🇱 Poland | Doprax ApS 1
 trojan://humanity@148.253.212.42:443?sni=www.pleadcourt.org&type=ws&path=%2Fassignment&fp=chrome#🇵🇱 Poland | GuardNetwork 1
-vless://44dfa3a7-f648-4587-819b-e653c0823f28@5.22.221.127:443?encryption=none&security=none&type=tcp#🇵🇱 Poland | Upcloud PL Waw1 1
-ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.44:9006#🇵🇱 Poland | Melbikomas UAB 1
-ss://YWVzLTI1Ni1jZmI6UzJ6RHl5UGNtWk4yaDhFQw==@217.30.10.44:9076#🇵🇱 Poland | Melbikomas UAB 2
-vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=50ba05992b05c1c3&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A#🇵🇱 Poland | OVH 1
-vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=safari&flow=xtls-rprx-vision&sid=fa3ea655619a3e78&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&encryption=none#🇵🇱 Poland | GF PL GDN 1
-vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=150a627d15154cf2&pbk=8yMLSTbkpJFfbgTjNzotzz7U8OT6AERrclgKdKrXXW8#🇵🇱 Poland | Regxa Company Information Te... 1
-vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?security=tls&fp=chrome&sni=2.26.6.1#🇵🇱 Poland | Play2go Customers Network 1

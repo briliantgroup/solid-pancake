@@ -3,32 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#🇬🇧 United Kingdom | Clouvider Limited 1
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#🇬🇧 United Kingdom | M247 LTD 1
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.18:8080#🇬🇧 United Kingdom | M247 LTD 2
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.206.9:19999#🇬🇧 United Kingdom | Lite Info LLC 1
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.46.199:8080#🇬🇧 United Kingdom | M247 Ltd 1
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.46.214:8080#🇬🇧 United Kingdom | M247 Ltd 2
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@98.98.207.163:8080#🇬🇧 United Kingdom | Zenlayer Inc 1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#🇬🇧 United Kingdom | M247 LTD 3
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@98.98.142.161:8080#🇬🇧 United Kingdom | Zenlayer Inc 2
-vless://680e92ac-1688-49e0-af96-7327fbc30ce8@51.89.225.90:8443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=ozon.ru&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇬🇧 United Kingdom | OVH 1
-vless://04edf721-b2b7-4a80-9fbd-c949438c58c9@57.128.164.228:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#🇬🇧 United Kingdom | OVH 2
-vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@51.77.108.218:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=ozon.ru#🇬🇧 United Kingdom | OVH 3
-vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@54.37.5.203:8443?security=reality&type=tcp&sni=ozon.ru&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#🇬🇧 United Kingdom | OVH 4
-vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=d051f678212f9d54&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0#🇬🇧 United Kingdom | OVH 5
-vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@54.37.2.245:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ozon.ru&type=tcp#🇬🇧 United Kingdom | OVH 6
-vless://680e92ac-1688-49e0-af96-7327fbc30ce8@51.89.231.124:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=ozon.ru#🇬🇧 United Kingdom | OVH 7
-vless://680e92ac-1688-49e0-af96-7327fbc30ce8@51.89.228.166:8443?security=reality&type=tcp&allowInsecure=1&sni=ozon.ru&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇬🇧 United Kingdom | OVH 8
-vless://77479eaf-c35e-4088-ae47-a2beb88a7272@217.154.58.196:443?encryption=none&fp=firefox&pbk=C-e3vasFC42zQmJblol4foZozTe6j1c7TJMGqjvRm2U&security=reality&sid=77479eaf&sni=www.cloudflare.com&type=tcp#🇬🇧 United Kingdom | ADSL: Circle IT Solutions Li... 1
-vmess://eyJhZGQiOiAiNTcuMTI5LjEzMi4yMjMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZ29vZ2xlLmNvbSIsICJpZCI6ICJhMjVjYmYxMS0yOTA4LTRhMWItYTNhOC05YTU3MTc3N2RjYTMiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBjcyI6ICIiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==#🇬🇧 United Kingdom | OVH 9
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@23.81.36.148:8080?security=none&type=ws&path=%2F&packetEncoding=xudp#🇬🇧 United Kingdom | Leaseweb UK Limited 1
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@23.81.36.148:1222?security=reality&type=tcp&packetEncoding=xudp&sni=play.google.com&fp=chrome&sid=a25d0f&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE#🇬🇧 United Kingdom | Leaseweb UK Limited 2
-vmess://eyJhZGQiOiI1Ny4xMjguMTY0LjIxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJodHRwcy5odHRwLnd3dy5uZXQuY29tLnJhbXNleXYyLmlyLiIsImlkIjoiYmRhODJiY2QtZjZlMi00NmFlLTk1NTItNjczZjBiODdhYzMwIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9kM2QzTG1seVlXNW9iM04wTG1OdmJRPT0/ZWQ9MjU2MCIsInBjcyI6IiIsInBvcnQiOiI4MCIsInBzIjoiXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtR0ItMTQ0MTgwOTgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇬🇧 United Kingdom | OVH 10
-vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=%2Fvless%2F&security=none&type=ws#🇬🇧 United Kingdom | OVH 11
-vless://b4caaf57-ad77-4948-a6f5-51b3513799bf@46.250.250.149:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=9922313fffed1c63&pbk=hieuCHb3HYdDYHmTDyWw2SGqyfo36AVuA-wSiZMdU1M#🇬🇧 United Kingdom | Yorkshire Tech Limited 1
-vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?encryption=none&fp=firefox&pbk=CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E&security=reality&sid=4cc9dc65f7770115&sni=www.cloudflare.com&type=tcp#🇬🇧 United Kingdom | Yorkshire Tech Limited 2
-vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@167.104.223.215:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo&sid=fc36b4a584871aa5&sni=gb2.murainternet.network#🇬🇧 United Kingdom | Weyro LTD 1
-vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?security=reality&type=tcp&packetEncoding=xudp&sni=ads.x5.ru&fp=safari&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&encryption=none#🇬🇧 United Kingdom | Baykov Ilya Sergeevich 1
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@196.247.163.10:443?security=reality&encryption=none&pbk=5984Ah0pkfSVekU5xafQ1trZZN7MyNCJ-3KfCo-O6A4&headerType=&type=tcp&flow=xtls-rprx-vision&sni=britainmh.eosvpn.com&fp=chrome#🇬🇧 United Kingdom | Fiber Grid 1
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@82.110.60.9:19999#🇬🇧 United Kingdom | Datacamp Limited 1
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇬🇧 United Kingdom | Clouvider Limited 1
+trojan://humanity@138.68.131.253:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇬🇧 United Kingdom | DO 1
