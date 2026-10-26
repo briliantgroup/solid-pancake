@@ -1,0 +1,10 @@
+#profile-update-interval: 3
+#profile-title: encode:Qm9iaVZQTiDwn4e18J+HsSBQb2xhbmQ=
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#support-url: https://github.com/
+#profile-web-page-url: https://github.com/
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@168.222.49.164:10000?security=none&type=tcp#🇵🇱 Poland | Doprax ApS 1
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@201.10.91.98:8443?encryption=none&fp=firefox&host=pl3.pad-service.com&path=/PL3W&security=tls&sni=pl3.pad-sservice.lat&type=ws#🇵🇱 Poland | Paul Sagov 1
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@201.10.91.127:8443?encryption=none&fp=firefox&host=pl2.pad-service.com&path=/PL2W&security=tls&sni=pl2.pad-sservice.lat&type=ws#🇵🇱 Poland | Paul Sagov 2
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@201.10.91.68:8443?encryption=none&fp=firefox&host=pl1.pad-service.com&path=/PL1W&security=tls&sni=pl1.pad-sservice.lat&type=ws#🇵🇱 Poland | Paul Sagov 3
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@pl1.pad-sservice.lat:8443?encryption=none&security=tls&sni=pl1.pad-sservice.lat&type=ws&host=pl1.pad-service.com&path=/PL1W&headers=#🇵🇱 Poland | Paul Sagov 4
