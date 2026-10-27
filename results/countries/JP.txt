@@ -3,8 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@152.69.200.216:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Japan | Oracle Cloud Infrastructure ... 1
-ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388#🇯🇵 Japan | NetLab Global 1
-vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?alpn=http%2F1.1&flow=xtls-rprx-vision&fp=chrome&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&security=reality&sid=03653bc03be10c97&sni=www.sony.com&type=tcp#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 1
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.170.8.95:443?path=/tyxyws&security=tls&encryption=none&insecure=0&host=jp3.yohototo.top&fp=chrome&type=ws&allowInsecure=0&sni=jp3.yohototo.top#🇯🇵 Japan | ACE SG 1
-vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?#🇯🇵 Japan | Rackip Consultancy Pte. LTD 1
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@141.11.138.167:443?encryption=none&security=tls&type=ws&host=vlso5.1d.mom&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080&sni=vlso5.1d.mom&fp=chrome#🇯🇵 Japan | ByteVirt LLC 1
+trojan://Trojan%4082164024@jp1.zestapp778.com:443?type=tcp&security=tls&sni=jp1.zestapp778.com&fp=qq#🇯🇵 Japan | Interscale Inc 1
+vless://e121912d-2931-4326-a7f8-2c1db8376b18@172.105.241.119:1916?encryption=none&security=tls&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&fp=chrome&type=ws&path=%2F%40Marisa_kristi&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev#🇯🇵 Japan | Linode 1
+vless://0e944b4c-c53b-484b-bee5-3f785dd46500@172.105.241.119:1916?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev&fp=chrome&type=ws&sni=5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇯🇵 Japan | Linode 2
