@@ -1,9 +1,0 @@
-#profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4eu8J+HqiBJcmVsYW5k
-#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-#support-url: https://github.com/
-#profile-web-page-url: https://github.com/
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.164:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&alpn=h2&sni=ir.failspace.top&type=tcp&headerType=none&path=%2F#🇮🇪 Ireland | FDCservers.net LLC 1
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.166:443?encryption=none&security=tls&sni=ekb.eg&fp=firefox&allowInsecure=1&type=tcp&flow=xtls-rprx-vision#🇮🇪 Ireland | FDCservers.net LLC 2
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.165:443?sni=ir-new1.failspace.top&flow=xtls-rprx-vision&fp=chrome&security=tls#🇮🇪 Ireland | FDCservers.net LLC 3
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ir-new-ded.failspace.top:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ir-new-ded.failspace.top&alpn=h2&fp=firefox&packetEncoding=xudp#🇮🇪 Ireland | FDCservers.net LLC 4

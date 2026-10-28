@@ -3,8 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?security=reality&sni=www.cloudflare.com&type=tcp&fp=chrome&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&sid=6bdc8320#🇮🇳 India | Contabo 1
-vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?fp=chrome&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&security=reality&sid=9980e0609b0d3891&sni=www.apple.com&type=tcp#🇮🇳 India | Contabo 2
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?security=none&fp=&type=ws&path=/vless&host=13.140.56.100&packetEncoding=xudp&encryption=none#🇮🇳 India | Contabo 3
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIxNTIuNjcuOC4yMDUiLCAicG9ydCI6ICI4MCIsICJpZCI6ICI5ZGI0YzcwOC1hZWY4LTQzNTktODIxYi0zOGU0Nzk5MGJlMGQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgInRscyI6ICIiLCAicGF0aCI6ICIvIn0=#🇮🇳 India | Oracle Cloud Infrastructure ... 1
-trojan://Trojan@82164024@139.84.132.62:443?sni=in.tronsg.com&type=tcp&fp=chrome#🇮🇳 India | Vultr 1
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIyMC4yMzUuMjIwLjE4OSIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICI2SkR2QXJhemdVM3FRUjZRLnYuM2Rucy52aXAiLCAiZnAiOiAicmFuZG9tIiwgInBhdGgiOiAiL3dzLXZtZXNzIiwgImhvc3QiOiAiIiwgInNjeSI6ICJhdXRvIiwgImFscG4iOiAiIn0=#🇮🇳 India | Azure 1
