@@ -3,14 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-ss://YWVzLTI1Ni1nY206THBxNVVQVkh0UVlpdUI5akVVTmMyV2tlSVlDVUg5REU=@195.58.49.167:18443#🇷🇺 Russia | LLC Baxet 1
 trojan://Pass-Client-1@171.22.119.74:8446?allowInsecure=1&type=grpc&serviceName=grpc-video-call#🇷🇺 Russia | NetCrafters OU 1
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@91.206.92.238:18443#🇷🇺 Russia | LLC Baxet 2
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@46.17.41.61:18443#🇷🇺 Russia | LLC Baxet 3
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@104.171.133.209:443?security=reality&sni=anyfile2file.com&fp=&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇷🇺 Russia | TimeWeb 1
-vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?security=tls&type=tcp&sni=user-6a917f32.noooo.win&host=user-6a917f32.noooo.win&flow=xtls-rprx-vision&allowInsecure=0&insecure=0&fp=edge#🇷🇺 Russia | Procloud LLC 1
-vless://c53ea5e9-ed8b-4990-805d-7f1d6451426c@5.42.99.64:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=du-rov.secureservice.top&pbk=fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI&sid=3cbc3d737fb9c4af&type=tcp&headerType=none#🇷🇺 Russia | TimeWeb 2
-vless://c53ea5e9-ed8b-4990-805d-7f1d6451426c@du-rov.secureservice.top:8443?security=reality&type=tcp&sni=du-rov.secureservice.top&fp=chrome&flow=xtls-rprx-vision&sid=3cbc3d737fb9c4af&pbk=fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI&encryption=none#🇷🇺 Russia | TimeWeb 3
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@72.56.38.83:443?security=reality&encryption=none&pbk=ZzIetLcQtENjIXQ9XZqFo8p3J81p8Emj0wi51Uy07n8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=absolute-disaster.org#🇷🇺 Russia | TimeWeb 4
-vless://Fluffy_VPN-zKZUa4Ie@72.56.38.83:443?security=reality&type=tcp&packetEncoding=xudp&sni=absolute-disaster.org&flow=xtls-rprx-vision&pbk=ZzIetLcQtENjIXQ9XZqFo8p3J81p8Emj0wi51Uy07n8&encryption=none&fp=firefox#🇷🇺 Russia | TimeWeb 5
-vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?security=reality&type=tcp&packetEncoding=xudp&sni=144.48.11.97&fp=chrome&flow=xtls-rprx-vision&sid=725e6ea0&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&encryption=none#🇷🇺 Russia | Delta Ltd 1
+vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@185.147.27.164:8443?security=tls&flow=xtls-rprx-vision&sni=user-6a8d949a.noooo.win&type=tcp&headerType=none&path=%2F&fp=ios#🇷🇺 Russia | Procloud LLC 1
+vless://c53ea5e9-ed8b-4990-805d-7f1d6451426c@5.42.99.64:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=du-rov.secureservice.top&pbk=fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI&sid=3cbc3d737fb9c4af&type=tcp&headerType=none#🇷🇺 Russia | TimeWeb 1
+vless://c53ea5e9-ed8b-4990-805d-7f1d6451426c@du-rov.secureservice.top:8443?security=reality&type=tcp&sni=du-rov.secureservice.top&fp=chrome&flow=xtls-rprx-vision&sid=3cbc3d737fb9c4af&pbk=fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI&encryption=none#🇷🇺 Russia | TimeWeb 2
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?security=reality&sni=ya.ru&allowInsecure=1&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e&type=tcp&packetEncoding=xudp&encryption=none#🇷🇺 Russia | TOO Beget 1
+vmess://eyJhZGQiOiIxNTguMTYwLjE4MC4xNjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjE1OC4xNjAuMTgwLjE2NSIsImlkIjoiYzU4YzEyMDUtYjMwOC00MTZmLTg1MDMtYzA0NTU3YWJmOTNkIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyNDIxMiIsInBzIjoiSUNWMlJBWUAiLCJzY3kiOiJhdXRvIiwic25pIjoiMTU4LjE2MC4xODAuMTY1IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9#🇷🇺 Russia | Yandex.Cloud LLC 1
