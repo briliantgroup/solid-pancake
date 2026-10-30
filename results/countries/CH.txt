@@ -3,4 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://53e31ee1-0a75-48c8-82fd-a54c8728ed9d@94.249.187.46:43000?encryption=none&flow=xtls-rprx-vision&security=reality&fp=firefox&pbk=9JxTswHvWeq5349tgvXL7fDWaWuCb3jstVS7e6daAD4&sid=81a5b989&type=tcp&headerType=none#🇨🇭 Switzerland | Threatoff 1
+vless://53f03acd-fec1-6685-fc8f-03baf9550cb8@195.141.65.98:443?encryption=none&security=tls&sni=148-253-210-191.sslip.io&alpn=http%2F1.1&type=ws&path=%2Ftest-ws&host=148-253-210-191.sslip.io&fp=chrome#🇨🇭 Switzerland | Sunrise Communications AG 1
