@@ -3,11 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@91.196.33.157:443?fp=qq&security=tls&serviceName=grpc&sni=b.us-1.bnc-gt.co.uk&type=grpc#🇺🇸 United States | SERV.HOST GROUP LTD 1
-vless://e3aa3d22-a95e-407b-aacc-d855b90a5d70@179.253.179.109:63080?type=tcp&security=tls&sni=de2.derevohom.xyz&fp=chrome&encryption=none#🇺🇸 United States | Vodafone Libertel B.V. 1
-trojan://humanity@172.64.190.13:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇺🇸 United States | CF 1
-vless://930d11dc-0c6f-9e1a-4d57-b8473c715465@173.249.208.27:443?encryption=none&host=ahbpanel-4134.shiprr.dev&path=%2Fws%2F930d11dc-0c6f-9e1a-4d57-b8473c715465&security=tls&sni=ahbpanel-4134.shiprr.dev&type=ws&fp=chrome#🇺🇸 United States | tzulo, inc 1
-trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=android#🇺🇸 United States | WPEngine, Inc. 1
+vless://40694ced-9a8c-42fd-f5f8-3ac3c8b27fc2@199.232.239.239:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel%3Fed%3D2056&security=tls&alpn=h2&encryption=none&insecure=0&host=mpkoe7ypcibr80p102020123.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=firefox.com#🇺🇸 United States | Fastly, Inc. 1
+vless://ddc5c6c8-67ec-4b08-955a-f3dd17832a41@146.75.57.238:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&host=looaloooibamoooijji.global.ssl.fastly.net.&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#🇺🇸 United States | Fastly, Inc 1
+vless://e3aa3d22-a95e-407b-aacc-d855b90a5d70@179.253.179.109:63053?encryption=none&fp=firefox&security=tls&sni=de2.derevohom.xyz&type=tcp#🇺🇸 United States | Vodafone Libertel B.V. 1
 vless://0ef03752-c8bf-4482-8710-e563ca4808f9@179.253.179.109:54443?encryption=none&fp=firefox&security=tls&sni=177.3.215.54&type=tcp#🇺🇸 United States | Vodafone Libertel B.V. 2
+vless://c1a3a6ee-34d3-4fcd-8763-c2231adabed6@146.75.57.238:443?encryption=none&security=tls&sni=firefox.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=polandboijji.global.ssl.fastly.net&path=%2F#🇺🇸 United States | Fastly, Inc 2
+vless://780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7@146.75.57.238:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#🇺🇸 United States | Fastly, Inc 3
 vless://268fac1e-bb07-4d6c-8942-92fef4d7ede1@179.253.179.109:50083?encryption=none&fp=firefox&security=tls&sni=177.3.219.252&type=tcp#🇺🇸 United States | Vodafone Libertel B.V. 3
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.64.190.13:443?cs=semi-python&path=%2Ftyxyws&security=tls&encryption=none&fm=tlshello-0-len&insecure=0&host=jp3.yohototo.top&fp=unsafe&type=ws&allowInsecure=0&sni=jp3.yohototo.top#🇺🇸 United States | CF 2
+vless://da8fab8e-4a25-4eb0-b224-88ab96c753ce@179.253.179.109:57043?encryption=none&fp=firefox&security=tls&sni=87.121.86.24&type=tcp#🇺🇸 United States | Vodafone Libertel B.V. 4
