@@ -4,10 +4,46 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 vless://40694ced-9a8c-42fd-f5f8-3ac3c8b27fc2@199.232.239.239:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel%3Fed%3D2056&security=tls&alpn=h2&encryption=none&insecure=0&host=mpkoe7ypcibr80p102020123.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=firefox.com#🇺🇸 United States | Fastly, Inc. 1
-vless://454cd459-e6b3-4695-a67a-5e48c4a5b54c@217.60.151.64:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zuIXdy20O76dikHjrgtf0qU4OzN3vUTEB2aDlwjCADw&security=reality&sid=4ef64bea9d2fc3e2&sni=germm2nodes.izzzyvpn.space&type=tcp#🇺🇸 United States | GoldIPv4 1
-vless://e3aa3d22-a95e-407b-aacc-d855b90a5d70@179.253.179.109:63080?encryption=none&fp=firefox&security=tls&sni=de2.derevohom.xyz&type=tcp#🇺🇸 United States | Vodafone Libertel B.V. 1
-vless://e3aa3d22-a95e-407b-aacc-d855b90a5d70@179.253.179.109:63053?encryption=none&fp=firefox&security=tls&sni=de2.derevohom.xyz&type=tcp#🇺🇸 United States | Vodafone Libertel B.V. 2
-vless://0ef03752-c8bf-4482-8710-e563ca4808f9@179.253.179.109:54443?encryption=none&fp=firefox&security=tls&sni=177.3.215.54&type=tcp#🇺🇸 United States | Vodafone Libertel B.V. 3
-vless://ef988d56-9c18-408e-ae1f-a144a332ebce@179.253.179.109:62083?encryption=none&fp=firefox&security=tls&sni=177.3.220.159&type=tcp#🇺🇸 United States | Vodafone Libertel B.V. 4
-vless://da8fab8e-4a25-4eb0-b224-88ab96c753ce@179.253.179.109:57443?encryption=none&fp=firefox&security=tls&sni=87.121.86.24&type=tcp#🇺🇸 United States | Vodafone Libertel B.V. 5
-vless://da8fab8e-4a25-4eb0-b224-88ab96c753ce@179.253.179.109:57043?encryption=none&fp=firefox&security=tls&sni=87.121.86.24&type=tcp#🇺🇸 United States | Vodafone Libertel B.V. 6
+trojan://humanity@8.6.112.206:443?type=ws&security=tls&sni=www.trusteeforward.com&fp=chrome&path=%2Fassignment&host=www.trusteeforward.com#🇺🇸 United States | Level 3 1
+trojan://humanity@8.47.69.60:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇺🇸 United States | Level 3 2
+trojan://humanity@179.255.127.82:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#🇺🇸 United States | NetCrew 1
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.43.159:8080#🇺🇸 United States | Cdnext SEA 1
+trojan://f0eb8c92ce8946aaba856569cff1a16b@216.106.186.33:443?security=tls&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com&fp=&type=tcp#🇺🇸 United States | GTHost 1
+trojan://dba20dcb635e430fa4d3bfc303a149d2@216.106.186.32:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com&fp=&type=tcp#🇺🇸 United States | GTHost 2
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.66:443?security=tls&fp=chrome&sni=www.findlocaljobnetworkandbuildcommunityconnections.com#🇺🇸 United States | GTHost 3
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@216.106.186.66:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.findlocaljobnetworkandbuildcommunityconnections.com#🇺🇸 United States | GTHost 4
+vmess://eyJhZGQiOiI4NC4xNy40MS4yIiwiYWlkIjowLCJob3N0IjoiYmoxYWEyenlqeHlhbXl1ay52LjNkbnMudmlwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC93cy12bWVzcyIsInBvcnQiOiIxODAwMCIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtVVMtMTQwNTc5MzUiLCJzbmkiOiJiajFhYTJ6eWp4eWFteXVrLnYuM2Rucy52aXAiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇺🇸 United States | CDN77 Seattle 1
+trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#🇺🇸 United States | GTHost 5
+trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#🇺🇸 United States | GTHost 6
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇺🇸 United States | OVH 1
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.209:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#🇺🇸 United States | OVH 2
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn#🇺🇸 United States | OVH 3
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#🇺🇸 United States | OVH 4
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇺🇸 United States | OVH 5
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#🇺🇸 United States | OVH 6
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#🇺🇸 United States | OVH 7
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&alpn=http%252f1.1&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇺🇸 United States | OVH 8
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.155.57.51:8080#🇺🇸 United States | UCLOUD 1
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@23.251.121.242:8080#🇺🇸 United States | ZENLA-1 1
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.155.57.11:8080#🇺🇸 United States | UCLOUD 2
+vless://a1962f23-f8f8-412d-f2ce-3361e7b72889@169.128.83.4:57259?security=none&type=tcp&packetEncoding=xudp#🇺🇸 United States | SkyQuantum Internet Service 1
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.151.182.197:8080#🇺🇸 United States | ZENLA 1
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@79.110.53.169:8080#🇺🇸 United States | M247 Ltd Las Vegas 1
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@79.110.54.250:8080#🇺🇸 United States | CoreLink Data Centers LLC 1
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.151.182.253:8080#🇺🇸 United States | ZENLA 2
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TnpKbE9UUTVOV1l0TTJaa1lpMDBDZz09@103.11.76.248:28679#🇺🇸 United States | 5G Network Operations Pty Lt... 1
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtVVMtMTQwNTg4MTYiLCJhZGQiOiIxNjkuMTk3LjE0Mi4yMiIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#🇺🇸 United States | GTHost 7
+vless://211d03a1-36e9-40e7-8b5e-f9dac6997f05@43.173.78.139:8443?encryption=none&type=tcp&security=reality&pbk=ftbEBjykrVrMuhJrZvVVMu7A_YLyIJXXlWEnXDK7VFM&sid=ed7720aa510154f5&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome#🇺🇸 United States | Tencent Cloud Computing (Bei... 1
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.106:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.findconnectwithemployersandbuildprofessionalnetwork.com#🇺🇸 United States | GTHost 8
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.114:443?security=tls&sni=learn.findconnectwithemployersandbuildprofessionalnetwork.com#🇺🇸 United States | GTHost 9
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.166:443?security=tls&sni=blog.findconnectwithemployersandbuildprofessionalnetwork.com#🇺🇸 United States | GTHost 10
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.132:443?security=tls&sni=courses.findconnectwithemployersandbuildprofessionalnetwork.com#🇺🇸 United States | GTHost 11
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.20:443?allowInsecure=1&sni=api.browseseniorrolesandenhanceyourcareertoday.com&type=tcp#🇺🇸 United States | GlobalTeleHost Corp. 1
+vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?security=reality&encryption=none&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#🇺🇸 United States | Alibaba Cloud - US 1
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?allowInsecure=1&sni=cdn.browseseniorrolesandenhanceyourcareertoday.com&type=tcp#🇺🇸 United States | GlobalTeleHost Corp. 2
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.245:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findconnectwithemployersandbuildprofessionalnetwork.com#🇺🇸 United States | GTHost 12
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.45:443?security=tls&sni=cdn.findconnectwithemployersandbuildprofessionalnetwork.com&type=tcp#🇺🇸 United States | GTHost 13
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.85:443?allowInsecure=1&sni=resources.browseseniorrolesandenhanceyourcareertoday.com&type=tcp#🇺🇸 United States | GlobalTeleHost Corp. 3
+vless://990bf436-f1b9-4e7f-857d-14378acc4ae5@170.114.46.6:8080?host=free.nadun.store&path=%2F&security=none&type=ws#🇺🇸 United States | Zoom Video Communications, I... 1
+vless://990bf436-f1b9-4e7f-857d-14378acc4ae5@170.114.45.6:8080?&security=false&fp=chrome&type=ws&headerType=none&host=free.nadun.store&path=%2F#🇺🇸 United States | Zoom Video Communications, I... 2
+vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@8.35.211.242:443?encryption=none&security=tls&sni=vpn.cintaku.qzz.io&type=ws&host=vpn.cintaku.qzz.io&path=/vlessws&packetEncoding=xudp#🇺🇸 United States | Level 3 3

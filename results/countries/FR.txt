@@ -4,7 +4,7 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@155.117.5.208:10000?encryption=none&security=none&type=tcp#🇫🇷 France | Doprax ApS 1
-vless://c6362720-0931-4b91-b187-d8ecf3149734@155.117.5.208:10002?security=none&type=tcp&packetEncoding=xudp#🇫🇷 France | Doprax ApS 2
-vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@155.117.5.208:20001?security=none&type=tcp&packetEncoding=xudp#🇫🇷 France | Doprax ApS 3
+vless://c6362720-0931-4b91-b187-d8ecf3149734@155.117.5.208:10002?encryption=none&security=none&type=tcp#🇫🇷 France | Doprax ApS 2
+vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@155.117.5.208:20001?security=none&type=tcp#🇫🇷 France | Doprax ApS 3
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@155.117.5.208:8080?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#🇫🇷 France | Doprax ApS 4
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@155.117.5.208:2052?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 France | Doprax ApS 5
