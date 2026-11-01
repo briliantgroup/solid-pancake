@@ -3,5 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://b310e287-79fa-45e3-887f-9564c0e390f7@178.83.121.19:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=hk.global-cdn.org&type=tcp#🇦🇪 United Arab Emirates | CloudBlast LLC 1
-vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?type=ws&host=95.174.68.188&path=/vless#🇦🇪 United Arab Emirates | Melbicom 1
+trojan://humanity@46.174.142.238:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#🇦🇪 United Arab Emirates | Qrator Technologies FZ-LLC 1
