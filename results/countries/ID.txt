@@ -3,4 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?encryption=none&fp=chrome&security=tls&sni=in001.zestapp778.com&type=tcp#🇮🇩 Indonesia | Light Node Limited 1
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?allowInsecure=1&sni=in001.zestapp778.com&fp=firefox&security=tls#🇮🇩 Indonesia | Light Node Limited 1
