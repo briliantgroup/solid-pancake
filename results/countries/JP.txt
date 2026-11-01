@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-trojan://humanity@45.32.54.55:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#🇯🇵 Japan | Vultr 1
-trojan://humanity@129.225.185.49:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#🇯🇵 Japan | Oracle Cloud Infrastructure ... 1
-trojan://humanity@172.237.0.160:443?allowInsecure=0&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#🇯🇵 Japan | Akamai Technologies, Inc. 1
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#🇯🇵 Japan | DataCamp Limited 1
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵 Japan | DataCamp Limited 2
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵 Japan | DataCamp Limited 3
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#🇯🇵 Japan | Contabo 1
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#🇯🇵 Japan | Contabo 2
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?security=tls&sni=discoverparttimepositionsandsupplementyourincomeguide.com#🇯🇵 Japan | Choopa, LLC 1
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?sni=45.32.52.173#🇯🇵 Japan | Vultr 1
+vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@31.76.91.70:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuji.etherhub.cc&fp=firefox&security=reality&pbk=ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg&sid=bd6f67b6b2152b45#🇯🇵 Japan | Akenai Products LTD 1
+vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2NjdHYxMy5tM3U4IiwicG9ydCI6IjgwIiwicHMiOiJcdWQ4M2NcdWRmZjNbd3d3LnYybm9kZXMuY29tXSB2bWVzcy0iLCJzbmkiOiIxNjguMTM4LjQzLjc1IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇯🇵 Japan | Oracle Cloud Infrastructure ... 1
+vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:12683?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇯🇵 Japan | Oneprovider.com 1
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&encryption=none#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 1
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 2
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:18007?alpn=http%2F1.1&flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#🇯🇵 Japan | AWS EC2 (ap-northeast-1) 3

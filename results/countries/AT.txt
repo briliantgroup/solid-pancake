@@ -3,5 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-trojan://humanity@85.192.42.198:443?type=ws&path=%2Fassignment&sni=www.cordweave.com#🇦🇹 Austria | Aeza 1
-trojan://humanity@130.49.219.112:443?type=ws&path=%2Fassignment&sni=www.cordweave.com#🇦🇹 Austria | Global Connectivity Solution... 1
+vless://4670f60e-cd56-44cc-bc22-5e2b756d62e4@193.233.161.169:2054?type=grpc&headerType=none&security=reality&encryption=none&sni=shopcart.tsumshop.org&fp=chrome&pbk=tPBzeL2YxY3HeuLHFcqiMcWGOJGKFjavHA8acamM0AE&spx=%2F&serviceName=grpc-tunnel&mode=gun#🇦🇹 Austria | Aeza 1
