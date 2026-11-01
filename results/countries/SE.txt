@@ -3,11 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com#🇸🇪 Sweden | Vultr 1
-vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@150.241.79.124:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dlhvkjq7Sj-TT__FLwUJzFLMDCk8bgi85Uz4qDU-5FM&security=reality&sid=5212dad2aa9723d7&sni=de1.waspnest.space&type=tcp#🇸🇪 Sweden | xorek.cloud International LT... 1
+vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@150.241.79.124:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=dlhvkjq7Sj-TT__FLwUJzFLMDCk8bgi85Uz4qDU-5FM&sid=5212dad2aa9723d7&sni=de1.waspnest.space#🇸🇪 Sweden | xorek.cloud International LT... 1
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?allowInsecure=1&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com#🇸🇪 Sweden | Vultr 1
+vless://07f8eee3-d263-44e0-86eb-146617ea25e7@150.241.87.52:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GBO_paFyK9FihgPMH8r_vHa4IKMkSGfvAQ2fhPK_1H4&security=reality&sni=pl.galacticworld.online&type=tcp#🇸🇪 Sweden | xorek.cloud International LT... 2
 hysteria2://a0052f4f-4c63-0002-a16f-ab2d5d718cd3@192.142.23.46:443?sni=diffoscope.com#🇸🇪 Sweden | LLC FZ 1
-vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?type=ws&host=5.178.109.174&path=/vless#🇸🇪 Sweden | Baykov Ilya Sergeevich 1
-vless://2614a96d-e39f-02f0-a9c7-467a178c2c0a@13.143.180.141:443?&security=reality&flow=xtls-rprx-vision&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&fp=firefox&sni=sw.lenvex.cc&type=tcp&headerType=none&host=sw.lenvex.cc&path=%2F#🇸🇪 Sweden | SERV.HOST GROUP LTD 1
-vless://4670f60e-cd56-44cc-bc22-5e2b756d62e4@201.8.87.43:2087?encryption=none&fp=firefox&pbk=AzvW_qn5T1RB5XT1M5yIqRFGKWR6R_B1Js4S3mglrV4&security=reality&serviceName=grpc-tunnel&sid=33987487841d621b&sni=node.gamescloud.uk&type=grpc#🇸🇪 Sweden | Paul Sagov 1
-vless://b0cf4078-96b8-4e11-80a8-0f9352565a16@199.232.173.242:443?&security=tls&fp=chrome&sni=piracy-android.video-streams.org&type=ws&headerType=none&host=piracy-android.video-streams.org&path=%2Fws#🇸🇪 Sweden | Fastly, Inc. 1
-vless://056d58b7-2577-4f82-b7a8-2473202419c2@199.232.173.242:443?&security=tls&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1&sni=adheres-scruple.quick-cdn.net&type=ws&headerType=none&host=adheres-scruple.quick-cdn.net&path=%2Fws#🇸🇪 Sweden | Fastly, Inc. 2
+vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?security=none&type=ws&path=%2Fvless&host=5.178.109.174&packetEncoding=xudp#🇸🇪 Sweden | Baykov Ilya Sergeevich 1
+vless://2614a96d-e39f-02f0-a9c7-467a178c2c0a@13.143.180.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=sw.lenvex.cc&type=tcp#🇸🇪 Sweden | SERV.HOST GROUP LTD 1
+vless://2614a96d-e39f-02f0-a9c7-467a178c2c0a@13.143.180.141:443?&security=reality&flow=xtls-rprx-vision&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&fp=firefox&sni=sw.lenvex.cc&type=tcp&headerType=none&host=sw.lenvex.cc&path=%2F#🇸🇪 Sweden | SERV.HOST GROUP LTD 2

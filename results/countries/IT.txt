@@ -3,22 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://53f03acd-fec1-6685-fc8f-03baf9550cb8@151.91.39.191:443?encryption=none&security=tls&sni=148-253-210-191.sslip.io&fp=chrome&alpn=http%2F1.1&insecure=1&allowInsecure=1&type=ws&host=148-253-210-191.sslip.io&path=%2Ftest-ws#🇮🇹 Italy | Stellantis Auto SAS 1
+vless://53f03acd-fec1-6685-fc8f-03baf9550cb8@151.91.39.191:443?encryption=none&security=tls&sni=148-253-210-191.sslip.io&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=148-253-210-191.sslip.io&path=%2Ftest-ws#🇮🇹 Italy | Stellantis Auto SAS 1
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#🇮🇹 Italy | Tumpi Networks Srls 1
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999#🇮🇹 Italy | Tumpi Networks Srls 2
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#🇮🇹 Italy | Crosslink LLC 1
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#🇮🇹 Italy | Tumpi Networks Srls 1
-ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA@91.201.65.122:9097#🇮🇹 Italy | Melbicom 1
-ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@91.201.65.122:9059#🇮🇹 Italy | Melbicom 2
-ss://YWVzLTI1Ni1jZmI6UGVIU0htNVNxRWpCdUVYRQ==@91.201.65.122:9065#🇮🇹 Italy | Melbicom 3
-ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@91.201.65.122:9053#🇮🇹 Italy | Melbicom 4
-vless://2c114179-04b4-4958-b260-7030d12887de@2.59.21.188:443?security=reality&flow=xtls-rprx-vision&fp=edge&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&sid=f00f58383241c807&sni=tg-lovers-free.com#🇮🇹 Italy | Black HOST Ltd 1
-vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=cd6065902eea7a02&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU#🇮🇹 Italy | GF IT MXP 1
-vless://d5e5f5a1-0f23-4c49-af9f-4be445bf9d8e@82.118.16.189:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=37fbf155c7a9f3ff&pbk=SjGkzJQ9I6ZZjC3V73atcPMczhMm0oiTrB8mUQXz1HY#🇮🇹 Italy | GF IT MXP 2
-ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ@91.201.65.122:9050#🇮🇹 Italy | Melbicom 5
-ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@91.201.65.122:9039#🇮🇹 Italy | Melbicom 6
-ss://YWVzLTI1Ni1jZmI6cDV3U2tiMnVNM3BLU1Mzag@91.201.65.122:9074#🇮🇹 Italy | Melbicom 7
-ss://YWVzLTI1Ni1jZmI6VHlOa0dtcDloczZlR3BESw==@91.201.65.122:9092#🇮🇹 Italy | Melbicom 8
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999#🇮🇹 Italy | Tumpi Networks Srls 2
-vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#🇮🇹 Italy | OVH 1
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#🇮🇹 Italy | Tumpi Networks Srls 3
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#🇮🇹 Italy | Tumpi Networks Srls 4
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999#🇮🇹 Italy | Tumpi Networks Srls 5
