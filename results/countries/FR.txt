@@ -1,0 +1,10 @@
+#profile-update-interval: 3
+#profile-title: encode:Qm9iaVZQTiDwn4er8J+HtyBGcmFuY2U=
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#support-url: https://github.com/
+#profile-web-page-url: https://github.com/
+vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@195.123.189.217:443?type=grpc&security=reality&fp=firefox&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&sid=cbc638acc8ac87&sni=max.ru&serviceName=grpc-90#🇫🇷 France | ipbnb 1
+vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@195.123.189.221:443?encryption=none&fp=chrome&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&security=reality&serviceName=grpc-90&sid=cbc638acc8ac87&sni=max.ru&type=grpc#🇫🇷 France | ipbnb 2
+vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@195.123.189.214:443?type=grpc&security=reality&sni=max.ru&fp=firefox&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&sid=cbc638acc8ac87&serviceName=grpc-90#🇫🇷 France | ipbnb 3
+vless://98a24806-141a-43d3-b094-bd66c4eb93b8@198.16.113.220:8443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=69984b9e02545831&pbk=8NkTRxC5Q7bptx-8ADobkuhPK-ZN0kEEbzv6tCFGMzE#🇫🇷 France | FDCservers.net 1
+vless://98a24806-141a-43d3-b094-bd66c4eb93b8@198.16.113.221:8443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=69984b9e02545831&pbk=8NkTRxC5Q7bptx-8ADobkuhPK-ZN0kEEbzv6tCFGMzE#🇫🇷 France | FDCservers.net 2
