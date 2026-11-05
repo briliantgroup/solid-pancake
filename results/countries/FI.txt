@@ -3,6 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?security=none&type=ws&path=%2Fvless&host=45.144.234.157&packetEncoding=none&sni=45.144.234.157#🇫🇮 Finland | Baykov Ilya Sergeevich 1
-vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@13.140.94.191:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&sid=8f3c6e2a1b5d4f09&type=tcp&headerType=none#🇫🇮 Finland | Cloud Software - FZCO 1
-vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@13.140.80.136:443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8f3c6e2a1b5d4f09#🇫🇮 Finland | Cloud Software - FZCO 2
+vless://8d954cbe-7ca9-402d-bfaf-aca6c92c04c3@217.144.188.185:443?security=reality&encryption=none&pbk=_ZRqqX7UVPTq--m8Lk8YHhrfElad2dIIpTh3D59f8zk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nordea.fi#🇫🇮 Finland | Aeza 1
+vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?security=none&type=ws&path=%2Fvless&host=45.144.234.157&packetEncoding=xudp#🇫🇮 Finland | Baykov Ilya Sergeevich 1
