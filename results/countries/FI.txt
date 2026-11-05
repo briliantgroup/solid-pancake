@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://aa09ada3-ad33-4668-9c1a-6af275272567@186.243.168.47:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&security=reality&sni=studio.paner-145.online&type=tcp#🇫🇮 Finland | IT Hostline Ltd 1
-hysteria2://df900182-2d2f-4765-9619-03a6ea3bba71@193.23.201.226:443?sni=edge2.streamnodecdn.com#🇫🇮 Finland | Play2go International Limite... 1
-vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@13.140.94.191:443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8f3c6e2a1b5d4f09#🇫🇮 Finland | Cloud Software - FZCO 1
-hysteria2://df900182-2d2f-4765-9619-03a6ea3bba71@edge2.streamnodecdn.com:443?sni=edge2.streamnodecdn.com#🇫🇮 Finland | Play2go International Limite... 2
-vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?type=ws&host=45.144.234.157&path=/vless#🇫🇮 Finland | Baykov Ilya Sergeevich 1
+vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?security=none&type=ws&path=%2Fvless&host=45.144.234.157&packetEncoding=none&sni=45.144.234.157#🇫🇮 Finland | Baykov Ilya Sergeevich 1
+vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@13.140.94.191:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&sid=8f3c6e2a1b5d4f09&type=tcp&headerType=none#🇫🇮 Finland | Cloud Software - FZCO 1
 vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@13.140.80.136:443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8f3c6e2a1b5d4f09#🇫🇮 Finland | Cloud Software - FZCO 2
