@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?security=none&type=ws&path=%2Fvless&host=45.144.234.157&packetEncoding=xudp#🇫🇮 Finland | Baykov Ilya Sergeevich 1
+vless://b79d736d-0f10-4169-b626-362059d18204@95.216.27.15:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=10351b07c712d2a2&pbk=aiHdxKOzcFZDILKj3MIPrMsyT0XxMy_O6xoxnz6MIWs&encryption=none#🇫🇮 Finland | Hetzner 1
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@193.233.199.84:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1ONSjyJWD3lAomwIqFmmzb6lAhg077bvMJ7rGJCDk0g&security=reality&sid=38559e47f5536913&sni=fi3game.japancase.site&type=tcp#🇫🇮 Finland | Global Connectivity Solution... 1
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@185.174.137.106:443?encryption=none&fp=firefox&host=u.srilankangrill.online&security=tls&sni=u.srilankangrill.online&type=ws#🇫🇮 Finland | xorek.cloud International LT... 1
+vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?security=none&type=ws&path=%2Fvless&host=45.144.234.157&packetEncoding=xudp#🇫🇮 Finland | Baykov Ilya Sergeevich 1
+vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:10444?type=tcp&security=reality&path=%2F&sni=video.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff#🇫🇮 Finland | NetCrafters OU 1
