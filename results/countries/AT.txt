@@ -3,4 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@178.22.31.72:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f&sni=at1.japancase.site#🇦🇹 Austria | Global Connectivity Solution... 1
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@178.22.31.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at1.japancase.site&fp=firefox&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f&type=tcp&headerType=none#🇦🇹 Austria | Global Connectivity Solution... 1
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@at1.japancase.site:443?security=reality&type=raw&sni=at1.japancase.site&fp=edge&flow=xtls-rprx-vision&sid=41ae8e266bc3346f&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg#🇦🇹 Austria | Global Connectivity Solution... 2
+vless://1a77be72-ca85-48d8-b6d5-a33674edda00@212.183.88.53:443?encryption=none&fp=firefox&host=19.baklajann.ru&security=tls&sni=19.baklajann.ru&type=ws#🇦🇹 Austria | Porsche Konstruktionen GmbH ... 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA==@152.53.1.57:8388#🇦🇹 Austria | ANX 1
+vmess://eyJhZGQiOiAiMTU0LjQ3LjE5LjIyNSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjEyNzAiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJ4bWZobHB5LmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==#🇦🇹 Austria | Datacamp Limited 1
