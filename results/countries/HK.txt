@@ -3,4 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@38.207.178.173:2087?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#🇭🇰 Hong Kong | VMISS Inc 1
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:51279?security=reality&type=tcp&packetEncoding=xudp&sni=www.tesla.com&fp=random&flow=xtls-rprx-vision&sid=bb82c8&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A#🇭🇰 Hong Kong | NetLab 1
