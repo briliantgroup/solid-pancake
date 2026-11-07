@@ -3,9 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
+vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?security=none&type=ws&path=%2Fvless&host=45.144.234.157&packetEncoding=xudp#🇫🇮 Finland | Baykov Ilya Sergeevich 1
 vless://b79d736d-0f10-4169-b626-362059d18204@95.216.27.15:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=10351b07c712d2a2&pbk=aiHdxKOzcFZDILKj3MIPrMsyT0XxMy_O6xoxnz6MIWs&encryption=none#🇫🇮 Finland | Hetzner 1
-vless://8e665b34-32ee-4d2f-a240-4f80a74751cc@204.168.135.161:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=360.yandex.ru&pbk=OQtjO7JAJZLjmTb7QBpEODeX6Vhzs20XTgFUAyrR1BQ&sid=7366b647f51921e0&fp=firefox#🇫🇮 Finland | HETZNER-DC 1
-vless://8e665b34-32ee-4d2f-a240-4f80a74751cc@204.168.135.161:8444?encryption=none&type=grpc&security=reality&sni=360.yandex.ru&pbk=OQtjO7JAJZLjmTb7QBpEODeX6Vhzs20XTgFUAyrR1BQ&sid=7366b647f51921e0&fp=firefox&serviceName=grpc-reality#🇫🇮 Finland | HETZNER-DC 2
-vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#🇫🇮 Finland | NetCrafters OU 1
+vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:14430?security=none&type=ws&path=%2Fvless&host=213.176.92.168&packetEncoding=xudp#🇫🇮 Finland | NetCrafters OU 1
 vless://8d954cbe-7ca9-402d-bfaf-aca6c92c04c3@217.144.188.185:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.nordea.fi&fp=chrome&flow=xtls-rprx-vision&pbk=_ZRqqX7UVPTq--m8Lk8YHhrfElad2dIIpTh3D59f8zk&encryption=none#🇫🇮 Finland | Aeza 1
-vmess://eyJhZGQiOiAiNjUuMTA4LjI0MC4yMTAiLCAiYWlkIjogIjAiLCAiaWQiOiAiOTZjOTg3YzktYzJkOS00OTkzLWI5YmQtYzliYzM2MjU1ZWUxIiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6IDM5MDE4LCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==#🇫🇮 Finland | Hetzner 2
