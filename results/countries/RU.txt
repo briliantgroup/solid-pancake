@@ -4,13 +4,8 @@
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
 ss://YWVzLTEyOC1nY206ODcyMmRlNTZiNmMwYjNmNmE0ZDAxY2Y5MWMwN2U2YWE=@38.60.223.125:13108#🇷🇺 Russia | LightNode-RU 1
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@46.17.47.58:18443#🇷🇺 Russia | LLC Baxet 1
-vless://5d978525-bfa5-4b1e-b807-c4e2ac2db56d@147.45.104.86:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=KbjX7IJnVtwq2USeRmLgXzACOtFCiA5lnsXhIFOX3ho&sid=a7eb8a4e&sni=max.ru#🇷🇺 Russia | TimeWeb 1
-vless://af185070-7170-46a8-b1e9-d61a035f4691@147.45.104.86:7443?&security=reality&flow=xtls-rprx-vision&pbk=KbjX7IJnVtwq2USeRmLgXzACOtFCiA5lnsXhIFOX3ho&sid=a7eb8a4e&fp=qq&sni=max.ru&type=tcp&headerType=none&host=max.ru&path=%2F#🇷🇺 Russia | TimeWeb 2
-vless://c53ea5e9-ed8b-4990-805d-7f1d6451426c@5.42.99.64:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=du-rov.secureservice.top&fp=chrome&pbk=fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI&sid=3cbc3d737fb9c4af#🇷🇺 Russia | TimeWeb 3
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@147.45.108.45:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=absolute-disaster.org&fp=chrome&pbk=IuzAWh6UM62Txrnh_No9y5n6wmZecyR1ki8z5xor-0g&type=tcp&headerType=none#🇷🇺 Russia | TimeWeb 4
-vless://Fluffy_VPN-zKZUa4Ie@72.56.4.84:443?flow=xtls-rprx-vision&fp=firefox&pbk=Im1i3eUtm7uDxUOA0rNWef9bILxsBvK_ElfejZTpQW0&security=reality&sni=absolute-disaster.org&spx=%2F&type=tcp#🇷🇺 Russia | TimeWeb 5
-vless://c5f59ef3-9540-49fa-bd1e-c6c2f79df49a@92.243.66.79:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru-mow.probe.geomyip.com&fp=chrome&pbk=siD4oj2gdtLLEphV6fUXb8ueIc2WHVn7msOUhNGPf2o&sid=8d03c10b6a874a9c&type=tcp&headerType=none#🇷🇺 Russia | EDIS Infrastructure in Mosco... 1
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.249.155:443?security=reality&type=tcp&sni=assets-59.topp-con.xyz&fp=firefox&flow=xtls-rprx-vision&sid=b9120cd53ffd7bba&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU#🇷🇺 Russia | TimeWeb 6
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@157.22.190.220:2053?security=tls&sni=666-7sf.pages.dev&type=ws&path=%2F&host=666-7sf.pages.dev&fp=firefox#🇷🇺 Russia | JSC IOT 1
-vless://Fluffy_VPN-zKZUa4Ie@147.45.108.45:443?flow=xtls-rprx-vision&fp=chrome&host=absolute-disaster.org&path=%2F&pbk=IuzAWh6UM62Txrnh_No9y5n6wmZecyR1ki8z5xor-0g&security=reality&sni=absolute-disaster.org&type=tcp#🇷🇺 Russia | TimeWeb 7
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@72.56.38.83:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=absolute-disaster.org&fp=chrome&pbk=ZzIetLcQtENjIXQ9XZqFo8p3J81p8Emj0wi51Uy07n8&type=tcp&headerType=none#🇷🇺 Russia | TimeWeb 1
+vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.87:2089?type=grpc&security=reality&encryption=none&sni=s3.storage.selcloud.ru&fp=chrome&pbk=TGbaO5ocPEkI3J1M7y_TPvZheJa-N_rL7GSiluX-XB8&sid=37103087&serviceName=cas-fi#🇷🇺 Russia | Selectel 1
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.249.155:443?security=reality&type=tcp&sni=assets-59.topp-con.xyz&flow=xtls-rprx-vision&sid=b9120cd53ffd7bba&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&fp=ios#🇷🇺 Russia | TimeWeb 2
+vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&security=reality&sid=b28db60d77c50b4f&sni=yandex.ru&type=tcp#🇷🇺 Russia | Dmitry Viktorovich Petrov 1
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mirror-50.topp-con.xyz&fp=chrome&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&sid=2ef2b10d5143d798&type=tcp&headerType=none#🇷🇺 Russia | TimeWeb 3
