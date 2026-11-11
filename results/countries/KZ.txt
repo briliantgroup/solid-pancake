@@ -3,5 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://83cc8226-1087-49ae-aac3-1f157ddc57b4@176.120.21.23:443?encryption=none&flow=xtls-rprx-vision&pbk=OAU9917HKYqvTO59c9SvAL9BBh8v85tfJhw5PMg-2iU&security=reality&sid=c4d4cf50489d51&sni=yahoo.com&type=tcp#🇰🇿 Kazakhstan | AdminVPS OOO 1
-vless://2424febb-43cb-488d-bdd1-401e923c8e48@38.107.234.57:8443?security=tls&sni=3h-kazakhstan1.09vpn.com&type=ws&path=%2Fvless%2F&allowInsecure=0#🇰🇿 Kazakhstan | TOO Tol'ko litsenzionnyye pr... 1
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZmYzW3d3dy52Mm5vZGVzLmNvbV0gdm1lc3MtIiwiYWRkIjoiM2gta2F6YWtoc3RhbjEuMDl2cG4uY29tIiwicG9ydCI6ODAsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ilwvdm1lc3NcLyIsImhvc3QiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#🇰🇿 Kazakhstan | TOO Tol'ko litsenzionnyye pr... 1
+vless://83cc8226-1087-49ae-aac3-1f157ddc57b4@176.120.21.23:443?security=reality&type=tcp&sni=yahoo.com&flow=xtls-rprx-vision&fp=chrome&pbk=OAU9917HKYqvTO59c9SvAL9BBh8v85tfJhw5PMg-2iU&sid=c4d4cf50489d51#🇰🇿 Kazakhstan | AdminVPS OOO 1
+vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&sid=83&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE#🇰🇿 Kazakhstan | PE Fedinyak Sergey Vyachesla... 1
+vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6IlZQTiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==#🇰🇿 Kazakhstan | TOO Tol'ko litsenzionnyye pr... 2
