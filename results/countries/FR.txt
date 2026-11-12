@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.57:80?encryption=none&security=tls&serviceName=qi8ws15c7jv5q2fa&sni=68r2nrw6avta71yq.cdn.cachefleet.com&type=grpc&fp=firefox#🇫🇷 France | TakeHost OU 1
-vless://90157e25-cee1-4217-921e-91f300bc1a24@67.159.44.219:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=bestgif.su&type=tcp#🇫🇷 France | FDCservers.net 1
-vless://98a24806-141a-43d3-b094-bd66c4eb93b8@198.16.113.222:8443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=69984b9e02545831&pbk=8NkTRxC5Q7bptx-8ADobkuhPK-ZN0kEEbzv6tCFGMzE&encryption=none#🇫🇷 France | FDCservers.net 2
-vless://98a24806-141a-43d3-b094-bd66c4eb93b8@198.16.113.221:8443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=69984b9e02545831&pbk=8NkTRxC5Q7bptx-8ADobkuhPK-ZN0kEEbzv6tCFGMzE#🇫🇷 France | FDCservers.net 3
+vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.57:80/?type=grpc&encryption=none&flow=&serviceName=qi8ws15c7jv5q2fa&security=tls&sni=68r2nrw6avta71yq.cdn.cachefleet.com&fp=chrome#🇫🇷 France | TakeHost OU 1
+vless://90157e25-cee1-4217-921e-91f300bc1a24@67.159.44.219:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=67.159.44.219&type=tcp#🇫🇷 France | FDCservers.net 1
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.38.12.246:443#🇫🇷 France | AWS EC2 (eu-west-3) 1
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@167.17.64.67:10303?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=14f18ef16e7c32cc&pbk=RCm8x1FrSdaJ2NY9k5deQQZilwbubeK-4bcH_6E31wk#🇫🇷 France | GLOBALTELEHOST Corp 1
