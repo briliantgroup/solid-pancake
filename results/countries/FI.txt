@@ -3,9 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
+vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?type=ws&host=45.144.234.157&path=/vless#🇫🇮 Finland | Baykov Ilya Sergeevich 1
+vless://88a558b1-9645-42f3-89e5-341570d8486d@157.180.98.124:49659?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=apple.com&fp=chrome&pbk=bBVqro8tG6swTNoAkjwUzcu4Ew4N4VcyDHzADcGviCs&sid=81959fce#🇫🇮 Finland | Hetzner 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDOFpKN1I0cF9ISEozMmNzdDdpbFQtMFppMkYyMmhBYw==@static.28.210.29.2.clients.your-server.de:25565#🇫🇮 Finland | HETZNER-DC 1
-vless://bc93a03d-13b5-000b-8ee7-d50c11459dab@169.40.34.53:443?encryption=none&flow=xtls-rprx-vision&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&security=reality&sid=1c3e8241a8743df9&sni=brointelengence.com&type=tcp&fp=ios#🇫🇮 Finland | Need L.L.C-FZ 1
-vless://2b696acb-1311-4ab7-b832-b376d29dca27@65.109.252.58:443?security=tls&type=tcp&sni=static.170.55.238.62.clients.your-server.de&fp=chrome&flow=xtls-rprx-vision#🇫🇮 Finland | Hetzner 1
-vless://6c077993-952c-4318-9e93-89056a207a9b@141.227.170.220:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=apple.com#🇫🇮 Finland | OVH 1
 ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0=@213.176.92.148:40647#🇫🇮 Finland | NetCrafters OU 1
-vless://66c78912-4e2d-41dc-8742-aaae2590804e@13.143.187.220:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=eDzVz3bxkv3IoN3BUCa_aA-RicoeG7ACylYSnmS2Pgg&sni=fi-s1.kadrhub.tech#🇫🇮 Finland | SERV.HOST GROUP LTD 1
+vless://f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb@196.196.204.147:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-ZN1kT3JlPFxu1E906JRqLAGoQQucSmL6xPiuAyasTk&security=reality&sid=597e1c279d224774&sni=4c980ft.fi15.h1clayd.click&type=tcp#🇫🇮 Finland | Fiber Grid 1
+vless://f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb@4c980ft.fi15.h1clayd.click:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=-ZN1kT3JlPFxu1E906JRqLAGoQQucSmL6xPiuAyasTk&sid=597e1c279d224774&sni=4c980ft.fi15.h1clayd.click#🇫🇮 Finland | Fiber Grid 2
+vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:10444?security=reality&type=tcp&sni=video.yandex.ru&flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff#🇫🇮 Finland | NetCrafters OU 2
+vless://78a2cdf1-22e5-4ad7-bf89-91aa13d8b76c@45.144.52.205:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=9kQGK7IuVFWU9xCb4g9ygL1CEv87QmVZJzWLz74pTSc&sni=fi.convert-cloud.guru#🇫🇮 Finland | H2nexus LTD 1
