@@ -3,7 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://4dd8d557-dbe3-4c6f-a3ee-168da9a03d1b@45.135.235.255:443?encryption=none&fp=chrome&host=worker3.paneger955.workers.dev&path=/&security=tls&sni=worker3.paneger955.workers.dev&type=ws#🇺🇦 Ukraine | Sipcom Ltd. 1
-vless://0b7337bf-dcff-432b-9ec6-b4fb6d22fc92@45.135.235.255:443?encryption=none&security=tls&sni=worker3.fivon81984.workers.dev&fp=firefox&type=ws&path=%2FNxEvrDKOG7eWhZ20%3Fed%3D2560&headers=%7B%0A%20%20%22Host%22%3A%20%22%22%0A%7D#🇺🇦 Ukraine | Sipcom Ltd. 2
-vless://9a597d68-6688-4046-bf24-a5a541e115e0@194.54.80.37:8443?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=f8d0271b4b5f9efc&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&encryption=none#🇺🇦 Ukraine | FOP PROVORNY O.L 1
+vless://0b7337bf-dcff-432b-9ec6-b4fb6d22fc92@45.135.235.255:443?security=tls&type=ws&path=%2F&host=worker3.fivon81984.workers.dev&packetEncoding=xudp&sni=worker3.fivon81984.workers.dev&fp=firefox#🇺🇦 Ukraine | Sipcom Ltd. 1
 vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?security=reality&encryption=none&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d8b58872#🇺🇦 Ukraine | Neth LLC 1
