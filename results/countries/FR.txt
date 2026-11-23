@@ -3,4 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://7dff1be7-b930-0001-a8ad-dc7850168215@136.148.83.69:443?encryption=none&security=tls&sni=szqbx-ru-77dc.my-fade.cloud&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇫🇷 France | CGI GLOBAL LIMITED 1
+vless://7dff1be7-b930-0001-a8ad-dc7850168215@136.148.83.69:443?security=tls&type=tcp&packetEncoding=none&sni=szqbx-ru-77dc.my-fade.cloud&fp=chrome#🇫🇷 France | CGI GLOBAL LIMITED 1
+vless://666821a2-5c3d-0001-a56f-5a3a562d7324@136.148.83.69:443?encryption=none&headerType=none&insecure=0&security=tls&sni=szqbx-ru-77dc.my-fade.cloud&type=tcp&fp=edge#🇫🇷 France | CGI GLOBAL LIMITED 2
