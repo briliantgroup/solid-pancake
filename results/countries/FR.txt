@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://7dff1be7-b930-0001-a8ad-dc7850168215@136.148.83.69:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=szqbx-ru-77dc.my-fade.cloud#🇫🇷 France | CGI GLOBAL LIMITED 1
-vless://00000000-0000-0001-0000-000000000000@136.148.83.71:443?&security=tls&fp=qq&sni=wccfu-ru-79dc.my-fade.cloud&type=tcp&headerType=none&path=%2F#🇫🇷 France | CGI GLOBAL LIMITED 2
-vless://666821a2-5c3d-0001-a56f-5a3a562d7324@136.148.83.69:443?sni=szqbx-ru-77dc.my-fade.cloud&fp=qq&security=tls#🇫🇷 France | CGI GLOBAL LIMITED 3
-vless://00000000-0000-0001-0000-000000000000@136.148.83.70:443?security=tls&type=tcp&packetEncoding=none&sni=aszbk-ru-78dc.my-fade.cloud&fp=qq#🇫🇷 France | CGI GLOBAL LIMITED 4
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.162.152.22:19999#🇫🇷 France | Micohost LLC 1
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.175:19999#🇫🇷 France | GLOBALTELEHOST Corp 1
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.22:19999#🇫🇷 France | GLOBALTELEHOST Corp 2
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@172.99.189.142:19999#🇫🇷 France | GTHost 1
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?encryption=none&host=138.124.70.41&path=/vless&security=none&type=ws#🇫🇷 France | Baykov Ilya Sergeevich 1
+vless://666821a2-5c3d-0001-a56f-5a3a562d7324@136.148.83.69:443?sni=szqbx-ru-77dc.my-fade.cloud&fp=qq&security=tls#🇫🇷 France | CGI GLOBAL LIMITED 1
+vless://00000000-0000-0001-0000-000000000000@136.148.83.70:443?security=tls&type=tcp&packetEncoding=none&sni=aszbk-ru-78dc.my-fade.cloud&fp=qq#🇫🇷 France | CGI GLOBAL LIMITED 2
+vless://7dff1be7-b930-0001-a8ad-dc7850168215@136.148.83.69:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=szqbx-ru-77dc.my-fade.cloud#🇫🇷 France | CGI GLOBAL LIMITED 3
