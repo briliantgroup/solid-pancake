@@ -3,6 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@153.56.231.124:443?encryption=none&type=tcp&security=reality&fp=firefox&pbk=tZoiwNSZeaVBoLJJcXe9A-GzCtbvU95fKkAJLc0vrgU&sni=f309e0t.fi4.h1clayd.click&sid=6fddab1e1e358290&flow=xtls-rprx-vision#🇹🇷 Türkiye | Turk Telekomunikasyon Anonim... 1
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@153.56.231.73:443?encryption=none&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&security=reality&serviceName=204adda7e3da&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&type=grpc&fp=ios#🇹🇷 Türkiye | Turk Telekomunikasyon Anonim... 2
-vless://56665684-5ac0-4ba9-9d49-8b258fb57974@turkey-ip1.mmdaqaorg.xyz:50738?security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=turkey-ip1.mmdaqaorg.xyz&type=tcp&headerType=none&host=turkey-ip1.mmdaqaorg.xyz&path=%2F#🇹🇷 Türkiye | YottaSrc 1
+vless://26843758-24de-4f76-b5d0-624038e353c4@153.56.229.218:443?security=reality&sni=71b840t.de7.h1clayd.click&fp=firefox&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&sid=e572b6579ea525d4#🇹🇷 Türkiye | Turk Telekomunikasyon Anonim... 1
+vless://ba0dbd83-3569-46dc-bc3d-ef6e58ffc97b@153.56.229.218:443?security=reality&encryption=none&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&headerType=none&fp=chrome&type=tcp&sni=71b840t.de7.h1clayd.click&sid=e572b6579ea525d4#🇹🇷 Türkiye | Turk Telekomunikasyon Anonim... 2
