@@ -3,6 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@188.214.37.231:443?encryption=none&security=tls&sni=lagoon.gerqix.online&fp=firefox&alpn=http%2F1.1&type=ws&path=%2Fapi%2Fde5%2Fstream&host=lagoon.gerqix.online#🇪🇪 Estonia | EDIS GmbH 1
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@188.214.37.231:443?encryption=none&security=tls&sni=accessfooter.cleanfoodshop.org&fp=firefox&type=ws&path=%2Fmedia%2Fws%2F&host=accessfooter.cleanfoodshop.org#🇪🇪 Estonia | EDIS GmbH 2
-vless://7d31a423-4bb6-4c16-91b8-c08901a37780@143.246.41.232:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lI2vfdzBaAKrDxAdkAW8IHp9pkpQV6INmJrYriC_lyE&security=reality&sid=9ef8ebef9638b9c7&sni=e0ddd1x.ee2.h1clayd.click&type=tcp#🇪🇪 Estonia | Paul Sagov 1
+vless://e89a2a0e-7803-447e-b050-3ba67962ed95@179.254.126.86:25201?security=reality&sni=s-25454.nl18.h1clayd.click&fp=chrome&pbk=YOgsoXtChX3RvA0Gf9SSsP8VLP4GGk7dytVBo9qZCH4&sid=221ba0d14384ccf1&type=grpc&serviceName=becc6caf9bea#🇪🇪 Estonia | Paul Sagov 1

@@ -3,5 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #support-url: https://github.com/
 #profile-web-page-url: https://github.com/
-vless://0d395568-76c1-4264-aa88-4b9d0bfacc25@87.120.106.21:443?security=reality&encryption=none&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=game.worldoftanks.com#🇹🇷 Türkiye | G-Core Labs S.A 1
-vless://020f7f86-a559-4366-8d2d-c6f81d6bbe5f@194.135.34.118:8443?path=/api/v4/media/session&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=web.hosttcp.fun#🇹🇷 Türkiye | GLB Bulut Teknolojisi Limite... 1
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@153.56.231.124:443?encryption=none&type=tcp&security=reality&fp=firefox&pbk=tZoiwNSZeaVBoLJJcXe9A-GzCtbvU95fKkAJLc0vrgU&sni=f309e0t.fi4.h1clayd.click&sid=6fddab1e1e358290&flow=xtls-rprx-vision#🇹🇷 Türkiye | Turk Telekomunikasyon Anonim... 1
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@153.56.231.73:443?encryption=none&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&security=reality&serviceName=204adda7e3da&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&type=grpc&fp=ios#🇹🇷 Türkiye | Turk Telekomunikasyon Anonim... 2
+vless://56665684-5ac0-4ba9-9d49-8b258fb57974@turkey-ip1.mmdaqaorg.xyz:50738?security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=turkey-ip1.mmdaqaorg.xyz&type=tcp&headerType=none&host=turkey-ip1.mmdaqaorg.xyz&path=%2F#🇹🇷 Türkiye | YottaSrc 1
